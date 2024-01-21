@@ -1,0 +1,2808 @@
+C'est parti pour le premier podcast de CaptainWeb, un podcast fantastique à moitié préparé
+avec des invités, que dis-je des invités, des personnes qui seront là en permanence
+pour tous les podcasts.
+Je veux mon peu.
+Des chroniqueurs.
+Et voilà.
+Donc c'est parti, on va commencer par faire un petit tour de table pour présenter tout
+ça.
+Alors on commence par qui ? On va commencer dans l'ordre des rubriques.
+Dans l'ordre des rubriques, c'est le type à ma droite.
+C'est l'ordre ton père.
+Salut les amis, ici l'ordre ton père.
+Bonjour à tous.
+Alors qui suis-je ? D'où viens-je ? Mais pourquoi ? Je suis le bon pote du CaptainWeb.
+Bah c'est de la merde !
+Et voilà.
+Je suis le grand spécialiste des vieilles becannes.
+Quand tout le monde avait un Atari ST, moi j'avais un Amstrad, enfin même un VG-5000
+Philips, quand les autres avaient un Amiga, j'avais un 6128, bref la qu'un.
+J'avais un 6128 en même temps que toi donc.
+Ouais.
+On était tous les deux des tocars.
+Et j'animerais une sorte de rubrique un peu bizarre, genre Vric Avrak, un peu nostalgie,
+technologie futuriste, enfin bref un beau merdier.
+Parfait.
+Voilà pour moi.
+Ah bah ça promet.
+Et puis ensuite on passe à notre ami Quakos, un génie de rubrique.
+Ouais.
+Ouais.
+Je vais animer la rubrique.
+Wassup.
+Salut c'est Quakos, alors je me présente, je viens de nulle part, je suis nulle part
+et je vais nulle part.
+Je m'occupe surtout de la technique son, la technique internet étant bien sûr réservée
+au Captain.
+Pour ma part, je vais présenter une rubrique toute neuve, toute belle, toute super top qui
+s'appelle le Wassup.
+Wassup.
+Wassup.
+Wassup.
+Et puis ensuite on va laisser le micro à Manox, le quatrième chroniqueur.
+Ouais bonsoir à tous, salut c'est Manox, c'est M-A-N-O-X, trop bien que tu sais.
+Je suis là moi pour faire briller, pour faire dorer, pour faire argenté cette merveilleuse
+émission qui est le Captain Web, voilà absolument.
+Voilà.
+Je vais animer deux émissions merveilleuses, enfin je vais faire en sorte que les invités
+viennent participer des scientifiques et des musiciens, et oui, la rubrique scientifique
+du Captain qui aura lieu tous les cas jours, et la rubrique musicale, la France des chansons,
+avec à chaque fois un habitat exceptionnel que j'ai trouvé une petite perle, dont
+vous me direz des nouvelles, restez jusqu'au bout.
+Et on a eu un petit, un petit, un grand goût de la chose la dernière, et c'était comment
+dire mythique, je crois que j'oserais même dire que c'était buccal.
+C'était buccal parce que aujourd'hui l'invité en question c'est Marc Bucose, un grand
+chanteur, un ancien chanteur de baguette.
+Je vais faire ça pour tout à l'heure.
+Oui voilà.
+Je vous préserve la surprise.
+But keep it on, man.
+Keep it on, et bien sûr, bien sûr, bien sûr, le chroniqueur, le chroniqueur que dis-je,
+l'illustrateur, l'animateur de l'émission, Captain Web!
+Captain Web!
+Captain Web!
+Le fricot du web, comme disent mes camarades.
+Donc ici on va parler de quoi, on va parler d'high tech surtout, et aussi de n'importe
+quoi, parce que c'est un peu notre thème ici, on parle de punets, de putes d'internet,
+et de n'importe quoi.
+De geek.
+Parce que internet c'est n'importe quoi.
+Oh, n'importe quoi tout de suite.
+C'est pas n'importe quoi.
+Bien que j'y assise, c'est un peu notre porte-corps en fait, mais c'est ça qui fait
+un terrain.
+Mais c'est parce que c'est ça certain.
+Le net, c'est un petit peu le reflet de l'humanité, c'est-à-dire un grand caniveau,
+une grande poubelle, et nous, on aime ça, mettre la tête de l'humane.
+Et le reflet de l'émission radio du Captain, bien sûr, qui est aussi un grand n'importe
+quoi.
+Je pense que c'est bien parti pour quand même.
+On a fait un rapide pilote la semaine dernière, pré-pilote disons, et on n'a préféré
+pas le diffuser.
+Mais malheureusement, vous l'avez en direct, donc vous n'avez pas trop le choix, vous
+allez vous le bouffer en pleine tête, en panne-tuuuuut.
+Voilà.
+Un dernier piment quand même, peut-être pour dire où on est, et où on est.
+Dans une cave.
+Une suite.
+On est dans une cave avec 10 000 euros de matos.
+Mais ça gérons peut-être pas.
+Il déboutait juste derrière Manox.
+Il y a aussi un enfant attaché dans un jeu plaisante, humour.
+Ah bon ?
+Bon, il est peut-être temps Captain de passer à la première rubrique, qui est la tienne
+d'actualité, à la première rubrique, l'actualité du net, et cube l'apéro.
+Députes, dépenets, et internet, c'est l'actualité du web.
+Et c'est parti pour l'actualité du web.
+Donc je vous ai fait un petit résumé de ce qui s'est passé cette semaine, rapidement
+parce qu'on n'a pas trop le temps non plus, donc on va chier sa vite-fait.
+Donc on va commencer par une rubrique spéciale, crash, avec plein de crashes.
+Un crash de Paypal il y a quelques jours, puis aujourd'hui, c'est l'actualité immédiate,
+un court crash de Twitter cet après-midi, personne n'a rien à foutre, ce qu'il n'y a
+que moi qui l'utilise.
+Mais bon.
+Il y a les Iraniens aussi, il me semble.
+Oui, il y a les Twitter, il y a plein de gens qui l'utilisent, enfin, ici il y a que
+toi qui l'utilisent, mais nous ne sommes pas représentatifs véritablement de la population
+mondiale.
+Non, pas vraiment, d'ailleurs c'est vrai que pour du hi-tech, il n'y a que moi qui
+a un Facebook, il n'y a que moi qui a un Twitter, donc bon.
+Sinon, effectivement, on parle d'Iranien, il y a les premières humeurs, on parle, on
+parle un peu de Twins, n'importe quoi.
+On dirait que ce serait le gouvernement iranien qui aurait fait planter Twitter spécialement
+pour cacher de nouveaux agis.
+Allez, celle-là !
+Qu'est-ce qu'on parle ?
+En tout cas, c'était une attaque des DOS.
+Oui, c'est vrai exactement, donc c'était une Daniel of Service, le site a été attaqué
+apparemment, ça a dû être bien bourrin quand même puisqu'il a crashé pendant
+près de deux heures.
+Oh putain, vache !
+Ouais, et je peux te dire, c'est le drame pour les gens qui utilisent Twitter comme
+moi.
+C'est la fin de la démocratie ?
+Bah oui.
+Parce que généralement quand quelque chose crache, si tu veux, tu vas sur Twitter pour
+voir ce qu'il se passe quand tu te dis « Ah, est-ce que ça crache, est-ce que c'est
+que moi ? »
+Bon, elle a maintenant dans les eaux avec cette histoire.
+Et bah écoute, c'est reparti, donc voilà, on va attendre la suite de l'enquête.
+Donc un faux...
+Sans intérêt.
+Sans intérêt, mais...
+On vous en reparlera quand les coupables seront pendus par les couilles en place publique.
+Ouais, on a l'apprécié pour moins que ça.
+Voilà, et sinon le crash de Paypal, il n'y a pas grand-chose à dire dessus, ça a
+planté...
+Alors il paraît qu'il y a eu aussi un crash Facebook, Siegfried, Captain...
+Alors en même temps, en même temps que celui de Twitter effectivement, il y aurait eu un
+crash Facebook, personnellement je l'ai pas vu, mais...
+Et voilà, ça commence les merdes.
+Voilà, exactement.
+Donc en même temps comme personne utilise Facebook ici non plus, tout le monde s'emballe
+les fois.
+Fais-ce que Facebook n'a pas grand intérêt.
+Ah, c'est-à-dire que surtout que quand toutes les données sont centralisées et que tout
+crash, eh bah là ça fait chier beaucoup de monde, non, Captain ?
+Ouais, bah un peu, ouais, mais en même temps moi je m'en fous parce que tu vois, je ne
+centralise pas absolument tout sur mon ordinateur, j'ai plein de trucs, comme ça, comme on
+l'a...
+Alors attends, une question quand même, parce que moi j'ai pas entendu parler du crash
+paypal, mais qu'est-ce qui s'est passé exactement, c'est-à-dire que les gens ne
+pouvaient plus payer sur internet ?
+Voilà, exactement.
+Alors ça c'est intéressant si tu veux, parce que donc paypal a eu un gros crash sur
+un de ses... son matériel réseau, et ils sont en train de faire un petit audit, si tu
+veux une petite idée quand même, paypal, toutes les minutes, il y a 2200€ qui transitent
+chez eux.
+Donc en gros ils sont en train de regarder à peu près combien a coûté cette petite
+histoire, et ils parlent de dédommagement, donc si vous avez une boutique et que vous
+faites beaucoup beaucoup de tue-nasse avec, c'est le bon moment pour essayer de faire
+un crash sur paypal, en leur disant que vous avez regardé des mots clients.
+D'un point de vue global, 2200€ par minute, c'est pas non plus extraordinaire.
+Non mais ça a duré combien de temps d'ailleurs ? Attends je te le vois, on va remarquer quelque
+part, ça a quand même duré...
+C'était long ?
+4 heures.
+La question c'est, il y a eu combien de transactions ?
+Alors vite vite vite, calculatrice.
+Mais combien y a eu-tu, il y a eu-tu de paiement et de transaction sur paypal durant le crash ?
+Ben justement, on sait pas, c'est...
+Ah c'est ça, tout est le mystère quoi, on ne sait rien du tout.
+Je sais, moi personnellement que ça m'a bloqué, au moment où je voulais renouveler
+mon compte LiveJasmin, mais euh oui, LiveJasmin a grand site, ça tout le monde le connait.
+Ah bah ici tout le monde le connait, surtout leur topper, enfin bon je présente.
+Non je crois que leur topper préfère les vidéos de boules classées.
+Il semblerait que ça fasse 2 millions d'euros.
+2 millions d'euros en combien de temps ? En 4 heures d'après ce qu'a dit le captain.
+En même temps pour paypal, c'est pas si énorme que ça.
+Et quant à la jasmin si je puis me permettre, c'est un truc de toquer.
+C'est surtout un truc de grosse...
+Ah c'est que tu ne connais pas personnellement ces gens qui me font...
+C'est pas plus un truc de branleur que MySpace.
+La MySpace c'est le truc de...
+Enfin bref, tout le monde s'astique devant son écran, c'est bien qu'on n'aie pas
+devant MySpace quand même, parce que bon...
+C'est peut-être l'heure de l'actualité suivante, captain.
+On va parler de la suite, on va parler de la 4ème licence 3G, un truc fantastique qui
+intéresse tout le monde.
+Je suis sûr que vous avez tous marre de raquer un maximum de tunas à SFR orange ou ouïe.
+Ah c'est vrai que j'en ai ralcu de dépenser tout mon pognon pour ces fils de...
+Et voilà, exactement.
+Donc qui c'est qui claque une fortune ici tous les mois en Téchefouin ?
+Moi !
+Ah bah voilà.
+Pas moi.
+Oh je...
+Je suis sûr que oui, je sache tout sur le boulot.
+Ah bah oui, oui, non mais évidemment moi aussi, moi aussi, je vais pas non plus payer
+mon partage, surtout qu'il ne marche pas, donc il n'est jamais branché, je paye mon
+abonnement pour rien depuis 6 mois.
+Si un de mes clients m'écoute, c'est pas que je...
+Voilà, alors qu'est-ce qui se passe avec cette histoire-là ?
+Alors donc, la 4ème licence 3G, donc ça y est, c'est officiel, il va y avoir un
+4ème opérateur.
+Alors, la...
+Frayee.
+C'est l'arcep, c'est ça Mathieu qui se charge...
+Tout à fait.
+Mathieu, oops.
+L'arcep, c'est...
+C'est pas vrai, on coupera ça au futur montage.
+Non, ça n'a pas l'importance.
+Voilà.
+Donc on va donner aussi son adresse, et là où il travaille, on pourra plus publiciter
+un...
+Voilà, venez nombreux, surtout si vous avez des sous, si vous n'en avez pas, passez votre
+chemin.
+Ok.
+Donc, la 4ème licence 3G, donc je te demandais Mathieu, qui c'est qui gère ça, c'est
+l'arcep, non ?
+C'est l'État.
+C'est l'État, bon ok.
+C'est l'Élysée.
+Voilà.
+Donc il y a des obligations qu'on a été données, une liste d'obligations, notamment en
+termes de couverture.
+Voilà, en termes de couverture.
+C'est-à-dire qu'ils ont un certain délai pour atteindre une certaine couverture.
+Bah je vais te dire exactement, selon, selon, voilà...
+Des sources.
+Dès la première année, c'est 20%.
+Selon mes sources secrètes qu'on trouve sur Internet en cherchant sur Google.
+C'est-à-dire numéramen sur Twitter.
+Voilà, ouais, principalement.
+C'est d'erci l'info et bonne.
+Donc, il faudrait, service voie, 25% sur 2 ans, donc avec 25% du territoire français
+soit couvert sur 2 ans.
+Bon, perso, moi je suis à Paris donc je ne m'en tape pas.
+Bon, j'ai rien compris là.
+Qu'est-ce qu'il y a sur la chaîne d'épargne ?
+À mon avis, à mon avis, ils ne vont pas commencer par la creuse.
+Ouais, voilà, exactement.
+Donc déjà, à Paris, ça va courir.
+Je ne sais pas si c'est...
+Je me le posais la question.
+Est-ce que c'est un pourcentage de la population ou du territoire ?
+Je crois que c'est un pourcentage du territoire.
+Ah, voilà.
+Donc, oui, effectivement.
+Sinon, ce serait très facile.
+Tu couvres par les Géants et Marseille et t'as réglé ton problème.
+Ils sont censés couvrir 80%.
+Et selon les analystes, il y a 90% de chance pour que ce soit lui qui emporte...
+D'ailleurs, je vois qu'il y a de la pierre.
+Est-ce que tu peux nous donner le nom ?
+Ouais, c'est quoi cette histoire de merde là ?
+Qu'est-ce qu'il va se passer concrètement là dans les chaubières ?
+Bon, concrètement, si tu veux.
+En gros, il y a...
+Un quatrième opérateur, t'es comme.
+Ouais, ça va être fri quoi.
+Voilà, il y a une énorme chance que ce soit fri.
+Alors la question c'est, est-ce qu'ils vont casser les prix ?
+Eh ben c'est ce qu'ils ont dit en tout cas.
+C'est ce qu'ils ont dit, mais ce n'est pas certain dès le début quoi.
+Est-ce que tu peux nous donner le nom des analyses ?
+Moi je veux qu'ils cassent les prix quoi, merde.
+Benpé Paribas, tu peux le trouver sur internet.
+Ça va champion.
+Ah, c'est qu'il est un fils des sources en même temps quoi.
+Si vous entendez mal, lors de ton père, c'est simplement parce que...
+Bon, attendez, bon.
+Parce qu'il passe son temps de le nez collé à son écran.
+Donc alors, grosso modo, on est...
+Ce qu'il faut savoir, c'est que chez Captain Web en matière du radio,
+on fait non seulement du podcast, mais aussi du streaming,
+et on est connected on the net en temps réel.
+Exactement, et je peux même vous dire...
+Pour vérifier avec vous les infos, et bientôt on vous verra...
+Oui, c'est ça le XXIe siècle avec Captain Web.
+Captain, Captain.
+Je peux vous dire que là, actuellement...
+C'est de la merde !
+Il y a huit personnes qui nous regardent.
+Wow, oui.
+Salut les gars !
+Bonjour à tous nos auditeurs.
+Salut les copains, salut les copines.
+Selon mon ordi, c'est plutôt trois.
+Et donc deux puisque moi-même j'en suis là.
+Ah oui, effectivement.
+Selon le mien, il y a environ une centaine de personnes qui nous écoutent tellement.
+Oui, écoute, tout de suite, Captain Web...
+On verra les statistiques à la fin,
+puisque YouStream apparemment m'en file, je ne suis pas allé voir non plus.
+On a fait ça un peu à la rache.
+On va passer plutôt au sujet suivant.
+Prochaine actualité, Captain !
+Voilà, prochaine actualité.
+Ouais !
+C'est génial, vive le jingle à deux balles.
+Donc, on ne va pas être The Pirate Bay,
+parce que The Pirate Bay, c'est un peu en permanence d'Alas.
+Ici, on aime The Pirate Bay.
+Déjà, il faut un peu replacer les choses dans leur contexte.
+Ah.
+C'est mes classes The Pirate Bay,
+alors vous avez tous vu sur Internet le petit dessin
+des gars représentés sous forme de Simpson,
+une sorte de super héros du net,
+les défenseurs de la liberté.
+Mais c'est vrai !
+Moi, je m'excuse, ces mecs-là, c'est quand même 3 putains de Tokar.
+Mais c'est vrai !
+Il faut qu'il y ait du piratage organisé,
+on pourra me dire tout ce qu'on voudra,
+c'est pourtant ça la réalité.
+Et les mecs qui sont pris un gros ballet dans le cul, en suite,
+c'est-à-dire, ils sont faits condamnés,
+et puis, toute leur défense à deux balles s'est tombée.
+Et bien, ils sont calmés, ils ont vendu le site,
+le mec qui s'appelle su...
+Oh ben non, je veux plus être porte-parole,
+je vais me consacrer à ma vie privée, tout ça.
+Donc il faut arrêter, ces mecs-là, ce sont des Tokars,
+ils l'ont pris dans l'os et puis c'est terminé à relasser.
+Qu'est-ce qui se passe avec ça là ?
+Le procès a été sujet à de nombreux...
+de nombreux, comment dire,
+nombreux petits problèmes, on a parlé du juge,
+qui était légèrement du côté des droits d'auteur, etc.
+Quoi qu'il arrive même, si le juge était un pourrisque,
+il est possible.
+Je m'excuse, mais ces mecs-là,
+si tu veux, c'était du piratage organisé,
+tu peux pas dire le contraire.
+Non, c'était de la mise à disposition de données,
+si tu veux, ils n'étaient pas censés savoir
+que les gens utilisaient mal leur outil,
+il faut dire ce qu'il y est.
+Ils sont pris une carotte dans le cul, point.
+La carotte dans le cul, je suis assez d'accord.
+Qui ici n'a pas utilisé Pirate Bay ?
+Mes dieux.
+Alors ton père, alors quand tu l'as utilisé Pirate Bay,
+ne ment pas.
+Je confirme, je ne l'ai jamais utilisé,
+parce que j'ai toujours trouvé que c'était un outil
+qui n'était pas assez performant.
+Tu les trouves vous, alors tes films de poule.
+Personnellement, j'ai trouvé ça très performant.
+Je suis un saint, je ne regarde pas de porno,
+je me suis maté des séries télévisées entières
+grâce à Pirate Bay, d'ailleurs, je remercie Pirate Bay.
+Aujourd'hui, Pirate Bay, le Torrent,
+Dan Leading, tout ça, c'est des canailles.
+Aujourd'hui, les mecs hype, ils streament.
+Absolument.
+La côté qualité quand même,
+j'ai deux, trois choses à redire sur le stream.
+Je te montrerai des films légaux
+qui sont disponibles sur internet,
+et dont le stream est d'une qualité parfaite,
+enfin, parfaite non, mais parfaitement regardable,
+avec un son correct.
+Mimati sur France 2, c'est sûr.
+Parfaitement regardable sur un écran d'ordinateur.
+Je suis impuriste, mes séries, je les regarde.
+Bien sûr, sur TF1 en payant 4 euros l'épisode.
+Comme tout le monde.
+Comme tout le monde.
+Absolument.
+J'aime avoir mes épisodes de séries.
+La Pirate, c'est interdit.
+En HD, avec des sous-titres.
+Ah oui, peut-être un petit message
+d'intérêt collectif par Manox,
+pour prévenir que le piratage, c'est mal.
+Piraté, c'est mal.
+Piraté, c'est pas bien.
+Voilà, donc on est dans les règles maintenant.
+Si on me passait à l'actualité suivante.
+Juste un petit truc, si tu pouvais dire un message
+pour être l'alcool,
+parce que c'est pas de l'alcool,
+c'est du jus de pomme, je vous préviens.
+Ah ouais, c'est du jus de P.O.2M.E.E.
+Actualité suivante.
+Ok.
+Non, mais en fait, pas actualité suivante,
+parce que j'ai toujours pas parlé de Pirate Bay.
+On s'en fout de Pirate Bay.
+C'est quoi l'actualité suivante ?
+Ok, non, j'ai des trucs intéressants.
+Pirate Bay, première chose, c'est à devenir un site payant.
+N'importe quoi.
+Si c'est comme Napster, ça va crever clairement.
+C'était rassis par Virgin ou quoi ?
+Les mecs qui l'ont acheté, ils ont vraiment de l'espoir,
+parce qu'ils comptent le foutre au Nasdaq.
+Ouais, alors là, si tu veux,
+c'est l'actualité drôle du jour.
+Qu'est-ce qu'il y a ?
+Non, pas de commentaires de la part de leur père.
+Qu'est-ce que je veux dire ?
+Ou Nasdaq, un côté d'Apollé Microsoft.
+Ouais, voilà.
+Je veux dire qu'en Nasdaq, il y en a, c'est tout ce que je retiens.
+Il y en a mal.
+Moi, j'aimerais rencontrer les connards
+qui vont acheter des actions.
+Je ne sais pas, mais déjà, ils arrivent à le foutre au Nasdaq.
+Personnellement, j'ai un doute.
+Mais qui a acheté ce truc, enfin ?
+Une société suédoise, une sorte de tocard,
+on ne comprend pas trop.
+Recyclage d'argent sale, je ne sais pas.
+Non, non, non, c'est une chaîne de cybercafaits
+qui font aussi des logiciels.
+C'est fortifique.
+On connaît la rentabilité des cybercafaits.
+C'est le meilleur des mondes ?
+Non, non, non, ce n'est pas le meilleur des mondes.
+Qu'est-ce qui se passe concrètement ?
+Donc, d'accord, Pirate Bay va être acheté,
+Pirate Bay, le bon vieux tormachin.
+Donc, il va devenir payant.
+Ce qu'on aimerait savoir, Capitaine,
+c'est quelles vont être les alternatives
+pour nos amis pirates ?
+L'alternative, c'est d'aller payer,
+sur TF1 Vision, 100 épisodes, 4 euros.
+Comme tout le monde !
+Et sinon, dernière question
+d'améliorer
+la publicité de Pirate Bay,
+il vient d'être interdit au Pays-Bas.
+Oui, j'ai vu cette news.
+Est-ce qu'on a vraiment terminé l'actu sur Pirate Bay ?
+Un petit mot, quand même.
+Les gens des Pays-Bas sont un peu à la bourre.
+Maintenant que le truc va être vendu,
+il va y avoir du contenu légal et des trucs payants,
+nos amis du Pays-Bas, ils auraient dû s'y prendre il y a deux ans.
+Je ne comprends pas qui peut acheter ça, franchement.
+Sujet suivant.
+Ok.
+Le sujet suivant, ce n'est pas tout neuf.
+Il date quand même de la semaine, on avait parlé dans le podcast
+pré-prépilote.
+C'est Microsoft et Yahoo qui salient.
+Donc, il y a la grande question,
+et attention, vous allez tous répondre,
+Microsoft qui baisse Yahoo.
+Ah, oui, Manox ?
+J'allais dire la même chose, mais
+peut-être que je me trompe, je ne sais pas.
+Il y aurait-il une surprise ?
+C'est Microsoft et Yahoo qui baisse le public.
+Ouais, c'est un peu l'idée que tu peux te faire
+quand tu fais une recherche sur Microsoft,
+parce que j'ai rarement trouvé ce que je voulais.
+J'ai lu un article que je t'ai passé,
+sur Ivanka, qui était relativement intéressant.
+Je ne me rappelle plus vraiment le contenu de l'article.
+C'est très intéressant, on est fait l'ordre.
+Je vais le voir en train de rechercher ces sources.
+C'est bien un bel article.
+Mais en tout cas, il me semble me souvenir
+que dans l'article Ivanka, il commentait
+le contrat qui était passé entre Yahoo et Microsoft.
+Et je crois que l'idée est à peu près la suivante.
+L'idée, en gros, c'est de la merde !
+C'est que Microsoft devient le moteur de recherche.
+Yahoo continue à exploiter son portail.
+Microsoft gère la publicité,
+et il en reverse 98% à Yahoo.
+Alors moi, d'après ce que j'ai lu,
+il m'a géré la vente des espaces publicitaires.
+Je crois que c'est Microsoft qui reverse
+98% des revenus à Yahoo.
+Bravo les mecs, j'ai vu les infos sur le net.
+Toutes nos infos sont absolument
+invérifiés, donc c'est à vous d'aller faire le boulot.
+Donc grosso modo,
+pour un Google comme moi,
+on va dire que Microsoft rachète
+Yahoo plus ou moins...
+Non, pas du tout ! Il vide
+Yahoo de leur substance, sans sortir un rond.
+C'est beaucoup plus fort.
+Ça valait vraiment la peine de refuser l'offre en or
+et ils ont tenté
+de l'acheter de 5 milliards.
+Ils ont proposé 5 milliards en 4 milliards,
+les mecs de Yahoo. Oh bah non !
+On préfère pas 4 milliards, on préfère vous nous filier
+100 millions tous les ans et que dans deux ans, on soit crevé.
+C'est ça la corruption ou pas ?
+Le truc marrant c'est que
+c'est Jerry Yang qui refusait l'offre en or
+que faisait Microsoft, franchement.
+Peut-être que Jerry Yang
+a quelque chose à la tête.
+Jerry Yang n'a plus rien à la tête,
+c'est qu'il est parti.
+Il est avec son RMI
+et il est rentré chez lui
+parce qu'il n'a pas dû être vraiment félicité
+de plusieurs zéro avant la virgule.
+Pas après.
+Parce que ça rapporte rien après.
+Donc voilà, et donc ensuite on va parler
+un peu d'Apple.
+Alors bon, il y a deux trucs chez Apple.
+Première chose, une rumeur
+absolument infondée, un vérifié
+que j'ai lu vite fait
+dans un coin de mon aggregateur.
+C'est type jobs et malades.
+Mais non, c'est fini.
+Ils ont tué un petit enfant du tiers-monde
+pour récupérer son foie.
+C'est intéressant, si vous pouvez tout se la diffuser
+sur vos blogs.
+Tout à fait vérifié.
+Qu'est-ce qu'il se passe avec Apple ?
+Il y a deux, donc il y a une grosse rumeur,
+franchement, qui a mon avis, qui dit
+que Apple préparait un tueur de Paypal.
+Donc en gros, si tu veux,
+il préparait une sorte de clone de Paypal
+un peu basé sur iTunes et sur le système
+qu'ils ont mis en place, destiné à
+Fister.
+Là, vous ne voyez pas le geste, mais Fister.
+Comment ils vont fister ?
+Ils font des comme beaucoup plus
+raisonnables ?
+Non, c'est Apple.
+En même temps, ils vont sortir
+pour la fin de l'année, une tablette numérique.
+Peut-être qu'ils vont croiser le...
+Voilà, ça, c'est la deuxième info.
+C'est la fameuse tablette dont on parle depuis 2 ans.
+Et là, il fiste Amazon avec ça.
+Oui, pour les amateurs de Fist,
+il faut aller voir.
+Pour acheter les bouquins, ça peut faire mal.
+Et comme Apple a décidé de conquérir le monde,
+ils ont commencé par virer
+Eric Smith, conseiller d'administration.
+Et ça, c'est la troisième avec tu, donc Eric Smith,
+parce que ça commençait à faire un peu confinatéré
+entre Google et Apple,
+puisque Eric Smith est président, c'est ça ?
+Oui, il est président.
+C'est-à-dire qu'il est président exécutif
+de Google, Eric Smith.
+Il était membre du conseiller d'administration
+d'Apple, donc il avait des infos sur Apple,
+mais comme Google grossit,
+Apple sont du bon ou de sympa.
+Ce qui est étonnant, c'est que c'est dur aussi longtemps,
+parce qu'en fait, c'est quand même un bout de temps
+qu'il y avait une sorte de conflit d'intérêt entre les deux.
+C'était pas vraiment tout neuf.
+Oui, mais encore une fois, il y avait beaucoup de zéro
+avant la virgule.
+C'est vrai, et les zéro avant la virgule, ça compte.
+Surtout s'il y a un chiffre devant,
+parce qu'en fait, s'il y a un zéro devant non plus,
+ça compte pas.
+Et donc, la prochaine actualité, c'est...
+Et donc, la prochaine actualité, on va parler
+de Skype qui pourrait...
+Ah non, Skype, c'est vrai, oui, bien sûr.
+Récapiculons, les prochaines...
+Attention, il faut bien suivre.
+Donc, Skype avait été racheté
+par eBay qui comptait faire de la maille avec,
+ce qui n'a pas marché, on vous le dit tout de suite.
+Ils ont perdu des kilos et des kilos de pognon.
+Ils ont perdu leurs couilles sur cette affaire.
+Mais pourtant, beaucoup de gens se connaissent
+à Skype pour parler avec...
+Oui, mais généralement, ils doivent pas râquer.
+Autant ils l'utilisent, autant je pense que
+pour passer à la caisse, c'est pas ça.
+Bah, l'intérêt de Skype, c'est gratuit en fait.
+Voilà, c'est ça.
+Si ça fait un payant...
+Skype a de l'intérêt à Skype.
+Tu peux acheter par exemple un numéro dans d'autres pays
+sur lequel tu peux te faire appeler,
+t'as des bons directs sur les communications.
+Bon, voilà, maintenant, le truc, c'est que
+manifestement, c'est pas rentable, vu le prix qu'ils ont payé.
+Mathieu, Mathieu, leur ton père !
+Est-ce que tu te souviens de combien
+à raquer eBay pour payer pas le géo, j'ai oublié ?
+4 milliards ?
+Continue ta chronique, je te trouve l'info.
+Donc, le truc, ils ont payé très très cher,
+ils ont pas racheté une partie du moteur
+qui était le moteur pire tout pire,
+qui permet de faire marcher Skype.
+Et donc, tous les ans...
+Il faut être con quand même.
+Tous les ans, ils continuent à payer une licence
+au créateur de Skype, qui est quelque chose comme 150 millions.
+Et là, cette année, vu que ça leur apporte
+qu'elle aura, ils ont dit, bon bah voilà,
+vaut 150 millions, vous allez vous les foutre.
+Mais eBay, ta somme sa plante, c'est pas eux qui voulaient aussi
+changer leur mode de fonctionnement.
+Ils ont prévu d'arrêter plus ou moins
+les encheurs, je crois.
+En fait, ils vont faire, il me semble.
+Tout sont intérêts, quoi.
+On peut plus niquer les gens, et derrière, c'est bon.
+En fait, il y a deux acteurs, une, c'est-à-dire que
+la première, c'est qu'il y aura plus Skype, donc on pourra
+payer les gens.
+Mais les encheurs, ça fait un bout de temps.
+Mais ça, c'est quand même dramatique.
+Dramatique, je sais pas.
+Pour beaucoup de gens, c'est très emmerdant.
+Je t'explique, on n'a pas fini, en fait.
+Les encheurs, c'est une chose.
+Le truc, c'est que Skype, en gros, ils ont arrêté de payer la licence.
+Donc là, ils sont devant le tribunal.
+En 2005.
+C'est pas autant que Yoshi, que ce qu'ils nous
+avaient racheté au Citizen, mais c'est quand même pas mal.
+Donc ils n'avaient pas racheté le moteur.
+Il faut être con, en gros, les mecs pour 2 milliards 6.
+Ils ont acheté la carrosserie sans le moteur.
+Ouais, mais à l'époque, ça leur semblait, je pense que ça
+ressemblait une bonne idée, parce que les autres, ils ont dû demander
+5 milliards, 6 milliards, donc ils sont dis, bon...
+On va faire un petit prix.
+On va prendre que la carrosserie.
+On va prendre le courbier.
+C'est un joli verre.
+Exactement. Le truc, c'est que là, comme Skype,
+c'est clairement de ce...
+Fourrin d'oie dans le cul.
+Skype pourrait, carrément, disparaître.
+Parce que si le tribunal rejette
+les demandes d'Ibe,
+et bien, c'est tout simple, Ibe a prévenu,
+il coupe tout.
+Il y a quand même une petite malhonnêteté de la barre d'Ibe.
+C'est à dire qu'ils ont fait une mauvaise affaire.
+Ils ont mal négocé le contrat à l'origine.
+Et comme ils s'en sont aperçus,
+ils se sont dit, bon, on va être de mauvaise foi.
+Plutôt que de perdre du pognon,
+c'est une mauvaise foi, on les nique.
+Voilà, ils sont déjà...
+Ils ont déjà bien perdu de la monnaie dessus.
+Alors, on va passer à autre chose maintenant.
+On va passer à 2-3 news à la con,
+et ça va être très rapide.
+Je vous dis les news, vous verrez agissez dessus.
+Une nouvelle PS3 slim qui sort.
+Wouhou, putain, la pâche !
+Alors, rappelons un truc,
+la PS3 actuelle, c'est un pavé,
+c'est un parpain.
+C'est pour faire de la musculation, c'est pratique aussi.
+Moi, je dis la PS3,
+pour la musculation, la PS3, c'est mieux.
+Bien qu'il y a une Xbox 160,
+avec l'alimentation, elle est pas mal non plus.
+T'as de nouvelles PS3, alors elle aura
+les mêmes fonctionnalités que l'autre ?
+Ah ouais, c'est juste qu'elle sera plus légère
+comme la PS2.
+En septembre, normalement,
+c'est parce qu'ils sont complètement paumés chez Sony
+et qu'ils savent pas quoi faire.
+Et qu'ils décident de sortir une PS3 slim,
+mais c'est une farce,
+ça semble complètement aberrant.
+C'est vrai que Sony ne sont pas au mieux de leur forme.
+C'est vrai que la PS3 s'attrape un peu avec ça,
+surtout s'il baisse le prix.
+Est-ce que la PS3 fonctionne aujourd'hui actuellement ?
+Est-ce qu'elle marche ?
+Je crois qu'elle dépend des pays.
+Elle est au coup d'un coup avec la Xbox 160.
+La Wii est largement de vent,
+même si...
+Si elle est au coup d'un coup, ça veut dire que ça marche pas mal.
+Ouais, un peu.
+Il y avait quelqu'un qui disait
+qu'en fait, chaque console a son emplacement.
+L'Xbox 160,
+c'est dans le bureau.
+Oui.
+La Xbox, c'est dans le salon, c'est ça ?
+Non, la Xbox, c'est dans le...
+Dans la chambre ?
+Dans le bureau, tu as foutu, tu veux en fait.
+Et laquelle est dans les chiottes ?
+La PS3 est dans le salon,
+et la Wii est dans...
+Le garage.
+Une fois avec tes amis,
+tes amis l'achètent, et puis après,
+tu la fais au placard.
+La grosse différence, à mon avis,
+c'est ça qui explique son succès,
+c'est le console social.
+Et voilà, absolument, le console familial.
+C'est plus que du jeu.
+Non, c'est même pas familial.
+Oui, c'est vrai, tu joues avec Mémé,
+tu joues avec Robert, ton voisin qui est un gros con.
+Tu peux jouer à peu près avec n'importe qui,
+à n'importe quoi, avec n'importe qui.
+Eh ben là, c'est...
+Par contre, pour les vrais joueurs, c'est de la merde.
+Ah ben oui, pour les Hardcore Gamers.
+De toute façon, les Hardcore Gamers jouent
+aujourd'hui quand même beaucoup sur PC, encore.
+Même le joueur occasionnel.
+Voilà, on rentre dans le débat du jeu vidéo.
+C'est un gros, gros sujet qu'on a peut-être évité d'aborder maintenant.
+Ouais, c'est bon.
+Bon bref, Sony sort sa PS3 Slim,
+Lite, Diadiette.
+Donc c'est la news du jour,
+et puis on va arrêter là, parce qu'il n'y a pas grand-chose à dire de plus dessus.
+C'est fini pour t'arriver, là.
+Non, non, non, il y en a encore deux, trois trucs.
+Là, ça va commencer, mais ça va être rapide.
+Otrusian Brides.
+Wouah, je dors.
+Shit, ma main.
+Et un fucking abonnement là-bas.
+Je vous recommande de regarder,
+sur France 3, c'est rediffusé tous les bois.
+On recherche la mouille.
+Oui, c'est connu en Ruscian Brides.
+Donc le sujet, en gros,
+il y a eu un conflit au niveau du nom de domaine,
+donc vous serez désormais que Otrusian Brides
+est copyrighté,
+vous vous prendrez une grosse brique dans le cul,
+si jamais vous essayez de l'utiliser.
+Et parti, parti.
+En fait, par Otrusian Brides Corporation,
+probablement, qui protège son nom de domaine.
+Alors, par contre, ce qui est amusant, c'est que
+Ruscian Brides, tu peux l'utiliser, mais il ne faut pas mettre hot devant.
+Donc les putrus chaudes
+ne sont pas
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+visionneur mystère.
+Alors là bravo, nous les mots, je lui kiss sur Réjou et peut-être sur la fesse.
+Est-ce qu'on pourrait donner cher Captain, immédiatement, une adresse simèle pour le
+visionneur anonyme ?
+Ecoute, il y a mieux que ça.
+Je pense que le visionneur anonyme vient de Twitter, c'est obligé.
+Ah bah écoute, bonjour à lui, visionneur anonyme.
+Bah je pense hein, je ne sais pas.
+Alors qui est-il ? Qui est-il ? Il y en a un nouveau, il sont quatre, c'est terrible,
+c'est la fluence.
+Ah oui, je vois qu'il y a Nicolas Sarkozy dedans.
+Ah non, il y a Autrusan Bryce, je vois, oui, qu'il n'est pas content, donc on essaie
+de sonnerre.
+Ah merde, je le prends l'un procédant, il y a Dimitri qui est en train de découper.
+Le quatrième est parti, moi je pensais que c'était fini à l'heure.
+Il y en a quand même deux qui suivent si tu veux.
+On m'a dit que c'était, on m'a parlé.
+On m'a parlé.
+Surtire la femme de notre ingénieur du son, il en reste un.
+Bon, Captain, la suite.
+Oui moi, la suite.
+C'est pété.
+C'est pété.
+C'est pété.
+Google Street View.
+Si vous voyez un connard sur un tricycle avec une caméra au-dessus, c'est Google qui
+repasse à Paris.
+Je crois que c'était toi.
+En tricycle.
+En tricycle.
+Il y avait fait Disneyland si tu veux, mais là ils vont continuer par faire tous les
+coins où manifestement une voiture passe pas.
+Donc les buts de chômage, tous les endroits bien relous, où il faut pédaler, quoi, ils
+mouillent.
+Il doit être à Montmartre aussi.
+Alors, il y a même, je crois que c'est sur Libé, je sais plus, ils ont donné la liste
+des endroits où ils seront.
+Pas les dates, mais ça devrait être cette semaine.
+Ah pourquoi il faut qu'on se réunisse ou un truc comme ça ?
+Le Captain y sera.
+Si vous voulez attaquer Google Street View ou faire les coins et vous faire passer sur
+le truc, c'est l'occasion.
+Ah le truc franc, ça serait de faire, comment ça s'appelle déjà ce truc-là, les frises
+qui se font dans les gares et tout ça ?
+Oui, ça serait de faire ça pendant que Google se prend en photo les flashs.
+Oui, oui, mais c'est déjà arrivé.
+Le Captain, il est temps d'organiser le flash.
+Il y a encore trois nouvelles et c'est fini, on va les faire super vite.
+Une super info exclusive, il y a que mois qu'il l'est.
+C'est le bordel la surcoupe, il s'est en train de tout casser.
+Je suis passé devant tout à l'heure, si tu veux, c'est l'enfer.
+C'est fond de travaux.
+Ils ont été rachetés il y a deux mois et là je pense que le nouveau propriétaire
+s'est accompli que c'était l'enfer et il a décidé de tout raser.
+C'est-à-dire que le concept de la foire informatique, tu arrives, c'est le marché, c'est le bazar,
+je te vend des cartes de mer comme je te vend des poissons.
+Ça fait longtemps.
+C'est terminé.
+On ne sait pas.
+Depuis que la FNAQ a racheté, l'esprit surcouffe un petit peu disparu.
+Oui, l'esprit surcouffe.
+Tu pouvais penser que tu voulais être barré dans les fouilles sans que personne te surveille.
+Non, mais c'est pas une question.
+Vous savez que surcouffe existe ailleurs qu'en France et en Europe, c'est ce qu'il existe,
+notamment en Espagne.
+Et oui.
+Arrête, tu me surprends.
+Il y a le Zémini et l'Espagne.
+Je le sais, je suis sûr.
+Oui.
+Parce que Manox est espagnol.
+Et le nouvel acheteur, je crois, de surcouffe, c'est toi, Capitaine, qui me l'a dit.
+Je crois que c'est un grossiste de banlieue qui tient des magasins de vente de matériel
+informatique en banlieue.
+Il a racheté effectivement surcouffe à la FNAQ.
+En banlieue, tu crois que c'était une chaîne allemande ?
+Non, mais non, je crois qu'il m'a semblé que c'était une chaîne française.
+Donc surcouffe, ne marchez pas, ne fonctionnez pas, c'est bien.
+Il n'y a pas assez d'argent en tout cas, la FNAQ, la vitre forte.
+Mais pourtant, il est vécu.
+Non, parce que ça faisait trois ans qu'il essayait de l'ordre, mais bon, ils y sont
+finalement arrivés comme quoi ? Tout arrive.
+Voilà.
+Alors, dernier truc, pour les amateurs, sachez, vous aimez Friends, la série ?
+Non.
+Eh ben, vous aimeriez probablement la version porno, donc...
+Wouah !
+Alors, honnêtement, le générique est mythique, je l'ai pas sous la main, là, tout
+de suite, parce qu'il n'y a qu'une personne qui regarde, donc on s'en tape, mais le
+générique est franchement comme ass, quoi.
+Allez le matin à l'occasion, c'est sur mon Twitter, donc vous connaissez...
+Non, mais c'est quoi l'adresse mail pour aller voir ce superbe générique de Friends
+porno ?
+Eh ben, écoute, je ne sais plus...
+Est-ce qu'il faut taper Friends porno dans Google ? Est-ce qu'il faut Google-z ?
+Friends porno, je pense que ça, mais sinon, tu vas sur twitter.com slash captainweb, et
+là, dans mon liste de liens, très, très, très loin, tu vas le retrouver.
+Merci, captain.
+Je crois que c'est dans...
+Grâce à toi, on connaît les bonnes séries.
+Ah !
+Grâce à mes amis de Amonimblavie, donc c'est ahma.com, si je me souviens bien, vous
+pouvez le retrouver.
+Allez voir les news, elle doit être chez le...
+Voilà.
+Donc, et puis la dernière nouvelle, et là, je pense que c'est quelque chose qui fait
+tabac chez vous, quoi.
+Sachez que jésus.net vient d'être acheté 124 000 dollars.
+Oh la pâche !
+Topchrétien.com !
+Passe-les de la merde !
+Poissiers !
+Premier portail chrétien francophone !
+Oh, le Luka !
+Ah, je vois que m'as-tu à trouver, euh, Friends vers leur ton père ?
+Voilà.
+C'est...
+Chers enfants, euh...
+Ah, et franchement, c'est trop, trop bien fait le générique, ça donne envie de voir
+la suite, hein.
+Et j'aime que Dieu nous garde en parlant de Jésus.
+Les meufs sont pas mal, elles ont quand même l'air d'être des grosses salopes.
+Bah c'est un peu le principe, je pense.
+Je pense.
+Est-ce qu'elles sont de... Elles viennent de Autruss-Ren-Brice ou pas ?
+Par contre, le thriller, on ne voit absolument pas.
+Non, non, il n'y a pas de scène de boule dans le trailer, je te le confirme.
+Bah c'est pas un trailer en même temps, c'est le générique.
+Où est l'intérêt ?
+Ça a l'air bien.
+Si c'est un trailer...
+Ah, c'est un trailer, ok.
+Faut chercher la suite, hein.
+Mais vous pouvez le trouver, ce trailer, je vous donne l'info sur www.frends.com.
+Et voilà.
+Et voilà, alors merci, Captain, pour toutes ces...
+Et voilà.
+L'ordre seul homme qui est capable de trouver un site de cul en 5 secondes.
+Je vais chercher quelques bières, je me permets de le dire, un peu de manière un peu importunée,
+un peu...
+Dine ?
+Je reviens tout de suite.
+Ok, bah vas-y, vas-y, et pendant ce temps-là, donc c'est fini pour l'actualité, juste
+un truc pour dire quand même, le podcast de Captain Web, c'est le seul podcast où
+tu passes d'un truc de boule à jésus.net, c'est quand même fou le préciser.
+Merci, Captain, c'est chouette, merci.
+Donc on parle pendant que notre ami a les chercher de la bière ?
+Eh ben on va...
+Bah c'est le rubrique suivante, ce que...
+On passe à la rubrique de l'ordre ?
+Sans lui, oh bah allez, let's go.
+Rubrique de l'ordre, t'es prêt l'ordre ?
+C'est parti.
+On est venu sur la rubrique de l'ordre, paire.
+L-T-P-E-E-E...
+Yo, c'est la rubrique du LTP, mais avant de commencer info exclusive, notre seul viewer
+vient de se barrer, parce qu'il n'y en a plus que deux.
+Alors de deux choses...
+Non non non, c'est-à-dire qu'il en reste...
+De deux choses d'une.
+Mais c'est soit la femme de Quakos qui n'en pouvait plus, il s'est parti se coucher et là on a de la chance, on est encore à l'auditeur, soit c'est l'auditeur mystère qui a craqué et qui s'est barré.
+Soit c'est une connexion qui a planté.
+Possible.
+Ah c'est possible, c'est...
+Mais moi je pense qu'il s'est barré.
+Il s'est barré.
+Il s'est barré.
+Il s'est barré.
+Attendons-le, attendons-le.
+On l'attend, non, on l'attend pas.
+Mais en même temps Quakos, ta femme est hors ligne, donc c'est peut-être pas elle.
+Peut-être qu'on a vraiment un éliteur mystère.
+Ah peut-être qu'on a vraiment un éliteur.
+On a deux audits, on a deux personnes qui regardent, donc alors ton père c'est certain, il est là, il reste le deuxième.
+Alors ou alors, à moins que YouStream considère que, en tant que diffuseur, je suis aussi un vioveur, et auquel qu'on est niqués, c'est mieux de dire, puisque personne ne nous regarde en ce moment.
+C'est pas grave.
+C'est pas grave, au moins on valide le système, donc c'est que ça marche.
+Voilà.
+Tu peux reprendre ta rubrique.
+Voilà, non mais je voulais vous faire part quand même de cet événement crucial dans la vie.
+C'était une information importante.
+Merci Lorde.
+Merci quoi cause.
+Ah les bières arrivent.
+Ma rubrique arrive en même temps que les bières.
+On va attendre que notre ami arrive.
+Repasse-nous, relance mon générique.
+J'ai peur que le décapituleur soit pas là par contre.
+Vas-y relance mon générique le temps que je vous l'avire.
+Bienvenue sur la rubrique de Lorde ton père.
+Yo.
+R.
+T.
+V.
+E.
+E.
+O.
+O.
+O.
+Salut les amis.
+On reprend la rubrique de LTP.
+Vous n'hésitez pas à ouvrir une petite binouse comme nous.
+Alors de quoi va-t-on parler dans cette rubrique ?
+Vous vous dites que ça fait cinq minutes qu'il essaie de noyer le poisson.
+Qu'est-ce qu'il va nous raconter ?
+Ça va pas être terrible.
+Et je vous le confirme, j'essaie de noyer le poisson et j'ai pas grand chose à raconter.
+Si ce n'est que je voudrais venir sur deux sujets aujourd'hui.
+Et j'espère que mes collègues autour de cette table vont m'aider à...
+Oui !
+Bien sûr, tu nous connais.
+Laisse pas tomber les amis.
+Un patient d'en parler avec moi.
+Vas-y Lorde, vas-y, on t'écoute.
+Alors les deux sujets, j'avais envie de vous parler un petit peu aujourd'hui de tout
+ce qui interface homme-machine.
+Enfin en tout cas les deux developments actuels.
+Vas-tu ce sujet ?
+Vas-tu ce sujet mais qui va vite se rétrécier parce que j'ai choisi finalement que deux
+thèmes.
+Le premier thème, c'est un petit peu tout ce qui est autour du projet natal de Microsoft,
+du projet surface.
+Excellent.
+La table basse.
+La table basse.
+Je suis assez fan de la table basse.
+Un petit mille dollars il me semble.
+Mais pareil qu'il y en a eu une à Paris.
+Oui non non mais ce qui est intéressant c'est qu'ils ont...
+Je vais continuer à faire cette petite présentation.
+Mais c'est les premiers à avoir industrialisé un processus.
+On a vu beaucoup de prototypes, on a vu beaucoup de choses sur le net.
+Mais on a enfin un prototype qui marche et aurait été surface et vendu plutôt pour
+des professionnels par exemple des agences immobilières.
+Au prix que ça coûte oui.
+Oui oui, ça coûte 12 000 euros je crois pièce.
+12 000 euros je crois.
+Alors surface qu'est-ce que c'est ? Alors vous pouvez trouver facilement sur internet
+des vidéos de présentation de ça.
+L'idée c'est un bureau classique à l'intérieur.
+C'est une table basse.
+Oui une table basse mais elle est quand même assez grande et on peut s'asseoir tout autour.
+Il y avait une vidéo de déballage que j'avais trouvé sur le net tout le mec qui ouvrait.
+Il y a une vidéo qui a été faite par Microsoft France qui est pas passionnante mais qui est
+assez sympa dans le sens où ils montent comment ça fonctionne et le gars explique d'un point
+de vue corporate à des acheteurs potentiels non pas à des geeks.
+Qu'est-ce qu'on peut faire avec surface et qu'est-ce qu'ils peuvent en attendant en
+terme de clientèle.
+Donc surface comment elle marche cette table.
+Alors sur la technologie elle-même je vais pas trop m'appesentir parce que je la connais
+pas extrêmement bien mais c'est un bureau.
+Oui je la connais.
+C'est une vidéo qui ressemble à ce qu'on fait pour l'air.
+Non non ça n'a rien à voir que de l'icone en fait.
+Non non non.
+Ah t'entends.
+Non non laissez-moi.
+Je vous explique et quoi cause va me corriger.
+Donc c'est une table à l'intérieur il y a je crois un système de rétro projecteur
+donc qui projette l'image sur la surface et il y a des capteurs je crois qui capte
+les mouvements de la main.
+Microsoft a développé je crois je crois que c'est sur la base de Windows 7 d'ailleurs
+qu'ils ont développé le moteur et effectivement le multi-touch il détecte la position des
+mains il est même capable de détecter certains objets qui ont une puce type RFID mais là
+Microsoft a fait comme d'habitude ils ont lancé un protocole propriétaire c'est tellement
+mieux et effectivement ça interface avec le logiciel et le multi-touch.
+Il s'en s'est interfacé avec aussi tout type d'appareil photo et tout ce qui a une carte
+mémoire en fait.
+Non ce sera via du wifi ou du bluetooth ?
+Via du bluetooth.
+C'est du bluetooth.
+Alors après j'espère que c'est pas complexe à configurer ça peut vite devenir le bordel.
+Ça par contre j'en sais rien.
+La question c'est comment tu l'arbutes ?
+Est-ce qu'il y a un blue screen of the death sur la table ?
+Mon bureau a planté.
+Tu poses une omelette dessus et ça a recoupi partout.
+C'est possible.
+Peut-être que tu dois le faire à la main ouais.
+Donc ça c'était le projet surface de microsoft.
+Mais il y a pas des caméras infrarouche dedans ?
+Peut-être.
+Peut-être.
+Est-ce que j'allais dire en fait ?
+La grosse différence avec l'iphone c'est que l'iphone le capteur est sur l'écran lui-même
+alors que si j'ai bien compris l'histoire du surface les capteurs sont carrément en bas en
+dessous.
+Oui.
+Et donc tu peux renverser n'importe quelle bière dessus ça va pas déglinguer le truc parce que
+c'est qu'une couche de verre qui est sur le dessus.
+Oui oui.
+L'iphone il est assez résistant quand même je crois.
+Oui mais je crois qu'il essaie de le noyer dans la bière.
+Il y a des mecs qui en tout cas l'ont passé dans le robinel où on va passer sur la flotte
+et tout et ils continuent à marcher peut-être moins bien au bout d'un moment.
+Mais alors je sais pas si tu as vu peut-être l'ordre sur Youtube, tu as des liens après
+quand tu tapes surface et tout.
+Tu as notamment des bars design qui ont à peu près le même principe sur le bar quand
+tu poses un verre.
+Ah ça c'est...
+Ah c'est pas mal.
+Ça fait des figures et tout.
+Il y a aussi une entreprise allemande je crois qu'est-ce qu'on crée ça sur un mur en
+fait.
+Est-ce que le truc te prévient quand t'es trop bourré ou quand le verre est vide je sais
+pas.
+Au nombre de berres que t'as posé quoi.
+Est-ce qu'il pense qu'un jour les robots pourront refuser à boire parce que autant
+le barman si tu veux il pense assez à une et tout autant le robot peut être sans pitié
+quoi si t'as trop bu il pourrait refuser.
+Absolument le robot pourrait être très dur.
+Ça c'est les japonais.
+Les japonais sont des grands favoris pour le robot.
+Il y avait un robot barman que j'adorais quand j'ai paumé la vidéo mais il mérite
+des bruits.
+Donc voilà ça c'est...
+On a monté à trois mecs qui nous regardent.
+Salut le nouveau !
+Salut chéris de l'ONU !
+Salut à nos 300 auditeurs.
+Alors voilà je vous ai parlé un petit peu de surface.
+Je vais vous parler d'un projet qui est connex toujours de chez Microsoft qui est le projet
+natal.
+Alors je sais pas si...
+C'est de la merde !
+Non non non natal ça a l'air très très prometteur.
+Lors ton père...
+Tiens d'autres...
+Lors ton père...
+Lors de seconde et vite démo comme connex parce qu'il y a des auditeurs qu'on peut
+pas comprendre.
+Un truc semblable.
+Enfin qu'on peut relier...
+C'est kiff kiff.
+Ok.
+Le projet natal qu'est-ce que c'est ?
+Alors ce qu'il faut savoir c'est qu'il y a eu avant un précurseur c'était une société
+belge.
+Oh merde !
+Pardon.
+Et oui les belges ont des ordinateurs.
+Nos avis belges que nous saluons.
+On risque d'avoir un procès dans les prochains mois quoi.
+Voilà.
+Alors la boîte qui avait conçu ça me semble-t-il à l'origine c'est une boîte qui s'appelle
+Soft Kinetic qui est une société belge vous pouvez trouver ça sur...
+Ah !
+Vous avez dit quelque chose non ?
+Oui bon mais c'est bien la preuve que les belges tout le monde t'en fout.
+Merci Manox.
+Donc eux ce qu'ils avaient inventé c'était un petit peu plus bricodalage par rapport
+à Skyimagine et Microsoft qui a beaucoup plus approfondi le contexte et cette boîte
+Soft Kinetic s'est associée avec Orange notre opérateur national.
+Oh c'est pour !
+Ah c'est pour faire sa merde d'autres tablettes le truc qui revend dans ce moment là.
+Non c'est pas une tablette.
+C'est une petite caméra qui est censée être posée sur la télévision qui détecte les
+mouvements.
+Oh ça s'appicole ici qui est censé détecter les mouvements de la personne qui est devant
+la télévision qui interprète les mouvements et c'est censé être une interface en ça
+c'est comme ça que l'a inventé Soft Kinetic et que veut le faire Orange l'idée c'est
+de pouvoir changer de chaîne en levant la main.
+C'est génial.
+C'est à ça que tu vois l'innovation qui peut proposer Orange quoi tous les jours.
+C'est pour ça que je me suis barré de chez eux y'en a encore.
+Et quand t'es manchaud tu fais comment ?
+Bah tu bouges de la tête.
+La question c'est tu lèves le bras tu changes de chaîne moi personnellement c'est...
+Normalement quand t'es manchaud t'es rejeté par la société.
+Mais est-ce que tu penses que si tu balades la bite à l'air devant l'écran ils te proposent
+des trucs de cul quoi ?
+Ce serait assez drôle.
+Le truc c'est que est-ce que si tu as un membre suffisamment important si tu le lèves est-ce
+que tu changes de chaîne ?
+Ouais...
+Et donc ce que veut faire Orange en tout cas ils ont fait un partenariat ils sont associés
+avec cette boîte Soft Kinetic et ils veulent sortir par est-il pour la fin de l'année
+une nouvelle Livebox qui intégrera en matériel avec bon évidemment une petite caméra avec
+un câble par-de-barbe.
+Tout le bazar quoi.
+Tout le bazar pour mettre en place ce système là.
+Putain j'ai hâte que ça soeur.
+Alors Microsoft et eux ils ont été beaucoup plus loin par rapport à ce que dans l'idée
+d'Orange et de cette boîte Belle c'est plutôt uniquement de servir d'interface avec une
+télévision.
+Microsoft eux ils veulent aller plus loin ça va être plutôt une interface avec la Xbox
+360 ou autre dérivée où l'idée c'est que non seulement on pourra contrôler le téléviseur
+mais aussi jouer comme on le fait avec la Wii avec les...
+J'avais juste vu ça effectivement ouais uniquement avec les mains.
+C'est ça.
+Oui non non enfin même avec le corps.
+Oui c'est ça.
+Le corps est pris en compte les mains etc.
+Tu ne portes rien de matériel en toi.
+Non pas de manette.
+Voilà c'est ça.
+Ça c'est quand même assez génial.
+Attention attention.
+C'est pas inintéressant.
+Attention c'est très inintéressant c'est vrai.
+J'ai une info exclusive.
+Je viens d'identifier notre auditeur qui parle à qui est ce qu'il est à nous là.
+Alors un grand salut à...
+Ah oui je parle pas devant le micro donc forcément ça n'a pas marché et on peut
+Lors de ton père en train de niquer les casselles studio.
+Il nous trouble.
+Donc un grand bonjour à twitter.com slash Solidernet qui est donc l'atelier informatique
+de Shomactif.
+Salut Solidernet!
+Salut Solidernet!
+Bonsoir à tous tous!
+C'est la fête!
+Fais-lui un peu de pub pour remercier les gens qui nous regardent.
+Voilà donc Shomactif.fr pour les 5 auditeurs qui vont écouter ce podcast par la suite sur
+mon site.
+Shomactif.
+Ici nous sommes tous aussi des Shomeractifs mais bon c'est à l'heure où on leur merci
+de nous écouter.
+C'est à dire qu'il n'a pas mis son volume à zéro tellement il n'en pouvait plus.
+C'est possible.
+Le problème maintenant c'est qu'on va savoir si tu pars donc t'es obligé de nous suivre
+jusqu'à la fin.
+Il faut que tu sois courageux tu sais.
+Merci.
+Je vais continuer un petit peu sur mon histoire.
+En réalité moi je relis le projet natal et le projet surface.
+Je ne sais pas si vous souvenez il y a un ou deux ans ou voire trois ans, Microsoft
+avait fait une vidéo globale où il présentait selon eux l'avenir de la maison, selon Microsoft.
+C'est très récent.
+Il y a 3-4 mois.
+Oh non c'est plus ancien, non il y a déjà 2-3 ans.
+Tu parles de quelle vidéo ?
+Je ne me souviens plus mais il y avait fait une vidéo il y a 2-3 ans où Microsoft
+présentait son idée de la maison du futur.
+Et quelle était-elle ?
+Ah de la maison du futur.
+Voilà.
+Mais j'avais une vidéo de Microsoft qui est sortie il n'y a pas longtemps justement
+il présentait tout un plein d'idées d'interface.
+Mais ce n'est pas la première fois, ils avaient fait et ils n'ont pas vu l'autre.
+Et donc le TP c'est quoi cette maison ? Enfin cette vision du futur.
+C'est l'idée clinformatique, ce n'est plus un PC de bureau portable, c'est clinformatique
+complètement intégrée dans la maison et la maison finalement s'adapte à ce qu'on veut
+et réagit à nos besoins.
+Et réagit aussi comme tu l'as dit tout à l'heure très intéressant, ou mouvement du
+corps c'est-à-dire que là on est plus dans le...
+Non mais c'est global ces reconnaissances vocales, ce n'est pas uniquement le corps.
+Oui bien sûr c'est ça.
+Oui mais le corps c'est vocal aussi, c'est tout ce qui est man de son corps quoi.
+Pour marquer le cosmos tête.
+Tu veux dire que quand on se lève de la cuvette ça tire la chasse tout seul ?
+Mais la même idée là c'est qu'effectivement la maison réagit en permanence d'aéroport.
+Oui mais maintenant c'est ça chez toi.
+Je ne sais pas si c'est ça vraiment.
+C'est assez intéressant quand même.
+Et donc je pense qu'il faut relier le projet natal et le projet surface à cette vision
+un petit peu globale de Microsoft où ils veulent s'insérer complètement dans l'habitat.
+C'est-à-dire que l'ordinateur c'est la maison.
+Vous êtes danses, c'est-à-dire que finalement...
+Je tiens à préciser, dans l'habitat et non pas dans l'IKEA.
+Le but de la Xbox c'était déjà de se casser dans le salon parce qu'ils avaient une grosse
+réunion.
+Mais ils veulent complètement prendre possession de la maison des gens, installer que leur
+logiciel et leur matériel soit de manière globale des gens.
+Ça c'est une vision du futur qui semble assez pertinente.
+Surtout qu'il semble assez cher parce que franchement je crois qu'il va falloir un
+paquet de pognon.
+Un jour ils vont être associés avec un constructeur de réseau aujourd'hui pour la France.
+J'ai une question, est-ce qu'il faut racheter une licence pour utiliser la baraque ?
+C'est bien possible.
+Et ta baraque peut te planter.
+Est-ce qu'il y aura le petit autocollant que les séraborts portent ?
+C'est le traitement de licence et on vient rappuyer des amandes si jamais tu l'étais.
+Probable.
+Tu l'as piraté.
+Probable.
+Il faut faire une message probable.
+Ça peut être gênant.
+On va pacheter tes toilettes.
+Allô super micro-surf.
+Les toilettes ne fonctionnent plus, elles ont remouté.
+Je peux plus y aller.
+Oui monsieur, vous n'avez pas payé votre abonnement mensuel.
+C'est pas possible de faquaca.
+Cette émission est d'une finesse.
+Ouais je crois que...
+Mais c'est que le pilote.
+Ouais merci.
+Voilà un deuxième.
+Un deuxième sujet que je voulais aborder avec vous et ce sera le dernier.
+C'est un petit peu tout ce qu'il y a aujourd'hui les avancées vers e-book, e-paper, etc.
+Ah c'est intéressant.
+Alors aujourd'hui on a...
+Je crois que le seul e-book plus ou moins sur le marché aujourd'hui c'est le Twindle
+de...
+Le Twindle.
+C'est ma zone.
+Il y a un autre truc à merde.
+En e-book il y a Sony qui fait un e-book aussi.
+Oui.
+Il n'est pas très connu mais ça marche peut-être au Japon.
+Ça peut pas être un e-book.
+Ah si c'est parce que tous les trucs...
+D'accord.
+En gros je dois pouvoir dire du PDF ou un format propriétaire de merde dessus.
+Alors petite anecdote, tout le monde en a entendu parler la semaine prochaine.
+La semaine dernière, pardon, à propos du Kindle, c'est l'affaire 1984.
+Ah oui oui oui.
+Et ça c'est quand même assez extraordinaire.
+Très ironique surtout.
+Très ironique.
+Mais qu'est-ce qu'il s'est pensé ?
+Alors en quelques mots, ce qui s'est passé c'est que Amazon... Amazon oui.
+Amazon vendait donc sur son store de e-books, notamment de George Orwell 1984 et la ferme
+des animaux que vous avez tous lus.
+Et si vous ne les avez pas lus, courrez vite sur le 1984.
+Courrez vite.
+Acheter sur Pirabé.
+C'est un chef d'œuvre absolu.
+Vous l'avez en e-book gratuit sur le net si vous avez cherché et parfaitement légal.
+Mais pas sur Amazon donc.
+Mais pas sur Amazon.
+Et en réalité, il y avait un problème de droit.
+Je ne connais pas les détails juridiques de l'affaire.
+Il y avait un problème de droit.
+Et ce qu'a fait Amazon après cette prie plus ou moins une injonction par une société
+tiers, ils ont à distance effacé les ouvrages de 1984 numérique sur les Kindle des gens
+sans leur demander leur avis.
+Ce qui veut dire deux choses.
+C'est qu'un, ils ont la capacité de contrôler à distance ces systèmes informatiques.
+C'est déjà sympathique.
+Que c'est 1984, c'est parfait.
+Et la seconde chose, c'est qu'ils respectent en aucun cas les obligations commerciales qu'ils
+ont avec leurs clients.
+Dans la mesure où ils ne demandent même pas leur avis.
+Alors après cette histoire, le PDG, je crois de la boîte, s'est excusé en disant qu'effectivement
+c'était pas...
+Pardon d'avoir dit que j'ai votre boulot de cinq fois.
+C'était pas...
+Non parce que les gens avaient pris des notes sur le Kindle de travail en lisant les livres,
+parce que le Kindle permet de prendre des notes.
+Le PDG s'est excusé, mais ça n'a pas suffi, puisque il y a un type qui lui avait énormément
+travaillé sur 1984, je crois, qui avait pris beaucoup de notes.
+Oui, qui était en train de faire sa thèse, je crois.
+Ah, ça je ne sais pas.
+C'est résilient.
+Et qui, au moment où on lui a retiré le livre sur son Kindle, il a perdu ses notes.
+Enfin, entre nous.
+Ce qui est étonnant, c'est que le mec n'est pas fait de bike-up.
+Le mec qui travaille que sur son Kindle, il faut qu'il y ait un bike-up qui nule pas.
+Entre nous aussi.
+Il en a peut-être fait, il a peut-être fait aussi son sierre, parce qu'il voulait pousser
+le truc.
+Non, mais il a poussé le truc jusqu'au bout, puisqu'il est en train de, je crois,
+de traîner en justice, où il est sur le point de le faire.
+Ah, c'est bien fait.
+C'est une bonne baffe pour Amazon.
+C'est du délire.
+Moi, je me rappelle, il y a 15 ans, on a la bibliothèque quand même, prendre photocopiers
+des bouquins.
+Il fallait écrire.
+Voilà, etc.
+Tu es sorti sur ta feuille à quatre, avec ton style obique.
+Alors maintenant, les trucs n'ont pas possible.
+Le mec, il colle des procès à Robert, quelque chose de saizou.
+La moindre des choses, c'est qu'Amazon lui paye un agre pour taper sa thèse à sa tête.
+Tarte.
+Attention, on dit pas neigre, ici.
+On dit pas neigre.
+C'est l'expression, communément.
+On dit qu'Amazon lui paye à noir.
+Merci.
+Chers auditeurs, pardonnez ces gens.
+En gros, résumé, une grosse baffe pour Amazon, quoi.
+Voilà.
+Amazon, fuck off.
+Et franchement, depuis tout à l'heure, ce que je retiens, c'est qu'on note eBay n'importe
+quoi.
+On note Amazon n'importe quoi.
+On sonne Sony qui nous sort son truc.
+Light.
+On parle de Microsoft qui a racheté des trucs, mais qui n'a racheté pas totalement
+les trucs et tout.
+J'ai l'impression quand même qu'il y a un malaise, non ?
+Je crois que tu es un petit peu naïf.
+C'est le web, c'est habituel.
+T'es un petit peu naïf.
+C'est la jungle.
+C'est la jungle économique.
+Voilà.
+Ce que je veux dire par là, c'est que c'est des choses tellement énormes qu'on se dit.
+Bon, ces gens-là, ça va quoi s'attendre un petit peu, savent comment réagir et tout.
+Et finalement, non.
+Ce qui est choquant, c'est leur manque de professionnel.
+C'est ça, oui.
+On se dit des grosses boîtes qu'on pense.
+Les gars avaient des notes dessus, quoi.
+Non, mais je pense surtout que ça veut dire...
+Voilà.
+Voilà, absolument.
+Moi, je crois que finalement, ça signifie une seule chose, c'est quand on n'a rien à foutre de leur client.
+Je sais pas, mais en même temps, ça me fait penser un peu à une sorte de...
+Ah si, ça fait penser à ça, on dirait qu'ils s'en foutent, qu'ils s'en battent là,
+les roustons avec une pêle à tarte.
+Ils doivent un peu s'en battre les couilles aussi.
+Mais il y a peut-être le petit côté, si tu veux...
+Ils sont drâles que ça a l'arrache.
+Ils sont dit, peut-être qu'il faut vite convire ce truc, qu'ils n'ont pas pensé aux notes.
+C'est possible, hein.
+En tout cas, Amazon, de toute façon, il va falloir qu'il se secoue sacrément les fesses,
+puisqu'il parait...
+On est passé à 4 diteurs, salut notre...
+Salut le 4ème !
+Bienvenue à toi !
+En tout cas, il va falloir qu'Amazon se secoue...
+Ah non, il y a reparti.
+Oh, celui-là, tout à l'heure, peut-être.
+Ah non, je sais qui c'est, c'est...
+D'accord, non, rien à voir.
+On est terminé, l'heure, ton père.
+C'est gentil.
+Vas-y, l'ordre.
+En tout cas, il va falloir qu'Amazon, il s'acrémente qu'il se mette au boulot,
+oui, il y a une grosse rumeur, je sais pas si c'est vrai.
+Je regarde le captain pour avoir sa confirmation,
+je parait que Apple va lancer une tablette.
+Oui, on en a parlé tout à l'heure.
+Oui, vachement.
+Mais ça, c'est vrai que j'ai hâte.
+Autant l'iPhone m'intéresse pas tellement,
+parce que je trouve que comme téléphone portable, c'est trop gros,
+mais j'ai hâte de voir cette tablette.
+La tablette pour beaucoup, c'est l'étape entre le MacBook et l'iPhone.
+Et moi, c'est aussi complètement tactile.
+Mais ça, c'est intéressant, c'est-à-dire,
+ton père, parce que ça amène à quelque chose de nouvelle technologie,
+c'est-à-dire tout ce qui est écran souple.
+Mais c'est ça l'avenir un peu qu'on va avoir.
+L'écran souple, ça, c'est un fou.
+J'allais y venir.
+Et donc tout ce qui est tablette, aujourd'hui on a des choses de plus en plus fines,
+mais maintenant on va avoir des choses de plus en plus souples.
+Les vraies questions, c'est qu'on pourra tirer la chasse avec cette tablette.
+En tout cas, tu pourras la foutre dans les chiottes et tirer la chasse,
+et ça disparaîtra.
+Voilà, comme tu parles, c'est torché avec.
+Non mais je pense que ça va vraiment être...
+Et suivez ton frang plein de sueur avec.
+Moi, j'ai vraiment hâte de voir ces IPPers souples.
+Je pense que ça va vraiment...
+Moi aussi.
+Et j'espère surtout que non seulement ce seraient des IPPers,
+c'est-à-dire où on lira des choses dessus,
+mais que non seulement, ils seront tactiles.
+Parce qu'en mérdant avec ça, c'est...
+On pourra tout comme un iPhone, par exemple, modifier l'information.
+Je crois que c'est quand même pas gagné,
+parce que déjà sur le IPPers,
+sur l'écran souple, ils ont déjà beaucoup de mal.
+Ouais, technologiquement, ils sont déjà...
+Ils le font largement.
+Après, les trucs, c'est quand même de prix...
+J'avais mis la news sur mon site.
+Ben oui, mais en 2010, là, ils sont...
+Ça sort, hein.
+En 2010, c'est meilleur des premiers épans.
+Mais j'attends le papier peint, surtout IPPers,
+parce que ce serait le top.
+Plus besoin de vidéos, projecteurs.
+Le truc, c'est que tu dis,
+oh, est-ce que j'ai faute mon...
+mon Black Nut,
+ou est-ce que j'ai faute mon petit post-it ?
+Ah bah merde, c'était mon truc qui coûtait 500 euros, quoi.
+Il y a déjà...
+Il paraît qu'il y a déjà des MacBook Air,
+qui sont des Mac Air, là, le truc super.
+Tout fin, là.
+Il serait passé au chiat, hein.
+Le mec, il l'aurait pris avec ses joueurs.
+Il y avait aussi des MacGivers.
+Je pense que nous arrivons peut-être...
+Leur tempère, est-ce qu'il y a un petit mot pour la fin ?
+Oui, un petit mot pour la fin.
+C'est plus pour essayer...
+Pour essayer d'avoir une petite vue d'ensemble,
+mais qui est peut-être fausse.
+Je me trompe assez probablement.
+C'est que finalement,
+souvenez-vous, dans les années 90,
+où l'idée, c'était que l'être humain
+se projetait dans l'ordinateur.
+Rappelez-vous, le film tronc début des années 80.
+Ah, tronc.
+Rappelez-vous, le film Le Cobaye.
+Peut-être merdique, mais en tout cas...
+Le Cobaye...
+Premier...
+Oui, même Johnny Mnemonik, hein.
+Johnny Mnemonik, c'était pas pareil.
+On lui a modifié la tête pour lui injecter...
+Le PT...
+Des pustrames qui faisaient 360 méga octets à l'époque.
+Et là, avec ma clé USB 8GB,
+on rigole, on se gosse.
+Donc pour revenir à la conclusion...
+La conclusion, c'est que...
+Autrefois, c'était l'être humain
+qui se projetait dans l'ordinateur.
+Aujourd'hui, j'ai l'impression que c'est l'ordinateur
+qui se projette dans notre environnement.
+Ça, c'est vrai, ouais.
+Dans le ractum de l'avenir.
+Mais d'une certaine façon, enfin, on va pas commencer à faire la philosophie.
+Compte quoi ?
+Mais d'une certaine façon,
+c'est un peu réciproque, c'est une sorte de fusion,
+une sorte de relation amoureuse, en quelque sorte.
+Oui, mais regarde les Japonais, par exemple,
+eux, c'est pas du tout l'optique qui choisissent tous,
+c'est les rois du robot aussi,
+à qui transforment des machines en être humains.
+C'est de l'anthropoformer.
+Ah ouais, non, mais leurs rois, là, ils sont...
+Parce que je pense qu'ils sont...
+C'est pas la même vision.
+C'est vrai, c'est vrai, c'est vrai.
+Qui autour de cette table souhaiterait se faire implanter
+des puces électroniques
+ou qu'il pourrait améliorer votre existence ?
+Moi, personnellement, non, merci.
+Je sais que le capitaine ne serait pas contre.
+Ça dépend, ça dépend, quoi.
+Ça dépend la fonction de la puce.
+Ça dépend de la fonction de la puce, ouais.
+Ça dépend de la fonction de la puce.
+Pour se faire un GPS, pour se partageir.
+Elle arse, you're penis, avec la Nouvelle-Pose.
+Non, mais ça serait un suppléant du Viagra.
+Ça ne m'étonne qu'il n'y ait pas.
+Fais monter la quiquette.
+Ouais.
+Voilà, on va écouter le jeu.
+Je vais passer la main à l'un de mes collègues.
+J'espère que cette rigue vous a plu.
+C'est mon tour, là.
+C'est l'heure du Wazaf.
+C'est l'heure du Wazaf.
+C'est l'heure du Wazaf.
+C'est l'heure du Wazaf.
+Attention, c'est Wazaf.
+Attention, c'est l'heure du Wazaf.
+Et on gagne un auditeur avec le Wazaf.
+Ouais, c'est l'heure du Wazaf.
+Wazaf, Wazaf, le mec.
+Bon alors, je crois que c'est l'occasion de demander une bière.
+C'est peut-être aussi l'occasion d'expliquer quand même à l'auditeur
+qu'il ne sait pas ce que c'est que le Wazaf,
+ce que veut dire le Wazaf, de lui expliquer un peu tout ça.
+Parce que, nous ici, on le sait,
+parce que c'est une expression assez moderne
+et assez utilisée chez les geeks, n'est-ce pas?
+Wazaf, c'est donc une contraction de what the fuck,
+qu'on pourrait traduire.
+Manu, tu sais un peu comment on pourrait traduire ça, peut-être?
+Manu, c'est l'absence.
+What the fuck is going on in the world today?
+En fait, Wazaf, qu'est-ce que c'est que cette merde?
+Alors, ça veut dire...
+Vendel, mais qu'est-ce qui se passe dans ce monde aujourd'hui?
+Exactement. Oui, mais Wazaf, en fait...
+De dégueu là.
+Ça peut être plusieurs trucs, ça peut aller tout simplement...
+Salut, ça va mec?
+Ouais, c'est ça, grosso modo.
+Wazaf, ça peut aller...
+Qu'est-ce que se passe-t-il?
+Wazaf?
+Wazaf?
+Il faut la donation, il faut la donation.
+Wazaf, bien sûr, jusqu'à qu'est-ce que c'est que ce bordel?
+Wazaf, Wazaf, Wazaf!
+Finalement, avec tout un mot, on remplace le dictionnaire.
+Exactement. Après, il y a aussi...
+Il y a aussi tous les dérivés que Manox connaît.
+Wazaf, Modaf, tout ces trucs-là, quoi.
+Wazaf, Wazaf, Wazaf, Maman...
+On a pensé à poser un copier-arrêt dessus pour un brevet...
+Non, enfin, la technique...
+Mais on me cite internet.
+J'espère que nos 3 auditeurs ne vont pas nous voler cette super idée.
+Alors, le Wazaf, le Wazaf du Web, qu'est-ce que c'est cette semaine?
+C'est notamment Wazaf et Zath.
+Wazaf, qu'est-ce qu'ils ont, bordel, avec leur bodique?
+Vast sujet.
+Vast sujet. Alors, l'être humain, n'est-ce pas?
+On n'a jamais été heureux de son enveloppe corporelle, son enveloppe charmelle.
+C'est vrai.
+Et on a vu des tas d'épans, mon corps parfait, me convient tout à fait.
+C'est vrai, Capten, mais tout le monde n'a pas la chance d'avoir un corps corporel.
+Il y a tout le monde en fond, là.
+Passionné à la raclette.
+La raclette est un élément essentiel de la nourriture aujourd'hui.
+Mais tout le monde n'a pas la chance d'avoir un corps corporel, bien sûr, Capten.
+Et beaucoup de gens tentent de le changer.
+Alors, il y a eu la mode du tatouage, la mode du piercing, n'est-ce pas?
+Perfect.
+Il y a même eu des trucs un peu comme scarification, un truc comme ça.
+Le bossing aussi.
+Et la nouvelle mode bien sûr inventée par nos amis japonais.
+C'est le bossing.
+Non.
+C'est presque ça, c'est le body inflation.
+Oh, body fucking inflation, mon man.
+Le body inflation, qu'est-ce que c'est?
+C'est tout simplement le fait de s'injecter une substance, une solution saline, sous la peau.
+Vache.
+Souvent au niveau du visage, n'est-ce pas?
+C'est pas tout à fait de la flotte, la solution saline, c'est une solution chimique.
+C'est un peu comme le silicone, non?
+C'est un peu comme ça, oui.
+Sauf que c'est beaucoup plus malayable.
+Ah, d'accord.
+C'est une sorte de mousse de silicone dégueulasse.
+C'est un peu ça.
+C'est vrai que ce genre-là, c'est que tu t'injectes cette substance liquide sous la peau et tu peux la déformer avec tes doigts.
+C'est génial.
+Des vagues, des creux.
+C'est uniquement à la tournée.
+Mais il me semblait qu'ici il l'a déjà fait depuis longtemps.
+Ce que j'ai vu moi sur le net qu'on peut retrouver sur le site bizarmag.com, n'est-ce pas, merci.
+Pardon, le site c'est?
+bizarmag.com.
+Ah, bizarmag.com.
+Bizarmag.com.
+On l'a dit au moins cinq fois, je pense qu'ils ont fait un peu.
+Voilà, on a fait une bonne pub.
+Il y a seulement les cinq adducteurs, il n'y a même pas de trois.
+Trois, trois.
+Mais il y a l'autre pub.
+Moi, j'en ai trois sur mon côté.
+Les photos que j'ai vues, c'était uniquement sur le visage.
+Mais je pense qu'on ne va pas tarder et qu'on devrait pouvoir, en théorie et même en pratique, faire ça ailleurs.
+Je ne demanderai pas à leur ton père.
+Alors quoi est-ce qu'ils comptent s'injecter de la solution saline ?
+Ce n'est pas la moindre intention d'injecter.
+Mais qu'est-ce que ça fait mal ?
+C'est de la peine !
+A priori, ça fait pas mal du tout.
+Parce que c'est comme si on t'injectait, au final, c'est pas pire qu'une piqûre, une prise de sang, un truc comme ça ?
+Oui, mais ça fait barre.
+Alors quoi cause ? Moi, j'ai vu...
+C'est que la pône n'est pas déformée définitivement.
+Alors voilà, une question, moi, c'est que...
+Quoi cause ?
+Moi, j'ai vu sur bizarmag.com, après, on l'a dit dix, cinq mille fois.
+J'ai vu, donc, les deux têtes des mecs qui s'ont fait injecter ce produit un peu novateur.
+On a l'impression qu'ils ont des donuts dans le front.
+Ça me semble qu'ils ont injecté, en fait, sur le front une grosse masse saline, n'est-ce pas ?
+Et ils ont appuyé avec le pouce en plein milieu.
+Alors c'est ça qui est intéressant, là-dedans ?
+Voilà, c'est ça qui est intéressant, c'est que...
+J'ai l'impression qu'on peut s'introduire, donc c'est ma saline,
+et ensuite qu'on peut les modifier un peu, comme on veut, sur sa peau.
+Par exemple, moi, je m'introduis, on va dire, un petit peu produit dans le front,
+et là, je me dis, oh, tiens, oh, tiens.
+Pas tout, j'ai toujours appelé tête de bite.
+Et pourquoi est-ce que je n'en ferais pas une ?
+Oui, tu peux séposer une tête de bite.
+J'ai l'impression que c'est réalisable, n'est-ce pas ?
+C'est réalisable, c'est très réalisable.
+Mais est-ce que là, vous vous rappelez des magasins sauts,
+vous savez où on va aller des gajettes de merde dans les années 80 ?
+Il y a une espèce de truc rose en forme de chou
+que vous pouvez modeler comme tu vous laisses.
+C'est les balles anti-stresse ?
+Non, non, non, c'est pas des balles anti-stresse.
+Non, non, non, c'est pas des balles anti-stresse.
+Non, non, c'est pas des balles anti-stresse.
+Non, non, c'est pas des balles anti-stresse.
+Mais tout le monde se rappelle du Slavio, ça.
+Et c'était... Non, c'était dur comme de la pierre,
+et après il fallait le masser durement.
+Oui, absolument, oui, c'était une sorte de...
+de gélate, en quelque sorte.
+Mais en fait, il doit être un peu sage,
+je pense que ce qui s'injecte, ce sont des gens-là.
+La gélate...
+Ça ressemble à ça, en effet.
+Ah, alors ton père est sur Bizarre Mag.
+Bah écoutez, il y a des images de cul,
+mais tout est caché par des bandes noires, c'est assez décevant.
+Non, mais il faut aller sur Body Inflation.
+Body Inflation, c'est ça, c'est le Body Inflation.
+Un petit peu ce changement corporel,
+je vais quand même chercher sur le net quand même
+de trois infos assez sympas, du was-of, pur et dur.
+Ah.
+Est-ce que vous savez, attention, question, question,
+est-ce que vous savez quel est le record, le nombre de percings
+sur une personne, bien sûr.
+À mon avis, beaucoup, parce que j'ai déjà vu des fricots.
+Je pense que ce doit être de l'ordre de 800.
+800?
+Moi, je parie au-dessus, je dirais,
+allez, je dirais que le mec est monté à 1 500.
+Alors ton père, alors ton père, un chiffre...
+3000.
+Ah!
+Ah!
+Il n'était pas loin, c'est 2500.
+Oh, la vache!
+La vache, c'est une brésilienne.
+Je le sens dans quelque part, elle s'appelle
+Ellen Davidson, n'est-ce pas?
+Oui, je la connais.
+2500 percings sur tout le corps.
+Ok, j'ai une question.
+Comment elle fait pour passer dans l'aéroport?
+Elle ne voyage jamais.
+Elle ne voyage pas.
+Elle ne prend pas la vie encore.
+Elle les retire, mais elle met 3-4 heures.
+C'est clair.
+Mais même, tu imagines...
+3-4 heures, 2005...
+Tu l'imagines qui passe à côté d'un champ magnétique,
+si tu s'envoles.
+Il y a des trucs sympas à faire avec des aimants,
+à mon avis.
+Crosément, il y a moyen de s'amuser.
+C'est clair, mais au lieu d'avoir un pin,
+c'est peut-être...
+Mais la question que je me pose,
+c'est combien en a-t-elle sur le clitori?
+Il y a des photos,
+il y a des photos, j'ai les photos d'elles.
+Sur Bizarre Mag, c'est ça tout.
+Non, attention, sur Bizarre Mag.
+On va sur le coup de gueule
+pour voir cette jeune femme.
+Qu'est-ce qu'on fait là?
+Je pense que tu t'appelles...
+Je pense que tu t'appelles...
+Tu t'appelles Ellen Davidson.
+Sexorcyst.com, donc.
+Bravo.
+Bravo.
+Ça fait ça de chier.
+Oh là, il y en a fait...
+Sonne ton photo, c'est elle.
+Est-ce que tu peux nous donner
+le lien, s'il te plaît?
+Oui, alors attend, ne quitte pas.
+Ça sera intéressant, quand même.
+Parce que...
+Les auditeurs ont hâte.
+C'est une jeune femme et...
+Donnez-moi la parole.unblog.fr.
+Donnez-moi la parole.unblog.fr.
+Je ne sais pas si elle peut vraiment parler
+avec tout ce qu'elle a sur la norme, mais...
+Je ne sais pas, mais...
+Parce que c'est plutôt un blog.
+Ça doit un peu...
+Tic-té-lé, un blog.
+Un blog, c'est pareil.
+Mais dans le même principe,
+il y avait un autre qui a été assez sympa.
+Si tu veux, je vais vous montrer la photo aussi.
+Juste là.
+Ouh, lui, il est pas mal aussi.
+Il est pas mal, il est pas mal.
+Parce que ce mec-là,
+c'est planté mille aiguilles
+sur tout le corps.
+Oh putain.
+Je connais ce mec-là.
+C'est un faquille.
+Je n'ai pas vu en direct, mais...
+Ce n'est pas un faquille.
+C'est un canadien, si tu veux.
+Il a deux trous de 4 cm dans les oreilles.
+Ah, tant que sur les oreilles, ça va.
+Il l'entend bien, donc.
+En fait, c'est pour mettre des mousquetons
+à la place de bouc d'oreille.
+Quand tu fais de l'alpinisme,
+tu te dis un petit mousse-toulonnerie,
+tu te sens l'oreille.
+Tout ce que j'ai trouvé sur ton site,
+donnez-moi la part d'un blog,
+c'est une photo de Sarkozy qui tient un chavreau.
+Oui, parce que figure-toi,
+tu as vu un blog.
+Parce qu'il fait aussi du body inflation
+Sarkozy, quoi.
+Exactement.
+Il y a l'endroit,
+ce que je ne vois pas.
+Mais monsieur,
+on ne critique pas notre président.
+Oh, loin de nous cette idée.
+Oh, loin de nous cette idée.
+Parce que, voilà,
+dans ce blog,
+on ne parle pas de politique.
+Non.
+La politique, si c'est interdit.
+C'est pas un blog, c'est un podcast.
+Effectivement.
+C'est un podcast.
+C'est un blog, c'est un blog,
+c'est un blog, c'est un podcast.
+Pour continuer un petit peu
+dans les trucs un peu bizarres
+qu'on puisse se faire sur le corps,
+n'est-ce pas ?
+Il y a un superbe site
+qui s'appelle horribletattooz.blogspot.com.
+Tu n'as pas parlé
+de la femme de l'homme enceint
+qu'on trouve sur ce site ?
+Non.
+Ça, c'était pour le What's Up
+et la semaine prochaine.
+Mais c'est pas grave.
+Merci d'avoir regardé.
+Merci d'avoir regardé.
+Merci Lorde.
+Il a plutôt l'air d'avoir un gros bit.
+Je sais plutôt
+sur les modifications corporelles
+et sur ce qu'on souhaite
+sur le corps.
+Donc c'est pour ça.
+N'est-ce pas ?
+Et pas à l'intérieur, Lorde.
+Mais c'est pour la semaine prochaine.
+horribletattooz.blogspot.com
+où on peut trouver
+quand même
+une quantité de rubriques
+de tattoage
+plus hallucinants
+les uns que les autres.
+Je ne veux en citer
+que quelques-uns.
+Un charmant américain
+qui s'est tatoué raciste
+sur le front.
+Voilà un tatouage sympathique
+et de bon de beaux goûts.
+Très beau goût.
+On va arriver de loin.
+Je ne suis pas sûr
+qu'il ayait Brooklyn des mains.
+Est-ce que tu peux redonner
+l'URL du site s'il te plaît ?
+horribletattooz.blogspot.com
+Sinon, vous cherchez dans Google.
+Il y en a un qui est très bien fait par contre
+qui s'est tatoué tout le visage.
+Je l'avais montré à Manox
+qui s'est tatoué en fait
+un crâne, quoi.
+Un scollet.
+Ah oui, j'avais eu celui-là.
+Exceptionnel.
+Mais de profiter,
+ça donne vraiment bien.
+J'avais vu un tatouage,
+la mec s'est fait tatouer.
+Blanché, j'avais 7e,
+il était en train de creuser un trou
+et je vous laisse deviner
+où était le trou.
+Merci, il y en a des trucs comme ça.
+Il y en a un qui est sympa aussi.
+Je pense que c'est un...
+Je pense que c'est sur le site
+de 20 minutes, étonnamment.
+Je pense que c'est un professionnel,
+celui qui en a marre
+que ses clients se cassent sans payer.
+Il a tatoué en fait sur sa gueule.
+Fuck you, pay me.
+Très sympa.
+Je devrais y penser.
+C'est peut-être un bon plan.
+Et alors, on peut trouver d'ailleurs
+sur bizarmak.com
+la nouveauté aussi,
+c'est que les gens maintenant
+se tatouent le blanc de l'oeil.
+On t'ingène.
+C'est tatoué le blanc de l'oeil,
+c'est incroyable.
+Exactement.
+Les mecs se tatouent le blanc de l'oeil.
+Enfin, c'est qu'une masse de couleurs,
+si tu veux,
+mais au lieu d'avoir ton oeil blanc,
+tu as l'oeil bleu,
+ou rouge, ou...
+C'est génial.
+Est-ce que la lentille
+n'est pas moins risquée, quoi?
+Mais c'est pas le blanc de l'oeil.
+Ah non, c'est différent, c'est différent.
+Ah non, la lentille,
+tu peux faire le truc.
+Mais le tatouage
+est quelque chose de définitif,
+donc tu tatoues le blanc de l'oeil
+définitivement.
+Non, par contre,
+ce tatouage là
+n'est pas définitif,
+parce que l'oeil a
+une substance lacrimale,
+ce qui est naturel.
+Ah oui, ça va, oui.
+C'est toi le lacrimale.
+Qui, en fait,
+fasse ça au bout de...
+Je ne parle là du rythme,
+mais voilà.
+Voilà, la photo...
+Alors, sur ce site-là aussi,
+tu verras,
+il y a une rubrique assez sympa,
+c'est tatouage raté,
+je crois.
+Eh bien, merci, au-nest.
+Il y a beaucoup de gens,
+notamment,
+qui veulent tatouer
+une main,
+ou de leurs fils,
+nouveau-nés et tout.
+Et le tatouage,
+c'était peut-être un petit peu bourré,
+mais en général,
+ça ressemble plus
+à des monstres,
+à des vieux fricots.
+Ah oui,
+il y a tout le tatouage raté aussi.
+Le tatouage raté.
+Ça ressemble à des fricots
+plus qu'à la photo d'origine.
+Vous savez que c'est...
+C'est sur Planet Shock,
+ma chaîne préférée,
+ou sur Real Time,
+je ne sais plus.
+Planet Shock
+n'existe plus.
+Oui, c'est Planet No Limit,
+maintenant,
+c'est exécutif.
+Il y a beaucoup,
+il y a...
+On va loin là.
+LTP ?
+On m'a dit que
+LTP,
+lors de ton père,
+avait un tatouage
+sur la couille gauche.
+Est-ce que c'est vrai,
+lors de ton père ?
+Je ne sais pas les voir.
+Et non, c'est faux.
+C'est sur le gland.
+Il s'est fait tatouer Yoshi
+sur le gland.
+Merci Lord.
+Pour continuer un petit peu
+sur les modifications corporelles,
+j'en ai un.
+Il fallait absolument,
+j'en parle.
+On peut en trouver des vidéos
+sur YouTube d'ailleurs.
+Ce n'est pas volontaire,
+mais c'est l'homme arbre.
+Ah !
+Le tree man.
+Bien sûr.
+C'est la sensation
+que ce soit volontaire
+comme modification corporelle.
+Ce n'est pas volontaire du tout.
+Le mec a naturellement
+des verruques qui poussent.
+C'est plus que des verruques.
+C'est plus sur les membres,
+je crois,
+plus sur tout ce qui est main.
+Je crois que c'est partout.
+Un peu sur la gueule,
+mais c'est vraiment sur les membres.
+Il me semble que c'est
+des extractions de membres.
+Ils ont corps.
+C'est-à-dire que...
+Et donc, ça ressemble vraiment
+à des racines, si tu veux.
+C'est des racines qui sortent
+et qui poussent continuellement.
+Si on lui est arrivé
+à l'âge de 15 ans,
+c'est un indonésien à 45 ans.
+Je vous le présente,
+vous le trouvez sur YouTube.
+Ah oui, sur YouTube,
+tu trouves,
+tu t'appréciers sur Google
+«homme arbre»
+et vous trouvez cette magnifique
+«homme arbre»
+sur Google.
+Trimane.
+Trimane.
+Je crois qu'il y avait trop
+un jardin idiot
+derrière nous-mêmes.
+Il s'est fait opérer,
+tu déconnes,
+mais il s'est fait opérer
+en septembre d'amiguites.
+Alors, attention,
+attention,
+qui a la quantité
+de racines
+qui a été enlevée
+sur cet homme ?
+Oula,
+ça c'est 100 kilos,
+c'est là énorme.
+C'est énorme.
+Et moi,
+parce que je me dis
+ce qui est pratique
+quand on est dans...
+Est-ce que,
+enfin,
+est-ce que ça poussait
+à l'endroit
+auquel je pense ?
+Ce n'est pas dit.
+Alors moi,
+il y a une question
+que je me pose,
+et je me dis,
+c'est pratique pour ce monsieur.
+Est-ce que s'il a envie
+de se nourrir,
+il ne sait pas,
+est-ce qu'il produit
+des pommes,
+des spises ?
+Non,
+il ne produit pas
+d'herbes,
+si tu veux dire.
+Pas de feuillage.
+Pas de feuillage,
+ou même pour scurer les dents.
+Non, mais j'espère qu'il n'a pas
+des pieds silex,
+parce qu'il serait en merdée
+tout de même.
+C'est clair,
+mais heureusement,
+il doit pas rester,
+je pense, très longtemps en debout,
+sinon il risque pas
+de prendre assez d'eau.
+Je vois du coin de l'œil,
+je vois la vidéo
+du coin de l'œil,
+et franchement,
+merci internet,
+parce que sans ça,
+on n'aurait jamais trouvé.
+Franchement,
+Trimman,
+c'est un truc assez...
+Ce monsieur a l'air
+tout à fait sympathique.
+Mais justement,
+d'ailleurs,
+pour finir ma rubrique,
+je voulais,
+quand même,
+s'il peut faire un tour de table,
+et poser la question,
+un petit sondage.
+Je ne sais pas si
+tu peux faire des sondages,
+d'ailleurs, en direct,
+Capten.
+Dis-moi,
+on a deux personnes
+qui nous regardent,
+mais on va quand même
+faire un sondage.
+Si on devait s'implanter
+quelque chose
+dans le corps,
+ou est-ce qu'on le mettraient?
+Alors Capten,
+tu te mettrais ça où?
+Capten,
+il se mettrais ça dans le cerveau,
+je pense.
+Tu le mettrais ça,
+c'est tellement dans le...
+Yo,
+yo,
+c'est de la paix!
+Une fois des options,
+on n'a pas le choix
+d'aménager.
+Quatre choix,
+ou ça?
+On va donner nos quatre choix
+à nous.
+Alors,
+vas-y Manox.
+Alors,
+le premier soit
+dans le fientus,
+deuxième soit
+dans l'aurillus,
+troisième soit
+dans le nasus,
+et quatrième
+soit
+dans le
+prébus.
+Oh!
+Quel poète!
+Enfin bon.
+LTP,
+tu choisis quoi,
+comme
+endroit,
+10 ans?
+C'est parti,
+mais il faut que je mette
+quoi dans quoi.
+Tu peux me dire
+un cellphone
+dans l'oreille,
+tu peux me dire
+tout ce que tu veux.
+Enfin moi,
+je suis quelqu'un
+d'assez naturel,
+je crois que je ne mettrais
+rien nulle part.
+Ah,
+voilà.
+Tu peux mettre
+dans ton sondage
+une option,
+rien.
+J'ai déjà
+quatre options.
+Tu peux nous les lire
+avec quatre options?
+Écoute,
+c'est celle
+qu'il nous a proposé
+Manox,
+à savoir,
+dans le fion,
+dans l'oreille,
+dans le nasus,
+dans le prébus.
+Tu peux le confirmer
+qu'on voit le sondage
+sur le...
+Je confirme
+et je viens
+même personnellement
+de voter.
+Ah,
+merci.
+Je peux me mettre
+dans le nasus.
+Les deux autres personnes
+qui nous regardent
+peuvent aussi répondre.
+Moi,
+que ce soit des bottes,
+c'est possible que ce soit
+des bottes, en fait.
+Non,
+enfin,
+je ne pense pas.
+Signalez-vous
+ou allez,
+hop,
+voter.
+Qui sait?
+Personne ne veut voter,
+c'est pas...
+Bon,
+dans le bras,
+dans le bras, c'est pas mal.
+Oui,
+ça fait pas partie des réponses.
+Un peu de subutex.
+Ou dans le bras,
+ou dans le pied.
+Je n'ai pas même pensé
+quelque chose dans le fion,
+donc ça limite
+un peu les réponses.
+Oui, mais attention,
+on n'a pas non plus
+30 000 orifices.
+Non,
+mais on n'a pas forcément
+besoin d'un orifices,
+pour ce point.
+Oui,
+c'est quand même toujours
+plus pratique.
+Merci.
+Bon,
+voilà,
+c'est tout pour ma rubrique
+oiseauf,
+on va peut-être
+passer sur la rubrique
+de Manox.
+Oiseauf,
+sans dire,
+what's up ?
+La France des chansons.
+La la li la la la la la la.
+Bonsoir à tous et bienvenue
+sur la France des chansons.
+J'espère que vous êtes
+encore en train
+de nous suivre
+à l'heure tardive
+qu'il est.
+Une émission
+exceptionnelle de Paraté,
+puisque aujourd'hui,
+j'invite dans la France
+des chansons
+à Capella,
+n'est-ce pas ?
+Marc Bucos.
+Marc Bucos,
+voilà,
+il est en haut
+la Marc Bucos,
+il a un peu
+le stress,
+il a un peu le
+le track
+en quelque sorte,
+parce que c'est la première
+émission radio,
+tout ça.
+Bon,
+il a fait un peu
+de live
+dans certaines villes
+de province.
+Il a fait beaucoup
+de concerts quand même.
+Oui,
+il avait pas mal de concerts,
+oui,
+il a sorti un CD.
+Oui,
+je crois même qu'il a fait
+une tournée dans le reverser.
+Jusqu'à Robinson,
+Robinson,
+c'est le wagon de tête.
+Il a fait une carrière
+pendant 15 ans
+Gare de l'Est.
+Je crois qu'il a un style
+unique.
+Il a un style unique,
+Marc Bucos,
+vous allez voir pourquoi,
+parce qu'il ne chante pas
+comme tout le monde.
+En réalité, il ne chante pas
+véritablement,
+ce n'est pas non plus
+une sorte de beatbox,
+non,
+c'est autre chose,
+c'est ce qu'on appelle
+le Marc Bucos.
+C'est buccal,
+essayez-vous,
+là,
+on vient de perdre un auditeur,
+merci.
+Bon,
+ouais,
+je l'invite tout de suite,
+Marc Bucos,
+il arrive, il est là.
+Marc.
+Marc,
+ah oui,
+je le vois,
+il arrive.
+Maintenant que c'est sa place,
+il arrive.
+Marc.
+Salut.
+Voilà,
+Marc.
+Bonne soirée Marc.
+Oui,
+bonjour,
+bonjour à tous.
+Salut Marc.
+Oui,
+bonjour,
+Marc.
+Monsieur Bucos.
+Bonsoir Marc Bucos,
+on est ravis de vous accueillir
+avec nous,
+on vient de terminer
+cette émission.
+Oui,
+bonjour Marc Bucos.
+On est particulièrement ravis.
+Oui.
+Est-ce que vous pouvez vous présenter ?
+Comme qui dirait,
+je m'appelle Marc Bucos.
+J'ai actuellement 37 ans,
+bon,
+derrière moi,
+j'ai,
+on va dire,
+une quinzaine d'années de chansons
+françaises,
+avec mon style bien particulier,
+puisque mon style,
+en fait,
+comporte,
+comme qui dirait,
+le développement buccal,
+c'est-à-dire,
+développement de la langue
+sur le palais,
+ainsi que aussi sur l'attentition supérieure.
+Et vous avez donc une langue
+sur-developpée par rapport à la normale.
+Disons que,
+en fait,
+à la base, non,
+mais ensuite après,
+je me suis mis à travailler ça,
+je dirais de manière intense.
+Alors Marc,
+comment vous en êtes arrivé
+à faire des buccalistes,
+telles que vous le dites ?
+Disons que,
+la première fois,
+bon,
+j'étais chez moi
+dans mon appartement,
+j'étais,
+comme qui dirait,
+devant mon miroir,
+tergiversé.
+Et là,
+je me suis jeté comme ça,
+bon,
+je me brosse les dents,
+tout bazar.
+Et puis là,
+j'étais un peu à la bouche patteuse,
+bon,
+c'est amusant,
+bon,
+je produis,
+et là,
+je fraudonne
+par mes gardes,
+comme qui dirait,
+par une musique
+que je connaissais bien.
+Bon, voilà.
+Qu'est-ce que c'était ?
+Bon, c'était,
+bon,
+voilà.
+Bon,
+j'avais presque reconnu.
+Oui,
+bon,
+j'ai décidé,
+je me suis dit,
+c'est quand même un style de chanson assez unique,
+comme qui dirait.
+Vous n'allez pas faire carrière,
+je confirme.
+Oui, bon,
+voilà,
+je me suis dit,
+je vais commencer
+à reprendre,
+comme qui dirait,
+des reprises de musique,
+de chansons
+connues,
+de films,
+notamment,
+américains,
+ou bien,
+francophones.
+Oui,
+ou francophones,
+bon,
+et voilà,
+c'est ça.
+Qu'est-ce que c'est un film francophone, là ?
+Bon,
+j'avais fait la soupe au chou,
+mais bon,
+comme qui dirait,
+on m'a dit que ça ressemblait déjà beaucoup.
+Alors,
+après,
+la Strom Flalla,
+j'ai décidé
+de faire
+quelques mangas,
+Coldorac,
+mon Captain Flamme,
+bon,
+voilà,
+comme ça,
+et ainsi que
+des célébrités
+de films très connues,
+tels que Robocop,
+ou bien Terminator,
+ou encore Star Trek.
+Marc Bucos,
+comment avez-vous été découvert,
+comment le succès est venu ?
+Bon,
+ben,
+je dirais,
+comme qui dirait,
+j'étais à l'hôpital pendant quelques années,
+suite à des problèmes,
+que j'ai
+suffisanté,
+vis-à-vis de moi.
+Oui ?
+Excusez-moi, c'est le...
+Marc Bucos,
+il est très stressé, il est...
+Oui,
+c'est-à-dire,
+c'est la première radio que je fais,
+en direct live,
+comme qui dirait.
+Il ne faut pas être stressé.
+Vous êtes sur Internet,
+Marc Bucos.
+En plus,
+sur Internet,
+d'ailleurs,
+j'ai moi-même Internet,
+chez moi,
+j'ai demandé à mes amis de venir me voir.
+Bon,
+et bon,
+voilà,
+j'ai commencé à faire mon CD,
+mon single,
+puis bon,
+j'attends encore
+mes réponses,
+mes disques.
+Combien d'album avez-vous,
+avez-vous enregistré Marc Bucos ?
+Ben,
+pour l'instant,
+je dirais un.
+Quel est son titre ?
+Son titre,
+ben,
+c'est Bucos Paradise,
+c'est ça.
+Oh,
+Bucos,
+Bucos,
+je me doute,
+c'est le nom de famille.
+C'est en vente,
+c'est en vente FNAC.
+Ben,
+Paradise,
+pour ça,
+c'est-à-dire,
+c'est comme le paradis,
+mon moi,
+je dis,
+ceux qui sont gentils,
+ils vont au paradis,
+le paradis,
+c'est bien,
+donc,
+voilà,
+ça évoque ça.
+C'est le paradis buccal,
+quoi.
+Je crois que tous,
+autour de cette table,
+on a qu'une envie,
+oui,
+c'est de vous écouter,
+buccaliser.
+Alors,
+est-ce que vous êtes très Marc Bucos ?
+Oui.
+Moi, je suis pas adviné.
+Bon ben,
+je vais commencer,
+donc je dis pas le titre de la chanson.
+Voilà,
+vous avez tout compris.
+Bon ben,
+j'y vais.
+J'ai trouvé Indiana Jones.
+Ah,
+bon ben,
+vous avez bien adviné,
+c'est ça.
+Alors,
+je peux vous faire la suite.
+C'est toujours Indiana Jones ?
+Ouais,
+je suis passionné en quelque chose.
+Ah,
+si oui,
+c'est le truc.
+C'est impressionnant !
+Une autre,
+une autre.
+Bon ben,
+là,
+je vais faire,
+bon,
+une autre,
+je dis pas non,
+ouais.
+Terminator.
+Oh,
+pas mal.
+Bon ben,
+de rien.
+Et vous pouvez interpréter,
+on vous donne un titre,
+et vous l'interprétez.
+Ah,
+bon ben,
+ça dépend de mes connaissances,
+j'irais musicale.
+Euh,
+une idée,
+Star Wars,
+avec classique.
+Ouais,
+ouais, ouais.
+Oh,
+ça veut dire,
+est-ce que quelqu'un pourrait me souffler un peu,
+l'air de base,
+que je puisse me ramener ?
+Je peux,
+je peux faire voir,
+d'accord,
+non,
+non,
+non,
+non,
+non,
+Star Wars,
+d'accord,
+non,
+non,
+non,
+non,
+non,
+non,
+non,
+non,
+Star Wars,
+c'est...
+c'est...
+c'est la première radio de geek,
+ou personne ne connaît la musique.
+C'est vraiment bizarre.
+C'est grave,
+c'est chou.
+C'est chou.
+Il y a plusieurs thèmes,
+faut voir,
+quel thème on...
+C'est vraiment extraordinaire,
+on est,
+on est gâtés ce soir.
+On va faire à l'autre,
+si vous voulez,
+un célèbre aussi.
+Délègeस
+Dergeк
+Robocop,
+j'allais dire.
+Dél trimming
+par Dél sac Réder
+Derger
+Derger
+Derger
+Derger
+Derger
+Derge
+Derger
+Derger
+Derger
+Derger
+Derger
+Derger
+Derger
+Derger
+Derger
+Excusez-moi Marc
+Vous êtes trompés
+Je ne suis pas de bouton
+Bon bah je peux dire d'une célèbre série télévisuelle
+Gira américaine vis-à-vis dans l'espace
+Haute Star Wars mais j'allais dire qui commence avec Star aussi
+Bon vous avez deviné mais bon je l'ai fait quand même bien le faire
+La vis-à-vis ça fait
+Marc Marc c'est vraiment fabuleux mais je crois qu'on va laisser un peu souffler les auditeurs
+Avant de partir vous pouvez nous dire quels sont vos projets d'avenir ?
+Et après j'ai envie de dire
+Bon bah vis-à-vis aujourd'hui projet d'avenir actuel précédemment c'est bon sortir de l'hôpital
+Et après ça serait aller bon bah commencer mes premiers live avec bon je dirais des artistes tels que Mimil
+Ah Mimil
+Oui non mais on va éviter de citer le nom de famille
+Non non oui d'accord bon bah c'est demi
+C'est une star mais
+Bon j'espère que les auditeurs suivront ainsi que la promotion qui sera faite sur l'album
+C'est sûr qu'ils vont suivre
+J'espère bien
+Alors vous avez une particularité
+Oui
+N'est-ce pas Marc ?
+C'en est plusieurs
+Oui mais la vraie particularité c'est que vous êtes le seul chanteur à pouvoir chanter même avec un rume
+Ah oui c'est à l'air qu'effectivement même un rumez bon bah je chante
+On peut vous couper les cordes vocales ça marche toujours
+Du moment que la gloide frétille en fait il dirait que ça passe
+Alors bon qui dirait que j'ai aussi fait une composition de mon cru
+Ah bon bah je l'écoute
+Merci Marc
+Magnifique Marc Bucos
+Bon bah merci
+Marc Bucos on est fiers de vous avoir eu pour votre premier live radio
+A la période du captain c'est on vous adore on achètera votre cd on scotisera pour en acheter un pour dix
+Ou on le ballera sur internet aussi
+Non non non
+Est-ce qu'on peut trouver votre album sur Pirate Bay ?
+Ah alors comme qui dirait actuellement mon album est encore en construction
+Les cassettes devront commencer à sortir vis à vis début 2005-2006
+J'espère que d'ici là les auditeurs suivront la marche à suivre
+Ah oui je pense que ça va le faire
+Ils suivront la marche à suivre
+Merci Marc Bucos
+Merci Marc
+Bon au revoir
+Au revoir
+Donc la captain c'est un peu la fin du premier podcast non ?
+Eh oui bah oui c'est la fin ça y est donc on va faire un petit tour de table pour demander comment ça s'est passé quand même
+Alors on va commencer par l'autre tempére allez
+Ah c'est parti c'est moi qui commence
+Alors bon j'ai trouvé que c'était assez sympathique il faudrait quand même qu'on ait les retours de nos auditeurs pour voir s'ils sont plus...
+De notre auditeur
+C'est à dire que maintenant il reste plus...
+Comment personne reste-t-il maintenant aujourd'hui actuellement ?
+Alors attend une seconde je me branche il nous reste...
+Là il y a deux connectés donc il faut retirer l'ordre de ton père et ça fait une personne
+Voilà
+Donc je crois que pour le prochain podcast il faudra peut-être qu'on creuse un petit peu nos sujets mais...
+Oh non je pense que c'était plutôt pas mal hein
+Je pense que le tour était léger, sympathique
+Voilà il n'y a pas eu trop d'insultes à peine tous les demos
+Non non non non il faudra peut-être que...
+Elle essaie de la merde !
+What's up ?
+Alors bien évidemment aujourd'hui ça a été streamé sur le net pour la première fois ça le sera à chaque émission
+Mais évidemment vous aurez le podcast officiel avec la son d'une qualité irréprochable
+Qui sera disponible je pense demain ou peut-être après demain
+Sur le site de l'ingénieur du son
+Voilà, sur le site du captain aussi
+Mais je suis très content d'avoir fait ce podcast avec vous et j'ai hâte de faire le prochain
+J'espère que ce que je vous ai raconté vous a intéressé
+Pour un sujet que tu n'avais pas trop préparé ça va tu as réussi à tenir
+Ça m'a bien fait
+Je t'en remercie
+Manox te passe la parole
+D'accord merci alors moi j'ai été ravi de ce podcast entre gentlemen
+On a pu parler de choses extrêmement intéressantes, extrêmement pertinentes
+Une apparition d'un artiste écriptionnel aussi
+Moi j'ai découvert des choses aujourd'hui
+Et j'espère que nos hiteurs aussi ont découvert beaucoup de choses
+Marc Bucco c'était quand même une révélation je veux bien le mettre
+C'est de la découverte
+C'est dommage qu'il y a eu que dix minutes parce que c'est la permission de sortie de Saint-Anne
+Et t'es rentré courte
+Je pense que je vais peut-être commencer à passer au body inflation
+Parce que ça m'attire de plus en plus depuis que j'ai vu les photos
+Un petit donut sur la tête ou sur le bead
+Ça vaut le coup
+Ouais mais je pense qu'il faut que tu fasses ça en plus des percings et des tatouages
+Le tout ensemble, les trois ensembles ça doit être le top
+Et puis je vais aussi m'acheter une wi-fi, une wi-slime
+La wi-lite
+Wi-fit
+Je pense pas que le prix va beaucoup se slimer
+En carton pâte, ça va être génial
+Pas que ça
+Moi que dire, que dire, que dire
+Mis à part que j'étais ravi d'être là bien sûr
+J'ai testé ma superbe feuille Excel pour ne pas la citer
+Ah bah ouais tu l'as dit
+Et voilà
+On est grillés
+On est grillés
+Les auditeurs ne savent pas trop
+En tout cas on peut saluer la qualité du travail de notre ingestion ce soir
+Si vous cherchez quelqu'un qui maîtrise les techniques sonores sur le bead et surtout
+Qui maîtrise encore plus Excel
+N'hésitez pas à contacter
+En tout cas si vous voulez qu'on vous organise votre stream radio
+On est ultra efficace
+Avec le matos
+On vient avec le matos
+On vous stream sur le net
+On vous fait le podcast
+Tout ça pour une heure de l'heure
+Si vous tenez un bar que vous êtes prêts à nous payer
+Surtout on va vous offrir des bières gratos
+On vient sur place
+Il nous faut une connexion internet aussi
+Ils sont terminés quoi cause
+C'est fini
+Je dirais vivement la prochaine session
+Le mot de la fin appartient à notre maître à tous
+Si c'est bas, on se soussole à notre maître
+C'est-à-dire le captain
+On t'écoute captain
+Ça s'est pas mal passé du tout
+On a parlé de plein de choses passionnantes
+T'entreprise qui perdait des millions
+De prépuses
+Ouais le prépuse c'est important
+Je vais regarder vite fait le sondage
+Pour voir si quelqu'un répondu
+J'ignac que moi
+Alors ton père arrive
+J'ai 300 réponses
+On doit pas avoir les mêmes chiffres
+D'ailleurs en parlant de chiffres
+On a deux chiffres qui divergent
+Selon mon écran
+On aurait passé une heure et demi en gestion de podcast
+Tandis que selon la feuille magique
+On en serait à 10 minutes de moins
+Donc là il y a un gros souci technique
+Non mais je crois que déjà on avait commencé à streamer
+Avant le démarrage du podcast
+Non non j'avais commencé 5 secondes avant
+C'est pas grave, je m'expliquerai pourquoi Orlin
+Je crois qu'on est en plein déplacement spatio-temporal
+Voilà exactement quelque chose comme ça
+C'est impossible
+Donc voilà sur ce, ça va être la fin de ce podcast
+Bonsoir, bonne nuit
+Bonne nuit à tous
+Merci de nous avoir suivi
+Merci de nous avoir suivi les Super Podcasts
+Trois semaines après les vacances
+Ou alors dans dix ans
+Si on se fait interner
+Et ça dépend d'une nombre de procès
+A bientôt tout le monde
+Merci, ciao, ciao
+C'était le podcast du Capitaine Web
+Capitaine Web, c'est notre héros
+Capitaine Web
+C'est fini, c'est fini apparemment
