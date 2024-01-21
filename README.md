@@ -7,4 +7,5 @@ Il s'agit d'une tentative de générer les sous-titres de l'Apero du Captain ave
 /whisper /home/l-apero-du-captain-$i.mp3 --language French --model medium  --output_format all
 ```
 
-Si vous avez un peu de puissance de calcul n'hesitez pas a participer
+Si vous avez un peu de puissance de calcul n'hesitez pas a participer.  
+Et une relecture ne serait pas de trop j'ai vu passer des Quacos et des l'ordre ton père .... 
