@@ -1,0 +1,4910 @@
+Salut bande de losers, bienvenue sur l'apéro n°19, le podcast high-tech le plus improbable
+que vous puissiez trouver sur internet et on est tous là ce soir, et on a un invité,
+exactement, j'allais le dire, et nous avons Antistress, le retour d'Antistress, le retour
+de l'aventure.
+He's back !
+Rebonjour !
+Rebonjour !
+Salut Antistress !
+Je vois que les gens commencent à partir du tchat !
+Non non !
+Lorsque ton père fait nous peur tout de suite, on va parler de la neutralité du net ?
+Non !
+Ce soir c'est moi qui fais toutes les rubriques !
+Ah j'adore, je vais pouvoir partir et dormir plus tôt, yes !
+Alors est-ce qu'il est 23h30, c'est ce que comme d'habitude sur un fichier il y a marqué
+23h30.
+23h45.
+Ouais, on est presque à l'heure aujourd'hui, faut pas trop se plaindre.
+Donc on a dit qu'on recevait notre ami Antistress ce soir, on va faire un petit tour de tape
+comme d'habitude.
+On commence par LTP par Antistress, qui vont nous dire de quoi ils vont nous parler ?
+Non, je vais causer ! Bonsoir à tous, ravi de vous retrouver, ravi de retrouver mon
+excellent ami Antistress, avec qui je reviens d'une petite conférence auquel était invité
+Richard Stallman pour sa biographie autorisée, mais Antistress va nous en parler tout à
+l'heure.
+Je vais même vous montrer le livre pour ceux qui nous suivent en direct.
+Et je l'avais promis comme bonne résolution pour cette nouvelle année, que ce serait
+janvier serait l'année de la raclette, c'est-à-dire ça va être très lourd.
+Préparez bien vos oreillers, vos édredons, ça va bientôt commencer.
+Manox ?
+Ouais, alors moi ce soir, pas d'invités, et oui exceptionnellement, j'inaugure une
+sorte, en quelque sorte, une nouvelle rubrique.
+Nouvelle rubrique ? Celle dont tu nous avais parlé l'année dernière, tu nous avais dit
+qu'il y aura de nouvelles choses dans la vidéo.
+Voilà, alors ça va être pas très long et on va parler un peu des weblogs, mais attention,
+des weblogs qu'on ne connaît pas et que personne ne veut connaître, et voilà, qu'on
+ne connaîtra jamais.
+Ouh, ça a l'air intéressant tout ça.
+Bah oui.
+Et écoute, moi aussi, pour l'année 2010, je vais avoir une nouvelle rubrique, qui
+sera une rubrique cinéma.
+Et oui, bien sûr, il y aura toujours du was-off, parce que je ne m'aurai pas inquiété nos
+auditeurs.
+Le was-off sera toujours là, mais un petit plus, c'est la rubrique cinéma.
+Bon, bah dis donc.
+Et toi, toujours ta bonne vieille rubrique des actus ?
+Bah oui, comme tu m'avais dit, ils m'ont demandé sur le chat si Katsuni allait être enfin
+invitée.
+Ah, écoute, il faudrait que je l'invite, peut-être.
+Ah bah je pense qu'il faut carrément que tu l'invites, oui.
+Les deux sous de 4 sous.
+Les deux sous de 4 sous.
+Et donc, anti-stress, tu nous parles de quoi ?
+Alors moi, j'ai été invité pour parler des logiciels libres et je vous en remercie
+et je souhaite bon courage aux auditeurs.
+Ah.
+Je vois qu'ils commencent à être pleurants en direct sur leur caméra, mais c'est pas
+grave.
+Tu nous parles de quoi comme logiciels libres ? Tu vas nous donner un avant-goût, ou ?
+Non.
+Bon, ça sera donc la surprise !
+Est-ce qu'il y aura du beugle ?
+Ça va être très chiant.
+La nouveauté des trucs ?
+Aucune nouveauté que du chien.
+C'est sympa.
+Ça va perdre certaines personnes, en tout cas.
+Bon, ok, maintenant qu'on a fait un tour de table rapide, on va peut-être parler vite
+fait de deux, trois choses.
+Déjà, on va vous parler du concours en ce moment sur notre site, captenoway.net.
+Il y a un superbe nasse offert par LG à gagner.
+Oh la chance !
+Donc là, pour l'instant, il y a presque 200 participations.
+À 400, on m'a promis une valise de billets, donc on vous invite tous à aller voter dessus.
+Il suffit de laisser un commentaire, donc c'est relativement simple.
+Même les personnes qui ne savent pas écrire devraient pouvoir participer, pratiquement.
+Et comment qu'on gagne ?
+Ah oui, comment qu'on gagne ?
+Tu laisses un commentaire.
+N'importe quoi, une insulte, une photo de poney.
+Et alors, tu sélectionnes le meilleur commentaire, tu sélectionnes un nom au hasard ?
+Non, alors en fait, on fait ça au hasard, ou presque au hasard, parce que c'est un
+nom de son ou qui va gagner, mais on cachera le nom de la personne.
+Est-ce qu'il y aura un tirage au sort, Capten Web ?
+Oui, en fait, j'ai longtemps réfléchi, parce que je suis quelqu'un qui réfléchis beaucoup.
+Ce qui va se passer, c'est que vendredi soir à minuit pile, on va arrêter les commentaires,
+donc vous avez intérêt à vous grouiller et de laisser un message, surtout pour ceux
+qui écoutent le podcast, parce que quand vous allez l'écouter, il sera déjà trop
+tard.
+Et à partir de là, le mardi suivant, donc en direct dans le prochain podcast, on tirera
+un auditeur ou un lecteur.
+On va tirer un auditeur ?
+Oui, on va déjà le tirer au hasard, et ensuite il viendra dans la cave et il sera tiré en
+direct.
+Ah, c'est intéressant.
+Voilà, mais surtout parle-en de ton père.
+Oh my god, non !
+Je ne touche pas à ce genre de choses.
+Voilà, un merci quand même à LG pour son beau cadeau, et surtout pour ses beaux buffets,
+parce que nous sommes des fans des buffets LG.
+Est-ce que LG écoute le podcast en même temps ?
+Je ne pense pas, sinon ils n'auraient pas fait le cadeau probablement, mais bon, on
+verra bien.
+Ensuite, écoutez comme d'études, vous votez pour nous sur iTunes, et surtout,
+bande de petits bâtards, vous allez cliquer 10 fois chacun sur le bouton s'abonner,
+c'est valable pour tous ceux qui sont là en direct.
+Ce qui me semble qu'on est sorti du top 25, et ça c'est vraiment une honte, donc
+si on n'est pas revenu ce soir dans le top 25, voire dans le top 10, je crois qu'il
+n'y aura pas de podcast numéro 20, vous êtes prévenus.
+Et si vous n'écoutez pas en direct, vous avez aussi le droit d'aller cliquer 10
+fois sur le bouton s'abonner, oui c'est de la triche, et on s'en fout.
+Je crois que c'est tout, est-ce qu'on a des messages sur le répondeur ce soir ?
+Non.
+D'accord, personne n'a encore trié les messages sur le répondeur.
+Non, personne n'a trié, mais la prochaine fois c'est promis, oui, ça dépend si les
+gens laissent des messages, mais il y a plein de messages en retard là qu'il faut, un
+petit peu.
+La prochaine fois c'est promis les messages, on les passera.
+Il faut dire aussi qu'il y a des sourmues qui nous laissent des messages, donc c'est
+un peu incompréhensible.
+Ah c'est un problème.
+Bon, on passe aux actus, ça va être rapide ce soir, ce que je ne vous cache pas, bon
+bref.
+Actu.
+Et c'est l'actualité super rapide, il n'y a aucune news, nous passons directement
+à l'actualité de LTP.
+Ouais, escroc, non, on va quand même en avoir deux trois, mais il faut dire que l'ordre
+de ton père m'a pillé ma rubrique, il a pris mon petit papier avant, il a dit ah non,
+ça j'en parle, ça j'en parle, ça j'en parle, donc je n'ai pratiquement plus rien.
+Je confirme.
+Mais je croyais que l'ordre de ton père ne parlait de rien ce soir, qu'il essaie
+d'anti-stress tout faire.
+Eh bah écoute, à mon avis c'est encore une émission qui va durer 2h50, donc voilà,
+mais de toute façon, mon actu va être relativement courte je pense.
+Voilà, si je ne papote pas trop avant.
+Oui, si je ne papote pas trop avant.
+Bon, on commence directement alors ?
+Alors on commence, premier actu.
+Ok, alors la première actu c'est celle que l'ordre de ton père m'a pillé, donc on
+passe à la deuxième.
+Ah, ok.
+Je ne l'ai pas pillé.
+Je t'aiderai à faire la tienne, on verra.
+Si on a la deuxième, c'est Facebook qui part décidément en guerre contre la vie privée.
+Ah oui.
+Est-ce que quelqu'un en a entendu parler ?
+Oui.
+Non.
+De quoi s'agit-il ?
+Alors en fait, bon vous savez tous que Facebook a changé les paramètres de confidentialité
+il y a de ça quelque temps, à savoir que ce qui était par défaut privé est donc accessible
+uniquement par vos amis.
+Oh putain quacos !
+Le fouet !
+Et voilà, pourquoi je ne ferai plus jamais de podcast avec ces gens-là, désormais
+je vais aller faire avec Mathieu Blanco et on parlera de choses bien, mais ce sera tout.
+Donc oui...
+Donc il crache le morceau Facebook là.
+Donc Facebook, ils ont changé les paramètres de confidentialité il y a quelques mois, est-ce
+que tu le savais Manox ?
+Euh non !
+On en a parlé pourtant.
+Est-ce que tu t'es connecté sur son compte Facebook depuis deux mois ?
+Oui.
+Et même que Marc Guckermann s'est fait avoir lui-même par ces changements.
+Oui, je me suis connecté sur mon compte hier encore.
+D'accord, mais est-ce que tu t'es connecté à un moment où tu avais une petite fenêtre
+qui te demandait des nouveaux paramètres ?
+Certainement, j'ai dû fermer automatiquement par réflexe.
+Si tu as fermé, ça veut dire que tu as gardé les nouveaux paramètres, félicitations,
+tu es un winner.
+Ouais !
+Donc désormais toutes tes coordonnées sont probablement accessibles à tout le monde,
+tu peux vérifier en en cherchant sur Google, oui effectivement, c'est les nouveaux paramètres
+de confidentialité.
+C'est admissible !
+En fait il y avait deux paramètres, il y avait accéder aux nouveaux paramètres ou mettre
+les anciens.
+Alors si tu choisissais les nouveaux paramètres, tu te faisais niquer, oui.
+Mais attends, mais quand tu dis mes coordonnées sont accessibles, ça veut dire qu'est-ce
+qui est accessible ?
+C'est-à-dire que par exemple, avant ta liste d'amis, les gens je crois ne pouvaient pas
+la voir si tu ne l'autorisais pas, si tu ne la mettais pas en public.
+C'est possible, il me semble.
+Donc un nouveau paramètre, par défaut, se permet très public.
+Par défaut, toutes les pages auxquelles tu es abonné, donc les trucs sur les poneys,
+transsexuels, sur le viol de l'outre, etc. sont accessibles par défaut.
+Oh ça, mais on va les couilles.
+Il suffisait de cocher une case où il y avait marqué « envoyez ma fiche perso à Interpol
+».
+Voilà, quelque chose comme ça.
+Quelqu'un me dit que si tu savais lire, tu voyais que Facebook t'enculé à sec.
+Certes, mais en même temps, comme la plupart des gens ne lisent absolument rien et cliquent
+directement sur les boutons, il y en a beaucoup qui se sont fait niquer.
+Personnellement, moi j'ai une image sur Facebook.
+Oui, je sais, tu n'as pas grand-chose.
+C'est un dessin.
+Bref, tout ça, je voulais vous parler de ça, parce que j'ai lu un article qui était
+assez intéressant sur ReadWriteWeb, France.
+Comment tu dis ?
+ReadWriteWeb.
+Read comme lire, write comme écrire, et web comme le web.
+ReadWriteWeb.
+Oui, on va faire un concours de prononciation.
+Donc, il revenait sur la déclaration de Max Zuckenberg, qui est le CEO de Facebook,
+celui qui l'a créé, celui qui se fait plein de thunes avec, et qui en gros disait
+tout simplement que s'il devait créer à nouveau Facebook, il rendrait toutes les
+informations publiques par défaut.
+En gros, ce qu'il a fait, puisque maintenant...
+C'est un malade lui.
+C'est le cas.
+Il y a quelques années, Facebook, leur grand principe, c'est de dire « on est vraiment
+quelque chose avec la vie privée, on veut que ça reste comme ça et tout, c'est important
+parce que vous êtes un ami. »
+C'est important.
+Etc.
+Etc.
+Alors maintenant, il est revenu complètement dans l'autre sens, puisqu'en gros, il
+dit « on suit le mouvement, puisque la vie privée n'est plus quelque chose d'important
+en gros.
+»
+On s'en fout.
+Voilà, on va innover et on se doit d'innover dans ce sens-là, puisque plus personne ne
+veut...
+De toute façon, le principe même de Facebook, c'est bien de ne pas se cacher, de se montrer
+aux plus de gens possibles.
+C'est une certaine mesure quand même.
+Pas totalement.
+Sinon, tu vas sur « copains d'avant », enfin je n'en sais rien, mais Facebook, le principe,
+c'est ça.
+Non, MySpace, c'est plus le principe.
+Facebook, c'est plus...
+Facebook, c'est plus l'idée du groupe d'amis, je trouve, même s'ils vont « ouais, maintenant
+c'est devenu n'importe quoi.
+»
+Tu t'abonnes, il y a des groupes pas possibles.
+D'ailleurs, je tiens à le dire, le groupe qui s'appelle « je bois en soirée mais je
+m'en fous, je rentre en poney », ce n'est pas nous qui l'avons créé, mais nous soutenons
+cette initiative.
+Voilà.
+Le poney est un moyen de transport.
+En résumé, Facebook, c'est...
+C'est le mâle, surtout.
+Est-ce que tu peux dire « c'est le mâle » ?
+C'est le mâle.
+C'est pas très...
+C'est le mâle.
+En gros, je ne vais pas vous en raconter beaucoup plus, sinon il y a une petite rumeur qui traîne
+sur le web en ce moment.
+Ce serait un ancien employé de Facebook qui aurait parlé d'une sorte de graal d'une
+légende en ce straal.
+Il y aurait un mot de passe universel pour tous les comptes Facebook.
+C'est pas vrai.
+Ça vous troule le cul.
+C'est Zucarman.
+Un, deux, trois, quatre.
+En gros, non, pas un, deux, trois, quatre, et attention, je vais essayer de vous le faire
+deviner.
+Il s'agit d'une personnalité.
+Zucarman.
+Non.
+Il s'agit d'une personnalité imbattable, d'une sorte de légende.
+Chuck Norris.
+Ouais !
+Ah non !
+Alors, selon la rumeur, attention, on peut prendre des rumeurs avec des pincettes.
+Je les prends avec des pincettes.
+Oui, il faut mieux.
+Donc, selon cette rumeur, effectivement, le mot de passe universel suffisait de rentrer
+n'importe quel login.
+Le mot de passe Chuck Norris avait quand même un truc de caisse, des majuscules, des minuscules,
+parce que...
+Et on aurait eu accès à n'importe quel compte.
+Probablement, uniquement depuis un ordinateur qui venait des bureaux de Facebook, donc à
+l'intérieur, sur leur réseau interne.
+Ouais, c'est des connes.
+Mais c'est quand même intéressant.
+Ça engendre bien.
+De la bonne vieille paranoïa, comme on est !
+Bon, personne n'a rien à dire dessus, j'imagine.
+Non, Facebook, c'est de la merde.
+C'est de la merde !
+Sur quoi ? On passe à la rubrique de l'ordre de ton père, non ?
+Non.
+Non, pas encore ?
+Non.
+Non, bon, ok.
+Vous me dites quand...
+Bon, il crache le morceau...
+Bon, je vais vous parler un peu de Google.
+On va parler du Nexus One.
+On en avait déjà parlé l'année dernière.
+Euh, l'année dernière.
+Putain.
+La semaine dernière.
+La rumeur de ce mois-ci, c'est le Nexus 2.
+Oh, carrément déjà !
+Et j'aurais donc déjà un deuxième dans les cartons, qui serait orienté vers les professionnels.
+Et ben ?
+Ce qui veut probablement dire que vous ne pourrez pas voir vos photos de cul dessus.
+Oh, je suis déçu.
+Oui.
+Il lâchera pas à vous.
+Ça dépend de ta profession.
+Voilà, c'est vrai.
+Ah, c'est vrai ?
+C'est exact.
+C'est le Nexus de Marc Dorsel ?
+Alors, on continue dans les grosses rumeurs, parce qu'il n'y a absolument rien de vérifié,
+vous le savez.
+Donc, ce serait un téléphone fabriqué par Motorola, cette fois-ci.
+Ah bon ?
+Voilà.
+Et est-ce que vous voulez de la grosse grosse rumeur, vraiment, qui appréciera la France ?
+Ouais, bien sûr !
+Et ben, il paraîtrait même que Google sera intéressé par racheter Motorola.
+Et ça, ça vous trouve le cul.
+Je suis enzias.
+Voilà.
+Alors, n'oublions pas, on donne un taux de probabilité à toutes nos news.
+Celle-là est à 0,0001%.
+Oui, mais bon.
+Ce qui est déjà beaucoup.
+C'est de la énorme.
+Voilà.
+Alors, au même moment, on apprend que le Nexus One, c'est un peu plus grand que le Nexus
+One.
+Au même moment, on apprend que le Nexus One a des problèmes de 3G, dont tout le monde
+se bat, je suppose.
+Ouais.
+Puisque, d'un, il n'est pas en Europe pour l'instant, et qu'il y a de deux, de toute
+façon, ça devra être patché bientôt.
+Et, ah, ça, par contre, ça va peut-être intéresser.
+Quacos, sache que les partenaires de YouTube, attention, je parle de partenaires, je parle
+de ceux qui ont des channels de vidéos sur YouTube et qui sont vraiment des acteurs
+importants.
+Des gros diffuseurs.
+Voilà.
+Donc, si t'as moins d'un million de vues par vidéo, je pense que tu peux carrer.
+D'accord.
+Et donc, qu'est-ce qu'ils peuvent faire ?
+Ils auront un Nexus One gratuit.
+Ouh !
+Ouais, carrément.
+Ouh ! Mais on est bientôt à un million, nous, avec la chanson de l'apéro.
+Ouais, je pense.
+Oui, effectivement.
+Je crois qu'il nous manque encore 999 000 et quelques.
+À peu près.
+À peu près.
+Ouais, je pense que d'ici là, ils seront au Nexus 4, donc de toute façon, on s'en
+fout un peu.
+Alors après, j'ai un gros truc qui est barré au milieu de ma feuille.
+Ah.
+Si eux, j'ai...
+Notre ami Lord Tempere est venu avec son gros crayon rouge, il a fait...
+Non, non, non, non, ça, c'est moi qui en parle, enculé !
+Voilà.
+Donc...
+Pas du tout.
+J'essaie de coordonner cette émission.
+Ah, vas-y.
+C'est de la censure, je vous le dis.
+Mais non, mais non, c'est pas de la censure, puisque j'en parle.
+Essaye déjà de coordonner tes mouvements, après, c'est rien.
+Tu parles alors de ton père ?
+Oui.
+Ok, donc...
+Voilà.
+Tiens, si vous voulez encore une petite news Facebook.
+Ah, vas-y.
+Facebook vient d'être condamné, encore une fois.
+Bon.
+Et cette fois-ci, c'est pour avoir traité d'arnaqueurs une société.
+En l'occurrence, celle qui s'appelait la CFNDI, qui est...
+Centre de formation de je sais plus quoi, etc.
+Quelqu'un sur le chat va nous le trouver, j'en suis sûr.
+Une connerie.
+Voilà, exactement.
+Pourquoi votre avis a-t-il été condamné ?
+Parce que...
+Vous avez traité d'arnaqueurs, cette société, je vous le rappelle.
+De quelle façon est la grande question ?
+C'est pas Google qui sort le moirnaque à côté de la société, dans le...
+Dans Google Suggest, on a un winner.
+C'est ça.
+Exact, c'est ça.
+Donc, en gros, si vous tapez, par exemple, je sais pas, Manox,
+et que dans les suggestions, vous avez Manox encule des chèvres...
+Ce qui est vraiment faux.
+Voilà, Manox pourra attaquer en justice Google,
+et sera probablement dédommagé.
+J'attaque !
+J'attaque !
+Bah écoute, on va...
+Donc, si vous voulez que Manox...
+C'est quoi le rapport avec Facebook ?
+On est passé à Google depuis tout à l'heure.
+Non, t'as parlé de Facebook, en fait.
+C'était encore une news Facebook, tu disais.
+C'est encore une news Google, j'en sais rien !
+Je suis...
+T'es complètement...
+Je suis perturbé, on a retiré la moitié de mes news,
+que je te dise.
+Ouais, c'est ça le problème, là.
+J'aurais dû te retirer la totalité.
+Tu peux, si tu veux.
+Moi, je passe directement à Turbo Boy, je vais dormir.
+Non, je plaisante, pardon.
+Non, mais je le prends très mal.
+J'ai quelqu'un de très...
+Susceptible.
+Susceptible, voilà.
+Donc voilà, c'était ça.
+Et enfin, le...
+Mais ça, on en avait parlé tout à l'heure.
+Antistress me l'avait dit.
+Effectivement...
+Google est le mot de la décennie.
+Et ça, ça change votre vie, j'en suis sûr.
+Le mot de la décennie.
+Ouais, t'as vu ça.
+C'est trop beau.
+Incroyable.
+Google.
+Google.
+Comment tu le prononces ?
+Google.
+Google.
+Google.
+J'aurais dû le prononcer,
+parce qu'on va passer à autre chose.
+Google.
+Google.
+Google.
+Google.
+Google.
+Google.
+3 heures plus tard.
+Google.
+Il y a des grimes...
+Google.
+Il y a des grimes names parmi nous.
+Google.
+Ne leur donnez pas d'eau après minuit.
+On se fait un petit tweet ou des poules ?
+Un petit tweet, allez.
+Un petit tweet, un petit tweet.
+Un petit tweet, un petit tweet.
+Un petit tweet, un petit tweet.
+Je peux parler bien.
+Un petit tweet, un petit tweet.
+Un petit tweet, un petit tweet.
+Moi j'arrête de vous parler de Google.
+Et est-ce qu'on a des...
+Vas-y.
+Non, vas-y.
+Est-ce qu'on a des gadgets USB ?
+Après.
+Je vous les réserve pour la fin,
+c'est le petit décès.
+Ah d'accord. Tu voulais parler de la campagne de pub autour de Chrome ?
+Oui c'est exact mais est-ce que... bah voilà on me l'a barré.
+Ah non non je ne l'ai pas barré ça.
+Bah alors c'est ailleurs, je comprends pas. Tu veux dire qu'il y a quelqu'un a trafiquer mes notes ?
+Non. Putain c'est pas vrai. Ou alors j'ai oublié de faire un copier collier.
+Ça c'est de l'émission préparée. Parlez-en à la volée.
+Ouais oui bah c'était pour revenir sur la grosse grosse campagne de pub.
+On en avait parlé la semaine dernière puisque quoi que c'est moi on est dans le métro on avait vu des grosses affiches
+mais en fait il n'y a pas que de grosses affiches. Il y a de très grosses affiches.
+Exact.
+Comme celle que Gonzague nous a prises en photo à Saint-Lazare.
+Alors là c'est carrément toute la station qui doit décoller, l'espèce de trou du cul qui remonte vers la surface en fer.
+Le truc qui fait 50 mètres de guionnette.
+Oui il y a eu des escaliers pour ceux qui connaissent.
+Et même des ascenseurs je crois. Attention, ceci est un scoop.
+Mais pas seulement puisque tu as des pubs dans pas mal de journaux.
+Tu as des pubs sur tous les grands portails d'info.
+Et je pense qu'il y a des capotes aussi sponsorisés.
+Google, non je me trompe peut-être.
+Ils font de la pub quoi, ils font de la pub.
+Ils font de la grosse pub alors pourquoi ?
+Alors il y avait une analyse que j'ai trouvé assez fine de Tristan Nito sur le stand blog
+où il expliquait qu'en fait comme Microsoft allait mettre en place le ballot de screen dont vous aviez parlé
+il faut que les gens soient familiers à ce que c'est que ce logo et ce logiciel
+puisque la plupart des gens n'ont pas le réflexe d'installer autre chose que ce qu'ils ont.
+Et donc l'idée apparemment c'est de populariser la marque et que les gens cliquent sur le ballot de screen.
+Exactement.
+D'ailleurs est-ce que tu as remarqué que maintenant quand tu utilisaient Internet Explorer,
+enfin j'ai reformaté mon PC il y a très peu de temps,
+il n'y a que Internet Explorer à la base,
+je lance Internet Explorer justement pour downloader Google Chrome,
+premier réflexe je tape Google.fr et là en gros,
+une grosse pub, téléchargez tout de suite Google Chrome, le navigateur Google.
+Et sur Firefox aussi d'ailleurs.
+La question que je me pose...
+Ils avaient promis de ne pas faire de publicité si ma mémoire est bonne sur la page de recherche Google,
+ils ont fait plusieurs exceptions, il y en avait une quand ils ont lancé le premier téléphone Android
+où ils avaient affiché une publicité en dessous de la zone de recherche
+et la deuxième exception c'est pour Chrome.
+Et il y en a une troisième parce que le Nexus One aussi est en pub sur la version américaine du moteur.
+Donc tout en dessous tu vois, connaissez-vous le Nexus One etc.
+Venez l'acheter.
+Alors la question que je me pose moi je vais vous dire ce que vous en pensez,
+c'est qui va le plus souffrir de ça,
+parce que c'est sûr que Chrome va prendre encore des parts de marché.
+Mais sur qui ?
+Firefox.
+Firefox ou Internet Explorer ?
+Ouais c'est une boule d'argent.
+Sur IA.
+À tous les coups sur IA.
+Ah Firefox.
+Moi je pense sur Firefox malheureusement.
+Moi j'ai peur aussi parce que j'ai vu des images du ballot screen si tu veux,
+et un truc que Microsoft a bien fait,
+parce que je pense que chaque éditeur choisit le texte qui est en dessous de l'icône du navigateur.
+Et Microsoft a bien mis en gros, si tu veux, justement Microsoft dessus.
+Pour je pense se bien lier au système d'exploitation,
+le fait qu'un tas d'explorers...
+Ça va rassurer les gens.
+Voilà.
+Oui et puis les trois quarts des gens ils installent Windows,
+enfin ils se font installer Windows et ils changent à rien,
+c'est-à-dire ils ne mettent pas un autre navigateur.
+Quelqu'un sur le site se prendra des parts de marché à Mosaic.
+Ah c'est exact.
+À Lynx aussi on m'a dit que Lynx allait perdre beaucoup de parts de marché.
+Mais je me trompe peut-être.
+Ça fait rire en tout cas, je pense qu'il est sérieusement condamné à crevainement.
+Bon, c'est un avis qui met personnel.
+C'est pas grave.
+C'est pas grave.
+On a autre chose à dire sur les navigateurs ?
+En même temps, Safari, il faut se souvenir que c'est le seul navigateur autorisé sur l'iPhone.
+Donc au moins il restera sur les produits Apple.
+Ça c'est vrai.
+C'est possible.
+Puisque l'iPhone est complètement fermé au niveau installation des logiciels.
+Ça peut-être changer le Nexus, un gros truc dessus,
+c'est qu'ils ont bien cité sur le fait qu'il y avait Flash 10 qui était installé.
+Parce que par rapport à l'iPhone, c'est une sorte de...
+On pourra aller voir Life That Mean alors.
+Enfin oui.
+Et on pourra jouer à tous les jeux Flash rigolos.
+Tous les émulateurs qui sont totalement interdits,
+tu pourras jouer avec sur Android.
+Trop top.
+Cool.
+On passe à autre chose.
+Et on va parler d'Adopie.
+On en parle toutes les semaines mais cette année, cette semaine,
+je suis perturbé.
+On va parler encore d'Adopie et de Police.
+Police.
+Pimponpon.
+C'est appelé Honnête.
+Police.
+Police de caractère bien sûr.
+T'as vu le jeu de mots.
+Parce qu'il y a deux personnes sur ce podcast
+qui n'ont pas entendu parler de cette histoire.
+Donc ils auront été sans vachement entendus parler.
+Surpris.
+Ils n'ont même pas entendu parler de cette connerie.
+Qu'est-ce que c'est l'Adopie ?
+Lors de ton père, tu pourrais me le mettre sur le cas s'il te plaît.
+Lors de ton père, il va nous faire une définition de l'Adopie.
+Je voudrais que tu me résumes la loi Adopie s'il te plaît.
+En une heure.
+Récoute le 18 précédent podcast.
+Tu en as pas parlé dans les 18 ?
+Non, c'est vrai.
+15 sur 18.
+Voilà.
+Donc vas-y, balance le coup de...
+Donc voilà, le logo officiel est sorti.
+Je vous la résume.
+Le logo officiel est sorti.
+Évidemment, tout le monde l'a regardé.
+Tout le monde s'est foutu de sa gueule.
+Mais 3-4 heures plus tard, quelqu'un a soulevé le gros poisson.
+A savoir que la police de caractère qui a été utilisée par Adopie.
+Eh bien, elle était piratée.
+Non.
+Oui et non.
+Alors, c'est une erreur.
+C'est une erreur.
+C'est pas qu'elle était piratée.
+C'est une erreur.
+Il n'avait pas le droit d'utiliser.
+Reprenons les choses.
+C'est une blague.
+Non, la police de caractère...
+Moi, je regardais quand même.
+J'ai comparé les deux polices.
+Elles ne sont pas exactement pareilles.
+Certes, 90% dans l'assemblance, mais...
+99%.
+Il y a bien eu un montage qui a été fait pour montrer la police de France Télécom
+et celle de...
+À part les deux lettres qui ont été retouchées pour faire le logo.
+C'est pratiquement identique.
+Mais pourquoi ne pas avoir acheté ces polices-là, tout simplement ?
+Tout simplement parce que c'est une police exclusive qui a été créée pour France Télécom
+et a son usage unique.
+Et donc, quoi que tu fasses, si tu veux, France Télécom...
+Pourquoi ne pas avoir choisi une autre police ?
+C'est la question.
+À mon avis, tout simplement parce qu'il doit avoir un stock énorme de polices.
+Le mec, il a choisi Opif et qu'il n'a pas eu ce même réfléchir.
+Le graphiste qui était payé 200 000 euros, il a fait...
+Je vais prendre celle-là.
+Et voilà.
+150 000 euros.
+Bonjour, monsieur.
+Pour l'emploi.
+Qu'est-ce que je peux faire pour vous ?
+Je viens de perdre mon emploi de graphiste.
+Je m'en retrouve.
+C'est un peu comme Jérôme Carviel.
+Il va avoir du mal à...
+Bien que tu me diriges les conneries.
+Il a trouvé un boulot, Jérôme Carviel.
+Très vite.
+C'est vrai.
+C'est vrai ?
+Et pareil qu'il y a une place qu'il attend à l'atelier de la santé.
+Mais je m'avance peut-être aussi encore un peu.
+Exactement.
+Bon voilà.
+Il n'y a pas grand-chose à dire de plus.
+Sinon que...
+Si vous allez chercher sur le site d'Olympi...
+Si, il y a une amende...
+Une amende, oui.
+Une histoire comme ça.
+J'ai lu une histoire d'amende de 40 000 euros, je ne sais pas quoi.
+Ah non, ça c'était pour...
+Frederic Lefebvre qui a pris une amende, je ne sais plus quoi.
+Ah bon ?
+Non, ça c'était une histoire de prostitution.
+Je ne sais plus, j'ai vu le truc.
+On a passé sur Twitter, vite.
+Ah...
+Il a coupé, il a tué et il a enterré quelqu'un.
+Non, je le comprends pas.
+Je comprends tout.
+On part un peu en live.
+Et voilà.
+Comme on commence avec une histoire de police de caractère bien innocente et qu'on tombe
+dans le grave bleu.
+Exactement.
+Et on dit merci qui ?
+Merci Manok.
+C'est Manok qui fait tout ce qu'il est coupable.
+Toujours lui.
+Bon voilà.
+Bref, juste pour dire un dernier truc.
+Ah bon ?
+Si vous avez des doutes sur cette histoire, vous pouvez aller sur le site d'Olympi.
+Vous cherchez Adepi, vous allez trouver le logo et vous pouvez comparer par vous-même.
+C'est le petit Do It Yourself, le petit atelier pratique de la soirée.
+Pour clore cette histoire de police, tu n'as pas raconté l'excuse officielle du créateur.
+Oui, alors l'excuse officielle de l'agence de com qui a été chargée du truc, c'est
+qu'il y a eu un souci informatique.
+Exactement.
+D'ailleurs, il y a un autre souci informatique, c'est que leur site ne marche plus actuellement.
+J'ai été aller une journée, enfin 24 heures après cette histoire-là, qui a été mis
+à jour et je suis allé voir dans le site et c'était fermé.
+Et peut-être que l'intégralité de leur site utilise la police en question.
+Peut-être que tous leurs documents et tous leurs clients utilisent la même police.
+Ils se sont dit, oh putain, on est dans la merde, il faut vite courtir le portfolio.
+Ils avaient une excuse d'assez mauvaise foi, ils avaient indiqué que c'était une version
+provisoire qui avait été diffusée, or c'est bien celle qui avait été enregistrée...
+À l'INPI.
+Puis alors là, tu l'as bien dans le cul pour expliquer qu'il y a une version provisoire.
+Oui, enfin bon, il y a toujours moins de ça à ranger, n'est-ce pas ?
+Et on me dit, attention, on dirait que le second logo déposé était aussi illégal.
+Donc voilà, vous avez de l'info.
+Super, bah ils sont doués quand même.
+On peut vérifier évidemment.
+On peut se demander, est-ce qu'il y avait besoin d'un logo à 200 000 roubles ?
+Personnellement, je te dis, moi je suis dans un truc comme ça, on me confie une mission pareille,
+je prends mon word, arial, hop, à 2 billes, c'est fini quoi.
+10 secondes, franchement, pas bon.
+C'est vrai que tout le monde n'est pas comme moi.
+Vous voulez du quick and dirty ?
+Je vous avais dit que je ferais vite ce soir.
+Allez, c'est quick ascendante.
+Alors, attention, le grand événement de la semaine dernière, c'était le CES 2010, donc on va faire un retour.
+Non, je déconne, en fait j'ai rien préparé pour le CES, j'y avais pensé.
+Juste deux mots, évidemment, la grosse tendance c'était les tablettes.
+Il y en a eu 12, je crois, qui ont été présentées.
+De chocolat ?
+Oui, des tablettes de chocolat, comme celles de Lord Tom Père.
+Les tablettes de Lord Tom Père.
+Et puis beaucoup de trucs sur la mobilité, et quand même quelque chose qu'un gentil auditeur m'avait envoyé,
+et j'ai perdu le lien, c'est malheureux.
+Vous savez que c'est la mode des AppStore ?
+Oui.
+Les AppStore ont toujours tort.
+C'est la soirée jeu de mots.
+C'est à tel point la mode des AppStore qu'il y a une société de porno qui a sorti la sex store.
+C'est peut-être toi qui m'avais envoyé l'info, je ne me rappelle plus.
+Donc voilà, vous pourrez télécharger aussi simplement que sur votre iPhone des films de boules.
+Il y a une autre info CES, c'est la 3D.
+Il y a un type qui a décidé de recycler 3000 fils de boules en 3D.
+Est-ce que tu les as tous acheté ?
+Il a retenu une seule news de CES, c'est celle-là.
+Il va enfin pouvoir regarder tous ses vieux films qu'il avait chez lui en théâtre triste 2D.
+Mais j'avais lu la news aussi, d'ailleurs tu me l'avais envoyée, je crois.
+Il faut savoir que toutes les news qui portent au sexe, Lord Tom Père nous les a envoyé.
+Oui, parce qu'il a une veille très efficace sur le mot sexe et le mot anus.
+Son Google Reader est rempli de mots anus.
+Non mais ça suffit de mots dégueulasses.
+Tout ça pour dire que c'est vrai, la 3D aussi, peut-être le succès d'Avatar oblige.
+Et puis ce que prévoit le cinéma pour 2010, c'était une grosse tannée au CES.
+On trouvait LG qui a sorti une télé 3D, un vidéoprojecteur 3D aussi.
+Est-ce que la technologie commence à s'améliorer sérieusement ?
+Disons que la 3D, j'ai l'impression que c'est une sorte de pas.
+Parce que moi je suis allé voir Avatar, il y avait des scènes qui étaient bien,
+mais des fois ça me dérangeait les yeux, je trouvais que c'était pas impeccable.
+Ce n'est pas impeccable.
+Je ne l'ai pas vu donc je ne pourrais pas te dire tout.
+Ce n'est pas impeccable.
+On me parle d'un scénar de dune avec des strombes de 2 mètres.
+James Cameron si tu nous entends, c'est un peu limite.
+Et on passe à autre chose.
+J'ai fait vite sur le CES, personne n'a torché le CES aussi rapidement que moi vous admettrez.
+Microsoft qui suspend enfin la vente de Word aux Etats-Unis.
+A cause d'un problème XML.
+Le fameux problème qu'on avait déjà parlé, je ne sais plus quand.
+Mais c'est uniquement certaines versions.
+Il y en a quand même pas mal.
+Il y a Word 2007 en espagnol, il y a Word 2007 version PME,
+qui est quand même une grosse partie du bordel.
+Je ne sais pas si Word 2007 a vraiment beaucoup remplacé le 2003.
+Ça commence, moi je vois souvent des documents 2Kicks passé, des XMLX, etc.
+ExcelX, XLSXX.
+Les .XXX, mais ça ne marche pas avec Word.
+Donc voilà, il n'y a pas grand chose à dire de plus.
+Bon, suivant alors.
+Si je vous parle d'un téléphone qui fait fureur en Angleterre,
+qui s'appelle le partyphone.
+Oui le partyphone bien sûr.
+C'est un téléphone à 20 livres, ce qui ne fait pas cher.
+Ce qui ne fait pas cher, ça fait environ 200 balles, soit 30 euros.
+T'as un convertisseur sur pâte mec.
+Ouais, t'as vu ça.
+C'est pas du tout parce que je l'ai noté.
+C'est converto ce mec.
+Donc en gros, c'est quoi ?
+C'est une sorte de téléphone portable jetable.
+C'est très intéressant.
+Une fois que t'as plus de batterie, tu le jettes, c'est ça ?
+Non, non, je crois que tu peux quand même le recharger.
+Mais disons que si tu le perds, tu ne pleures pas trois ans si tu veux,
+parce que t'as perdu ton téléphone.
+Pourquoi ça s'appelle le partyphone ?
+Parce que si les gens...
+Pour faire la fête.
+Quand ils vont faire la fête, quand ils sortent en boîte,
+et qu'ils prévoient de se faire se dominer dans un coin derrière le bar,
+ils se disent putain, je vais niquer mon iPhone et quand même ça coûte 600 euros cette connerie.
+Donc ils achètent un partyphone à côté.
+Ils changent la sim.
+C'est pas con.
+C'est vraiment pas con comme histoire.
+Et donc c'est un petit téléphone fait exprès pour les poches de jeans.
+Et enfin bon, bref, tu le perds, tu ne pleures pas.
+Et c'est un bon succès parce qu'ils ont quand même vendu 10 ou 20 000 jeux.
+C'est un téléphone pour les gens de la nuit.
+Oui mais le problème c'est que tu perds quand même ta carte de sim,
+il faut la rejeter tout ça.
+Il faut mieux perdre la carte de sim que de perdre un iPhone je pense.
+Oui, il faut mieux perdre la carte de sim que de jouer au sim.
+Avant de le jeter, il faut récupérer la carte de sim.
+Oui, sauf si on te l'a volé.
+Il y a aussi l'histoire du vol.
+Et d'ailleurs une pensée à sim.
+Oui, sim.
+Qu'on n'ait pas pu casser dans un téléphone portable,
+même s'il était limite limite pour rentrer, ils ont essayé quand même.
+Ça devient n'importe quoi.
+Je vois pas du tout pourquoi tu dis ça.
+T'as de news ou pas ?
+Oui, j'en ai plein.
+Allez.
+J'ai encore le temps ou pas ? Qu'on me dise.
+Oui, t'as le temps.
+Parce que j'ai encore mes gadgets, j'ai encore tout ça.
+Pour voir l'ordre de ton père qui est en train de pleurer.
+Non, pas du tout.
+Faudra juste me laisser une heure et demi pour parler des logistiques de livres.
+Ce qui est assez amusant, je suis ébarré des trucs mais c'est toujours aussi long.
+Ah bah c'est toujours aussi long.
+Allez, on va faire vite.
+Alors la Chine qui souhaite établir une véritable liste blanche,
+tu n'es pas sur liste blanche et ton site est interdit.
+Exactement.
+C'est normal.
+C'était pas en France ?
+Non.
+Non, ça c'est l'année prochaine pour la France.
+C'est bientôt.
+Ça arrive.
+La petite surprise 2011.
+Est-ce que quelqu'un a quelque chose à dire dessus ?
+C'est pas bien.
+La suite, c'est normal.
+Encore une triste nouvelle, AOL France ferme définitivement ses portes.
+On s'en fout.
+AOL Allemagne devrait suivre bientôt.
+Et selon mes prévisions, AOL tout court ne devrait pas tarder non plus.
+Ils sont séparés de Warner, non ?
+Ah oui, ils n'en voulaient plus.
+Ils ont fait, qu'est-ce que c'est que cette merde du tout ?
+C'est quoi ce gros trou dans notre budget ?
+En fait, AOL a perdu ses ailes.
+Les clients d'AOL n'avaient pas été rachetés en France par un autre opérateur.
+Par SFR ou MiniTel.
+Exact, en France.
+Ils avaient laissé ouvert la société uniquement pour les services.
+Exactement, c'était la régie publicitaire qui restait et le portail AOL France.
+Le truc qui monte.
+Que personne n'utilise.
+Que plus personne ne devait utiliser, je le confirme en ce cas.
+Mais AOL, ça marche encore assez bien aux Etats-Unis, je crois.
+Plus longtemps.
+Il y a des tas de boîtes comme ça au final.
+Il y a encore des tas de mails en OneAdo.
+Mais c'est eux qui avaient racheté Netscape, non ?
+Qui sortent de temps en temps une version reskinnée de Firefox et qui réappellent Netscape.
+Ils l'ont arrêté maintenant.
+Dans mon souvenir, ils avaient racheté Netscape.
+Au bout d'un moment, ils avaient décidé de le laisser tomber.
+C'est l'équipe de Netscape qui s'était barrée pour faire Mozilla, non ?
+Oui, mais après, ils ont réutilisé le Firefox qui avait été fait.
+Pour faire leur navigateur propriétaire.
+Ils l'avaient mis aux couleurs d'AOL et ils l'avaient rebaptisé Netscape.
+Ça a fait un flop et ils l'ont arrêté encore.
+C'est possible.
+Je suis sûr que quelqu'un va racheter les licences.
+Ça fait longtemps qu'AOL ne réussit plus à rien faire de bien.
+Ça fait 15 ans. Ils ont déjà fait quelque chose de bien.
+Ils faisaient le faux internet que tu as acheté sur des CD en librairie.
+Je me rappelle de l'époque où il y avait un internet fermé.
+Quand tu installais le CD AOL sur ton ordi, il te pourrissait de DLL.
+Et tu ne pouvais plus le désinstaller quasiment.
+Je me rappelle que quand je travaillais la hotline de Free,
+pour désinstaller certaines fois quand ça avait merdé sur 98,
+c'était à l'époque du RTC,
+il fallait que je demande au mec sur le téléphone de changer leur base d'enregistre sur Windows.
+Je ne te cache pas que quand tu commençais cette opération-là,
+tu savais que le mec avait une chance de nous voir son ordinateur crever.
+Mais tu y allais quand même, c'était ça.
+C'était ça la grande époque.
+Alors monsieur, vous allez dans la base d'enregistre.
+Mais c'est quoi ?
+Vous allez dans menu Démarrer, Exécuter.
+Mais qu'est-ce que c'est ?
+Vas-y, clique, fais pas chier.
+Et généralement, c'est là que tu raccroches la gueule du mec.
+Je suis au milieu de la base d'enregistre.
+Qu'est-ce que je fais ?
+Merci, bonjour le service.
+Surtout que ça coupait au bout de 30 minutes.
+Oui, ça coupait au bout de 29 minutes exactement.
+Les types comme ça, c'était toi en fait.
+C'est pour ça que si à l'époque...
+Je ne sais pas comment c'est maintenant, ça fait 10 ans que je ne travaille plus chez Free.
+Mais à l'époque, quand tu décrochais au téléphone,
+tu ne donnais pas ton nom, tu donnais le nom d'un collègue de l'autre côté de la salle si possible.
+Bonjour, c'est Robert.
+N'hésitez pas à me rappeler surtout si ça coupe.
+Robert, il y a quelqu'un qui veut te parler.
+Ouvrez le robinet, préparez un bain.
+Je suis au milieu de la base d'enregistre.
+J'ai tapé 666, qu'est-ce que je fais ?
+Quoi ? Qu'est-ce que c'est que cette connerie ?
+Balancer un solo sur l'ordinateur, c'est mieux ça.
+Au pire, on les a envoyés chez Microsoft
+quand vraiment ça merdait à mort.
+On disait que c'était à faute de Windows.
+C'est pas mal.
+J'ai quelques auditeurs sur le tchat qui me parlent d'Infony.
+Oh, Infony !
+Oui, je m'en souviens aussi.
+Remarque, on avait une autre excuse chez Free à l'époque.
+C'est quand vraiment ça merdait,
+et une fois sur deux, on avait une réponse positive.
+Est-ce que vous avez déjà installé un CD d'AOL avant ?
+Et si le mec te répondait oui, tu disais
+c'est de la faute du CD d'AOL, ça installe plein de merde partout,
+il faut les appeler.
+Par contre, si on vous sort ça maintenant
+que vous avez des problèmes d'ADSL, ça ne marche plus,
+il ne faut pas vous laisser faire.
+Au final, je ne sais même plus de quoi on parle.
+Ce n'est pas grave.
+Ça va peut-être intéresser des gens.
+Je vais vous parler d'un article que j'ai lu
+sur le blog de Corben.
+Il parle de la première conscience artificielle
+en 2018.
+Je la connais, la première conscience artificielle.
+C'est SkyNet ?
+Il y a des morceaux d'humains là-dedans.
+En gros, je vous explique,
+c'est un professeur, le professeur Henry
+Markman,
+qui affirme
+qu'en fait la conscience, si tu veux,
+ce n'est pas un problème de magie
+ou de choses de niveau qu'on n'a pas découvert,
+c'est simplement une question de puissance.
+Ce qu'il va faire, c'est qu'il va prendre
+comme exemple un cerveau drap et il va reproduire
+et simuler exactement la même chose
+dans un ordinateur. Et selon lui, normalement,
+la chose devrait prendre conscience.
+Ça va la conscience d'un rat ?
+Autrement dit, 10 000 rats égale un être humain.
+C'est un peu le principe.
+Une fois qu'on a le truc du rat,
+on va créer un cerveau qui ressemble à celui
+de l'être humain.
+Il dit qu'on est simplement des sortes d'animaux
+de base un peu plus puissants que les autres.
+C'est un peu le principe.
+Quel cerveau d'être humain il va prendre à l'origine ?
+C'est des rats, on t'a dit.
+Il multiplie les neurones et il voit le résultat.
+Ça va être Splinter, le truc ?
+Et quoi, bon gars ?
+Ça va être la fête ?
+Quand le truc a pris assez conscience pour savoir
+qu'il faut éliminer celui qui l'a créé,
+c'est qu'on a réussi à faire un être humain.
+Pour la prochaine news, j'ai quelque chose d'amusant.
+Ceci est une expérience
+qui n'a jamais été tentée dans un podcast avant.
+Nous avons une énorme
+image imprimée
+en miniature sur un 3 en noir et blanc
+absolument illisible. Et nous allons le passer à l'ordre
+pour qu'il nous lise ce qu'il y a dessus.
+Alors attention, nous allons voir s'il arrive à lire
+Manox et Antistress vont l'aider.
+De quoi s'agit-il leur campère ?
+Manifestement, il s'agit de porno.
+Voilà, il a tout compris.
+Alors de quoi ça parle ?
+The numbers behind pornography.
+Il y a des hauts et des camen verts.
+C'est fin, c'est très fin.
+Ce sont des statistiques sur la pornographie
+que j'ai trouvées sur je ne sais plus quel site
+parce que je surfe sur des trucs pas possibles.
+Je te laisse les liens.
+Je ne sais pas si j'ai pas réussi, c'est trop petit.
+Vous êtes aveugle.
+Manox va le faire, c'est parfait.
+Alors ils disent quoi les chiffres ?
+Ça m'a l'air ignoble tout de suite.
+Long before people started
+streaming pornography to their mobile phones,
+cavemen were painting
+depictions of sexual acts
+on cave walls.
+Ça c'est le texte qui défile
+au début de Star Wars, non ?
+Commence ici.
+Antistress va nous faire la lecture.
+Je suis dans le noir.
+Il m'a mis dans un placard,
+je n'ai même pas la lumière.
+Sexe and porn
+are among the top 5
+church terms for kids
+under 18.
+J'ai pas mis en français.
+Les recherches des enfants
+de moins de 5 ans,
+il n'y a pas que des enfants.
+Recherche majoritairement sexe et porn.
+C'est dégueulasse.
+Je pense que tout le monde l'expérimente chez lui.
+Je vais lire la suite.
+Et passe-moi une bière en même temps.
+Ça me fait peur cette feuille.
+Ils ne vont pas tout lire non plus.
+Here are some numbers
+behind the porn industry.
+43%
+43% of all
+internet users view
+pornographic material.
+1 out of 3 are female.
+Qu'est-ce qu'il dit ?
+Airfumule.
+Traduction.
+Voilà.
+Le son d'anglais en direct.
+Il faut traduire depuis le début.
+33%
+des internautes
+s'astiguent derrière leur écran.
+43%
+43%
+Je vois quelqu'un en train de se pendre sur le chat.
+Les internautes s'astiguent derrière l'écran.
+L'ordinateur laisse pas.
+1 out of 3
+c'est une nana.
+Je continue.
+On va pas parler de ça.
+It will be very quickly.
+The average time
+for watching internet porn
+is 15 per session.
+15 minutes
+per branlette.
+C'est un podcast pour l'export
+qui sera diffusé aux Etats-Unis.
+Le record de l'ordre
+de ton père est battu.
+Je résume à la fin.
+San Fernando
+produce
+90%
+of all pornographies
+et réalise
+20 000
+adulte movies
+derrière.
+20 000 ?
+Lise un chiffre
+sur la carte des Etats-Unis.
+Tu as un autre chiffre.
+Tu l'as lu ?
+Non, c'est pas celle-là.
+C'est celle où il parle d'un Etat
+le plus consommateur.
+C'est chez les mormons ?
+Les plus gros consommateurs.
+Per capita.
+Utah.
+La truc intéressante
+dans la fois.
+Female pornstars can make
+anywhere from
+1000
+to
+2000
+anuali
+dollars.
+Anuali.
+J'ai rien compris mais c'est pas grave.
+Entre 100 000 et 250 000 dollars
+pour une actrice porno par an.
+Par contre, le mairage mal porne, c'est less.
+Parce que c'est 40 000
+per annuali.
+Tout ça pour vous dire une chose.
+Attention, si vous téléchargez
+du porno au boulot, vous pourrez pas avec licence.
+Il y a eu un arrêt
+du 9 décembre 2009.
+La Chambre sociale
+a considéré que la seule conservation
+de photos à carrière pornographique
+est zoophilique
+sur le poste
+en l'absence de constatation
+d'un usage abusif
+ne constitue pas un manquant aux habilitations.
+10 000 photos,
+non, ce n'est pas un usage abusif.
+Si tu as du cul sur ton ordinateur, ça va.
+Si tu te branles, demande ton ordinateur au travail,
+tu fais perdre du temps de travail à ton patron
+et là, c'est un cas qui peut nécessiter un licenciement.
+Si je me souviens bien,
+on a le droit d'avoir une
+parcelle personnelle sur son lieu de travail
+et si vous voulez pas être emmerdé, vous mettez tout ça
+dans un dossier que vous appelez personnel
+et normalement, ils peuvent pas l'utiliser contre vous.
+C'est sûr que le patron, quand il va voir le dossier personnel,
+il va pas du tout cliquer là-dessus.
+Par contre, il va trouver un autre prétexte pour vous virer
+mais il pourra pas utiliser en justice, je crois,
+le contenu de ce répertard.
+C'est amusant, je savais pas ça.
+Comment tu sais ça d'ailleurs anti stress ?
+J'ai quelques images de poney
+au boulot.
+Car le poney, c'est le bien.
+Et une dernière chose avant de passer au gadget,
+et c'est une question,
+avez-vous vu la bande annonce
+du jeu massivement multiplayer Lego ?
+Ah bah oui, bien sûr.
+Qui est d'ailleurs disponible
+sur le site du CaptainWolf.net.
+C'était pas du tout de la publicité mais si quand même un peu, vous pouvez aller le voir.
+Franchement, c'est étonnant
+et ça a pas l'air mal du tout.
+Juste pour vous dire que ça m'avait surpris.
+Donc ça vaut le coup.
+Il y a des zombies en plus dedans.
+Gadget USB ?
+Oui.
+Alors attention, on commence très fort et je vais remercier
+encore l'auditeur de la semaine dernière
+qui nous a envoyé toutes ces bonnes infos.
+Presque toutes.
+Attention, on commence par le plus trash, le plus gore,
+le test de grossesse USB.
+C'est fun ça.
+Alors je vais vous laisser deviner comment ça marche.
+Et laisse-moi deviner, ça tweet automatiquement.
+Comme ça si ton mari suit le truc sur Twitter,
+tweet, je suis enceinte.
+Mais je suis à l'étranger depuis 3 mois, salope !
+Qu'est-ce que t'as fait ?
+Je sais pas si ça tweet,
+mais en tout cas, comment est-ce que ça fonctionne ?
+Tu branches ça en USB,
+tu te fous le truc dans le...
+Non mais ça suffit !
+Et puis t'as une fenêtre pop-up
+qui te fait alerte. Fais-toi l'erreur.
+Fais-toi l'erreur.
+Fais-toi l'erreur.
+Attends, ça veut dire que...
+Your virgin is infected.
+On a trouvé le titre de la mission.
+Nous avons trouvé un virus, quoi.
+Et là t'as Kaspersky qui s'allume.
+Mais ça veut dire qu'elle doit uriner
+sur l'USB de bosse sur l'ordinateur.
+Si en moi, quand Kaspersky a trouvé
+le virus, enfin le prétend du virus,
+il essaie pas de l'éradiquer quand même.
+Après t'as le gadget USB
+de Kaspersky, c'est une sorte de bosse
+qui branche sur l'USB aussi.
+C'est l'USB du lendemain.
+On va arrêter là.
+C'est tout ce qu'il veut dire là-dessus ?
+On se croirait
+en pleine rubrique de quacoss.
+Je vous explique vaguement trois étapes.
+Tu pisses sur le test de grossesse USB.
+Je vois Clark Topper en train de s'étouffer.
+Tu branches le test
+de grossesse USB
+sur ton ordinateur et tu as une petite application
+qui s'ouvre et qui te donne
+non seulement de savoir A, enceinte,
+B, pas enceinte, et surtout ton taux
+d'hormones. Et qui est le père, non ?
+Non. Ah, bien que peut-être qu'il y ait
+une recherche plus tard sur Google dans le futur.
+Trouvez qui est le père.
+Recherche encore.
+Trois millions de possibles.
+Il y a John Mixen qui dit
+Fetal Error.
+On l'a déjà dit ?
+Fetal, Fetal Error.
+Trop marrant.
+On passe à la suite peut-être, non ?
+Et ce coup-ci, je vais vous parler
+du dérouleur papier VC iPod.
+139 euros, faut pas rigoler.
+Le dérouleur iPod ?
+Oui, le dérouleur de papier Q iPod.
+Ah, tu peux écouter la musique en te torchant les fesses.
+Alors, je t'explique, tu as un dérouleur de papier Q, sauf que sur le dessus
+tu as un petit emplacement pour être ton iPod, et de chaque côté
+de ton papier Q, là où tu mets le rouleau,
+tu auras deux haut-parleurs. C'est cool.
+Tu peux donc écouter
+le podcast du Captain en te torchant
+le sphincter. Voilà, exactement.
+Et attention, attention, le plus fort,
+c'est qu'une fois que tu as fini tes petits besoins,
+si tu ressens le besoin d'avoir des enceintes
+quelque part, tu peux le détacher de ton rouleau à papier Q
+et l'emmener en vacances avec toi.
+Les trois dernières news.
+Je tiens à le faire quand même.
+Fetus, urine, caca, j'ai oublié quelque chose.
+Urine et
+Fetus, c'était la même news.
+Ah, non, ça suffit maintenant.
+On va revenir dans quelque chose
+de plus vert. C'est la news qu'on double.
+On va revenir à quelque chose de plus joyeux.
+Avec la Greenhouse
+USB.
+En gros, c'est quoi ? C'est une sorte de
+serre que tu vas brancher en USB sur ton PC
+avec une petite lampe pour faire pousser des graines à l'intérieur.
+Les graines sont fournies,
+mais je pense que tu peux à peu de frais
+le remplacer par des graines de pavot
+qui te permettra...
+Quelle est la puissance de la lampe ?
+Je ne sais pas, mais la puissance
+de la lime, je pense qu'il faut quand même
+prévoir. Evite de brancher ça sur ton vaillot,
+ça va pas le faire.
+Je me trompe peut-être.
+Je voulais te trouver
+la clé USB en poule
+qui change de couleur en fonction...
+Oui, je ne plaisante pas, la clé USB en poule
+comme une ampoule que celle que tu fous
+dans ton plafonnier, sauf qu'elle
+change de couleur en fonction du remplissage de la clé.
+Je ne te cache pas que
+vu comme ça, ça n'a pas l'air super pratique parce que
+c'est une vraie ampoule laronde, la grosse.
+Forcément, il faut peut-être soulever un peu le PC pour la faire rentrer,
+mais pourquoi pas.
+L'idée est sympa, franchement.
+J'ai un dernier gadget à la con.
+Celui-là est tout simplement fantastique
+parce que la souris, c'est bien,
+mais c'est encore mieux si elle fait aspirateur.
+Donc, ça se branche en USB
+et voilà, vous avez un petit bouton sur votre souris
+et plutôt que de bouger votre souris pour faire un truc,
+en même temps, vous pouvez déclencher le mode aspirateur
+et vous nettoyer votre tapis de souris.
+Il faut un hub USB suralimenté.
+Si tu veux brancher tout ça en même temps,
+je pense que t'as intérêt à prévoir.
+Parce que si t'as l'aspi,
+l'ampoule,
+le test de grossesse,
+le coup de l'aspi après le test de grossesse,
+ça peut être sympa, c'est un peu bissé à côté.
+Je ne sais pas si ça marche avec le liquide.
+Merci Kwakos, merci.
+Voilà, tout ça pour dire que c'était les
+gadgets à compte de la semaine,
+et si vous en avez d'autres, n'hésitez pas à nous les envoyer.
+Surtout, toutes les semaines, nous sommes à la recherche des choses les plus connes.
+Antistress, un commentaire sur les gadgets USB ?
+Non, non, ça a l'air marrant.
+Je pense qu'il faut les tester pour bien en parler.
+Personnellement, je pense que t'as dû passer par là, non ?
+Personnellement, je pense que t'as dû passer par là, non ?
+Aucun nouvel équipé pour tester le test de grossesse,
+mais ça dit, si quelqu'un est doté...
+Tweetoseuse.
+Tweetoseuse.
+Tweetoseuse.
+J'ai rien oublié ? Il manque quelque chose ?
+Il manque un truc ! Qu'est-ce qu'il manque ?
+Il manque un truc !
+Qu'est-ce qu'il manque ?
+Je ne sais pas, si je n'ai pas de jingle, je ne peux pas lancer la news.
+Qu'est-ce qu'il manque ? Je ne sais pas.
+Et la minuta, Marc Dorsel.
+Pour toi.
+Ma que belle.
+Marc Dorsel.
+Ah putain, ce que j'adore, c'est le jingle.
+Il est tout simplement fantastique.
+Je repasserai même une deuxième fois.
+Ah putain, j'ai perdu la belle image que je voulais vous montrer.
+Bon, ce n'est pas grave.
+Tout ça pour vous dire, oui, il y a une news de Marc Dorsel.
+Il y avait plein de news Marc Dorsel, on en a envoyé plein.
+Mais j'en ai sélectionné une seule.
+C'est le calendrier 2010 Marc Dorsel.
+Attention.
+Offert gratuitement.
+Il a une petite chose en plus.
+Il se branche en USB avec le test de grossesse.
+Je n'ai pas l'image pour vous la montrer.
+Mais je suis sûr que quelqu'un va nous l'envoyer
+sur le chat d'ici 5 secondes.
+Alors attention, c'est un calendrier gratuit.
+Vous pouvez le télécharger gratuitement.
+Delicious.com slash Captain Web.
+Je vous ai mis le lien, bien sûr.
+Et attention, oui, quelqu'un a trouvé sur le chat.
+Effectivement, il y a trois mains dans le calendrier.
+Sur le mois de janvier, si je me souviens bien.
+Avec deux mains de la nana et celle de Marc Dorsel.
+Il y a deux nanas.
+Mais il y a trois mains.
+Dont une qui a été absolument oubliée
+lors du rôle à la retouche Photoshop.
+Qui est derrière les fesses de la gonzesse.
+Mais franchement, il faut voir le truc.
+Malheureusement, j'ai paumé l'image ici.
+Est-ce que c'est sûr que ce n'est pas un gadget USB
+ou une main USB qui permet de trépoter les fesses en permanence ?
+Oh écoute, a priori, non.
+Je ne pense pas.
+Ça a l'air d'être une véritable main.
+Et c'est vraiment bête parce que je ne l'ai pas.
+Parce que ça me rend triste.
+Ah oui, en effet, on voit une main aussi qui est sur le bras.
+Ah, quelqu'un a balancé le lien ?
+Alors à moi, que la jeune fille de gauche
+ait un bras extrêmement long.
+Ah voilà, quelqu'un a balancé le lien.
+Donc voilà, exactement. Vous pouvez le voir à l'image.
+Quoi qu'ose, je t'invite à venir regarder l'écran
+pour voir un peu à quoi ça ressemble.
+Donc tu repéras, il y a effectivement
+une, deux, trois mains.
+Mais il y en a une quatrième
+qui apparaît de quelque part des tranches.
+Peut-être des fesses de la dame
+qui est sur le canapé.
+Mais il n'y a que quatre mains sur cette image.
+Oui, mais il y en a une qui manifestement
+ne peut pas être à la femme derrière, à moins qu'elle ait un bras
+de deux mètres de long.
+À moins qu'elle ait un bras extrêmement long.
+On lui aura demandé de tester
+le test de grossesse USB.
+Ce n'est pas les mains qui sont longues dans ces films-là.
+Ah, c'est peut-être quelqu'un qui est dans ses fesses.
+Je n'ai pas évoqué cette possibilité.
+C'est peut-être un nain.
+C'est possible.
+On va pouvoir pas l'enterrer.
+Moi c'est une bonne nouvelle.
+Sur le tchat,
+on me dit que c'est plutôt Giancucco.
+Oui, mais en même temps, il y a une main
+bien féminine.
+Allez, je vais laisser la parole à qui ?
+Est-ce que je laisse la parole à leur père
+ou est-ce que je laisse la parole à l'antistress ?
+Euh...
+L'antistress en principe parle
+juste après moi.
+On va laisser la parole à l'ordre de ton père pour sa rubrique.
+C'est la rubrique de l'ordre de ton père, là ?
+Ben oui.
+Bienvenue sur la rubrique de l'ordre de ton père.
+L...
+T...
+P...
+C'est chaud.
+Initialement, je n'avais prévu de ne rien dire.
+Et de laisser à antistress toute
+la charge de cette
+moitié d'émission, de ce milieu d'émission.
+Et comme le rapport Zellnick est sorti
+le 6 janvier, je n'ai pas pu m'empêcher
+d'en parler cette semaine.
+Moi aussi, j'en voulais en parler, mais tu m'as tout volé.
+Et oui, je sais.
+Le rapport Zellnick, Valère.
+Le rapport Zellnick.
+Alors le rapport Zellnick
+a été remis à notre ministre de la culture
+le 6 janvier dernier.
+Alors, pourquoi un rapport ?
+Parce qu'il faut rapporter.
+C'est une première
+explication.
+Allez, capitaine.
+Donc, le gouvernement avait confié en septembre dernier
+à plusieurs personnalités une mission sur l'offre
+légale de téléchargement et sur les mesures
+d'accompagnement.
+De la loi Adopie 1 et 2.
+C'est le volet positif.
+Mais qu'est-ce que la loi Adopie ?
+Effectivement, la loi Adopie, c'était
+la partie sanction, mais le gouvernement l'avait promis.
+Il faut aussi
+proposer quelque chose à côté.
+L'offre légale. Alors, qui sont les
+auteurs de ce rapport ?
+Trois personnes principales. On va quand même
+les citer. Tout d'abord, monsieur Patrick Zelnick.
+Alors, il a travaillé pour Virgin France,
+ce monsieur. C'était un copain
+de Richard Brunson. Il a fondé
+ensuite, en 1997, son label
+qui s'appelle Naive Record.
+C'est le label indépendant français.
+C'est le label de Carla.
+Exactement. Donc, il produit
+Carla Bruni, qui est l'épouse d'une certaine
+personne.
+Qui l'appelle mère d'une autre personne.
+On m'a dit que c'était l'amende de quelqu'un
+aussi.
+Deuxième
+coauteur de ce rapport,
+monsieur Toubon, que nous connaissons tous.
+Ancien garde des Sceaux, ancien ministre de la
+culture aussi. Et membre de l'ADOPI,
+si je ne me trompe. Et membre de l'ADOPI.
+Alors, on se souvient également de monsieur
+Toubon. C'est lui qui avait été chercher un procureur
+qui était en vacances. En hélicoptère.
+Parce qu'un autre, l'adjoint des procureurs
+avait décidé d'entamer une procédure judiciaire
+contre un homme politique. C'est la seule
+qu'on connaît professionnelle. Voilà.
+Et enfin, dernier participant, dernier
+coauteur, Guillaume Serruti. Je fais ma petite recherche.
+C'est une marque de vêtements ?
+Pas du tout. C'est le PDG de Sotheby's France.
+Sotheby's France ?
+Sotheby's.
+Il y a un problème d'accent dans ce cas-ci. On va tout vous faire réviser avant.
+Tout le monde a un accent pourri ici.
+Avant, il était directeur général
+de la concurrence et de la consommation au ministère
+de l'économie et des finances. Voilà pour le
+cadrage. Un bon poste de branle-couille.
+C'est bien cadré. Alors,
+le rapport, vous pouvez tous le trouver pour vous faire
+votre propre idée. Lisez-le.
+Il fait combien de pages ?
+150 pages. Le PDF...
+Sans moi !
+Attention aux petites précisions.
+Le PDF fait environ 150 pages, un tout petit peu moins.
+En caractère 18. Votre serviteur
+l'a lu pour vous. Il est disponible sur Kindle ?
+Il est entièrement écrit avec la police Adopi
+qui prend beaucoup de place. Voilà.
+Alors, il faut savoir que ce magnifique rapport
+comprend d'abord une synthèse
+et des annexes qui expliquent les propositions.
+Le résultat d'un sondage dont il faut
+absolument que je vous parle, qui a été réalisé
+en septembre 2009 à l'appui de ça.
+Et puis d'autres choses, je vais aller
+au plus simple. Le contenu
+du rapport. Alors d'abord le sondage. Sachez
+qu'il fait déjà à peu près 60 pages.
+Avec caractère de police énorme
+camembert partout. Le sondage ?
+C'était quoi comme sondage ? Ils ont interrogé qui ?
+Ils ont interrogé un panel qui est censé être
+représentatif des Français. D'accord.
+Donc, à savoir des personnes entre 50 et 80
+ans à qui ont demandé leur avis sur le piratage.
+Il est à Los Angeles ou il est revenu à Paris ?
+On ne sait pas.
+Quelle partie du corps ? Je crois que c'est...
+Il me semble
+qu'il y a plusieurs organes qui ont pris de l'avance.
+Je crois que sa main a fini chez Marc Dorsel d'ailleurs.
+Ah, la main gantée.
+Alors dans le sondage
+ils ont réparti les gens
+qui ont interrogé en internaute,
+pirate,
+et exclusivement pirate.
+Ceux qui vraiment
+ont une déontologie n'ont rien de légal.
+Zéro, zéro, zéro, zéro.
+Des salauds.
+Ça c'est les gens qui ont la page d'accueil
+sur PirateBeck.
+Je n'ai jamais piraté, je pirate de temps à autre,
+Captain Web.
+Alors je vais absolument pas vous expliquer
+les réponses aux diverses questions,
+je vais juste vous faire part de ma
+synthèse de ce sondage.
+C'est que primo, quelle que soit la catégorie,
+les gens répondaient tous de la même manière.
+Que ce soit internaute, semi-pirate
+ou pirate total, ils répondaient tous de la même
+manière. Faut-il brûler les personnes qui
+cherchent Johnny ? Oui, oui sûrement,
+évidemment.
+Deuxième conclusion,
+donc vraiment la distinction n'avait pas grand intérêt.
+Deuxièmement,
+clairement les internautes sont primo
+des crevards, ils veulent pas
+raquer, c'est clair. Ça je m'en suis rendu compte
+que sur le dernier article que j'ai fait. Et deuxièmement, ils sont comme nous,
+ils sont tous pauvres.
+Ça ressort vraiment du truc, ils veulent pas
+payer s'il y avait une formule illimitée.
+Alors il y en a que la moitié qui est prêt à
+accepter une formule illimitée pour télécharger
+des musiques, par exemple, ou des films. Et tous,
+ils ne veulent pas payer plus de 7 euros par mois,
+maximum. En même temps, vu les merdes
+qui sortent, franchement, je suis pas sûr que ça veille plus.
+Et la dernière question du sondage, ils ont eu le courage
+de la poser, et qui concernait l'adopie,
+ils posaient la question à tout le monde, est-ce que vous pensez
+que l'adopie va servir à quelque chose ?
+Et c'était totalement unanime, tous
+non, ça ne sert à rien.
+Oh la vache, le super sondage quoi !
+Allez lire le sondage. Alors, revenons
+à des choses plus sérieuses, quelles sont les propositions
+qui sortent de ce rapport ?
+Aucune !
+À côté du sondage, il y avait des consultations
+qui avaient été envoyées avec des questionnaires envoyés aux professionnels,
+et la mission zénique
+a refusé d'entendre, par exemple,
+l'association 50 millions de consommateurs, etc.
+Par contre, ils n'ont évidemment
+pas voix au charpit, ce n'est que des consommateurs
+qui paient. Par contre, ils ont entendu la quadrature
+du net. Parce que
+au début, je croyais qu'ils ne l'avaient pas entendu, et j'ai vérifié
+dans le listing des personnes auditionnées,
+et ils y figurent.
+Pas le grand patron, sans se boucher
+les oreilles.
+T'as vérifié le listing ?
+Il y a un listing qui est dans le rapport,
+et qui indique toutes les personnes qui ont été interrogées.
+C'est bien amusant quand même ?
+Oui. Alors, les propositions,
+et la Captain Web va les commenter avec moi.
+Captain Web ! Captain Web !
+Continue, continue.
+Premièrement, refus
+du système de licence globale. C'est clairement
+dans le rapport, mais ils envoient notamment
+balader la SACEM, qui voulait un euro
+ou deux euros, une petite taxe supplémentaire.
+La SACEM, ils voulaient pas de licence globale,
+ils voulaient juste récupérer l'argent en plus, sans rien en échange.
+Ils sont fait envoyer balader comme la licence globale.
+Ils ont pas à glisser un mot à propos de la
+taxe qu'on paye actuellement sur les CD sur tous les supports
+de stockage ?
+C'est à qui ?
+Là, c'est la commission d'Helby, je crois.
+Il y a un proverbe dans le Nord, ce qui a valé n'a plus de goût.
+C'est un bon proverbe.
+C'est la même expression chez Marc Dorsel.
+Je connais certaines
+boîtes qui sont en Belgique.
+Ma grand-mère ne l'utilisait pas dans ce sens-là.
+Elle demande des CD et des DVD en Belgique qui se font
+des couilles en or, les enfants, je vous le dis.
+On m'a dit qu'il y avait des actions comme Telweb.
+CDfolies.com
+Tu seras puni.
+La grande innovation du rapport,
+la grande innovation,
+c'est la carte musique en ligne.
+Grosse, bonne idée.
+Ça, c'est vraiment l'idée du siècle.
+À mon avis, c'est une grosse connerie pour ma part.
+L'idée est la suivante.
+C'est-à-dire que l'Etat va mettre en place une carte
+musique pour aider
+le Jones
+qui a trop pris goût à ce qui est gratuit pour
+l'inciter à revenir vers le monde merveilleux du payant.
+Donc l'Etat va
+fournir cette jolie carte, un peu comme
+l'échec cadeau, enfin j'en sais rien.
+L'Etat en paiera la moitié
+et l'internaute en paiera l'autre moitié.
+Il ne reste plus que 8 euros à payer.
+Il faut quand même préciser certaines choses qu'on dit.
+L'Etat en paiera la moitié, il faut dire que c'est nous
+qui paierons la moitié par l'intermédiaire de l'Etat.
+Mais oui, évidemment.
+Mais il faut le préciser, ça fait toujours plaisir.
+Ce qui est derrière ça, c'est
+de réhabituer l'internaute
+à payer.
+Oh vas-y, je vais acheter 50 cents avec les 200 euros.
+J'achetais l'intégral de 50 cents, ouais ouais.
+Ouais gros.
+La deuxième idée,
+c'est de favoriser le décollage de la musique en ligne.
+Oui, je l'ai coupé, j'assume.
+You don't mess with 50 cents.
+You don't mess with Arabic motherfucker.
+You know what I'm saying?
+Yo yo yo.
+LTP motherfucker.
+Yo yo yo.
+Alors moi, à mon avis, l'idée est mauvaise.
+Vous admirez ce que vous en pensez, les amis autour de la table.
+C'est que si elle était arrivée au début des années 2000,
+ça aurait été une bonne mesure.
+10 ans plus tard, ça me semble idiot.
+La gratuité, de toute façon, on est entré dans les meurs.
+Puis il y a des systèmes parfaitement légaux qui sont gratuits.
+Et qui marchent très bien.
+Les ventes de musique en ligne décollent à fond.
+Et puis surtout, il va falloir une administration
+pour gérer tout ça.
+Et il y aura un effet d'aubaine qui aura des effets pervers
+quand ça va cesser, une sorte de prime à la casse.
+La prime à la casse, on peut la faire.
+Il y a plein d'artistes français qui demandent que ça, le prime à la casse.
+Et puis, le coût, parce qu'il faut quand même regarder le coût
+estimé sur le rapport.
+25 millions d'euros par an.
+Vous savez à quoi ça me fait penser, tout ça?
+Au plan informatique?
+Au plan sur la presse,
+la relance de la presse,
+et en offrant les abonnements aux jeunes
+quand ils atteignent les 20 ans, je crois.
+Pendant un an, t'es abonné au monde gratuitement, tout ça.
+Et attends, le mieux,
+c'est qu'effectivement, il y a les 25 millions d'euros par an.
+On a prévu une grande campagne de publicité
+qui va coûter 7 millions d'euros
+pour promouvoir la carte.
+Autant à la limite,
+le truc sur la presse en ligne, sur la presse,
+je suis prêt à être d'accord parce que ça peut toujours servir
+de papier cul quand on n'en a pas.
+Et éventuellement, t'es abonné à certains journaux.
+Le dernier album de Dames aussi.
+On m'a dit que les jeunes
+qui voulaient s'abonner gratuitement en journal ne pouvaient pas s'abonner en entrevue.
+Payé par l'Etat pendant un an.
+C'est dégueulasse. C'est une honte.
+Alors, il n'y a pas que de mauvaises choses
+dans le rapport.
+Il y a deux par contre séries de choses qui me semblent très intéressantes.
+Et là, je vais laisser le Capitaine Web en parler.
+Une série de mesures
+qui vise, d'une part, les web radio
+et d'autre part, les services de mise à disposition de musique en ligne.
+Oui, alors je voulais t'en parler, mais je ne peux plus lire
+car je viens de mettre mes lunettes noires et je ne vois absolument plus rien.
+D'accord, donc j'en parle.
+C'est-à-dire que pour les web radio, qu'est-ce qui se passe ?
+Il y avait deux choses. Il faut savoir que les web radio étaient...
+Au début, les web radio n'avaient pas
+aucune, si tu veux, n'étaient pas du tout encadrés.
+Ce qui fait que c'était au cas par cas.
+L'assassin me leur tombait dessus, les faisait payer des sommes pas de possible.
+Et c'était quand c'était...
+Daficy, je ne sais plus quelle loi
+lors de ton père,
+a fait passer une sorte de licence
+que j'appellerai...
+Faut que je dise mon bordel.
+Sur les radios ?
+C'est une loi de 85, je crois.
+Non, il parle des web radio.
+Je parle des web radio.
+Je ne sais pas.
+On parle de l'instauration d'une licence légale.
+Attends, attends.
+Lors de ton père, tu ne sais pas ?
+Non, je ne sais pas.
+On parle de l'instauration d'une licence légale.
+Ça veut dire quoi ?
+C'est bizarre.
+Une licence légale.
+Je peux avoir une licence illégale ?
+Bien sûr, tu peux.
+Ne rentrons pas dans les mots.
+Il y a eu plusieurs états.
+Le premier était qu'il n'y avait aucun encadrement.
+Donc l'Assassin te tombait dessus
+et disait que vous deviez des fortunes.
+Le deuxième, c'était ce qui a été voté je ne sais plus quand.
+Et ce coup-ci, les web radio
+pouvaient discuter avec les sociétés
+de droits d'auteur,
+comme l'Assassin et tout, si je me souviens bien.
+Alors ton père, surtout, n'écoute pas ce que je dis !
+Je suis ébahi par ta connaissance.
+Et donc, à ce moment-là, il pouvait négocier
+et dire que vous deviez tant d'euros par an, etc.
+Alors, pour répondre à Quacko,
+c'est une licence contractuelle
+que maintenant, il serait prévu
+de rendre obligatoire au niveau légal.
+De manière à ce que ce ne soit plus une négociation
+entre parties, c'est ça ?
+L'idée, c'est d'assimiler
+les web radio
+aux radios Aertsiennes d'un point de vue légal.
+C'est-à-dire qu'elles peuvent d'office
+diffuser
+les musiques qu'elles veulent
+sans faire des demandes auprès des différentes...
+Et en contrepartie, elles doivent régler des droits,
+notamment à la Spree.
+Et surtout, ce sera une commission tripartite
+qui se chargera de définir
+exactement les règles
+sous l'arbitrage des pouvoirs publics.
+Et deuxième chose, mais là,
+pas pour les web radio, mais plus pour les services
+qui mettent à disposition les musiques
+sur Internet, ils vont créer un système...
+Alors, ils proposent
+aux différentes grandes maisons de disques,
+il faut qu'il y ait un système de gestion collective
+volontaire qui soit mis en place
+avant la fin de l'année 2010.
+Et si elle n'est pas mis en place,
+l'Etat agira d'un point de vue...
+Enfin, passera une loi, tout simplement.
+Le suivant, c'est qu'à nouveau,
+les éditeurs de services
+qui mettent à disposition la musique en ligne
+n'auront pas justement toutes ces difficultés
+à obtenir une licence de la part des grandes majors
+et l'idée du rapport, c'est d'éviter
+que, comme par exemple iTunes,
+des grosses sociétés qui ont une grosse force de frappe
+puissent proposer des choses et que les petites sociétés
+ne puissent pas le faire.
+Alors moi, je trouve ça magnifique parce que
+depuis la loi d'aide des VSI,
+ils nous disent qu'il y a urgence à agir
+pour sauver la musique, etc.
+Et là, ils leur laissent un non pour se mettre d'accord.
+Tu chipotes.
+Ce n'est pas les mêmes personnes qui sont...
+Ils sont foutus un peu. Je pense qu'il y a des
+Waverdou qui cravent entre-temps.
+Ils en ont peut-être rien à battre.
+Attention, on est au stade du rapport.
+Oui, voilà, il n'y a rien de voté.
+Est-ce que tu penses que la carte musique sera votée?
+Oui, oui, oui, mais je vais y venir tout à l'heure
+parce que le lendemain de la présentation du rapport,
+notre président de la République
+a fait ses voeux au monde de la culture
+et il a dit que le rapport serait appliqué.
+Mais on va y revenir dans quelques instants.
+Et entre-temps?
+Vous allez rigoler, mais moi, j'achète des CD
+donc je les paye plein pot.
+J'ai pas la carte normale.
+Je paye les impôts pour ceux
+qui téléchargent légalement
+et je paye mes CD plein pot.
+Parmi nous, dans cette pièce, quelqu'un achète des CD?
+Oui.
+J'ai honte.
+J'en achète plein aussi.
+Moi aussi, mais tous vierges.
+En Belgique.
+Deuxième mesure.
+Moi qui me semble également intéressante
+mais j'attends votre avis à tous.
+On en avait parlé
+dans un précédent podcast
+pour le livre numérique.
+Le livre numérique c'est celui qui a la copie
+exacte du livre physique.
+Ils souhaitent que l'Union Européenne
+accepte de passer le livre numérique à 5,5 en TVA
+au lieu de 19,6.
+Alors que le livre physique est à 5,5.
+Et deuxièmement,
+ils veulent, comme le steak haché,
+vivre le steak haché.
+Application de la loi langue
+pour le livre numérique,
+prix unique décidé par les éditeurs.
+Et troisième mesure,
+avant la quatrième,
+ils veulent créer une
+plateforme unique pour le livre numérique
+à laquelle pourront accéder
+tous les libraires.
+Et ils veulent une unicité du format.
+Bien sûr.
+Il prévoit
+que les libraires
+aient des bornes chez eux.
+C'est pas très clair dans le rapport.
+Ça a un intérêt uniquement si chaque libraire
+a des bornes où on puisse connecter son Kindle
+ou je sais pas quoi.
+Il y a des gens qui sont bornés.
+Il y a un truc qui va arriver en France
+qui existe déjà.
+Je pense que la première machine arrivée en Europe
+c'est l'Expresso machine pour les livres.
+Ah je l'ai vu.
+C'est intéressant.
+C'est une énorme machine.
+Tu choisis ton livre et il va te l'imprimer
+en direct, te faire la relure et tout.
+C'est une blague.
+Un livre de 600 pages ça prend 10 minutes.
+C'est long pour plein de raisons.
+Déjà pour l'autopublication parce que les gens pourront imprimer
+leur propre PDF du point de vue qui sera au bon format.
+Et ensuite parce qu'il n'y a plus besoin
+d'avoir de stock.
+C'est pas bon pour toi.
+Ce qui vient d'être annoncé
+évidemment c'est une mesure
+contre l'autopublication.
+Les artistes n'auront pas accès directement,
+à ce portail.
+L'idée c'est de conforter les maisons d'édition
+dans leur rôle d'intermédiaire qui n'a plus d'utilité
+à l'heure d'Internet.
+C'est peut-être pour recréer.
+Je me demande si l'idée n'est pas de recréer
+la filière livre telle qu'elle existe aujourd'hui
+pour les livres physiques et la transposer
+au monde numérique.
+Donc on ferme les yeux complètement sur le fait qu'Internet permet
+à chacun de publier et d'avoir accès
+à son public.
+Ça dépendra comment
+on pourra accéder à cette plateforme unique.
+Mais effectivement si c'est uniquement les éditeurs
+qui peuvent accéder à cette plateforme unique
+c'est qu'on recréer complètement la filière
+livre réelle entre guillemets
+pour la calquer totalement sur Internet.
+Enfin la transposer totalement sur Internet.
+Ce n'est pas vraiment un autre truc.
+Ceux qui étaient utiles avant
+et qui sont devenus inutiles maintenant vont être
+subventionnés.
+Mais qu'elle est des livres encore aujourd'hui ?
+Effectivement cette mesure il faudra
+voir comment elle va se réaliser en pratique
+est-ce qu'elle n'est pas à double tranchant ?
+Qu'est-ce qu'il y a derrière ?
+Déjà avant de voir ça arriver, alors tu veux peut-être nous en parler Remarque ?
+Tu as dit que tu voulais passer dans un suite ?
+Oui, deux mots sur la VOD.
+D'accord.
+Alors ils ont prévu toute une série de mesures,
+je vais aller très très vite.
+Premièrement ils veulent modifier à nouveau la chronologie des médias
+pour permettre aux
+vidéos d'être plus rapidement disponibles sur Internet d'un point de vue
+légal.
+Est-ce qu'ils arriveront à être plus rapides que les fichiers torrent ?
+Bonne question.
+Impossible !
+Alors deuxièmement, ils ne veulent pas modifier
+la notion de
+en tout cas dans le rapport, parce qu'on
+a pu lire deux trois petites choses dans la presse où ils veulent revenir dessus
+sur les exclusivités qui sont détenues
+par les FAI.
+Sur les films ou les chaînes.
+Tu parles de l'exclusité d'Orange entre autres, on parle beaucoup en ce moment.
+Donc dans le rapport, ils ont l'air de dire qu'ils ne veulent pas trop y toucher
+mais on a pu lire dans la presse ces derniers jours qu'au contraire
+le conseil de la concurrence
+n'est pas chaud chaud sur ces choses là.
+Non, ils ne sont pas très chaud chaud.
+Le temps qu'ils se décident en 2020, on va avoir quelque chose.
+Il faut lire le rapport
+parce qu'il y a quand même des petites avancées
+où ils veulent...
+En filigrame, on entend un peu parler
+de neutralité du net. Mais ce serait un peu trop long
+donc je coupe.
+Mais en tout cas, ils veulent soumettre au CSA
+les différents litiges
+entre les FAI
+et les éditeurs de contenu.
+Je continue.
+Et ils veulent enfin donner plein de sous-sous
+au CNC pour numériser les films.
+Pour numériser les films.
+Moi tu l'iras le rapport.
+Alors on va...
+Détails-moi, qu'est-ce que veut dire numériser les films ?
+Numériser les films pour qu'ils soient...
+Tu veux dire IP et DVD ?
+Il faut juste rappeler que l'industrie
+du cinéma se porte très bien
+contrairement à l'industrie de la musique
+qui n'arrête pas de pleurer. Et on prend quand même
+des mesures de subvention etc.
+On subventionne tout le monde.
+Alors évidemment, puisqu'on dépense
+du pognon, il va falloir d'abord en faire rentrer.
+On va parler du côté taxe.
+Taxe, taxe, taxe !
+Le style du rapport c'est un peu le style
+TSAR, T-S-A-R.
+Taxe, subvention, administration, régulation.
+Ah c'est un beau acronyme.
+Alors les nouvelles taxes, on va aller vite.
+Taxe sur le revenu publicitaire en ligne.
+J'en reparle tout à l'heure.
+Google, mais j'y reviens.
+Parce que j'ai fait un petit thème Google très rapide.
+On m'a dit que le graphiste de Google travaillait
+sur un logo Special Finger.
+On va modifier sur les offres internet.
+Parce que vous savez tous que le taux de TVA
+sur une offre internet est réparti en deux.
+Sur une moitié, 5,5.
+Sur l'autre moitié, 19,6.
+5,5 c'est pour quelle partie ?
+La première.
+C'est une bonne réponse.
+Et ils vont modifier la partie à
+19,6 sera à 55% et la partie à
+5,5 à 45%.
+Il a rien compris le Captain Web.
+En gros on paume de l'impôt.
+Et enfin une redevance
+sur l'exploitation des films tombés
+dans le domaine public.
+Il y a beaucoup de films tombés dans le domaine public ?
+Tu passes Charlie Chaplin qui doit être
+dans le domaine public.
+Non, pas encore.
+Est-ce que par là ils entendent
+le fait de faire taxer tous les mecs
+qui font des vidéos gratuites sur le net ?
+On ne connait pas le détail.
+Il semble que c'est 75 ans pour tomber
+dans le domaine public.
+Il y avait des films de Mickey
+qui étaient muets comme à l'époque de Chaplin
+et comme ils prolongent le copyright
+pour ne pas le compliquer dans le domaine public.
+Je pense que Chaplin n'y est pas non plus.
+C'est totalement pas vrai.
+Je pense qu'une petite loi
+pour taxer tous les contenus créatifs
+comme contente,
+ça pourrait être de l'argent.
+On va parler un tout petit peu
+de Google, mais on va tous en parler ensemble.
+OK, on en parle ensemble.
+Google, c'est quoi ?
+C'est bien ou pas ?
+C'est la guerre entre la France et Google.
+Astérix contre les Romains, c'est parti.
+Notre beau pays a déclaré la guerre à Google.
+Ça fait bien rire à l'étranger.
+Google a été condamné.
+On a parlé dans un précédent podcast
+dans le dossier La Martinière.
+On n'y revient pas.
+On en a parlé dans un précédent podcast
+L'Etat a décidé avec 750 millions d'euros,
+le grand emprunt,
+de numériser massivement les livres.
+Troisièmement,
+le rapport propose
+de saisir l'autorité de la concurrence
+pour vérifier si Google
+n'a pas une position dominante
+sur un marché publicitaire en ligne
+qui resterait à définir
+et n'abuserait pas
+de sa position dominante.
+Je vous recommande à tous nos auditeurs
+qui ont un peu de temps à perdre
+d'aller lire le projet d'avis
+de saisir de l'aide de la concurrence
+qui est annexé au rapport.
+C'est assez subtil.
+Et enfin, dernier point,
+vous l'avez tous lu,
+je recherche dans mes notes,
+deux points,
+la création de la taxe publicitaire en ligne,
+la création de la taxe publicitaire en ligne,
+ça vise carrément Google
+parce qu'ils ont tout le marché publicitaire en ligne.
+Et enfin, Nicolas Sarkozy
+dans son vœu aux forces vives
+de la culture
+a plus ou moins incité notre cher
+Christine Lagarde ministre des Finances
+a lancé un petit contrôle fiscal sur Google
+ça se lit en filigrame
+Google, en France,
+ils ont un bureau avec 5 personnes.
+Ils vont bien se débrouiller.
+En matière de taxes, on est les champions.
+Il n'y a que des taxes et des subventions là-dedans, c'est horrible.
+Les mecs, ils ont été payés pour écrire le rapport, ça se voit.
+C'est simple, on taxe tout ce qu'ils doivent un peu
+et puis on le redonne aux interviews.
+Donc à faire Google à suivre.
+En deux minutes, très rapide avant que je passe la parole.
+C'est un rapport ou c'est la blague de finances
+que tu viens de lire ?
+Il n'y a que des taxes.
+C'est le chapitre qui avait été effacé
+de 1984.
+Ils l'ont trouvé dans un grognet.
+Les réactions au rapport.
+Alors le président de la République a réagi le lendemain.
+Il est totalement d'accord avec ce rapport.
+Il a précisé une chose qui n'était pas dans le rapport
+c'est qu'il voulait expérimenter sans délai
+le filtrage sur internet.
+Continue, continue.
+Deuxièmement,
+il est d'accord surtout recours à la gestion collective
+pour les droits d'auteur, il est ok.
+En plus de la carte musique, 200€ de montant nominal.
+C'est plus cher que ce qui était proposé par le rapport.
+Il est d'accord.
+Est-ce que ce sera limité aux artistes français seulement ?
+Je n'en sais rien.
+Est-ce qu'on pourra télécharger seulement Annie Cordy et Myriam May ?
+Alors après, ceux qui ont vomi sur le rapport,
+il y en a beaucoup.
+La quadrature du net.
+Leur communiqué, c'est
+république de copains, mesure risible, etc.
+Google, ils ont été très prudents
+dans leurs réponses à tel point qu'elle est
+incompréhensible.
+Elle a été rédigée
+par un robot chez Google.
+L'assassin m'a également vomi sur le truc.
+Les mesurettes envisagées pour
+la filière musicale semblent bien pâles.
+Bien pâles.
+Il y a d'autres passages, je passe.
+Il n'y a aucun passage
+contraignant qui oblige
+l'offre légale à être
+plus diversifiée que les
+cinq pauvres artistes qui nous mettent
+tous les mois ?
+Ils sont pour la diversité culturelle.
+Il ne faut pas forcer.
+Ça prend l'objet d'une loi de principe.
+Cher antistress, je te laisse la parole,
+voici la rubrique de l'invité.
+Vous pourrez nous traduire les paroles, s'il te plaît ?
+Antistress ?
+Oui, maintenant,
+plutôt en conclusion,
+parce qu'effectivement,
+c'est lié aux propos.
+En tout cas, merci Quacos pour ce
+sympathique jingle.
+Je propose
+donc le sujet, c'est les logiciels libres.
+C'est-à-dire que
+les logiciels, c'est-à-dire
+que les logiciels, c'est-à-dire
+que les logiciels, c'est-à-dire
+que c'est les logiciels libres.
+Lorsque ton père vous a suggéré
+la semaine dernière de sortir vos
+oreillers, je vais vous le remercier.
+Maintenant que je l'ai en face de moi,
+je vais pouvoir régler deux, trois petites choses.
+Je vais commencer par un petit tour de table.
+D'abord, est-ce que vous...
+Bon, je ne vais pas vous demander tout de suite, est-ce que vous savez
+est-ce qu'un logiciel libre, c'est mon thème, mais est-ce que vous pouvez
+citer quelques logiciels libres comme ça ?
+Alors, attention, il ne faut pas...
+Oui, oui.
+Et Linux, il ne faut pas confondre libre et open source.
+Ah, mais c'est... Oui, mais ça peut être...
+Non, mais allez-y, citez des noms comme ça.
+Open Office.
+Gimp. Urban Terror.
+Gimp.
+J'aime tout.
+Bon, effectivement, il y en a...
+Il y en a quelques-uns, c'est rassurant
+que vous connaissez. Quelques grands noms
+du logiciel libre, personnalité
+ou entreprise ?
+Stallman. Ah oui, joli.
+Ah oui, Bill Gates.
+Steve Jobs.
+Steve Jobs.
+50 cents.
+Antistress.
+Qu'elle est meilleure ?
+Effectivement, il y a
+quand même pas mal de logiciels libres
+dans la vie de tous les jours que l'on utilise.
+Alors certains, vous les utilisez
+de manière parfois visible, Firefox, Open Office
+qui ont été cités. Vous auriez pu citer VLC.
+Je vais citer VLC.
+Ah, joli qu'il y a un projet français.
+Et il y a la matière noire. VLC ou VNC ?
+VLC.
+Videolan Client.
+Et est-ce que DiviX Player, c'est libre ?
+Je ne sais pas.
+Et VMD ?
+Merde.
+C'est VDM.
+Sinon, éventuellement, vous me laissez parler.
+SevenZip.
+Je ne sais pas si vous connaissez.
+Pour la compression, il y a des petits utilisateurs sympas.
+Java qui a été libérée.
+Qui n'était pas libre au départ.
+Blender, etc.
+MySQL. Généralement, c'est tout le logiciel
+qu'il y a.
+Il y a aussi OpenOffice.
+Il y a Scribus.
+Qui remplacé une design.
+La partie math de
+OpenOffice.
+Le traitement texte d'OpenOffice.
+Le tableur d'OpenOffice.
+Notepad.
+L'exemple de Java est intéressant.
+Il y a Word aussi.
+Des mineurs.
+C'est gratuit.
+Éventuellement,
+si vous avez des soucis avec votre PC,
+que vous avez appelé un fournisseur quelconque,
+qui vous a peut-être envoyé un CD pour le dépanner.
+En général, vous trouvez dessus même Test.
+TestDisc, etc.
+C'est des logiciels libres qui sont couramment utilisés.
+Android.
+On a parlé tout à l'heure des téléphones portables.
+C'est dessus.
+Vous avez effectivement toutes les distributions GNU-Linux.
+Qu'est-ce qu'on appelle une distribution GNU-Linux ?
+C'est le système complet.
+Vous avez le système d'exploitation.
+Et tous les logiciels pour commencer à utiliser tout de suite.
+Pour gérer vos photos, vos textes,
+la musique, etc.
+C'est ce qu'on appelle une distribution.
+C'est un package de logiciels.
+Il n'y a pas que GNU-Linux dans la ville.
+Il y a d'autres systèmes d'exploitation libres
+dérivés d'Unix.
+Vous avez tous les systèmes BSD, etc.
+Open Solaris qui est développé par Sun,
+qui est la version libérée de Solaris.
+Vous avez des systèmes qui ne sont pas liés à Unix.
+Vous avez FreeDOS.
+Vous connaissez peut-être aussi qui est utilisé parfois
+par des fabricants
+de diskette qui vous envoient
+pour mettre à jour des bios ou des choses comme ça.
+Haiku, pour information, qui est la version libre
+de BOS, que vous avez peut-être connu
+de Jean-Luc Gasset.
+Vous avez toute une série de systèmes d'exploitation.
+Il y a aussi des logiciels cachés.
+Vous ne savez pas forcément que vous les utilisez.
+Apple, par exemple, utilise des logiciels libres pour ses produits.
+Vous avez le noyau qui est un dérivé de FreeBSD.
+Le moteur...
+C'est un moteur Unix.
+Le moteur de Safari.
+Le navigateur d'Apple.
+En coulisses, vous avez toute une série de logiciels
+qui sont utilisés couramment puisqu'ils sont à la base
+de l'infrastructure d'Internet.
+Vous avez les serveurs web, les serveurs de messagerie,
+les serveurs DNS, etc.
+Alors APA, HMISQM.
+Joli, SendMail, Postfix, Bind pour les DNS.
+PHP.
+Pour les contenus, vous avez Drupal
+qui génère par exemple
+les sites U89, le Figaro, Libération,
+le site de la Maison Blanche aussi.
+PHP.
+Exact, PHP.
+Tous les moteurs de bloc qu'on a déjà cités.
+WordPress, .clear,
+plus XML qui est le dernier que j'ai essayé.
+Alors quelle est la définition du logiciel libre ?
+On va y venir.
+Ne sois pas gourmand comme ça.
+Et puis on les retrouve dans tous les appareils électroniques
+du quotidien.
+Dans les Box Internet.
+On avait parlé pas mal.
+Dans les Box Internet mais même
+la 9Box, etc.
+Dans les décodeurs TNT, les GPS TomTom,
+les téléphones.
+Et les stations 3, vous l'avez aussi.
+Si vous prenez l'A380,
+je sais que leur topper adore cet avion.
+En face de chaque siège, vous avez
+un PC qui tourne sous Linux.
+Et d'une manière générale,
+pour information, 90%
+des 500 plus gros calculateurs de la planète
+tourne sous Linux.
+J'ai compris pourquoi l'A380 était à ce point en retard.
+Ça y est !
+Et pourquoi il avait du mal à décoller.
+Alors non, je ne pense pas que le système de navigation soit...
+Il y a certaines personnes qui ne sont pas d'accord sur certains logiciels
+que t'as cité.
+Je ne vais pas revenir dessus,
+parce qu'il s'est assez loin dans le chat.
+Mais je pense qu'on pourra en discuter dans les commentaires du podcast.
+Ce serait une bonne occasion de les utiliser
+pour autre chose que pour gagner un As-bande de crevards.
+Exactement.
+Donc voilà, tout ça pour dire qu'effectivement,
+il y avait pas mal de logiciels dont les gens n'ont pas forcément conscience
+et qu'ils utilisent quotidiennement.
+Au niveau des acteurs, Linus Torvalds,
+qui est à l'origine de Linux, qui est assez populaire.
+Stanman, que t'as cité, leur topper,
+qu'on a vu tout à l'heure, qui est le père
+du mouvement des logiciels libres.
+Et puis il y a toutes les entreprises...
+Je vais même donner un autographe.
+Toutes les entreprises IBM,
+Bull, HP, Intel, etc.
+qui développent des logiciels libres.
+Alors, pourquoi utiliser
+les logiciels libres ?
+Ça peut être pour des raisons pratiques, tout d'abord.
+Vous pouvez trouver ça...
+En général, ils sont gratuits.
+Ce n'est pas une obligation.
+Et puis tous les logiciels gratuits ne sont pas des logiciels libres.
+Ils sont réputés sécurisés
+dans Linux ou Firefox, par exemple.
+Ils sont parfaitement et respectueux des standards
+dans le cas de Firefox.
+Et puis dans le cas de Linux, vous avez un système
+qui est réputé pour ne pas
+nécessiter une maintenance. On n'a pas de
+fragmentation du disque dur.
+Tous les logiciels se mettent à jour automatiquement, etc.
+Donc bon, ça peut être pour des raisons pratiques.
+Mais dans le logiciel libre, il y a Libre.
+Donc on peut aussi l'utiliser
+pour des raisons de liberté, puisque
+le logiciel libre, en vous donnant accès
+au code et aux méthodes de fonctionnement
+du logiciel, vous redonne le contrôle
+de votre ordinateur, alors qu'avec
+un logiciel propriétaire, vous ne savez pas
+ce qui se passe réellement à l'intérieur.
+Le truc, c'est qu'il y a peu de monde qui est capable de modifier
+de savoir coder pour modifier un logiciel libre.
+Peut-être pour ça que les gens s'y intéressent pas tant que ça.
+Je pense que le principal argument
+pour les gens qui utilisent du logiciel libre,
+c'est plus le prix qu'autre chose.
+Ce qui est intéressant dans le logiciel libre,
+même si vous, vous n'avez pas la compétence pour coder,
+c'est de savoir que le code est ouvert
+et que des experts se penchent dessus. Quand vous avez une boîte fermée,
+vous êtes obligé de faire confiance à l'éditeur
+et évidemment, lui, ce n'est pas son intérêt
+de vous révéler tout ce qui est à l'intérieur
+et surtout s'il fait des choses dans votre dos.
+La transparence est quand même
+une condition de la confiance pour moi.
+À partir du moment où on cache quelque chose,
+il n'y a pas de raison de faire confiance à une entreprise.
+Il y a un truc où c'est vrai,
+je trouve que ton propos est tout à fait juste,
+mais il y a un truc qui serait intéressant
+d'où il faudrait qu'on parle, c'est les machines de vote,
+mais ça serait tout un sujet,
+il faudrait qu'on fasse une émission entière là-dessus.
+Mais là, c'est un truc où le libre est essentiel,
+si on veut vraiment utiliser ces machines de vote.
+Est-ce que la vraie raison, ce n'est pas plutôt financier,
+c'est-à-dire qu'on n'ouvre pas les codes
+pour ne pas qu'on pique certaines idées dans le code
+et qu'on vende beaucoup moins de produits.
+Le principe des logiciels fermés,
+c'est que leur but, c'est de vous vendre
+le logiciel et toutes les mises à jour derrière,
+donc le but, et on le voit très bien à Capel notamment,
+c'est d'enfermer les utilisateurs,
+d'utiliser des formats propriétaires, etc.,
+de manière à ce qu'une fois que vous utilisez le logiciel,
+c'est pour ça qu'ils ne permettent pas
+aux autres entreprises d'implémenter leur format,
+quand vous utilisez leur logiciel
+et que toutes vos données sont dans un format,
+vous ne puissiez pas aller chez un concurrent.
+Donc eux, leur but, c'est de vous enfermer,
+et vous, en tant qu'utilisateur, vous pouvez préférer
+la liberté et garder une certaine indépendance
+et pouvoir changer de logiciel quand vous voulez,
+surtout si demain l'éditeur fait faillite,
+vous ne pouvez plus lire vos fichiers
+si le fichier est dans un format fermé.
+À quel prix ? C'est ça le problème,
+parce que faire confiance à des logiciels libres,
+d'ailleurs moi je suis le premier à leur faire promotion,
+à les utiliser rarement, mais bon...
+ça m'étonne,
+mais bon,
+un logiciel libre prend l'exemple,
+l'exemple typique,
+GIMP versus Photoshop,
+c'est l'enfer, quelqu'un qui connaît Photoshop
+et qui tourne sur GIMP,
+et là je vais dire à Manox,
+pour parler un peu.
+Personnellement, je n'ai jamais vraiment utilisé GIMP,
+mais je crois que le problème n'est pas là,
+le problème c'est que
+ce qui est important c'est la puissance du logiciel,
+et après il faut passer du temps pour l'apprendre
+et l'utiliser.
+Photoshop, si tu ne connais rien à Photoshop,
+tu vas arriver là-dessus, tu vas galérer,
+mais un pro qui sait utiliser Photoshop,
+si tu veux, il ne retrouvera pas le confort.
+C'est exactement pareil pour tous les outils,
+un pro qui démarre avec un outil
+quel qu'il soit, qu'il soit libre ou propriétaire,
+forcément ça va lui demander un travail d'apprentissage
+pour changer de logiciel.
+Tu peux en changer,
+est-ce que les logiciels libres sont aussi performants
+que les logiciels fermés ?
+Ça c'est à vous de juger sur place,
+je ne sais pas, prenez un exemple,
+Firefox, je ne pense pas qu'il soit à la ramasse
+par rapport aux autres technologies.
+Firefox, si tu veux,
+ça fait quand même quelques temps que je suis passé sur Chrome.
+C'est quand même un des meilleurs navigateurs,
+Firefox actuel.
+Firefox est un très bon navigateur.
+L'un des meilleurs.
+Quand vous avez Linux et utilisé par l'armée,
+je ne pense pas que c'est parce qu'il n'est pas performant
+ou qu'il n'est pas fiable.
+Quand Windows est utilisé par l'armée,
+je pense que c'est parce qu'il n'est pas performant.
+Il n'y avait pas un jet qui utilisait
+un système Windows ?
+Il y avait eu un virus
+dans un sous-marron, je ne sais plus quoi.
+Dans les rafales,
+je crois qu'il faut savoir que rafales
+tournent sous une version de Windows Millennium modifiée
+et qu'ils avaient été contaminés par une clé USB.
+Si vous avez une clé USB et que vous prenez votre rafale,
+évitez de la brancher, on ne sait jamais.
+C'est un bon conseil.
+Moi, personnellement, j'utilise
+les logiciels lits parce que je sais
+que mon ordinateur ne fait rien en arrière-plan
+dont je ne suis pas au courant.
+Est-ce que tout le monde est sûr ?
+Non, mais encore une fois,
+on ne peut pas vérifier.
+D'abord, on n'est pas expert,
+mais à partir du moment où le logiciel est ouvert
+et lisible par tout le monde,
+il y a forcément dans la communauté plusieurs personnes
+qui vont relire le code et à ce moment-là,
+il y a quand même plus de sécurité
+de cette fermée qui ne sera pas relue du tout.
+Si tout le monde se dit ça,
+c'est peut-être une personne qui vérifie au final.
+Il y a aussi les statistiques.
+Il y a quand même des développeurs
+qui utilisent des logiciels lits puisqu'ils les conçoivent notamment
+et qu'en général, quand ils les conçoivent,
+ils les utilisent. Google n'utilise
+que des systèmes Linux quasiment
+pour développer ces applications.
+Mais antistress, est-ce qu'on peut
+à la fois utiliser des logiciels libres
+et à la fois utiliser des logiciels payants ?
+Est-ce que cette contradiction, tu l'acceptes, toi ?
+Moi, je n'oppose pas les logiciels libres
+aux logiciels payants.
+Tu me tends une perche, là ?
+Il y a des logiciels commerciaux
+gratuits et il y a des logiciels libres
+qui peuvent être payants.
+Moi, très clairement, à partir du moment
+où le logiciel libre me donne plus
+de liberté et me permet de me réapproprier
+le contrôle de mon ordinateur,
+moi, je suis prêt,
+et ça devrait même être ça puisqu'il y a une plus-value
+pour les utilisateurs, on devrait pouvoir payer
+pour le logiciel libre.
+Je vois moins d'intérêt à payer
+pour un logiciel qui est conçu
+pour contrôler ce que je fais
+qu'un logiciel qui me laisse
+le contrôle de mon ordinateur.
+Ne serait-ce pas un peu parano tout ça ?
+J'ai publié quelques exemples
+sur mon blog,
+par exemple Skype
+que vous aimez utiliser.
+Il y a aussi
+une version pour Linux
+qui n'est pas une version libre
+mais qui tourne sur un système libre.
+C'est bon, comme Linux est un logiciel libre,
+on peut pister tout ce que font les logiciels.
+Il y a des commandes que je ne connais pas
+mais qui sont très simples qui permettent
+de suivre ce que fait un logiciel
+et quand vous lancez Skype,
+ils commencent par scanner toutes vos bookmarks,
+votre carnet d'adresse, etc.
+Après, ils se connectent à Internet
+et sur les serveurs de Skype.
+Mais s'il n'avait pas été installé
+sur un système Linux, personne ne l'aurait su
+parce que sous Windows, vous n'avez pas
+les mêmes moyens de contrôler
+en moins confiance à Skype
+qui ferme son logiciel que quelqu'un qui me dit
+j'ouvre le code, regarde-le si tu veux,
+même si moi, personnellement, je n'ai pas les compétences
+forcément pour le regarder.
+C'est quoi le problème aujourd'hui du logiciel libre et de Linux ?
+C'est que l'ergonomie est à chier.
+Est-ce qu'il y a un problème avec le logiciel libre aujourd'hui ?
+Je trouve que le problème avec le logiciel
+c'est que c'est un logiciel super bien fait,
+il faut bien le dire.
+Pour les professionnels,
+tu prends les serveurs web,
+je bosse sur des sites régulièrement,
+comme PHP, MySQL,
+des choses dont je ne peux plus me passer.
+Il y a des versions, il y a l'ASP,
+des versions de Microsoft
+qui font exactement la même chose.
+Par contre, dès qu'on attaque dans le domaine
+domestique des personnes
+qui utilisent quotidiennement,
+je pense
+qu'il y a un vrai problème d'ergonomie.
+Je pense que tu as un problème d'habitude.
+Taper des lignes de code, ce n'est pas une habitude.
+En même temps,
+quand tu as des habitudes sur un logiciel
+qui soit libre au propriétaire,
+tu as du mal à en changer.
+Moi, je ne maîtrise pas Photoshop
+et je maîtrise un petit peu Gimp,
+je sais que je suis perdu devant Photoshop.
+On peut citer Adobe Premiere d'Adobe,
+c'est le logiciel de montage vidéo
+le plus mal foutu qui existe.
+De quel logiciel ?
+Adobe Premiere, c'est une shot possible.
+Il y a des logiciels de propriétaire
+qui ont une bonne interface,
+on prend Vegas, etc.
+Il y a des gens qui sont habitués à Premiere
+pour voir d'autres logiciels comme Vegas
+mais ça a une interface de shot.
+Ils n'ont pas l'habitude.
+Prends par exemple Linux.
+Tu me remarques que c'est longtemps
+que je n'ai pas installé une Linux.
+J'ai une question simple.
+Ça avance quand même très vite.
+Si tu as une expérience qui a 50, t'oublies.
+Si chacun d'entre nous mettait ses parents
+d'un côté d'utiliser Ubuntu
+et de l'autre d'utiliser Windows.
+Mon père utilise Ubuntu.
+À supposer qu'il soit préinstallé.
+Mon père utilise quotidiennement Ubuntu
+et dessus il a Firefox, OpenOffice, etc.
+Et quand on lui envoie des pieds jointes
+au format Word,
+qui n'est malheureusement pas un format ouvert,
+il l'ouvre tout à fait sous OpenOffice
+parce qu'il y a des gens qui sont cassés
+l'année nette pour pouvoir décrypter ce format.
+CaptainWeb,
+tu mets quelqu'un qui n'a jamais
+tous un ordinateur de sa vie,
+tu le fous devant Ubuntu,
+devant Windows XP,
+pour lui ce sera la même chose.
+Pour lui ce sera la même chose,
+il galèrera autant.
+Je trouve que la courbe d'apprentissage
+sur Windows et Mac OS
+est peut-être plus rapide
+que sur Ubuntu.
+Ta courbe est foncée puisque tu pars d'une habitude préalable.
+Pas forcément, tu prends quelqu'un qui...
+Tu prends quelqu'un qui démarre.
+Tu prends l'expérience.
+Prenons la mère du CaptainWeb.
+Elle connaît Windows.
+Le problème n'est pas une question
+de savoir quelle est plus pratique,
+c'est juste une question d'adaptation.
+Pourquoi est-ce que...
+Si tu me dis que Windows est là depuis 20 ans...
+Sinon il me reste 15 pages.
+C'est aussi ce qu'on te vend.
+Quand tu vas à la fin,
+on te dit que c'est ça, etc.
+Il faut savoir que
+il y a un truc extraordinaire avec Microsoft.
+C'est une des entreprises les plus fleurissantes.
+Elle assiste sur un mago incroyable.
+Elle a quasiment jamais vendu
+un logiciel à un utilisateur.
+Microsoft ne vous vend pas
+les logiciels, ils sont préinstallés.
+Et vous les payez sans le savoir.
+L'entreprise qui gagne le mieux sa vie
+n'a jamais vendu directement
+un produit à un utilisateur.
+Est-ce que vous imaginez ça dans un autre secteur ?
+Il y a plein de secteurs.
+Les équipementiers de voitures.
+Des équipementiers de voitures.
+Ils ne vendent pas directement
+aux consommateurs.
+Je ne suis pas d'accord sur Tarmark.
+Mais par contre...
+Non, il n'y a pas de par contre.
+C'est une bonne en marque.
+C'est une très bonne en marque.
+Merci Lord Pomper.
+Ça sera coupé au montage.
+Je suis à 100%
+pour Libre, Open Source, tout ça.
+Je trouve souvent que les utilisateurs
+de Libre et de Linux
+ont un peu un côté extrémiste.
+C'est vrai, mais ça fait partie du jeu.
+C'est bien.
+Il y a le côté extrémiste.
+Des fois, j'entends des gens
+me dire,
+t'as fait une retouche photo ?
+T'as Photoshop ?
+Si quelqu'un me dit
+t'as acheté une voiture, je ne dis pas
+t'as une chatpunto ?
+Il y a plusieurs voitures.
+Je ne sais pas si c'est pas extrémiste
+d'imaginer forcément que les gens
+utilisent ce que vous utilisez.
+C'est nier complètement qu'une diversité.
+Je ne sais pas où sont les extrémistes.
+Personne dirait
+t'as acheté une voiture ?
+Il y en a une autre
+où il faut faire tourner les engrenages.
+C'est complètement faux.
+La façon de promouvoir...
+Je suis d'accord une fois de plus.
+Les logiciels libres ne sont pas des logan.
+C'est bien de faire un débat
+pour une fois.
+Sur le chat, les gens sont assez actifs.
+Tout le monde n'est pas du tout d'accord.
+C'est bien.
+Mes souvenirs que j'ai de Linux...
+Ça fait longtemps que je ne l'ai pas installé.
+Dès qu'il fallait que j'installe
+il fallait sortir les packages.
+Je ne parle pas des drivers.
+Le problème
+c'est qu'on m'a donné un format
+minuté.
+Mais il faut que je réponde là-dessus.
+Vous avez des systèmes
+de gestion des logiciels
+qui sont extrêmement élaborés.
+Les logiciels sont décomposés en paquet.
+Tout est géré
+par un système perfectionné.
+Un logiciel Linux ne s'encrase pas au bout du temps.
+Vous pouvez installer et désinstaller autant de fois que les logiciels.
+Il n'y a pas de DLL qui traîne dans tous les dossiers.
+Tout est géré par un système centralisé.
+Vous voulez installer un logiciel
+n'importe lequel.
+Vous ouvrez une interface, vous tapez son nom
+et vous l'installez. Vous n'êtes pas obligé d'aller sur 36 sites
+internet différents, télécharger 30 sites
+exécutables. Tout est centralisé.
+Une fois que tout est installé, tout se met à jour automatiquement.
+Pour moi, il n'y a pas plus simple.
+Tu tapes le nom du logiciel, il s'installe
+et il se met à jour.
+Est-ce que
+la mise à jour automatique
+n'est pas un peu contradictoire à ce que tu nous parlais
+tout à l'heure, où tu disais, je sais ce qui se passe.
+Non, parce que les
+mises à jour sont soumises.
+Elle te dit, vous voulez vous mettre à jour,
+voilà ce que corrige le fichier, oui, non.
+Ce n'est pas une mise à jour qui se fait dans ton dos.
+On te demande ton accord.
+Un petit peu comme sous Firefox,
+une nouvelle version, vous l'avez sous Windows.
+Mais là, au lieu que ce soit chaque logiciel qui le fait
+et sous Windows, c'est l'enfer parce que
+chaque logiciel met un petit exécutable
+sous Windows en mémoire pour vérifier les trucs.
+Java qui va vérifier, vous avez Safari
+qui va vérifier, vous avez Chrome qui va vérifier,
+Firefox, et tout le monde se connecte chacun à
+son site.
+Sous Linux,
+ça n'existe pas, tout est centralisé,
+vous installez tout à partir d'une interface,
+donc il n'y a pas plus ça, vous tapez le nom du logiciel, vous l'installez
+et vous n'êtes pas obligé de courir aux quatre coins d'Internet pour télécharger
+les paquets et les mises à jour.
+Est-ce que LiveJasmine, ça marche
+sur Linux ?
+Si je répondais oui, ça voudrait dire que je l'ai testé.
+Question piège.
+On me demande de te lancer sur les drivers,
+mais là,
+on va le laisser continuer.
+Sur les conducteurs, on a parlé un peu de voiture
+tout à l'heure, donc je ne reviendrai pas dessus.
+Pour vous expliquer un petit peu,
+parce que là,
+on a un peu défriché l'ensemble du sujet,
+mais pour vous parler un petit peu de ce que sont
+les logiciels, le mieux, c'est de vous raconter l'histoire
+des logiciels libres, et pour vous raconter l'histoire
+des logiciels libres, je vais vous raconter
+l'histoire de Richard Stallman,
+qu'on est allé voir
+tout à l'heure.
+Alors,
+l'histoire de Stallman, en fait, elle se confond
+avec l'histoire des logiciels libres.
+Il faut savoir que le logiciel
+libre apparaît en 1983.
+Le projet a fêté
+ses 25 ans en 2008,
+au sein du prestigieux
+MIT. Alors,
+il faut savoir que Richard Stallman,
+tout d'abord,
+en 1971,
+il était au MIT,
+et à l'époque, il faut savoir que tous les logiciels
+étaient ouverts. Et puis, les gros ordinateurs
+ont commencé à débouler à la fin des années 70
+avec des systèmes fermés.
+Et donc, lui qui gérait un département
+d'intelligence
+artificielle et qui partageait le code
+avec ses collègues et qui
+travaillait sur le code, ils avaient une véritable curiosité
+intellectuelle, une véritable passion, d'un seul coup,
+ils ne pouvaient plus travailler sur leur
+logiciel. Et on a commencé
+à leur dire, si vous voulez voir le code source du
+logiciel, on va vous signer un contrat, vous n'avez pas le droit
+de le divulguer avec quelqu'un d'autre. Et donc,
+ça revenait à isoler les
+chercheurs du laboratoire qui travaillaient
+tous ensemble jusqu'à présent.
+Et donc, Richard Stallman a dit, moi, je ne veux pas trahir
+le reste de la communauté des programmeurs.
+Donc, je ne veux pas faire le choix de ne plus
+coopérer avec eux.
+Et donc, il a décidé de démissionner
+du MIT. Il s'est dit,
+moi, je suis développeur de systèmes, je sais
+faire ça. Donc, je préfère démissionner
+et travailler à concevoir un système
+entièrement libre que je mettra à disposition
+tout le monde pour éviter que d'autres aient le même choix
+que celui qui m'a été imposé, à savoir
+de rompre avec l'idée
+de partager,
+de travailler en communauté, de collaborer, etc.
+Donc, il a commencé
+comme ça
+à faire son projet de
+logiciel libre en 1984.
+Donc, il est parti à ce moment-là
+d'un système
+Unix. Et
+il a commencé à créer
+le projet GNU.
+Et pour un système Unix,
+en fait, le système Unix
+est un ensemble de
+plein de petits logiciels. Donc, ils ont commencé
+à remplacer chacun des logiciels d'Unix
+qui était devenu fermé
+par un équivalent libre. Donc, ça a pris un certain
+temps. Et en 1991, ils avaient quasiment
+terminé ce qu'on appelle
+le système d'exploitation. Il leur manquait
+plus que le noyau. Et à ce moment-là, Linus
+Sorvan, vous connaissez l'histoire,
+a posté sur
+les newsgroups
+le fait qu'il avait créé un système
+enfin, un noyau,
+Linux. Et donc, en associant le projet GNU
+et le système
+Linux, on arrivait à
+GNU-Linux.
+Et donc, en 1991,
+il a achevé le projet qu'il avait démarré
+en 1984 de créer de toutes pièces
+un logiciel libre.
+Donc voilà, ça, c'est
+un petit peu l'histoire
+de Stalman qui
+qui, à partir de ce moment-là,
+a consacré sa vie à
+cet ÉDL qui défendait. Alors, qu'est-ce que
+le logiciel libre ? On en a parlé un petit peu tout à l'heure.
+Concrètement, le logiciel libre vous donne 4 libertés.
+Vous avez la possibilité
+d'utiliser le logiciel comme bon vous semble.
+Vous avez la possibilité d'étudier le logiciel
+parce que vous avez accès au code source.
+Et vous avez la possibilité de
+modifier ce logiciel, encore une fois,
+parce que vous avez accès au code source. Et vous avez la possibilité
+de le copier, de le diffuser, de le partager
+autant que vous voulez. Voilà. Donc, à ta
+question, Captain, qu'est-ce qu'un logiciel libre ?
+Le logiciel libre, c'est un logiciel qui remplit
+ces 4 critères. Et donc, la condition
+nécessaire, c'est déjà d'avoir accès au code source
+et qu'en plus, d'avoir une condition
+qui est, à partir du moment
+où vous modifiez le logiciel,
+vous êtes obligé de le redistribuer sous les mêmes conditions.
+C'est-à-dire, vous ne pouvez pas utiliser
+le travail qui a été fait pour le fermer.
+Vous êtes obligé, si vous le modifiez et que vous l'enrichissez,
+de le redistribuer sous les mêmes conditions.
+Alors, si vous avez fait un petit peu attention,
+ça vous a peut-être appelé à un autre projet.
+Ces 4 possibilités, la possibilité
+d'étudier, de modifier, etc.
+C'est ce qui est à la base
+de Wikipédia. Je sais que
+Quacos adore Wikipédia.
+Wikipédia et le logiciel libre sont
+fondés exactement sur la même philosophie. Il faut savoir que
+le principe d'une encyclopédie libre,
+c'est encore Richard Stallman qui avait lancé l'idée.
+Il y a quand même
+à la base un certain nombre de...
+Il y a des choses à reprocher à Wikipédia.
+Moi, j'ai une question piège.
+Attention ! Peut-être que le docteur pourrait répondre à cette question.
+Si tu me le dis, ce n'est plus un piège.
+À toi de trouver le piège.
+Pourquoi un pingouin ?
+Pourquoi un putain de pingouin ?
+Windows voit une fenêtre,
+bon, on sait que c'est Windows.
+On voit un tigre, on sait que c'est un bala.
+Alors, je savais que ça poserait problème
+parce que je sais que dans ce podcast, on est très attaché
+aux poney, et d'arriver avec des gnous
+et des pingouins, je me doutais que c'était...
+Que ça allait contre la philosophie
+du podcast.
+Si c'est une question sérieuse, je peux te répondre.
+En fait, quand ils ont créé Linux, ils ont cherché un logo.
+Donc, ils sont arrivés avec des requins,
+des choses comme ça, des choses assez agressives.
+Et puis, Linux a dit, ben non,
+moi, je vous propose un manchot
+parce que moi, je me suis déjà fait mordre par un manchot
+et je peux vous dire que c'est particulièrement agressif
+quand on se fait charger par un manchot.
+Et tout le monde a trouvé ça marrant.
+Et donc, ils ont lancé le manchot et après, ils ont lancé un concours
+pour réaliser le logo.
+Et c'est le logo actuel que vous avez vu
+qui a été adopté.
+On va peut-être un petit peu parler pour revenir à des choses
+un peu plus terre à terre.
+On a été tout à l'heure à la librairie Aerole
+qui organisait l'événement
+la rencontre avec Richard Stallman et qui présentait
+son livre, la biographique que vous allez voir à la caméra
+qui est un livre sous licence Common.
+C'est un livre sous licence Common.
+Pardon.
+Et donc, on a rencontré Richard, on a rencontré
+le buffet aussi. Alors, le buffet...
+Parle du buffet, je parlerai de Richard.
+Je vais parler du buffet.
+Le buffet était gratuit et il était libre.
+Ça, c'est ma dédicace de Richard.
+Happy hacking.
+Le buffet était sympa.
+Est-ce que vous voulez que je vous lise la dédicace ?
+Happy hacking.
+Buy Windows.
+Buy Bill Gates.
+Ce qui était assez rigolo, c'est que Antistress...
+Il a l'humour, ça aurait été possible.
+Antistress a rencontré...
+Antistress, sachez-le, est modérateur sur Framasoft.
+Il a rencontré
+un de ses collègues.
+Il était ravi de le rencontrer.
+Et manifestement, son collègue n'avait rien à taper de lui.
+Sympa.
+C'est aussi ça le logiciel libre.
+C'est ça la liberté.
+Donc, le collègue
+Antistress lui a posé une question, j'avoue,
+qui était tout à fait fine.
+Vas-y, tu étais capable de nous la...
+J'avoue que j'écoutais à moitié.
+Et à un moment, il y avait une nana qui se pointe
+ou je sais pas qui, qui pose une question au gars
+et puis il dit... Et pof, le mec s'est retourné.
+Je peux pas rivaliser contre une fille, j'ai pas les attributs moi.
+Le mec s'est retourné, il a complètement zappé
+Antistress.
+J'avoue, je suis un homme.
+Il lui a même pas dit, désolé, on va reparler de ça tout à l'heure.
+Oubliez l'Antistress.
+Le mec est en train de bavé devant la meuf.
+Même les pingouins, les cochonnes.
+Et ça, c'est ce que j'appelle,
+ça permet de mesurer son audience personnelle.
+Mais je te rassure, Antistress, j'ai vécu cette situation.
+Pour revenir un petit peu
+sur le côté débat de la chose,
+Antistress, tu serais plutôt
+sur une tendance où tu t'opposes à tout ce qui est brevet.
+Oh là !
+Tu attaques un sujet qui sonne.
+Ça va loin là.
+Est-ce que parce que Koken a jamais diffusé sa formule,
+est-ce qu'elle est moins bon qu'un autre ?
+On va pas rentrer là-dedans, ça va être trop long.
+C'est le problème qui est posé au final.
+Antistress,
+Antistress reviendra pour une émission sur les brevets.
+Mais c'est lui.
+C'est sérieux, on est en étude d'émission.
+Et pour reprendre à l'analogie de la voiture,
+est-ce que parce que je ne sais pas
+quelles vis sont utilisées chez la Porsche,
+est-ce que je ne sais pas qu'elle sera meilleure
+qu'une Fiat Punto ?
+J'ai pas compris.
+Tu dis, le logiciel libre,
+c'est bien, je sais exactement que ça n'installe pas ça.
+Je sais exactement comment c'est fait.
+Je peux lire toutes les lignes de code, donc c'est mieux.
+Je te fais une analogie avec la voiture.
+Parce que je ne connais pas le type de vis
+qui sont utilisées chez une Porsche,
+je vais penser que si on me file toute
+la liste d'outils d'une Fiat Punto,
+ça sera meilleur.
+Je vais te répondre
+par un autre exemple sur la voiture et garder l'analogie.
+Au moment où il y avait des voitures qui ne s'arrêtaient plus,
+il faut savoir
+que les constructeurs de voitures
+refusaient de livrer le contenu
+de leur boîte noire électronique, etc.
+qui est une boîte complètement fermée,
+ce qui fait que les utilisateurs qui ont voulu se plaindre
+d'un mauvais fonctionnement n'ont jamais pu prouver
+le mauvais fonctionnement.
+Ils avaient affaire à une boîte noire, ils ne savaient pas ce qu'il y avait dedans
+et le constructeur n'était pas obligé de le fournir.
+Autrement dit,
+faites confiance à des boîtes fermées,
+autrement dit, avoir un frein
+qui n'est pas open source, ça peut être emmerdant.
+J'ai une autre question, est-ce que
+Linux ne plante jamais ?
+Alors,
+Linux est un logiciel.
+D'abord, c'est le noyau, sinon c'est une distribution
+au GNU-Linux, qu'il peut avoir au Ubuntu, Red Hat, etc.
+Et comme tous les logiciels,
+il y a des bugs.
+Je ne vais pas prétendre que Linux
+est bug-free, à chaque nouvelle version
+du noyau Linux, il rajoute des fonctionnalités,
+il corrige des bugs, c'est un logiciel.
+C'est le logiciel, mais après il y a le noyau, c'est ça qui importe.
+C'est un peu le problème, c'est que t'as une million de lignes de code
+et t'as 10 000 mecs qui sautent le partage.
+C'est toi connard qui a bougé les lignes 526 ?
+Non, c'est toi !
+Compte tenu du mécanisme du travail
+collaboratif permis avec internet
+et le code source ouvert,
+vous avez un nombre extrêmement élevé de personnes,
+notamment dans le noyau Linux, qui passent en revue le code,
+et ça a été montré
+que ça permettait d'aboutir sur des projets comme ça
+à un code plus fiable
+qu'un autre système de développement.
+Les logiciels libres ne sont pas plus fiables,
+ça dépend du nombre de personnes qui sont sur le projet.
+Mais le fait d'avoir un système ouvert
+où chacun peut vérifier
+le code de l'autre, a montré que ça a abouti
+à essayer, dans le cas de Linux notamment,
+à des produits particulièrement fiables.
+Mais c'est pas une caractéristique
+intrinsèque du logiciel libre,
+s'il y a un gars qui développe tout seul son logiciel libre
+qui intéresse personne, bah s'il y a des bugs,
+il n'y a que lui qui les verra.
+S'il y a personne qui utilise son logiciel libre,
+il sera le seul à les supporter.
+Tu peux reprendre anti-stress.
+Non mais voilà, je vais conclure
+un petit peu sur
+l'intérêt du logiciel libre
+pour moi, et puis je vous donnerai derrière
+quelques pistes de logiciel
+si vous voulez l'utiliser chez vous
+sans forcément
+remplacer votre Windows
+ou votre machin que vous pouvez avoir.
+Il y a vraiment un enjeu aujourd'hui autour de l'informatique
+puisqu'il y a eu
+au cours des années 70,
+la révolution informatique
+où tout le monde s'est équipé d'ordinateurs,
+et puis dans les années 90 il y a eu la révolution internet.
+Donc aujourd'hui, notre quotidien
+est de plus en plus numérisé.
+Tout ce qu'on fait est numérisé.
+Donc la production est numérisée,
+la culture, la communication, l'information, l'éducation, etc.
+Donc il y a vraiment un enjeu qui se fait
+au niveau de l'utilisation
+de la technologie informatique,
+c'est qu'aujourd'hui elle vous donne accès
+à la totalité,
+enfin la quasi totalité des activités humaines
+Donc c'est ça qu'il faut bien comprendre,
+c'est qu'un ordinateur, c'est différent,
+c'est pas votre baignoire, c'est pas votre friteuse,
+c'est pas votre aspirateur,
+c'est un outil qui a un enjeu de contrôle
+de vos données, de l'accès à l'information, etc.
+Votre frigo ne peut pas vous espionner,
+votre frigo ne contient pas toute votre vie privée,
+donc utilisez...
+Ça dépend quel frigo...
+Quand vous utilisez un ordinateur,
+c'est pas juste un outil,
+c'est un objet
+qui a un vrai enjeu de pouvoir,
+et vous avez des gens qui développent
+le logiciel, qui veulent prendre le pouvoir,
+contrôler ce que vous faites, etc.
+Et une manière de l'éviter, c'est d'utiliser
+les logiciels libres.
+Pour moi, le logiciel libre, c'est ce qui vise à créer
+une informatique sans nuisance,
+et qui permet
+d'accéder à toute notre vie numérique actuelle.
+Est-ce qu'il en faut pas pour tout le monde en même temps ?
+Il est librement
+copiable et partageable, donc il y en aura pour tout le monde
+des logiciels libres, c'est l'abondance.
+Ce qui n'a pas besoin d'un peu de société commerciale
+pour l'innovation.
+Mais encore une fois, le logiciel libre
+se fait dans le cadre de sociétés commerciales.
+Vous avez Sun, Google, Intel,
+Ulet Packard, etc.
+Red Hat, Canonical,
+tout ça c'est des sociétés commerciales.
+Et c'est aussi des projets libres ?
+Ils y sont contraints,
+parce que parfois on les prend la main dans le sac
+à intégrer du code libre,
+et il aurait fallu que je vous en parle, mais on va pas forcément pouvoir le faire.
+Les logiciels libres
+tels qu'ils sont
+vus par Richard Stallman et par le projet GNU,
+c'est des projets qui
+adoptent le système du copyleft.
+C'est-à-dire que lorsque vous utilisez un logiciel et que vous l'améliorez,
+vous êtes obligé de le rendre à la communauté.
+Vous n'avez pas le droit de l'enfermer,
+d'en faire quelque chose de propriété individuelle,
+vous êtes obligé de le laisser comme un bien commun.
+Et on s'aperçoit souvent que les auditaires
+de logiciels propriétaires
+utilisent, sans le dire,
+et évidemment comme ils ferment leur code, c'est difficile à voir,
+utilisent du code source
+sous la licence GNU-GPL,
+protégé par le copyleft.
+Et c'est ce qui est arrivé dernièrement à Microsoft,
+qui a dû contribuer malgré lui,
+de manière importante, à une des versions des noyaux,
+c'est parce qu'ils l'avaient utilisé
+très majoritairement dans un...
+je sais plus si c'est un pilote ou quoi qu'il avait développé,
+il y avait une grosse partie,
+c'était du code protégé par l'essence GNU-GPL
+et il a été contraint de le reverser à la communauté.
+Donc c'est rare qu'ils le fassent
+spontanément Microsoft, parce que tout simplement,
+ils n'ont pas cette culture.
+Et de même,
+les problèmes qui se font devancer par Google sur tout ce qu'il y a internet,
+c'est vrai qu'eux, ils sont d'une autre époque,
+avec une autre culture qui a fonctionné à un moment,
+et bah quand on a un modèle qui marche, c'est difficile de le remettre en cause
+et de scier la branche sur laquelle on assise.
+Juste.
+Mais au final, est-ce que le problème,
+le vrai problème de la communauté...
+Pas de problème, il y a que des solutions.
+Est-ce que ça serait pas en fait, qu'au final, elle n'est pas inventrice ?
+Inventive ?
+C'est-à-dire...
+Inventive, mais elle est inventrice.
+Dans le sens où le fait que copier des produits
+citer vos références,
+M. Quacoss,
+référence nécessaire...
+Est-ce que Gimp est arrivé avant Photoshop,
+est-ce que Scribus est arrivé avant InDesign,
+est-ce que tout ça ?
+Est-ce que OpenOffice est arrivé avant...
+M. Quacoss, avant d'innover,
+faut déjà faire votre appel retard.
+Vous vous soulez qu'avant la suite Office,
+il y avait le...
+et que les logiciels, les entreprises
+commerciales innovent très peu, quand même ?
+Je sais pas.
+Avant Office, il n'y avait que Lotus,
+qui s'est fait complètement descendre par Office, etc.
+Je veux dire quelque chose par rapport à ça...
+Il y a autant d'innovations là qu'ailleurs.
+Moi je défends le logiciel libre,
+mais je ne suis pas non plus
+aussi radical que notre ami anti-stress,
+entre guillemets, bien sûr.
+Par exemple, Persistence of Vision,
+qui est un logiciel de raytracing,
+était un logiciel avec un code source libre,
+et c'était extrêmement innovant.
+C'est-à-dire qu'on était au début des années 90,
+et on pouvait créer des images de raytracing
+de très haute qualité gratuitement,
+sans rien payer du tout.
+Et juste, le payant à l'époque était merdique
+comparé à ça.
+Après, ça devient un peu compliqué
+quand on commence à rentrer dans le fonctionnement.
+J'ai juste une dernière question pour toi,
+parce que quelqu'un en parlait sur le chat,
+et c'est un problème auquel je pense
+le Lib va avoir à faire dans ces prochaines années.
+Le Cloud, t'en penses quoi ?
+Qu'est-ce qui va m'étrangler là sur le chat ?
+Le Cloud.
+Le Cloud.
+Ce n'est pas ce sujet.
+Dis-nous juste rapidement, 10 secondes.
+C'est un sujet important.
+Il faut savoir que c'est un vrai piège
+pour les logiciels libres,
+parce que tout ce système de contrôle
+de nos données qu'on essaie de se réapproprier
+avec les logiciels libres,
+aujourd'hui on peut facilement le perdre
+en utilisant des logiciels libres connectés
+à des services en ligne.
+Si vous confiez vos photos à Flickr,
+et même si sur votre ordinateur
+vous utilisez des logiciels libres,
+vous retombez dans l'écueil
+de donner toutes vos données
+à une entreprise privée
+et vous perdez le contrôle de vos données.
+Il faut bien faire attention
+aux services que vous utilisez,
+voir sous quelles conditions
+de licence d'utilisation ça s'applique,
+voir quels sont les enjeux derrière.
+La question c'est qui contrôle vos données,
+que ce soit sur votre ordinateur ou en ligne.
+C'est une bonne question,
+c'est-à-dire que l'écueil
+contre lequel le Stalman
+avait eu à lutter à l'époque
+et pour lequel il a créé
+le logiciel libre,
+cette écueil se retrouve aujourd'hui
+avec les services Internet.
+On va finir là-dessus.
+Je voulais donner quelques exemples
+de logiciels libres pour utiliser Linux.
+Ce qui est intéressant,
+c'est de savoir que vous pouvez installer
+par exemple une distribution Linux
+sans forcément reformater et supprimer votre Windows.
+Il y a beaucoup de distributions Linux
+que vous pouvez tester
+en live sur des clés USB.
+Vous démarrez sur une clé USB,
+toutes les données sont enregistrées sur la clé USB
+et quand vous éteignez votre ordinateur,
+vous enlevez la clé USB et rien de votre système
+n'a été changé, simplement dans l'intervalle
+vous avez fait tourner le logiciel sur la clé USB
+et vous avez essayé une distribution Linux.
+C'est un bon moyen de savoir si tout votre matériel
+est supporté, puisqu'on posait la question
+des drivers tout à l'heure, et de savoir si
+vous trouvez que l'interface vous convient,
+puisqu'aujourd'hui, au tour de la table,
+certains ont des doutes, n'est-ce pas le capitaine ?
+Alors pour ça,
+vous avez par exemple le logiciel
+UNETBOOTIN,
+U-N-E-T-B-2-O-T-I-N,
+qui permet d'installer n'importe quelle distribution
+sur une clé USB pour le rendre bootable
+et d'essayer n'importe quelle distribution
+de son choix.
+Vous avez Ruby qui est intéressant,
+qui vous permet d'installer Ubuntu
+comme un exécutable, comme un logiciel
+et de désinstaller par le panneau des logiciels.
+Et enfin sur Framasoft,
+vous avez la Framakie,
+qui vous permet d'utiliser
+des logiciels libres sous Windows
+depuis une clé USB, et toutes vos données
+sont sauvegardées dessus, donc vous pouvez
+vous balader avec votre profil.
+Et puis voilà, vous avez toute une série
+de logiciels qui vous permettent
+de tester Linux sans forcément
+reformater votre disque dur.
+Donc vous pouvez les tester et vous direz ce que vous en pensez.
+Voilà, absolument !
+En tout cas c'était intéressant de parler un peu de logiciels libres
+dans la période du Captain.
+C'est vrai, mais ça mérite un débat beaucoup plus long.
+C'est vrai que c'est compliqué comme débat.
+Et alors pour répondre à Quacko, c'était la chanson des logiciels libres
+remixés par Fenster
+qu'on a entendu au début de la rubrique.
+Attention, uniquement avec des guitares open source !
+Eh bien attention !
+Et dont les paroles proposaient de partager le code
+et de se libérer.
+Se libérer.
+On va se libérer maintenant avec Quacko !
+On va se libérer dans le stress, c'est ça que t'allais dire !
+Pas du tout !
+Mais écoutez, oui,
+ça fait déjà à peu près 1h50 de podcast.
+Qu'est-ce que je fais ?
+Je balance quand même la nouvelle rubrique cinéma.
+Vas-y, vas-y, balance tout !
+Si on a commencé tôt, on peut se le permettre.
+Et qui dit nouvelle rubrique, dit nouveau jingle !
+C'est parti !
+Freedom !
+T'as pas un peu exagéré là tout de même ?
+Ouais donc la phase d'enregistre
+c'était épique !
+Alors attention, je précise
+légèrement exagéré
+sur les violons.
+Mais bon, c'est pas très grave.
+Donc, nouvelle rubrique, la rubrique cinéma.
+Par votre ami Quacko.
+C'est bien !
+C'est ce qu'on disait il y a pas longtemps,
+on dirait un petit truc geek, un peu plus que high-tech.
+Exactement.
+Alors cette semaine,
+vu le temps, vu l'heure
+passée, je ne vais pas
+décortiquer un film. Je réserverai ça pour
+la semaine prochaine. Je vais vous faire
+une petite introduction au cinéma
+et des généralités du cinéma.
+Notamment, comme tout à
+l'heure le disait notre ami Quacko.
+Il faut dire que tu es un spécialiste, il faut que les gens le sachent.
+Je suis un amateur.
+Je t'attends au tournant Quacko,
+parce que moi aussi j'ai vu beaucoup de films.
+J'attends tout ce tournant.
+De pied aussi, il t'attend au tournant.
+Exactement.
+Alors j'ai un film libre,
+le cinéma,
+comme le disait tout à l'heure, anti-stress,
+il faut me rappeler, on a les chiffres
+sur le site du CNC,
+et en effet, le cinéma ne va pas si mal comme ça.
+Il va très bien.
+Il enregistre même une hausse de 5,7%
+entre 2008
+et 2009.
+Notamment, sur le dernier semestre,
+peut-être qu'Avatar a une bonne
+portée là-dessus.
+Et bienvenue chez S.T.
+Bienvenue chez S.T. c'est quand même pas 2009.
+C'est un peu avant quand même.
+Ça date un peu quand même.
+Si malheureusement je l'ai vu.
+C'était le gros buzz de Noël.
+Je me demande si c'est pas HFAL sur 2008-2009.
+Ça fait déjà un an que les DVD étaient vendus à Noël.
+Je sais que ma mémoire essaye de l'oublier.
+J'ai bien aimé moi.
+Mais bon, il faut dire que je suis S.T.
+Et j'aime bien le maroille.
+Tu fais partie de ceux qui y sont allés 5 fois alors.
+C'est donc ça cette odeur !
+Mais je n'en prends pas pour petit déjeuner dans le café.
+D'accord.
+Donc quelques chiffres, c'est quand même, il faut savoir,
+en 2009, 200 millions d'entrées
+au cinéma en France.
+C'est même pas mal.
+Et LTP1 en a rentré pas mal là-dedans.
+200 millions d'entrées.
+En France.
+Par 10 euros la place.
+Et ceux qui rentrent juste pour aller au chiottes
+et qui ressortent sa compte ?
+Ça ne compte pas, je ne pense pas.
+Alors on va être un petit peu généraliste.
+On va parler des trucs un peu fun.
+Parce que c'est une urbique de quoi que ce, quand même.
+On va parler de records.
+De records au cinéma, n'est-ce pas ?
+La Grande Vaidrouille et le Titanic.
+Avatar !
+On ne va pas faire le record de ce moment des places.
+Parce que ça, ça sera intéressant.
+On est venu chez Chichi quelques semaines.
+Mais non, on s'en fout, tout le monde le sait.
+C'est pas drôle.
+Le plus long film jamais réalisé.
+Le grand bleu.
+Le jour le plus long.
+Le plus long film.
+24 heures.
+Si c'est celui où je me suis fait le plus chier, mon avis,
+il y en a beaucoup.
+C'est quand j'ai vu...
+Il a été réalisé par un illustre inconnu
+qui s'appelle John Henry Timmies IV.
+Et qui dure
+exactement 85 heures.
+Son titre s'appelle
+The Cure for Insomnia.
+Est-ce que c'est un film porno pendant 85 heures ?
+Non, ce n'est pas un film porno.
+Lorsque ton père pourra confier avec moi,
+pour moi, le film le plus long, c'est le film
+qu'on était allés voir au cinéma ensemble,
+qui s'appelle 2042, je ne sais plus quoi.
+C'était immonde.
+C'était absolument atroce.
+C'était immonde aussi, 2012.
+Petite parenthèse, très très rapide, Quacos,
+on y avait été à la demande de ton épouse.
+Et je t'avoue que j'ai failli m'arracher les yeux
+pendant la séance.
+Et ton épouse, qui s'emmerdait autant que nous,
+elle n'a pas voulu sortir par principe.
+C'est une vengeance parce qu'on l'avait emmené voir
+un film de zombie quand elle était enceinte de sept mois.
+T'as raison, mais pour l'épouse de Captain Web,
+c'est pour toi.
+Il s'agit du réalisateur de In the Mood for Love.
+Oui, c'est Wong Kar Fai.
+J'aime beaucoup ce film.
+Ça ne m'étonne pas toi, tu as aimé Spider.
+Ah non, j'ai pas aimé Spider.
+C'est vrai que j'ai emmené tout le monde
+et c'était nul.
+Juste petite
+anecdote, il a été diffusé
+une fois entre le 31 janvier
+et le 3 février
+99. Est-ce que quelqu'un l'a vu en entier ?
+Dans combien de salles ?
+Est-ce que personne n'a dormi ?
+Vous imaginez la taille de la bobine ?
+Le mec il restait là pendant 85 heures à changer les bobines.
+À mon avis il se réveillait toutes les heures.
+On peut le décharger sur Pirate Bay ?
+Le plus grand nombre de costumes pour Harold,
+est-ce que vous savez ?
+Indice ?
+C'est pour Evita avec Madonna.
+1996.
+Ça c'est de l'indice.
+Ça compte les culottes ?
+Et là où il y avait le moins de costumes,
+c'était un film avec Rocco si Freddy.
+Je pense qu'il a dû re...
+200 trucs ?
+85 costumes,
+39 chapeaux,
+45 paires de godasses
+et 56 boucles d'oreilles.
+C'est super sympa.
+Combien de culottes on a vu sur le chat ?
+Ça c'était plus
+des backstage des concerts.
+À mon avis il n'y en avait pas du tout.
+La scène la plus montée.
+Rocco et ses soeurs.
+Je l'attendais, c'est là c'est pour ça que je l'ai gardé.
+La scène qui part d'un plus grand nombre
+d'heures de rush pour faire
+un plus petit indice.
+C'était avec un bague comme acteur.
+C'est assez vieux quand même.
+Le truc de Honkar Wai à mon avis devait être pas mal placé.
+Indice, 1925, la sortie du film.
+Métropolis ?
+Charlie Chaplin ?
+Le monteur s'appelle
+Lloyd Nossler.
+Il a dû
+compresser 61 000 mètres
+de pellicule en 228 mètres.
+À l'époque il fallait des ciseaux
+et du scotch.
+C'est une scène de baignures.
+C'est quand même pas mal.
+Il a dû s'amuser.
+La maison
+d'édition lui a dit
+Arrête ton chat !
+Le plus grand nombre de figurants ?
+Ce n'est pas l'ordre du gang bang japonais
+que tu m'as montré.
+C'était pas un cléopâtre ?
+Ça devait être un peplum.
+Un film avec des e-walks ?
+Non plus.
+C'est 300 000 figurants.
+300 000 figurants.
+C'est un truc chinois.
+Quelle période à peu près ?
+C'est un film chinois.
+C'est un film chinois.
+C'est un film chinois.
+Ils utilisent des générateurs de fou.
+C'est un film asiatique ?
+Je vous le dis parce qu'on a plus beaucoup de temps.
+C'est pour Gandhi.
+C'est de 1981-82.
+Ils ont tous payé ?
+Non, ils n'ont pas tous été payés.
+Il faut savoir aussi
+que la scène finale
+dure 125 secondes.
+Avec 300 000 figurants.
+C'est un truc de malade.
+Le plus gros budget maquillage ?
+Le plus gros budget maquillage ?
+C'est pas pour les couilles de Rocco.
+C'est pas pour les couilles de Rocco.
+C'est pas pour les couilles de Rocco.
+C'est vieux aussi.
+Ça devait être un film où les mecs se transforment en vampires.
+C'est un film où les mecs se transforment en vampires.
+C'est un film où les mecs se transforment en vampires.
+Ça vous pouvez le trouver.
+C'est 1968.
+C'est un film américain.
+Le rallye pour Tr Hastan behaved
+comme un options space
+pour cacher les acteurs.
+Ils étaient trop mauvais.
+Gros indice.
+Il y a eu un remake par Tim Burton.
+Allez, appelle des singes.
+La planète des singes
+qui à l'époque dans les années 60
+avait dépensé 1 million de dollars
+de budget maquillage.
+Pourquoi ils n'ont pas engagé des vrais singes ?
+Ils auront appris à parler.
+Ils m'aideraient.
+J'arrête là, suivant
+Le plus rentable
+Le plus rentable
+Ah c'est le film de Georges Lucas
+Tout au long du sac carrière
+American Graffiti
+Ce que j'entends
+American Graffiti
+Ce que j'entends par rentable c'est
+le ratio entre
+American Graffiti
+C'est un film du Pérou
+C'est Projet Blair Witch
+Parce qu'il a coûté
+35 000 dollars et il a rapporté
+Je dois voir le chiffre quelque part
+4000 fois plus, 4500 fois plus pour être exact
+C'est à dire 140 millions de dollars
+Est-ce que le dernier film qui filme un couple
+Dans un appartement
+Paranormal va pas battre son record
+Peut-être, mais on y est pas encore
+Je crois pas que les gens soient allés le voir si
+4000 fois ta somme de départ c'est quand même pas mal
+C'est quand même assez énorme
+Oui
+Si la somme de départ
+C'est un euro
+Je vais vous donner des chiffres
+Matrix 39
+Predator 64
+Il faut sauver le soldat Ryan 206
+Le nombre de brouzouf
+Entre Predator 64
+Et le soldat Ryan 206
+Le nombre de balles ?
+Le nombre de morts
+Le nombre de morts dans le film
+Il faut savoir qu'il y a un site qui s'appelle
+moviebodycounts.com qui référence tout ça
+Ils ont référencé le seigneur des anneaux
+Exactement
+Et je vais vous donner le top 5
+En place numéro 5 c'est le dernier samouraï
+Avec 558 morts
+En place numéro 4 c'est 3
+Avec 572 morts
+En place numéro 3
+2012
+Commando, tout le monde est mort
+C'est 300
+Avec 600 morts
+Numéro 2
+Kingdom of heaven
+Avec 610 morts
+Et en effet Lord ton père, tu as raison
+Parce que Lord of the ring
+Return of the king
+A 836 morts
+Qu'est ce que tu appelles des morts ?
+C'est des gens qui sont payés pour mourir devant la caméra
+Donc 405 orques
+Il y a vraiment des mecs qui comptent ça ?
+Oui je pense
+Les orques ça compte pas
+Parce que tu comptes la nombre de morts dans Lord of the ring les 3 épisodes
+Tout compte là dedans
+On va faire des mini rubriques comme pour l'oiseau
+Avec des titres
+Je vous dirais tout sur le zizix
+Parce que y a un film qui s'appelle
+Zizix road
+Qui a décroché un record
+Qui n'est pas forcément le record le plus voulu
+Le plus souhaité par le réalisateur
+Qui est le record du film
+La plus petite recette de l'histoire du monde
+C'est à dire
+Y a quand même une star dedans
+J'ai repéré qu'il y avait
+Catherine Egel
+Qui est une héroïne de la série
+C'est la blonde
+Alors il faut savoir
+Qu'il a effectué une recette
+Dites moi un chiffre
+10 euros, enfin 10 francs
+Je pense qu'il va être de l'ordre de 250 dollars
+C'était quand en quelle année ?
+1000 dollars parce que
+Trop du dérivé là
+C'est exactement 30 dollars
+Il a été diffusé
+Que dans une seule salle aux Etats-Unis
+Pendant 6 jours
+30 dollars en 6 jours
+Ça veut dire qu'il y a à peu près une place tous les 2 jours
+Mais comment tu fais
+Pour avoir un film qui a aussi peu de succès
+Je sais pas mais je suis pas sûr que
+Le réalisateur a été réembauché après
+On va le regarder, on va comprendre
+C'était quel réalisateur qui avait racheté toutes les bobines d'un de ses films
+Essaye de trouver sur le torrent ça
+Le film sera décortiqué pendant 2 heures dans le prochain podcast
+Par mes soins
+Le premier dvd vendu il a dû rentabiliser
+Faire plus que les entrer en salle
+Bon allez, news suivante
+C'était mon titre, excuse-moi
+Pourquoi Aka c'est la voix ?
+Essayez de...
+La voix de fer
+La voix lactée
+Une actrice de 35 ans
+Pour le film d'animation Shrek
+A prêter sa voix
+Vous savez ou pas ?
+Mimimati
+Qui prête sa voix à la princesse
+En français ou en anglais ?
+Madonna ?
+Romiche Nader
+Cameron Diaz
+Combien est-elle touchée
+Juste pour prêter sa voix ?
+2 millions
+La question est combien est-elle touchée
+Juste pour prêter sa voix ?
+2 millions, 3 millions
+Moi je dis 10, encore plus
+30 millions
+30 millions de dollars
+Cherche d'auditeurs
+A ce prix-là il ne faut pas se casser la voix
+Je suis prêt à prêter ma voix pour 10 euros
+Tu ne l'as pas fait d'ailleurs dans un film de Roko
+Roko et ses sœurs
+Mais il doublait uniquement les femmes
+En train de se faire se domiser bien sûr
+Pas bien
+Tu peux y aller
+Bien sûr
+Billets sponsorisés sur la toile
+Un autre record
+C'est le record du...
+Le record du plus grand nombre de marques
+Dans un film
+James Bond
+Non, moi je l'ai vu avec ton père
+C'était le truc où le mec se protégeait avec un destructeur de coca à la fin
+Un truc de basket
+Jean-Claude Van Damme
+Avec le basketeur
+Oui c'est ça
+Avec Mickey Rourke
+A la fin il se protège
+Il sort des arènes et il se protège avec un destructeur de coca
+Exceptionnel
+Avec une marque
+Double team
+Exactement
+Merci
+C'est un film beaucoup plus récent
+Il est sorti en 2008
+Et qui a fait apparaître
+163 marques
+En 2008
+Quel film en 2008 ?
+C'est une pub ?
+Non, c'est presque ça
+Dans Bienvenue chez les Ch'tis il y avait la Poste
+Mais ça fuck une et le Maroille
+Non c'est pas ça
+C'est Sex and the City le film
+163 marques
+D'ailleurs il y avait une anti-pub contre l'iPhone
+Qu'elle savait pas faire marcher
+Est-ce que vous savez combien
+Cette apparition de 163 marques
+A rapporté
+Au niveau de la production
+100 000 dollars
+Plus rente à 40 millions
+Plus que les entrées un peu moins
+23 millions de dollars
+Financés par les sponsors
+C'est pas mal quand même
+Si vous voulez nous sponsoriser
+Pour beaucoup moins que 23 millions de dollars
+Je me souviens nous on avait payé pour un hélicoptère
+Dans un James Bond
+Il y a 4 James Bond à peu près
+Il y avait un hélicoptère français
+Qui apparaissait
+Le seul rafale qui a jamais été vendu il est là
+C'est un hélicoptère qui se vendait pas
+Ils avaient fait un placement pour des films
+Petite question rapide
+Est-ce que vous savez à peu près
+Le budget moyen actuel d'un film
+Le budget moyen actuel d'un film
+Le budget moyen actuel d'un film
+20 millions
+50 millions
+200 millions de dollars
+Moyen ?
+Ils comptent pas les films indépendants là
+Les films indépendants c'est 10 millions
+On parle pas des films indépendants
+Le film de base
+De base à 200 millions
+Le film de base
+Même les comédies romantiques
+Qui commencent à 30 millions de dollars
+Des gros projets comme Avatar
+Ca fait une moyenne de 200 millions de dollars
+En sachant qu'il y a maintenant
+A une époque les plus gros cachés
+C'était 20 millions de dollars
+Ils sont montés à 40 millions de dollars pour les stars
+Donc tu places 2 stars
+Tu as déjà 80 millions de dollars
+Parce qu'ils font grève et tout
+J'ai pas remis dessus parce qu'on avait parlé la semaine dernière
+Avec le Capten
+Le plus gros budget pour un acteur anti stress
+40 millions de dollars
+De 80 millions de dollars
+60 ?
+C'est pas le plus gros budget
+C'est Jack Nicholson pour Batman
+Parce qu'il avait négocié dans son contrat
+Des droits sur tout ce qui est marketing
+60 millions de dollars
+Il a dû être conseillé par George Lucas
+Qui a inventé le merchandising
+Allez dernier truc
+Dernière petite news parce qu'on parle de records
+Et on peut pas parler actuellement de records sans parler de
+Avatar
+Donc il vient de détrôner
+Titanic
+Il a pas encore détrôné Titanic
+En nombre de visites
+Pas en chiffre d'affaires
+Il est pas très loin
+Il a 500 millions de dollars
+Ce qui à son niveau représente plus grand chose
+Dans 3 à 4 semaines il va le battre
+Il vient de détrôner l'ex 2ème
+Donc qui était
+Le 2ème en recette
+Titanic 2
+Est-ce que Avatar
+Est-ce que Avatar a un effet
+Sur la propagation de la grippe A
+Vu qu'on se refile tous ses vieilles lunettes pourries
+C'est possible
+Donc le 2ème il vient de griller
+Le seigneur des anneaux
+Le retour du roi qui était en 2ème position jusque là
+Ca compte pas les 3 films
+Le retour du roi il l'a dit
+La question est le retour du roi
+Donc il était plus vu que les 2 premiers
+Ouais
+Beaucoup plus
+Parce qu'il est revenu 2 fois
+Le retour c'est pas le 2ème
+Le retour du roi
+Il est revenu
+La communauté de l'anneau
+Les 2 tours, le retour du roi
+J'ai lu le bouquin
+Parfait
+Bon on va passer un petit quiz
+Tout le monde aime ça les quiz
+Un petit quiz si noche
+Il y a du facile et du moins facile
+On va déjà faire un quiz musical
+Faire écouter un extrait de musique de film
+Et vous allez me dire quel film
+Prêt ? On commence facile ou difficile ?
+Facile
+Il faut chauffer
+C'est super connu là
+Shining
+The Rock
+Personne ?
+Il faut qu'ils aident sur la tiatrome
+P'tit cause
+Ouais
+Il a triché
+C'est la tiatrome qui m'a aidé
+C'est là qu'on voit qu'on est vraiment un chien
+Le fouet pour l'an de ton père
+Il nous sort 2012 ou Terminator
+On déchire tout de suite le truc
+Deuxième extrait
+Là je pense que vous allez le savoir
+Chantons sous la pluie
+C'est un film de Tim Burton
+Non
+C'est connu
+C'est dur
+C'est connu
+Miserie non ?
+Non
+C'est un film un peu intrigant
+C'est un thriller
+Basic Instinct
+Ouais
+Encore la tiatrome
+Ils sont forts sur la tiatrome
+Blanche-dèche Batman
+Y'en a qui se sont instiqués sur l'entrejambe
+On me dit aussi Harf
+Ah non pardon
+J'aimais beaucoup Alf
+C'est pour mon videomètre ce qu'il a trouvé
+Y'a pas de secret
+Y'a pas de secret
+C'est ceux qui portent pas de culotte qui trouvent ça
+Le va numéro 3
+Numéro 3, facile ça c'est pour vous
+Pour de la Rivière Quaï
+Écoute bien
+Police académique
+Police académique
+Police académique
+Je suis trop fort
+Je vous ai tous vu 10 fois
+Je me souviens du shampoing
+qui est remplacé par l'alcool
+sur la douche
+C'était énorme cette musique
+Est-ce qu'on peut nous faire
+tous les bruits de bouche
+Ah oui tu nous ferais ça
+Le mec il avait des tirs de mitraillettes
+Il y a pas dur
+On savait faire de bons films à l'époque
+Franchement
+Un crossover
+Bon et maintenant pour faire rapide
+On va passer un petit peu plus dur
+Quoi que j'ai pris des exemples assez faciles
+Terminator
+A des extraits de dialogue
+Parler
+You fuck my wife
+Ah il va y être
+J'aurai pu le mettre mais non
+Attention premier extrait
+You're one ugly motherfucker
+You're one ugly motherfucker
+You're one ugly motherfucker
+Nooo
+T'as pas entendu l'accent ?
+Écoute bien
+Écoute il y a un gros accent
+You're one ugly motherfucker
+Un bel accent autrichien
+Charzenegger
+Prédator
+Qui a été traduit en français
+Je montre que les extraits originaux
+En français il faut avoir celui-là traduit
+En français il faut avoir celui-là traduit
+Le prédator il tue
+Toi t'es pas beau
+Toi t'as pas une gueule de porte bonheur
+J'ai trouvé quand même pas mal
+Alors là j'ai dit l'auteur va avoir des royalties
+D'ailleurs le prédator était Jean-Claude Van Damme
+C'est vrai
+C'est au niveau de tuer mon pire cauchemar
+Je suis ton pire cauchemar
+Je trouve ce titre super
+T'as une gueule de porte bonheur
+Un deuxième dans le même style que motherfucker
+You're one ugly motherfucker
+C'est le même
+Alors là c'est un bon accent bien riche
+Piège au cristal n°1
+Ah pas mal
+Et il dit ça
+Il dit ça au moment
+Le méchant qui est tellement
+Au moment où il a l'arme dans son dos
+Il a l'arme dans son dos avec du scotch
+Mais pour être un peu plus précis
+Pour une fois le TP n'a pas triché
+Pour être un peu plus précis
+Il le dit en fait dans chaque épisode
+C'est vrai mais le premier
+C'est la première fois
+Je sais pas si leur top air s'en rappelle
+Tu nous mettra Adrien c'est facile
+Je n'ai pas gagné une seule fois
+Celui-là un bon vieux classique
+On passe le
+Un petit coup
+Je n'ai rien compris
+Je lui ai promis de ne pas jouer
+T'as besoin d'un gros bateau c'est un truc pour s'enfuir
+Non de plus grosses chaussures
+Je vous l'ai fait
+Alors il faut savoir pour l'historique
+La grande évasion
+Un gros classique
+Star Wars
+Un indice
+Ils sont dans un bateau
+Ils sont plein milieu
+Et là
+Merci à la chatte
+Rush Raider
+La gueule de la bête
+Et là il se recule dans le bateau il dit ça
+Mais attends tu nous aurais mis la musique
+D'être dans la mer j'aurais trouvé par contre
+Je pense mais c'était un peu trop facile ça quand même
+Du calme
+Un petit dernier un petit dernier pour la route
+Facile
+Exactement
+Très bon Lord
+Et c'est à la fin du film
+De faire croire
+Qu'il n'existe pas
+Exactement
+Une réponse que les connaisseurs
+Il faudrait prévenir les gens
+Qu'on spoil à mort
+Ceux qui n'ont pas vu Usual Suspect
+Il y a une superbe affiche
+Qui spoil plus de 80 films
+Vous devez la trouver facilement sur internet
+Une belle affiche à avoir chez soi
+Usual Suspect c'est un film à recommander
+On va finir là parce que là
+Ca fait déjà plus de 2 heures qu'on a commencé
+On va battre notre corps de l'émission la plus haute
+Si vous voulez que je fasse un cours was off
+On commence maintenant
+Roxy la poupée qui dit oui
+Je sais que Captain a lu la news
+Comme tout le monde
+Roxy c'est une nouvelle poupée gonflable
+Mais attention
+L'orthopère ça va te plaire
+Non elle est robotisée
+C'est japonais alors
+Elle a un moteur dans la bouche
+Je ne sais pas si c'est japonais
+La société s'appelle True Companion
+Très bien trouvé
+Tu peux l'acheter Lorde
+Pour 7000 à 9000 dollars
+En fonction des options que tu vas prendre
+Il a été présenté samedi dernier
+Au Las Vegas
+Devant une foule d'hommes cloués face à tant de sexopiles
+Elle fait 1m73
+Elle fait 54 kg
+Et elle est dotée
+D'une intelligence artificielle
+C'est ce que j'allais dire
+Avec le thème du Captain Web tout à l'heure
+Le jour où les poupées gonflables ont une intelligence artificielle
+Vont-elles dire non systématiquement ?
+Exactement
+Tu m'as coupé l'herbe sous le pied
+Ça fait partie des trois rois de la robotique du Capitaine
+Ça fait partie des mots qui lui sont interdits
+On peut parler d'intelligence artificielle entre guillemets
+Tout d'abord
+Ça représente un modèle féminin
+Donc on ne peut pas vraiment parler de ça
+Mais en plus elle est limitée
+Car elle est toujours d'accord
+Mais ça peut être un peu positif
+Il faut savoir que
+C'est un peu synthétique mais elle ressemble à de la chair
+Et évidemment elle est dotée d'organes sexuels
+Forcément
+Il faut savoir aussi Lorde ton père
+Que quand tu la toucheras
+Car Quacos l'a déjà commandé
+Elle est directement à ton boulot
+Par contre c'est toi qui payes
+Ça ne m'intéresse pas
+Quand tu la toucheras elle poussera des gémissements
+Il faut savoir aussi
+Qu'elle est articulée
+Comme un
+Skelette humain
+Tu ne pourras pas le retourner
+Dans les crash tests
+Exactement
+Il faut savoir aussi Lorde ton père
+Que si tu veux lui acheter des vêtements
+Il faudra te doter de soutiens gorge bonne essaie
+Merci
+Il faut préciser pour nos amis geek
+Qu'elle est dotée d'un système bluetooth
+Qui lui permet
+Des mises à jour en direct
+Et Quacos
+Est-ce qu'on a accès à l'OS
+Elle tourne sous quoi
+Est-ce que le bios est libre
+Est-ce qu'elle risque de se reproduire avec mon iPhone
+Est-ce qu'elle te demande de l'argent
+Elle a une petite option assez sympathique
+Elle peut t'envoyer des e-mails érotiques
+C'est sympa
+Comme ça quand tu n'es pas chez toi elle t'appelle
+T'es au boulot tu reçois un mail
+Chérie je t'attends ce soir je te préparer à bouffer
+Je mouille viens s'il te plait chérie
+J'ai plus de jus dans ma batterie dépêche-toi
+Il faut quand même préciser
+Donc elle ne marche qu'un pile
+Viens changer mes piles
+Et où est-ce quelles sont les piles
+Qu'est-ce qu'il faut
+Il faut combien de piles
+Est-ce que c'est des alkalines
+C'est des grosses là
+Chérie je suis à court de jus
+Plante moi tes piles dans le cul
+Chérie je me suis cassé de la jambe c'est même pas mal
+Bon après
+On va dire qu'on est misogyne
+C'est ce qu'on appelle du sexapile
+Exactement
+Bravo
+Elle est belle celle-là
+Il faut quand même savoir
+On n'est pas contre le sexe
+Il faut savoir qu'il y a un
+modèle masculin qui va bientôt sortir
+Dans le même principe
+Ça m'intéressait qui ?
+L'entrepair
+Est-ce que l'entrepair
+Se fait un devoir de tester tous les produits
+Je crois que PompidouMets me dit qu'elle est intéressée
+Elle fera donc le test en exclusivité
+Maché ça fait gonfler
+C'est un petit peu en rapport
+Avec le premier What's Up
+Il faut savoir que personne ne connaît
+Le B2Hup
+Qui est un nouveau chewing gum
+Qui va dégrossir les seins
+C'est incroyable
+Ce qui pourrait intéresser PompidouMets
+Tout à fait
+Il faut savoir que
+D'après le fabricant c'est rempli de nature
+De plantes et pas du tout d'hormones
+Et oui
+Parce qu'ils ont juste mis
+Des extraits de plantes
+Qui s'appellent la puérraria
+Myrifica
+Qui une fois ingurgité
+Dans le système humain et
+Dans le système féminin
+Développe
+Les substances oestrogènes
+Qui font partie du développement
+De la mère de nos chères femelles
+Ça fait pousser les nibards
+Tu veux dire que par une manipulation
+Du code source féminin
+T'arrives à altérer ses propriétés
+Chéri j'ai acheté 5 kilos de chewing gum
+Le code source féminin qui n'est pas toujours très ouvert
+Si un homme
+Mâche
+Je me suis posé la question moi-même
+Qu'est-ce qui se passe ?
+Chéri
+La seule chose qui est sûre c'est que
+Si ça marche aussi sur les hommes
+Je pense que ça va faire un tabac au Brésil
+On vient de recevoir un coup de fil
+L'ambassade du Brésil elle porte plainte contre nous
+Hallelujah
+Nokia
+Elle est à mâcher de chewing gum champion
+On a droit à la religion dans le podcast
+Exactement
+On a pas le droit normalement
+En tout cas il faut savoir que
+Sinon je parle des logistiques
+C'est le libre si on peut parler de religion
+David Parot est un prêtre anglican
+D'une paroisse
+À Londres
+Qui a exercé
+Son pouvoir bénéfique et divin
+Grâce à une messe
+Et à une bénéfiction
+Des téléphones portables
+Il faut savoir que quand même plus de 80
+Paroissiens sont venus faire bénir
+Leur portable
+Pourquoi est-ce qu'il fait ça ?
+Il s'appuie sur ce que dit la Bible
+D'une vieille tradition
+Où les prêtres bénissaient
+Je crois que c'était tous les lundis
+Tous les premiers lundis après Noël
+Ils bénissaient les outils de travail
+Des ouvriers à l'époque
+Et l'outil de travail actuel
+Étant notamment
+Ton téléphone portable
+Il a modernisé un petit peu la chose
+Alors béniratine la bite de Rocco Siffredi ?
+Ah bah
+Je ne sais pas
+Écoute, il faudra lui demander
+Mais bon
+Ils sont vaches chez McDo
+On me demande sur e-chat
+Qu'on bénisse les fesses de Pompidou Metz
+Ça y est je suis en train de faire mourir
+Ils sont vaches chez McDo
+Pourquoi ?
+Parce que McDonal entame une étude de 3 ans
+Sur les émissions de méthane
+Produite par les flatulences de vaches
+Mais ça c'est un gros problème les flatulences de vaches
+Franchement il ferait mieux d'étudier
+L'impact de leurs produits sur la santé humaine
+Alors j'en rappelle quand même
+Une étude antérieure
+Qui avait révélé que produire un cheeseburger
+Revenait à rejeter 3,1 kg
+De dioxyde de carbone dans l'atmosphère
+Je suis sûr que tu vas nous dire
+Qu'ils vont nous démontrer qu'abattre une vache
+Est favorable à l'environnement
+Et non justement
+Ils font ça pour abattre moins de vaches
+Et être plus sympa
+Je pense qu'il y a moins de vaches
+C'est bien meilleur pour l'environnement
+Je suis pour qu'on les abatte toutes et qu'on les mange
+Toute façon il faut bien mouffer quelque chose
+Petit rappel aussi
+Il faut savoir que les flatulences de vaches
+Sont responsables de 4%
+Des émissions de carbone en Grande-Bretagne
+Et 1% supplémentaire pour leur tempère
+Je n'habite pas en Grande-Bretagne
+Les chihuahuas dans un charter
+What the fuck
+A San Francisco aux Etats-Unis
+Les chihuahuas sont victimes
+De leur surpopulation
+Et oui, il y a beaucoup de vieux là-bas
+Il y a beaucoup de chihuahuas
+C'est une blague
+Stop
+Au cours d'un événement organisé
+Par la SPA américaine
+Ils sont dans les rues, ils vous attaquent
+Il y a des bandes, il y a des gangs
+Ils ont des usines
+Ils font des vieux drive-by
+Et il y a des chihuahuas morts vivants
+Il faut savoir que la SPA américaine
+A organisé un voyage
+De 15 chihuahuas
+De San Francisco à New York
+Mais en 1ère classe
+En 1ère classe
+Pourquoi ?
+Où est-ce que tu trouves toute cette merde ?
+La poubelle du nez.com
+C'est une vraie source
+Ils ont voyagé en 1ère classe
+Pour ne pas avoir de problème
+Avec l'American Society
+For the Prevention of Cruelty to Animals
+What the fuck
+Moi je voyage en 2nde classe
+Et c'est merde avec 4 pattes
+Voyage en 2 secondes en 1ère
+Et je dirais même
+What the fuck
+La conclusion c'est que
+L'opération a été un vrai succès
+Parce que les 15 chihuahuas
+Les 15 chihuahuas ont trouvé un maître
+En quelques heures à peine arrivé à New York
+Et donc c'est une opération
+Qui va être renouvelée
+C'est une belle histoire
+Ce sera l'objet d'un film par Hollywood à 200 millions de dollars bientôt
+Exactement
+What the fuck
+Les derniers what's up rapide
+Je l'ai appelé
+No-kyo-ka
+Ah ça est japonais
+No-kyo-ka
+C'est pas en japonais c'est chinois
+C'est en Chine que
+Nokia et une
+Désigneuse
+Daisy Deng
+Ont créé un portable fonctionnant
+A l'aide de boissons sucrées
+Et oui plus de batterie
+Dans ton téléphone portable
+Tu le remplis avec du coca avec du pepsi
+Avec du soda du fanta tout ce que tu veux
+Ils précise quand même que ça marche beaucoup moins bien
+Avec du coca light
+Préférer les manteaux
+Il s'agit d'un portable comme tant d'autres
+Mais au lieu d'avoir une batterie
+Tu as une espèce de tube un petit peu comme
+Pour tout ce qui est réservoir
+Des cafetières en espresso tout ça
+A l'arrière tu remplis ton coca dedans
+Et il paraît que l'autonomie
+Est assez formidable
+Je n'ai pas les chiffres mais en moyenne
+Ca dure 3 fois plus longtemps qu'une batterie
+Lithium classique
+Moi je dis c'est un dispositif
+Qui est contre la France
+Parce que je suis sûr qu'il fonctionne pas avec le vin rouge
+Et ils veulent nous niquer là dessus
+Ni avec le prête scola
+Peut être qu'avec du vin blanc un bon petit churasson
+Bien sucré
+Je pense que ça devrait marcher
+Je suis pas d'accord avec vous je pense qu'une villageoise serait bien mieux adaptée
+La villageoise se boit
+Elle ne se met pas dans le téléphone
+Elle se boit
+Ca utilise des detergents
+Bon c'est fini pour mon was off
+On a plus trop le temps là je crois
+Ici on veut une rubrique de malox
+Alors
+Qu'est ce qu'il y a ?
+On m'a dit avec du sperme de poney
+J'ai trouvé ça marrant
+Bon alors c'est une nouvelle rubrique c'est ça ?
+C'est particulièrement énergétique il paraît
+Alors oui on a fait une nouvelle rubrique ce soir
+Puisque on va parler de weblog
+Un peu insolite, un peu unique, un peu amusant
+C'est un peu la suite du was off en quelque sorte
+Est-ce que t'as un jingle pour ça ?
+Un petit
+Oh yeah baby
+Yeah baby
+Alors là c'est rock'n'roll
+Ok vous verrez pas les lignes
+Ah c'est rock'n'roll là
+J'adore
+Alors je suis avec LTP
+Actuellement nous regardons un peu les petits liens
+Que j'ai mis pour vous tous
+Qu'on pourra trouver
+Sur DELICIOUS
+Et sur le site du Captain Web n'est ce pas Captain ?
+Ouais si tu le rajoute
+Alors on va commencer aussi par des petits blogs
+Un peu sympathique originaux
+Pour les gens qui ne connaissent pas
+On va parler que de blogs ce soir
+On va parler des blogs de nains
+De jardin notamment
+Ah ils ont des blogs
+Ceux qui n'ont pas été volés
+Alors oui il y a un blog ça s'appelle blog
+Alors quoi que tu peux regarder Captain Web sur ton ordinateur
+Je le mets
+J'ai même rajouté en direct sur
+blog.nain-2-jardin.fr
+Alors c'est un blog
+Qui répertorie beaucoup de nains de jardin
+Les petites photos
+Les petits amuseurs regardez il y a devant derrière
+Attends attends en blog-2-jardin.
+En blog.
+Nain-2-jardin.fr
+C'est important que l'information soit précise
+C'est important que l'information soit précise
+Très sympathique petit blog
+Rempli de petits nains très gentils
+Pour vous accueillir si vous même vous avez un nain
+Et vous voulez le déposer sur le weblog
+Mais what the fuck is this shit man
+Putain
+Le weblog voilà
+Putain mais il y a même un club
+Et je précise qu'on a dit qu'on ne parlerait pas
+De Mimimati aujourd'hui
+Ah non on en parle pas mais par contre peut-être qu'elle
+On pourrait la trouver dans le blog
+On continue tout de suite avec un petit blog sympa qui s'appelle
+This
+C'est l'horreur c'est le calvaire
+Attention
+This is where you're fat
+Et oui mon ami un blog qui t'explique
+Pourquoi est-ce que tu prends du poids
+Pourquoi est-ce que ton liver est aussi gras
+Et
+C'est merveilleux c'est fantastique toutes les photos
+De tous les aliments que vous pouvez voir
+Que vous pouvez constater sur ce site
+Vous permettent de savoir si
+Et bien si ce que vous mangez vous fait
+Grossir ou pas et c'est important de garder la ligne
+En l'occurrence sur le site
+Oui les gâteaux sont assez lourds
+Ah je connaissais ce truc là
+Ça ne m'étonne pas
+C'est pas aussi bien que myburger.fr
+Qui est un site de référence je tiens à le dire
+Lorsque ton père et moi sommes des fans
+Du hamburger au micro-ondes on a tout testé
+C'est vrai ceci dit il s'agit d'un blog donc
+Il s'agit de mise à jour quotidienne
+Sur la nourriture que vous ne devez pas manger
+Mais myburger.fr
+Je continue tout de suite
+Avec un petit blog de costume
+Sympathique
+Qu'une charmante personne a créé naturellement
+C'est son travail
+Personnel n'est-ce pas il s'agit de blog
+De petits nounours
+De petits bonhommes en neige
+Attention cachez vos enfants
+Parce que là ça fait très mal aux yeux
+Sur ce site absolument immonde
+Je veux plus de rhum les mecs
+Costume jaga
+Costume jaga.overblog
+Y'a un mec qui l'a tapé avant toi
+Ah bah non c'est ltp
+Il est super rapide ltp
+Et ça c'est très joli
+Lorsque ton père
+C'est immonde
+Les costumes intégral d'ours ne sont pas apportés en été
+Les costumes les plus dégueulasses
+Je continue avec un blog sympathique
+Attends on a même pas le temps de voir
+C'est quoi le mec déguisement grenouille là
+C'est Winnie Lorson
+Pourquoi est-ce qu'il y a un Winnie Lorson pendu
+Ils sont tous pendus
+C'est Winnie Lorson qui a fait de la tôle
+Et qui travaille chez Orange
+Ah oui d'ailleurs je précise
+Il y a eu déjà 2 suicides
+Depuis le début de 2010 chez France Técom
+On tient compte chez le captain
+Mais est-ce que ça rentre dans body count machin
+C'est pas dans un film non
+Je continue avec un autre petit blog
+Très sympathique pour les amateurs de moustache
+Et oui vous comme le captain web
+Ou votre femme qui aime porter la moustache
+Et bien vous pouvez aller sur
+TheStacheBlog.com
+TheStacheBlog.com
+Et là un blog
+Attention je précise un blog 100% moustache
+Alors TheStache c'est
+Thecom en anglais
+StacheBlog.com
+Rassure toi ils retrouveront tout
+Sur le délicious
+Vous pouvez voir des photos de très bon goût
+Et je me souviens t'en avais parlé
+Au moment de la neutralité du net
+Que les liens vers les sites
+De moustache se raréfiaient
+Exactement et bien je suis content encore d'en trouver
+Et puis il y a un blog pour les gens
+Qui portent la moustache et en parlant de porter la moustache
+Je vais vous parler maintenant tout de suite d'un blog
+D'une personnalité très sympathique
+BirdTrainers.com
+Il s'agit du chanteur des Zwingels
+Il s'agit de Gérard Bast
+C'est mon copain sur Facebook
+Le blog de Gérard Bast
+Alors je vous donne la liste tout de suite
+Il s'agit, très simple, Gérard Bast
+Tirez over
+Over tirez blog.com
+Alors là le blog de Gérard
+Qui est un sympathique animateur
+Qui est un ancien animateur de l'émission
+GameOne
+Vous pouvez le voir chez lui
+Dans son bain
+Vous pouvez le voir en train de se faire pomper
+Le dar par un respirateur
+En train de se taper
+Patrick Sébastien
+Avec une bouteille de rouge
+Avec sa copine qui a des très beaux tatouages
+Alors je ne vous le cache pas que si vous ne connaissez pas Gérard Bast
+Ca vaut le coup d'aller voir
+C'est extrêmement frais
+D'ailleurs
+Vous ne pensez pas qu'on pourrait inviter Gérard Bast
+A un apéro ?
+Mais si vous voulez voir Gérard Bast
+Dans une de ses meilleures émissions
+Le spécial Mario
+Vous tapez level one
+Le rap de Mario
+C'est génial
+Vous ne jouerez plus jamais à Mario de la même façon
+On va passer un petit peu sur les animaux
+Avec ce superbe site sur les poney
+Et oui un petit blog sur les poney
+N'est-ce pas ?
+Poney-Shetland.Skyrock.com
+Un des sites les plus dégueulasses
+Que j'ai vu de ma vie
+Le poney Shetland
+Tout sur le poney Shetland
+Avec des tas de petites bannières dégueulasses
+Wimpy
+Très urgent
+Ils peuvent revendre
+Et faire du commerce avec du poney
+Question quiz
+A partir de quelle taille est-il un poney ?
+42 cm
+1,42 exact
+1,42 m au gareau
+C'est fixé par qui ?
+Il y a des normes internationales ?
+Alors ton père a fait un dossier extrêmement complet sur le poney au Kazakhstan
+Et il peut-être dire
+C'est l'occasion de passer une petite annonce
+C'est très urgent
+Ses cheveux sont destinés à la boucherie
+C'est écrit sur le blog
+Je le tiens à le dire en page royale
+Tout est consombrable
+Un étalon contoit à valeur de 3000€
+Plus 180€ à l'acastration
+Apprenciez la partie dans laquelle sera découpé votre steak
+On continue tout de suite
+Avec un excellent blog
+The Donkey Blog
+Vous tombez dessus
+C'est une jeune femme qui s'appelle
+Bill-leonardblogspot.com
+Et là vous avez le premier
+Le passion for donkeys
+Avec des tas de petites photos de poney
+Mais pas que des poney vivants
+Mais aussi des poney miniatures
+Des poney en paille
+Des poney de jardin
+Le donkey c'est un âne
+Et par exemple
+Et il y a une photo de
+Sarah Pauline
+Il y a une photo de Sarah Pauline
+Sarah Pauline
+Sarah Pauline vote for donkeys
+Et oui elle aussi elle apprécie
+Oui elle a voté pour George Bush
+Petite info Sarah Pauline a une émission
+Désormais je crois que c'est sur Fox News
+Elle c'est pas sur Dorsal TV ?
+Non, peut être bientôt
+Je continue tout de suite avec un site
+On a même pas le temps de souffler
+Attendez parce qu'il y en a plein il faut appeler
+Sur les hamsters russes
+Et oui les hamsters
+C'est le site de la femme de Quacos
+Alors je vous dis
+Il est là
+Ce merveilleux site
+Les hamsters russes
+Nain
+Les hamsters nains russes
+Blokforever.com
+Et là c'est fantastique
+Des tas de petits hamsters
+Partout si vous êtes un fan de hamsters
+Il y en a un qui se brosse les dents
+C'est important l'hygiène des dents il faut le dire
+Je peux poser une question
+Est-ce que la rumeur sur Richard Gere
+Et le hamster est véritable
+Alors je pense qu'on peut trouver cette information sur ce site
+Qui à mon avis est très complet
+Quelle est cette rumeur Captain ?
+Alors selon la rumeur Richard Gere
+J'avais peur que quelqu'un pose la question
+On aurait comme passion de scotcher avec du Shatterton des hamsters nains avant de se les fouer
+C'est dégueulasse
+C'est pour ça que la scientologie est après lui
+Peut être mais il est pas mort
+En parlant de l'ennemi des petites souris des hamsters
+On va parler des chats parce que j'ai un blog excellent
+Sur Netorama
+Et c'est sur les chats
+Qui sont extrêmement gros
+Les plus gros du monde
+Et alors là vous pouvez voir des bêtes
+Et alors il faut rendre un hommage
+Il y en a un qui s'appelle Michel Seguin
+Voilà exactement
+Il y a 15 chats
+Et c'est les 15 plus gros chats qu'on peut trouver sur internet
+Notamment un, c'est une humain
+C'est même pas des chats à ce niveau là
+C'est des sortes de cheval
+C'est des dinosaures
+C'est des sacs
+C'est des sacs poubelles
+Même ma voisine est moins grosse que ses chats
+C'est pour vous dire
+Et il y a même une vidéo
+Il y a même une vidéo de Fat Cat Gordo
+Mais c'est vrai qu'ils ont presque une taille humaine
+Snowball the Giant
+Je pense qu'ils sont
+Prêts pour le sumo
+Et il y en a même un qui fait du cirque
+Il est sur un vélo
+Enfin sur une route vélo
+Enfin bref c'est indescriptible
+Vous nous direz dans les commentaires lequel vous préférez
+C'est moi qu'on peut se dire c'est les plus gros chats du monde
+Ils sont là dessus
+C'est le chat si tu veux
+Sim aurait jamais le dessus
+Je pense que oui
+On va passer maintenant
+On va parler des blogs sur les blogs
+Sur les Skyblog Award
+Skyblog
+Là je parle des sites officiels Skyblog
+Qui sont référencés sur ce site
+Skyblog Award
+Et là vous pouvez voir
+Les plus beaux sites des Skyblog
+Avec les plus beaux johns
+Qui portent les plus belles casquettes
+Qui portent les plus belles bouts
+Devant leur petit appareil photo
+Il y a aussi comme site
+Là par contre c'est un pastiche
+Les sites les plus dégueulasses
+Des Skyblog
+C'est sur le Skyberg
+Les Skyberg Award
+C'est super
+Skyberg.groland-vids.com
+Et là vous pouvez voir
+Rien que le nom
+Une liste de tous les pires Skyblog du monde
+Y'a le mien notamment
+Alors quel est le genre d'ignominie
+Que l'on trouve dessus ?
+On peut trouver des trucs dégueulasses
+Le pire des Skyblog est un blog
+Qui référence tous les Skyblogs les plus pourris
+Vous pouvez voir le blog de Manox
+Le blog de l'ordre de ton père
+Le blog des chihuahuas
+Les gommes des chihuahuas
+Ceux avec les uzi
+Attention un petit blog
+Un peu particulier que j'ai rencontré
+C'était the midgetblog.com
+Ca a l'air intéressant
+Ce qui est intéressant c'est que les auditeurs
+On a un bon aperçu de ta journée de surf
+Le genre de blog sur lequel tu te connectes
+Pour avoir des nouvelles rafraîchissantes
+Et gais sur la journée
+Pour te lancer
+The midgetblog.com est un blog extrêmement bizarre
+Le blog le plus bizarre que j'ai vu de toute ma vie
+Il n'est pas du tout hardcore
+Il n'est pas crado
+Ca parle de nains et ça parle aussi de Nicolas Cage
+Notamment
+Une photo truquée de Nicolas Cage
+Tu es sûr qu'elle est truquée ?
+Sa tête sur le corps est bien d'un Yeti
+Excuse moi
+Prouve moi qu'elle est truquée
+T'avances des choses
+Tu as le code source ?
+Je peux le prouver le double menton
+Le double menton est d'origine
+The midgetblog.blogspot.com est un site à voir
+Parce que c'est un site sur les nains et sur Nicolas Cage
+Le seul site sur les nains et sur Nicolas Cage
+En même temps
+Moi non plus
+Cette semaine il y avait sur la TNT
+Un très bon film
+American Pie 5
+Très ciblé sur les nains
+Je peux te poser une question ?
+Manox, est-ce que c'était pas toi
+Qu'il y avait un ami qui était nain
+Et qui sifflait de la cogne dans tes toilettes ?
+Je préfère ne pas parler de ça
+Ce n'est pas un ami personnellement
+Mais il sifflait de la cogne dans ses toilettes
+Je continue sur un blog
+Très sympathique
+Un peu mystique
+Un peu étrange
+Le blog satanique
+Un des plus beaux blog satanique
+Avec comme pub Boursorama
+Avec Françoisir aussi
+En bannière
+Et juste en dessous vous avez la description de Lucifer
+Il y a même un tux avec des cordes de bouc
+Et c'est le blog de l'adopie
+Donc darkwalker.over-blog.com
+Y a quand même une photo d'Elvira
+Et voilà vous avez l'extrait de l'enfer
+Il y a aussi un autre blog satanique très sympathique
+Les géris sataniques
+Qui s'appelle satanisme.vib
+Et on voit les filles d'un certain président italien
+Vous pouvez voir sur ce site
+La maquette
+Qui est de très bon goût
+Comme toutes les autres d'ailleurs
+Et surtout l'origine satanisme
+Toutes les notions de satanisme
+En dit leçon
+Avec des gens qui semblent aussi connaître
+C'est vraiment bien
+C'est surprenant notamment cette jeune femme
+Avec ce tatouage
+Fait au feutre sur le visage
+C'est assez surprenant
+On la surprend dans une activité assez bucolique
+Elle fait des bulles
+De savon
+Des bulles sataniques
+Elle invoque le démon
+Le bon côté des choses c'est quand tu la prends à l'œuvrette tu vois plus sa gueule
+Et puis aussi pour les gens qui croient
+J'ai décrit notre sauveur
+C'est important
+Vous avez sur ce site
+Godblessyou.fr
+Avec Jésus-Christ
+Ou avec Satan
+La première question à se poser quand on arrive sur le site
+Sur le blog précédent
+Le blog de satanisme
+Quand tu fais un clic droit il y a marqué VIP blog satanisme 2006
+C'est sous copyright, t'as pas le droit de copier le code source
+C'est dégueulasse
+Satan c'est payant
+Sur le blog avec Jésus-Christ
+Il précise
+Que c'est payant pareil
+Je sais qu'être chrétien ou chrétienne et le revendiquer devant les amis
+C'est dur
+On a les amis qui font ce qu'on fait
+Pas par intégrité
+De cœur avec Dieu
+Deux points
+L'alcool, la drogue, la cigarette etc
+Ce qui veut dire des choses dégueulasses
+Je vais laisser un commentaire immédiatement
+Comment tu laisses un commentaire là-dessus
+Voir les deux commentaires
+C'est un petit peu comme utiliser
+Je visite ton blog pour la première fois
+Je vois que tu gardais le meilleur pour la fin
+Je vais immédiatement laisser un message
+Sur le blog de Jésus
+Je vais écrire un commentaire et je vais marquer
+Votre nom Captain Webb
+Votre email
+Donc je rentre mon email
+Et je vous bénis tous
+Et attention là je vous
+Parle d'un blog très important
+Puisque c'est un blog très sérieux sur les extraterrestres
+Et sur le paranormal
+Des zones 51
+Voilà zone-51.overblog.fr
+Et là vous pouvez voir
+Apparemment quelqu'un de très sérieux
+Qui passe des vidéos
+Des témoignages
+Et aussi des photos sur nos amis extraterrestres
+Qui sont parmi nous
+Et Danascoli
+Qui est une extraterrestre bien connu
+Et pour terminer
+Attendez, c'est quand même important
+On ne peut pas dire les extraterrestres sont parmi nous
+Et passer à un autre sujet
+Je passe à un sujet qui
+Il y a quand même des
+Épreuves
+C'était un complot gouvernemental
+Justement là je vous passe
+À quelque chose qui n'a rien à voir avec un blog
+Mais c'est parce que c'est pour finir en beauté
+Avec une petite vidéo sympathique
+C'est ce que j'ai appelé la vidéo la plus moche
+Que j'ai vu sur Youtube
+Food in action, hot dog vs burger
+Vous tapez food in action
+Hot dog vs burger sur Youtube
+Et vous avez l'animation
+La plus dégueulasse
+Qui puisse exister
+C'est une animation fixe
+Plus le montage le plus crade
+Que vous n'ayez jamais vu
+Ca a été fait sous paint
+Ca bouge pas, il n'y a rien
+C'est une animation fixe
+Ca a été brevetée
+C'est juste qu'il y a une image plus de 10 secondes
+Ca a été fait sur un logiciel open source
+Le principe de l'animation fixe vient d'être brevetée
+Donc vous ne pouvez pas l'utiliser à titre personnel
+Donc cette petite
+Je vous remercie pour terminer en beauté
+C'était très beau, merci Manox
+Je vois que vous allez consulter tous ces liens
+Sur dhsus.com
+dhsus.com
+slash captain web
+Et là vous avez le petit tag
+Manox, vous cliquez dessus
+Et vous aurez accès à toutes les liens
+Toutes ces merveilleux liens
+Oui
+Moi j'ai l'impression qu'on a parlé autant des rags
+Des poneys cette semaine
+Et je suis un peu déçu parce que je pensais que c'était le blog
+Et des putes sur internet
+Oui mais on aime bien aussi des fois s'ouvrir aux autres cultures
+Est-ce que je peux dire quelque chose ?
+Je tiens à préciser un point, dernière anecdote amusante
+Quand on est parti du
+Quand on est parti des rencontres
+Il y avait une jolie jeune femme
+Qui nous précédait, puis antistress est parti
+Non pas vis à vis de la jeune femme qui était devant nous
+Il a commencé à me sortir le slogan
+Du captain web, il me regarde il me fait
+Ouais pute poney, et là la fille s'est retournée
+Et j'ai complété
+Internet
+Il y a eu beaucoup de bruit en bas et quand on a monté l'escalier
+C'est vrai que j'étais un peu tout seul à parler
+Ah mais attends plus de poneys internet je pense que les gens nous connaissent maintenant
+Le poney est l'animal de l'année 2010
+C'est une marque de fabrique
+Est-ce que c'est un slogan déposé ?
+Est-ce que je peux juste vous dire un truc, je vais vous parler du blog
+Dont notre ami Manox a parlé il y a 10 secondes
+Qui est avec Jésus ou avec Satan point d'interrogation
+Et je pense que Manox n'a pas regardé ce commentaire
+Ce deuxième commentaire qu'il a posté
+Alors je vous l'écris
+C'est bien écrit et très intéressant à lire
+Pour ma part j'estime que Dieu me voyant dans la souffrance
+Dépression, crise d'angoisse
+M'a abandonné, il sait que je souffre et ne fait rien
+Je ne demande qu'à vivre normalement
+Une fois que je mourrai je serai soulagé
+Exactement
+Et il m'accueillera en posant sa main sur ma tête
+Et en me pardonnant car j'ai toujours cru en lui-même
+Sur terre, bla bla bla bla bla bla
+Les voix du seigneur sont d'un train d'étable, je vais me tuer au revoir
+Chacun sur son chemin de croix
+Et la vie prochaine sera meilleure
+Voilà, merci
+C'est festif là
+Ou alors comme dirait LTP
+La vie c'est comme une tartine de merde
+On en mange tous les jours
+Je sais pas qui m'a si fait cette
+Parce que c'est pas de moi
+Maintenant qu'est-ce que tu as fini de ta rubrique
+J'ai fini ma rubrique, elle est terminée
+Parce que je me suis rendu compte
+2h45
+C'est ça à peu près
+2h45
+Non, sérieux
+What the fuck
+Bon on en est plus à 5 minutes près, j'ai oublié la première news
+Qui était toute récente sur Twitter
+C'est le premier mort
+Le premier meurtre de l'ère Twitter
+Alors je vous explique
+La police ne lui a eu qu'une enquête sur le premier meurtre de l'ère Twitter
+Quelqu'un qui est affroidement abattu
+D'une balle dans la nuque
+Un de ses meilleurs amis
+Depuis des années
+Il s'était engueulé sur Twitter
+Donc il faut savoir quand même que la police a exigé de Twitter
+Le contenu exact des messages
+Qui ont été échangés
+Et là je peux vous les donner en exclusivité
+Je t'emmerde
+C'était une histoire de gonzesse, tout ça
+Attention, je l'ai
+J'ai le message, il est là
+Fuck my wife
+Ça explique tout
+Cette mise en perspective tout de suite
+Je voulais savoir un truc, c'est que 2 jours plus tard
+Le supposé meurtrier a quand même laissé un message sur Twitter
+Qui était marqué
+Rest in peace
+Kwame, parce que ça devait être son nom
+C'est magnifique, c'est beau
+Bravo
+C'est vrai que quand on tue un de ses amis
+Il faut toujours lui rendre hommage sur Twitter
+Captain web, 2h45 de podcast
+Là c'est plus un podcast, c'est un concept
+Je vous jure le plus long
+C'est un nouveau concept que je pense qu'on va battre
+Quand on accueillera Matthew Blanco et Crysis
+Ce podcast ne peut être gravé que sur Blu-ray
+Là t'es en train de balancer des trucs
+Non mais de toute façon on le sait
+L'apéro du captain
+C'est plus qu'écouter un podcast
+C'est vivre une aventure
+Est-ce que tu peux nous dire ce qui va se passer la semaine prochaine
+Ou est-ce qu'il ne faut pas le dire
+Je ne sais pas
+On va juste dire un truc, la semaine prochaine
+Ce sera exceptionnel parce que nous aurons
+Non pas un invité mais deux
+Qui se partageront peut-être le micro
+On ne sait pas trop
+Attendez, je lèche le micro pour le prochain qui l'utilisera
+Oh my god
+Sans rentrer dans les détails
+On va dire qu'on aura des invités et une caméra
+Et là vous n'avez plus qu'à deviner ce qui va se passer la semaine prochaine
+C'est Marc Dorsel qui vient
+Avec Katsuni sera là
+Conclusion peut-être
+Tour de table, let's go
+J'ai l'intention de faire un tour de table en trois parties
+Et deux sous-parties chaque fois
+On a atteint les trois heures
+Est-ce qu'on a assez de place sur le disque dur
+Oui ça devrait aller
+Excellent podcast
+Merci Antistress d'être venu
+Merci Antistress
+C'était très intéressant
+Chaleureux à chaque fois
+Manox
+On discute, on boit, c'est agréable
+Très sympathique
+J'ai bien voyagé
+J'ai bien navigué sur les flots
+Durant 2h45
+Entouré de nains
+Quacos
+Quacos va dire la même chose
+Merci Antistress
+Et pour le logiciel libre
+Bravo
+Enfoirasse
+Écoutez, c'était très bien
+C'était un peu long en effet
+C'est parce qu'il y a plein de nouvelles embriques
+Exactement, c'est ce que dit ma femme
+Captain
+Alors là, qu'elle vienne confirmer
+Qu'elle vienne confirmer
+Ce ne sera pas coupé au montage et en plus
+On le coupera et on le reviendra par mail
+C'est pas à moi qu'elle le dit, c'est au factor
+Captain à toi
+Pardon, je ne savais pas
+Excusez-moi, je suis en train de mettre les webcam
+Sur le chat, j'en peux plus
+On va dire
+Écoutez, tout le monde a fait son tour de table
+Antistress peut-être
+Je suis ravi d'être là
+Pour la deuxième fois
+On m'a dit que tu te levais à 7 heures demain matin
+Demain matin je vais me lever très tôt
+Parce qu'il s'annonce 5 cm de neige
+Et il faut que je rentre dans ma banlieue
+Et puis merci de m'avoir permis
+De m'inviter pour exprimer mon point de vue
+Sur les logiciels qui à mon avis doivent être libres
+Mais il n'y a pas de soucis, tu nous connais
+On accepte tous les extrémistes
+On accueille Ben Laden la semaine prochaine
+Je suis flatté
+C'est mon confrère effectivement
+C'est pour lui que tu as lâché le micro
+Sur ce, on va peut-être vous dire au revoir
+Parce qu'il y a 2h45, on pète un peu les scores
+On va laisser le record de 3 heures
+Pour quelques semaines
+Quand on aura des invités
+Et qu'on fera ça un samedi soir
+Et là c'est une exclu, on va faire un podcast un samedi soir
+Ce sera en février
+Ce sera probablement en février, il faut juste qu'on trouve une date
+Sur ce, on va vous dire d'aller tous voter ce point de vue
+Et surtout cliquer sur le bouton
+S'abonner, même si vous êtes déjà abonné 15 fois
+Ce n'est pas grave, ça sert quand même
+Merci à tous nos auditeurs
+Merci de m'avoir invité
+Et surtout, vous avez un As à gagner
+N'oubliez pas, il y a plein de crovards qui ont déjà voté
+Donc qui ont déjà participé
+Allez-y vous-même
+A la semaine prochaine
+23h30
+C'est fini apéron
