@@ -1,0 +1,5016 @@
+Et bienvenue à l'apéro du Cap'n Noël, ah c'est l'apéro, ça décoiffe avec le Capitaaaaaaal !
+Salut c'est l'apéro là.
+Et voilà bande de petits salepards, je l'avais déjà fait de celle là mais c'est pas grave on l'a refait quand même.
+C'est parti pour l'épisode 28, un épisode exceptionnel puisqu'on est déjà à moitié bourré avant même d'avoir commencé, je crois que c'est la première fois.
+Alors ce soir pour ce mardi 23 mars, dirais-je même mercredi 24 ?
+Minuit passé, voilà c'est fini.
+Ça y est, moi j'y vais.
+Alors Manox n'est toujours pas là, il n'est pas revenu, il est toujours en train de...
+Attends, attends, petite la merde !
+Ah bah il est présent !
+C'est fantastique !
+La p'tite de merde !
+Génial !
+Ah bah on va se sentir moins seul ce soir.
+Mais c'est parce qu'on est nombreux en fait ce soir, on est 5 malgré tout.
+Parce que déjà Manox a été remplacé par notre chroniqueur extrême, chroniqueur comme dirait certaines personnes.
+Dans nos commentaires.
+C'est bon Manox, ça suffit.
+Antistress, le retour.
+Bonsoir tout le monde.
+Il est encore en vie.
+Il est pas encore bourré.
+J'ai pas fini ma cuillère de la dernière fois.
+Il vient juste de dessouler pratiquement, il est revenu directement ici.
+Selon ton père !
+C'est bon Manox, on va te couper ta boîte à son.
+Et puis surtout nous avons Michael Bechler, je le prononce à l'alsacienne.
+Comme tu veux.
+Tu me dis.
+Attention on parle bien dans le micro, c'est important.
+Comme si tu l'embrassais.
+Donc qui est là en tant qu'invité, qui va nous parler un peu de ce qu'il fait.
+De son voyage au Canada et des nombreux petits alcools qu'il nous a rapportés.
+Voilà voilà.
+Ouais mais y'a déjà plus rien, on a déjà tout bu.
+Ouais mais attends, y'a nos réserves à nous.
+C'est parce que t'en as pas apporté assez.
+Y'a une petite bouteille d'alcool coréen que David a laissé de la dernière fois et qu'on devrait peut-être entamer aussi.
+Ah non mais s'il faut mélanger le Canada et le Coréen.
+Ah mais allons-y, soyons fous.
+Alors on va faire un petit tour de tape pour commencer comme d'habitude et on va commencer par l'ordre de ton père.
+Selon ton père !
+Alors Manox, ça suffit.
+Alors ce soir plein de petites choses les auditeurs vont être ravis.
+C'est de la merde !
+Ça me coupe la chute ça.
+Alors je vais vous parler de plein de petits, des trucs qui marchent au pan.
+Euh je vous...
+Bon je cospille.
+Alors je vais vous parler un petit peu.
+J'aurai une petite mise à jour sur la balise vidéo mais en quelques minutes.
+Je vais vous parler un petit peu de Sidewiki.
+Et enfin d'un moteur de recherche qui s'appelle Wolframa Alpha.
+Wolf ?
+On va parler aussi des petits problèmes de pathologie que l'on peut rencontrer sur internet.
+Ah, une oreille qui me plaît d'avance.
+Bah écoute c'est bien.
+Quacko, est-ce que tu veux nous parler de ton nouveau site ?
+Je crois qu'il y a une nouveauté ce soir.
+Ah bon ? Non.
+Mais si, mais si.
+Les sites ont pas, parlons-en.
+On en parlera tout à l'heure alors peut-être.
+Bah je sais pas.
+Tu nous parles de quoi alors ce soir ?
+Moi je vais juste prévenir un WhatsApp tout simplement.
+Alors moi je vais vous ouvrir les coulisses du développement du noyau Linux.
+What the f*** ?
+Avec 2-3 anecdotes sur la sortie du dernier noyau.
+Deux trois années oui.
+Deux trois anecdotes sur la sortie du dernier noyau qui est...
+Putain ça va être fun.
+Rire les chansons direct.
+Les noyaux c'est des trucs tu sais...
+Tu confonds.
+J'hésite à vous parler un petit peu de la Chine mais sans vraiment rentrer dans le sujet.
+Ah bah si, mais le Captain Web va en parler tout à l'heure.
+C'est un peu technologique de la Chine mais juste pour enfoncer quelques portes ouvertes et donner quelques pistes.
+Parce que je sais que l'heure de bien le sujet il y reviendra certainement.
+Et puis je voudrais vous parler du problème de la divulgation des failles de sécurité en droit français.
+Mais comment tu fais parce que sur ta feuille où tu viens lire tout ça y'a rien ?
+Rire
+C'est exactement ce que j'ai vu.
+C'est pas jaune à côté le contenu.
+Non mais il a imprimé les liens hypertexte c'est pour ça.
+Ah ouais.
+Il a une espèce de processeur dans le cerveau anti stress.
+C'est ça.
+C'est tout le titan qui fonctionne au rhum.
+Juste avant de commencer, juste pour dire que jeudi dernier on était à la Fantasy Taverne avec Quacos.
+Et que ça s'annonce fantastique.
+Alors ce sera en ligne.
+Normalement c'est un podcast vidéo de Fantasy.fr qui sera en ligne.
+Normalement David m'a dit la semaine prochaine.
+Il l'a dit ça la semaine dernière.
+Ah oui c'est vrai.
+Comme mon blog.
+Bon allez je vais le dire quand même Quacoscope.com.
+Le nouveau blog cinéma de référence.
+Ok.
+Et enfin dernière petite chose.
+Ce soir il n'y a pas de répondeur.
+On le fera la semaine prochaine.
+Donc si vous voulez nous laisser des messages, il y a une semaine pour le faire.
+Et ça se passe au 09 72 11 00 22.
+C'est gratuit.
+Et on a mis une nouvelle cassette.
+Alors quelqu'un m'a dit qu'il avait appelé.
+Et que la charvante demoiselle qui s'occupe de dire le message.
+Elle a dit que le numéro était accessible.
+Et qu'il pouvait laisser un message quand même.
+Alors je ne comprends pas.
+C'est tout que j'ai reçu le message.
+Qui ? Qui ? Qui ?
+C'est Manox.
+Le fouet.
+Le fouet.
+On a eu un autre message aussi de quelqu'un.
+Il me semble sur le répondeur.
+Je ne l'ai pas écouté mais tu m'en as parlé.
+Allo c'est Guérin Papi là.
+Fais moi penser à saboter la boîte à son.
+Avant le prochain impéro.
+Pourquoi vous l'avez acheté un bon tempi ?
+Bah écoute pourquoi pas.
+Nous on achète n'importe quoi.
+Ok on passe aux actualités.
+Comme ça ce sera rapide.
+Des buts, des poneys et internet.
+C'est l'actualité du web.
+Les auditeurs qu'il faut faire fort. C'est pas pour nous.
+Ça fait l'impression radio comme ça quand tu as le son fort dans le micro.
+Jusqu'à ce que tu partages la sortie casque de l'ordre de ton père
+qui est sourd comme un pauvre.
+C'est pour ça.
+Et on lui dira pas pourquoi mais sinon
+on connait d'excellents otorino
+et on gagne un petit pourcentage de sueur.
+Il est au dentiste, il peut pas tout faire non plus.
+Les actus de la semaine.
+La grosse grosse actu elle date d'hier.
+C'est Google qui se barre de Chine.
+Donc forcément il faut qu'on en parle un peu.
+En gros qu'est-ce qui s'est passé ?
+Google l'avait dit quand il y a eu l'attaque en début d'année.
+On a fait des paris d'ailleurs.
+Tous les deux on a gagné.
+Moi j'avais gagné, je sais pas ce que t'avais dit.
+J'ai perdu.
+Alors ton père a forcément perdu.
+Carrément.
+Ne trouve pas d'excuse.
+Donc résumons rapidement l'affaire.
+Juste avant que je sabote cette saloperie.
+Donc Google avait dit
+on va arrêter de censurer les messages,
+le moteur de recherche.
+Ils l'ont fait puisqu'ils ont en fait
+maintenant quand tu tapes google.cn en Chine
+tu arrives sur le moteur de Hong Kong.
+Ils ont même redérigé, ils sont sympas.
+Alors c'est pas une redirection attention.
+Ca reste google.cn, on pourrait dire
+c'est visible.
+Logiquement si mes pronostics sont encore bons,
+d'ici 24h je pense qu'ils vont se prendre le
+Great Firewall of China dans la gueule.
+Mais je me trompe peut-être.
+Et pourtant Hong Kong c'est chinois maintenant.
+Oui tout à fait, mais c'est une région
+administrative spéciale
+qui a été rétrocéder
+à la Chine en 97.
+Pas 99 plutôt.
+97, il a raison.
+Je suis un spécialiste.
+Et pendant 30 ans ils vont garder
+le régime de région spéciale
+et donc ils sont toujours sous le droit
+anglais même si
+le gouvernement chinois
+commence un peu à pousser.
+Alors je me suis renseigné parce qu'il se trouve que je connais quelques personnes à Hong Kong.
+Et en gros ce qu'il me disait
+c'est que jusqu'à maintenant effectivement
+toutes les versions de Google
+en dehors de la version chinoise, donc le .cn qui était censuré
+aucune version
+n'était accessible en dehors de
+en Chine à part le
+Google.cn.
+Parle Google.com, Google.f
+Est-ce qu'il met pas tous les mecs qui mettent des lunettes
+de soleil pour pas qu'on voit qu'ils dorment ?
+Oui voilà, bah oui t'as vu ça.
+Et son nombré en plus, ah Juanma de Cercle
+il est dans son cyber café non ?
+Ah non c'est peut-être pas lui, bon j'en sais rien.
+Mais on a beaucoup de monde sur e-chat, combien de personnes ?
+158.
+Vous pourriez faire mieux.
+Donc voilà, en ce qui concerne
+Google, qu'est-ce que
+on peut en dire encore ?
+C'est de la merde ! Oui c'est juste.
+Ça concerne pas tous les services de Google.
+Youtube était déjà censuré, il l'est toujours.
+G-mail ?
+G-mail est censuré, il me semble.
+Non attends, il l'est ou il l'est pas ?
+Il n'est pas censuré. Non y'a que la recherche web qui est tombée.
+La recherche web a été rediagée
+mais y'avait des services qui déjà ne fonctionnait pas avant
+en Chine et y'en a d'autres qui désormais
+sont plus ou moins bloqués, alors j'ai pas le détail exact.
+Google video c'est mort, tout ça.
+Youtube toute façon apparemment ça a jamais été le cas.
+J'ai l'impression qu'il a jamais été trop accessible en Chine.
+Mais à vérifier.
+Avec toutes les vidéos chinoises qu'il y a sur Youtube,
+ça me semble un peu étrange.
+Mais bon, pourquoi pas.
+On demandera à des Chinois, il y a de nombreux Chinois qui nous écoutent, on le sait.
+Tu penses que l'apéro est censuré en Chine ?
+Non, je pense pas.
+Donc voilà, mais ils ont mis une page en ligne
+qui est assez intéressante.
+Ils ont mis une page pour signaler en temps réel
+quels services étaient bloqués, lesquels étaient fonctionnels
+et lesquels
+étaient en rade, j'en sais rien.
+Manifestement t'as pas été là hier.
+Ouais, carrément.
+C'est écrit en Chine.
+Mais tu peux aller dessus. Tiens, vas dessus.
+Tu vas nous dire exactement...
+C'est quoi l'adresse ?
+Oh non, mais ça suffit.
+Ça fait 28 podcasts.
+Avec sa panoplie marqueur.
+Je l'ai noté en plus, Youtube, Blogueur
+et Google Groups sont bloqués à l'heure actuelle.
+Et donc Google
+recherche et active.
+Mais en fait, c'est la version non censurée de Hong Kong.
+Donc à voir combien de temps ça va tenir.
+À mon avis, pas longtemps.
+C'est écrit sur le blog officiel de Google
+en précisant que les empêchements
+n'avaient rien à voir avec cette décision.
+Donc il serait bien d'éviter de les exécuter.
+Et que malgré tout
+il gardait certains services.
+Google reste ouvert en Chine.
+Recherche et développement et sales.
+Je sais pas ce qu'ils vendent,
+des serveurs.
+La pub ?
+Non, priori ça m'étonnerait qu'ils vendent des pubs.
+En dehors.
+Y'a plus de Google Ads là-bas.
+Google Ads
+en tout cas ça m'étonnerait qu'il était dispo.
+Google Adwords, sûrement.
+Bon, à fouiller.
+Tu vas en profiter pour parler
+de la Chine ?
+Non, on en parlera après.
+Rien d'autre à dire dessus ?
+Je sais pas combien de temps ça va tenir, leurs petites astuces.
+À mon avis, pas longtemps.
+Franchement, je vois pas comment ils peuvent tenir plus de 24 heures.
+Parce que si le gouvernement chino accepte ça...
+C'est la porte ouverte à toutes les fenêtres !
+En parlant de fenêtres,
+c'est bien que Microsoft avait dit,
+suite à la décision de Google,
+qu'il comptait bien respecter la loi chinoise
+avec Bing et que...
+C'était important de respecter la loi.
+Mais j'en ai parlé un peu en rapport avec la fenêtre.
+Windows !
+En parlant de fenêtres,
+tu rôtes Télécom,
+tu rôtes bien mais t'es pas rapide.
+Pas ce soir, non.
+C'est la casquette qui fait ça.
+Il faut quand même pas oublier que fenêtre est un système d'exploitation
+développé par Monsieur Porte.
+Bill Porte.
+Portail.
+Juste un truc, on a eu une conversation
+super intéressante avec ton père.
+Avant de venir.
+Si on ne le faisait pas en émission, ça durerait trois ans.
+Juste pour dire que...
+Personnellement, je pense que Google laisse l'entreprise qui peut se permettre de faire ça.
+Aujourd'hui.
+Et qu'ils avaient préparé le coup depuis longtemps.
+Quoi qu'il arrive, quand ils ont annoncé qu'ils allaient...
+Probablement, c'est ses résultats.
+Ils savaient qu'ils allaient le faire forcément.
+Tu te sous-estimes Captain, toi aussi tu pourrais le faire.
+Oui, je pourrais le faire.
+Mais si je gagnais autant de thunes que Google en Chine,
+je ne le ferais pas car je suis un gros fourbe.
+En tout cas, pas dans une cave.
+On passe à autre chose.
+On va continuer à parler de Google.
+Et de Google TV.
+Ils vont lancer une petite box.
+Je ne sais pas si vous êtes au courant.
+Tu veux en parler ?
+Non.
+Chacun sa merde.
+C'est quoi ce bruit ?
+Arrête avec ce truc.
+C'est insupportable.
+C'est quoi ce qui digère ?
+Manox m'a laissé quelques petites perles.
+Je ne savais plus ce que c'était.
+Tu as le temps pour les utiliser.
+Attends la rubrique de l'ordre de ton père.
+Il va falloir animer.
+Pas l'autre.
+A peine invité, il fout déjà le bordel.
+C'est le rôle de l'invite.
+Ils vont lancer une sorte de box.
+On me paye moi aussi.
+Ça fait longtemps.
+C'est toi qui nous payait.
+Il va nous sponsoriser.
+C'est le chèque de 90 000 euros dont on parlait.
+Merci pour le MacBook que tu vas nous laisser.
+Après l'émission.
+On n'aura préféré l'écran.
+Merci pour ce clavier que tu vois là-bas.
+On en parlera tout à l'heure.
+Google va faire une box basée sur Android.
+Sur laquelle ils vont délivrer plein de services.
+Des chaînes web.
+Le contenu du Youtube.
+Les petits détails intéressants.
+Ils le font en collaboration avec Intel, Sony et Logitech.
+Certaines télé Sony vont directement intégrer ceci.
+Très prochainement.
+J'ai une grande nouvelle.
+Vous allez bientôt avoir la anti-stress box.
+Je la branche sur internet.
+Je peux te servir à boire.
+J'achète directement.
+Il y a un SDK dédié.
+Qui va bientôt être mis à disposition.
+De ceux qui le souhaitent.
+Peut-être que les podcasts vont arriver en force.
+C'est fort possible.
+S'il y a des kits à disposition.
+Il y aura peut-être des choses à faire.
+Vous pourrez enfin nous écouter à la télé.
+Est-ce que ça nous sortira de la cave ?
+Malheureusement, j'ai bien peur que non.
+Rien ne nous fera sortir de cette fucking cave.
+Je vais vous parler de votre sujet préféré.
+Je vous parle de Chatroulette.
+Ça faisait longtemps que je n'en avais pas parlé.
+Est-ce que tu connais anti-stress ?
+J'en ai entendu parler ici même.
+Est-ce que tu as essayé ?
+On t'a vu.
+On a vu une partie de ton anatomie.
+Toutes les parties de mon anatomie
+ne m'obéissent pas forcément.
+Je refuse d'assumer la responsabilité
+de certaines parties de mon anatomie.
+C'est ce que je dis à ma femme des fois.
+Je ne sais pas si vous connaissez le site
+Business Insider.
+Insider, je pense ça comme un gros porc.
+Et plus particulièrement
+le Silicon Valley Insider.
+Ils ont lancé un petit concours
+qui s'appelle
+Tenez-vous bien.
+Je n'ai pas le nom.
+Ça s'appelle
+Can you solve Chatroulette's
+penis problem ?
+Il faut savoir que Chatroulette
+a un vrai problème avec les penises.
+Je ne sais pas si vous vous rendez compte.
+Est-ce que vous savez combien de visites
+avaient Chatroulette en novembre ?
+60 000 par novembre.
+En novembre,
+visite unique en un mois.
+500.
+En février, ils ont dépassé
+le million de visiteurs uniques.
+Dans le mois, oui.
+Dont 500 000 penises.
+Ils ont calculé 12% de penises.
+Ce qui est quand même pas mal.
+Ça fait 100 000 mecs qui montent leurs filles.
+Ça fait 100 000 mecs qui se branlent devant Chatroulette.
+Il y en a qui contentent de se tripoter.
+Ils ne vont pas jusqu'au bout.
+Ils cliquent sur Next.
+Je ne veux pas laisser un heureusement.
+Pour dire que chez
+le Business Insider, ils sont très tristes
+de voir autant d'argent qu'ils ne rentrent pas
+dans des caisses.
+Par contre, s'ils veulent relancer la Banque du Sperm,
+c'est un bon moyen.
+Il faudrait un truc
+comme un business plan.
+Pourtant, tu peux avoir un compte
+de 1 euro par mois.
+Écoute, à toi de
+résoudre ce grand problème de Chatroulette
+puisqu'il propose un concours.
+Vous trouvez un moyen
+d'éliminer les pénis de Chatroulette.
+A toi de jouer ton imagination.
+Tu fais un beau powerpoint pour expliquer tout ça.
+Et ils se chargeront eux-mêmes
+non seulement de transmettre
+des bonnes idées.
+Il y aura un gagnant.
+Une bonne poignée de main.
+Son idée sera envoyée
+aux créateurs
+de Chatroulette.
+Et en plus,
+Business Insider propose de trouver des investisseurs
+qui investiront dans le site.
+Peut-être que
+celui qui aura trouvé l'abriante idée pour éliminer les pénis
+aura des parts dans cette
+fantastique société.
+Des voyages en Russie gratuit.
+C'est bien la première fois
+qu'on gagnera de la thune en chassant le pénis.
+En Hollande,
+ils font ça aussi.
+Il y en a qui ont proposé de faire le contraire,
+d'attirer encore plus de pénis et d'uniquement se baser sur ce business.
+C'est peut-être ce qu'il y a de plus facile.
+S'il y a que des pénis pour regarder d'autres pénis,
+ce n'est pas très intéressant comme concept.
+Il y en a qui a proposé le contraire.
+Il a dit que le problème, ce n'était pas
+qu'il y ait trop de pénis, c'est que ça manquait de poussi.
+Il fallait attirer
+le poussi pour pouvoir rentabiliser.
+Poussi plus pénis
+égal monnaie.
+J'ai toujours eu du mal à comprendre
+pourquoi les mecs faisaient ça.
+Ils sortaient leurs trucs.
+Ils doivent se faire nexter toutes les deux secondes.
+Il n'y a aucun intérêt.
+Le grand mystère, c'est qu'il y a des gonzesses
+qui attendent que ça.
+Quand tu te fais nexter par des gonzesses, c'est peut-être parce qu'elles sont déçues de ne pas avoir de pénis.
+Tu devrais tenter l'expérience.
+Essaye.
+Tu me préviendras que je ne me connecte
+à ce moment-là.
+Je pense qu'on a tout dit sur ce sujet fantastique.
+On en a trop dit.
+Vite fait, je vais vous parler
+d'un truc que j'ai vu hier
+sur Twitter comme d'habitude.
+Plus particulièrement sur Coreus.
+Est-ce que tu as vu ce reportage belge
+sur des mecs
+qui jouent à Second Life ?
+Tu l'as vu ?
+Mon dieu.
+C'est tout ce que j'ai marqué sur la feuille.
+Il n'y a rien d'autre à dire là-dessus.
+Je ne sais pas
+comment expliquer ce grand moment
+de détresse que tu peux avoir.
+Je pense que le pire moment
+c'est dans la seconde partie du reportage
+quand il va engueuler ses enfants
+qui ne veulent pas dormir et qu'il retire la chaîne
+pour ouvrir la porte de la chambre de ses enfants.
+La serrure de la porte
+a été mise à l'extérieur
+pour les empêcher de sortir.
+Il faut regarder ça, c'est tout simplement monstrueux.
+Vous retrouverez sur des shoes.com
+ce grand moment de bonheur intense.
+Mais le gars il passe ses journées sur...
+Ils sont en couple.
+La gonzesse est là devant son ordinateur
+sur Second Life
+en train de baiser virtuellement avec un mec.
+Il y a son mari à côté qui dit
+« Ah quand même chérie ! »
+« Tu changes de mec tous les jours comme ça,
+ça me fait mal. »
+Il y a un autre couple de l'autre côté
+avec les enfants qui sont fermés
+dans des pièces avec des gènes.
+Il y a un mec seul à Bordeaux
+qui a uniquement un grand appartement
+avec au milieu un bureau, son ordinateur, Second Life
+et un frigo rempli de bière.
+C'est un grand moment de détresse morale.
+Il y en a un en Belgique, un à Metz.
+J'ai pensé à quelqu'un que je connais
+mais c'est pas grave.
+Donc le mec seul à Bordeaux.
+Regarde-le, tu nous en parleras la semaine prochaine.
+C'est unique.
+On va passer à l'interlude
+soit les gadgets USB à la con.
+Merci USB Corp comme d'habitude.
+Suivez-le sur Twitter
+parce que c'est la meilleure référence
+en gadgets à la con.
+On va y aller rapidement.
+Un hamster en USB.
+Si le hamster ne va pas assez vite,
+tu propulses la roue.
+La roue est une roue en plastique.
+Le hamster est en peluche à l'intérieur
+et c'est alimenté par USB
+et effectivement la roue tourne.
+Tu regardes en fait ton hamster en plastique
+en train de courir dans la roue.
+J'ai cru voir qu'il y avait une interface USB
+je ne sais pas du tout à quoi ça sert.
+Pour alimenter la roue aussi.
+Est-ce que ça devrait pas être la roue
+qui devrait alimenter l'ordinateur normalement ?
+Oui mais il faudrait quelqu'un pour courir dedans.
+Bah l'hamster.
+C'est un hamster en peluche.
+Je ne sais pas si tu balances de l'électricité
+dans l'autre sens dans le port USB
+si il va vraiment apprécier.
+Essayez avec l'ordinateur de l'ordre ton père je pense.
+Sinon je vous ai trouvé une
+USB Corp vous a trouvé
+une auto radio commandée.
+L'USB en fait c'est le garage
+il y a un petit garage en plastique
+et puis c'est côté commandé
+la voiture sort du garage USB et elle rentre dedans.
+C'est incroyable.
+Ça a sûrement une utilité, je ne sais pas laquelle.
+Sinon il y a le gant USB
+qui est censé remplacer la souris.
+Je ne comprends pas trop le concept
+je pense que quand tu bouges tes mains
+si tu veux le truc, on voit des informations
+donc gauche, droite, je ne sais pas.
+Vous essayerez aussi.
+Peut-être que c'est pour faire de roulettes en fait.
+Et si tu te brûles, ça lance des roulettes.
+C'est pas con.
+Et dans beaucoup de poignets tu fais next.
+F9.
+J'avais pas pensé à ça.
+Avec Life Jasmine, tu te connectes.
+Un gant de chat de roulette.
+Un petit coup avec le pouce et direct Rivad Show.
+Il y avait 40 combinaisons possibles.
+40 combinaisons possibles sur le gant.
+C'est vrai.
+Et encore c'est uniquement en mettant le gant à la main.
+Il y a le simuli, le bret.
+Et le dernier,
+le best of, bien entendu.
+Je vais juste vous dire ce que c'est.
+Ça se branche en USB, tu mets un CD dedans.
+Un lame mange disque.
+Un lecteur CD.
+Un rayeur de CD.
+Oui, un destructeur de CD en USB.
+Et apparemment il a bien fait son travail vu la gueule du CD.
+Après il est tout rayé de partout.
+Il n'y a pas trop d'intérêt à ça.
+Tu prends un bon vieux couteau et ça marche.
+C'est pas USB.
+Et tu peux le faire sur ton PC.
+Ça marche pas sur Mac.
+Qu'est-ce que t'en sais ?
+Il n'y a pas le driver.
+Tu donnes de l'électricité, il y a un bouton.
+Ah non, c'est sur Linux, ça marche pas.
+Si votre ami a une collection de CD de Whitney Spears,
+éventuellement,
+vous avez ça, spéciale dédicace à toi.
+Vous pouvez lurer tous ces CD
+et enfin être libéré de cette atroce.
+Je ne sais pas si
+il y a un petit truc en plus
+pour effacer aussi les MP3
+qui correspondent à l'album sur le PC.
+Ce serait un plus.
+Sur ce, on passe à du quick and dirty.
+OK, donc là, on va aller très vite.
+Rapide, rapide, rapide.
+Free, qui accueille
+Artev, vidéo on-demand.
+Ça c'est fast.
+C'était rapide, non ?
+C'est quick and dirty.
+En même temps,
+est-ce qu'il y a quelqu'un autour de cette table
+qui a regardé Artev ?
+Il y a plein de trucs bien sur Artev.
+J'en avais parlé dans un précédent podcast.
+Ils avaient repassé
+la dernière version de Metropolis.
+Exact.
+Rien que cette semaine, il y avait Tucker.
+Oh, d'accord.
+Effectivement.
+C'est un four.
+Tu pourras le re-regarder
+sur vidéo on-demand de Artev.
+Ça commencera 99 centimes
+et ça finira
+à 4 euros.
+99 euros.
+Oh, l'homme de ton père, il boit du jus d'orange.
+Pour ceux qui ont des goûts un peu plus grands publics,
+il respira de beurre.
+Alors, ton père,
+tu veux que je te dire un truc ?
+Ne l'écoutez pas, ils s'en foutent.
+Allez, la suite.
+Google Street View,
+vendredi soir, on leur a tapé sur les couilles.
+En Angleterre, ils ont retiré
+je vais vous rappeler que la semaine dernière,
+je vous avais expliqué qu'ils avaient acheté
+plus de centaines de milliers de kilomètres de route.
+Ils en ont retiré un peu, entre autres
+deux, trois petits trucs qu'ils faisaient chez le gouvernement.
+Alors, le spécial Boat Service,
+le spécial Air Service
+du MI5 à Belfast,
+ainsi qu'un centre de recherche sur les armes atomiques
+et le gouvernement communication
+eQuarter. Vous ne pouvez pas vous tromper,
+il y a des photos qui trainent sur le net,
+c'est les photos où il y a le gros panneau écrit photo interdite dessus.
+Donc, c'était sur la façade,
+effectivement, vous ne pouvez pas deviner.
+Suite.
+Je vais vous parler de la préfecture de police de Paris.
+J'adore leur site, vous irez le voir à l'occasion.
+Il est très pratique.
+En fait, je crois qu'il y a deux sites différents.
+Il y en a un qui est très, très moche et qui est très, très vieux.
+C'est le site qui est très, très moche, qui est très, très pratique.
+D'accord, ok, mais on en a parlé sur Twitter.
+Moi, j'utilise que la partie dénonciation.
+Exactement, dénoncer son voisin.
+Il est sous Windows.
+Il y a aussi d'autres choses dessus.
+Et il a craqué la licence.
+Entre autres, une fantastique carte qui a été ajoutée
+de l'implantation prévisionnelle des 1300
+caméras qui arrivent en 2011.
+Ce qui est très amusant,
+c'est qu'il y en a une juste au dessus de la cave du capitaine.
+Oui, mais il y en a un peu partout.
+Il y en a même une dans la cave.
+Oui, il y en a une là, on est filmé en ce moment.
+Donc, si vous voulez savoir si vous pourrez enfin
+continuer à sortir...
+Est-ce qu'on pourrait les consulter en direct sur le site ?
+Non, je ne pense pas.
+Parce qu'il y en a une juste en face de l'appartement de l'ordre de ton père.
+C'est-à-dire que quand il prendra son petit déjeuner
+au balcon à poil, tout Paris pourra le voir.
+Rien que de voir sa tête,
+moi, je pense que ça vaut le coup.
+Tu vas prendre des photos, ça se revend cher sur Internet.
+Tu n'as pas vu le reste.
+Au moins un dollar.
+Vous pourrez voir la photo de l'ordre de ton père.
+Alors oui, oui, oui.
+Vous me followez sur
+Atmigael Bechler.
+Vous aurez des infos exclusives.
+Il a bien raison.
+Il ne faut pas se priver.
+Mais on a déjà proposé de la rendre sur eBay.
+Ne nous vole pas ce charmant business.
+Oh putain, le nombre de défolos que j'ai.
+Tout ça pour dire...
+Donc, si vous voulez continuer à sortir tranquillement
+les corps de vos petites amies la nuit,
+pensez à vérifier la carte avant 2011.
+Ensuite, il y a Bing
+qui vient de sortir son service Worldwide Telescope.
+Donc si vous voulez voir en temps réel
+la position des étoiles, vous pouvez y aller.
+Sinon, ça existait depuis 3 ans sur Google.
+Ils ont appelé ça la guerre des étoiles.
+On se demande pourquoi.
+Ah si, sinon une bonne nouvelle d'un côté.
+Nous savons enfin
+où va une partie de l'argent des contribuables
+pour communiquer avec les jeunes
+parce que la communication avec les jeunes est importante.
+Et donc j'ai trouvé cette information qui va intéresser tout le monde.
+Le gouvernement va payer Skyrock
+pour diffuser des messages aux jeunes à partir de l'année prochaine.
+Oh, quel type de messages ?
+Alors des messages à titre informatifs
+sur le logement, la vie étudiante,
+le sida, etc.
+Alors attention, pour bien se faire comprendre du jeune
+car le jeune n'a pas le même langage que nous,
+ce sera rédigé.
+Ils donneront les messages à l'équipe de Skyrock
+et l'équipe éditoriale de Skyrock
+les retranscrarent
+en jeunes
+puisque ce n'est pas le même langage.
+Tu es au mieux.
+Regarde ta race
+sur le site du gouvernement.
+Est-ce que tu es content
+de savoir que tes 30 millions d'impôts partent de là-dedans ?
+Ah oui, j'en suis ravi.
+Toi qui est encore si jeune.
+Je pense que Skyrock aussi est ravi,
+mais on leur demandera.
+Oui, un sujet important s'il en est.
+La vente aux enchères de sexe.com.
+Qui a foiré.
+Qui a foiré effectivement
+puisque les créanciers ont mis là-haut là
+Moi j'avais mis une option pour l'acheter.
+Tu ne l'auras pas.
+Ça a commencé à un million de dollars les enchères.
+Il a mis un million.
+Les créations demandaient l'intervention
+de la justice.
+Ça a été bloqué.
+Protection de la loi sur les faillites, etc.
+Ok, super.
+Je touche.
+À moins que vous oubliez en parler.
+Sexe.com.
+Qu'est-ce qu'on trouve actuellement sur sexe.com ?
+Je n'en sais rien.
+Ça c'est à voir un million.
+Ce serait moi, je me foutais directement des pubs
+à Tense the Sub.
+Et mon cul c'est du poulet.fr.
+Et t'as vu La Vierge ?
+Si, j'ai toujours vu La Vierge.fr.
+Par contre Actifrice.fr a tombé dans le domaine.
+Je suis désolé, mais tu dois pouvoir le racheter.
+Je ne pense pas que quelqu'un te les prévient.
+Tu peux y aller avec ton beau con de candy.
+Quoi d'autre ?
+Ah oui, vous avez entendu parler de...
+Vous utilisez quoi comme antivirus ici ?
+Avira.
+Linux.
+Non mais j'ai la marque.
+J'ai Linux.
+Donc pas d'antivirus.
+Alors ton père ?
+J'utilise 4 en boucle, 4 en série et en parallèle.
+J'utilise uniquement un firewall
+logiciel et ça suffit amplement.
+Sauf quand tu ramènes des clés USB
+du captain.
+C'est fini, ça j'ai arrêté.
+Tu m'as flingué mon réseau pro.
+Tout ça pour 24 heures de travail.
+Ça c'était les pitons des caméras.
+Ce qu'il avait frais, je tiens à le préciser.
+Je vois qu'il y en a sur hotchat
+qui sont en train de mater l'émission.
+Oui c'est triste, je sais les enfants.
+Alors ton père la regardera après.
+Pour répondre à ta question, j'ai avira.
+Moi j'ai Windows, Microsoft, c'est essentiel.
+Autant y aller jusqu'au bout, j'utilise aussi
+le virus de Microsoft.
+Ça marche très bien, il me signe à l'oreillange.
+C'est la preuve que tout va bien.
+C'est la preuve que tout va bien, je suis assez d'accord avec toi.
+Tout ça pour dire que ceux qui ont eu
+la mauvaise idée d'utiliser Bitdefender 2010
+ont eu une mauvaise mise à jour ce week-end samedi.
+Puisqu'il y a eu une sorte de bug.
+Bitdefender a repéré un trojan
+qui s'appelait Fake Alert 5
+qui effectivement était une fausse alert.
+Donc dans le doute il a bloqué
+le trojan en question.
+Puis ensuite il a bloqué plein de DLL de Windows.
+Ensuite il s'est bloqué lui-même.
+Et dans un dernier moment de folie,
+il a aussi bloqué les fichiers de quarantaine.
+C'est pas de chance.
+Ça touchait seulement Windows 10.
+Ça touchait seulement Windows 7 64-bit je crois.
+Mais ceux qui ont bien reçu 64-bit mancu,
+ceux qui effectivement avaient Bitdefender,
+plus Windows 7 64-bit.
+Parce qu'apparemment il y en a pas mal qui ont dû le réinstaller.
+Il y a quand même eu une sorte de mise à jour
+qui a été faite dimanche.
+Mais c'était déjà trop tard pour certaines personnes.
+Ensuite, ah oui, ça c'est fantastique.
+Il y a une série qui va sortir.
+Ah oui, W9.
+Tu parles...
+Non, non.
+C'est qu'une télé-réalité.
+Je parle pas de télé-réalité, je parle d'une série
+aux Etats-Unis qui n'est pas encore sortie.
+Qui sortira sur la chaîne Epix.
+Qui s'appelle?
+Qui s'appellera Icon.
+Et ça parle de quoi?
+D'ordinateur.
+Oui, presque.
+Icon, attention.
+Apple.
+Ça parle de POM.
+Ça parlera d'un mec créateur,
+d'un entrepreneur
+pour qui ça marche bien.
+Steve Jobs.
+Est-ce qu'il a des problèmes de foi ou pas dans la série?
+Je ne sais pas.
+Ce sera une série parodique faite sur un personnage
+qui ressemblera extrêmement à Steve Jobs.
+Je ne sais pas s'il est ravi de...
+Par contre, il ne peut pas bouffer de cireaux d'érables.
+Ça, je ne sais pas.
+En tout cas, ce sera un mélange de Steve Jobs
+et d'autres titans de la Silicon Valley.
+Une comédie en forme de satire sauvage,
+de l'égo du pouvoir et de l'actupidité.
+Ça, c'est le communiqué officiel.
+Ça a dû faire plaisir.
+Vous la regarderez?
+Non.
+Ça peut être marrant.
+Au moins le premier épisode.
+À condition qu'il y ait Stalman dedans.
+Il faudra tester.
+Je te laisserai faire en premier
+et après tu me diras que c'est bien.
+La suite.
+Pages jaunes qui rachètent à 100% le site
+123people.
+Je suis rassuré.
+Ils n'ont vraiment rien à foutre chez les pages jaunes.
+Mine de rien, ils vont doubler avec ça leur audience.
+123people quand même 40 millions de victoires.
+Il y a quand même une bonne nouvelle pour les pages jaunes.
+Ils ont enfin écouté les gens qui utilisent leur site.
+Ils ont allégé les putains de flashs
+sur la page des pages jaunes.
+Des pages blanches.
+On peut enfin taper le nom de la personne qu'on recherche
+sans que ça rame pendant 10 minutes.
+Est-ce que tu as toujours envie de te pendre pendant la recherche?
+Non, ça va.
+Franchement, c'est le pire site.
+Ils ont lancé aussi une application sur iPhone,
+elle est lente.
+Est-ce que quelqu'un peut m'expliquer pourquoi sur les pages jaunes
+il y a 5 champs pour entrer un coup
+le numéro de la rue, un coup la rue, un coup le code postal,
+un coup la ville, que sur les pages jaunes
+il y a un seul champ et le truc est intelligent.
+C'est une bonne question.
+Parce que les mecs ils payent pour les pages jaunes.
+Le jour aussi où ils auront la bonne idée
+de mélanger pages jaunes et pages blanches
+que tu n'es pas à chaque fois à cliquer sur le bouton et attendre 10 minutes.
+Ça serait pas mal aussi.
+C'est un message à celui au webmaster
+qui travaille en Chine.
+Je pense qu'il y en a qu'un, voire un demi à mon avis.
+Il a demi temps chez eux.
+Non, ça on va le passer.
+Ah oui, Google et la marque Nexus One
+ils se l'ont prise dans le derrière, ils n'ont pas le droit de l'utiliser.
+C'est con.
+Ils l'avaient déjà déposé en plus par une boîte
+qui fait de la téléphonie aussi.
+Ils l'utilisent.
+Ils utilisent la marque.
+Ils ont dû vite faire un truc de merde, genre un software à 10 dollars
+pour pouvoir l'utiliser.
+Donc voilà, il reste la solution.
+Soit choisir un autre nom, soit payer des brouzoufs.
+Ils vont payer les brouzoufs.
+Connaissant Google.
+Des grosses boîtes qu'ils vont avoir sur des marques.
+En même temps, ils ne se font pas chier, comme ça ils rachètent la marque.
+C'est plus rapide que de rechercher pendant 10 ans.
+Ils pourront payer moins cher, ils rachètent la société.
+Je ne sais pas si c'est une bonne affaire des fois.
+On s'en fout.
+La marque vaut peut-être plus cher que la société.
+Ce n'est pas une société chinoise, ça va.
+Ah oui, la Suisse
+qui envisage une interdiction
+totale et définitive
+des jeux vidéo violents.
+Enfin une bonne nouvelle.
+Enfin une prise de position courageuse.
+Pensez à nos jeunes.
+Vive la Suisse libre.
+Poussez certains consommateurs
+aux pires violences réelles.
+Il a écrasé une moche dans mon jardin.
+Attention, je vous demande de me citer un jeu
+qui ne soit pas violent.
+Mario.
+Mario, c'est extrêmement violent.
+Uniquement pour les tortues.
+Pong.
+D-Runter.
+On a pas fait notre dossier D-Runter.
+Pong.
+Puzzle Bubble.
+Tetris.
+Toutes ces formes qui s'emboîtent.
+Il y a beaucoup de fois
+où tu as envie de jeter ton téléphone.
+Effectivement, ça m'est arrivé plus d'une fois.
+Je n'ai plus de téléphone.
+Ok.
+Euh...
+Il n'y avait pas de jeu de dinosaures sur Mac.
+Oh my god, si si, on en parlait la semaine dernière.
+Le jeu du monde.
+C'est du monde.
+C'est Dino 3D.
+Non, je ne crois pas.
+Je dois l'avoir.
+Au secours, pas ça.
+Ne touche pas à ton Mac.
+Ah oui, Google qui a...
+Vous savez qu'il y a cette histoire
+entre Viacom et YouTube.
+Ils ne sont pas contents du tout.
+Si vous voulez racheter YouTube, ils sont fait griller par Google.
+Viacom attaque YouTube
+pour violation puisqu'il y aurait plein plein de clips.
+Mais ils auraient été uploadés par Viacom.
+Voilà, donc c'est le dernier élément
+que Google vient de mettre au dossier.
+Effectivement, il semblerait que
+toutes les vidéos
+qui seraient contre faites auraient été envoyées
+par des boîtes payées par Viacom.
+Et qui en plus faisaient exprès d'utiliser
+des IP anonymes.
+Je ne sais pas s'ils ont des preuves solides,
+mais si c'est le cas, j'en connais qui vont se prendre
+des grosses amendes dans le derrière.
+C'est la vie des grosses boîtes.
+Ça doit être fantastique.
+Je ne sais pas qui est le mec chez les agences de com
+qui était payé pour uploader toute la journée
+des vidéos avec des IP anonymes.
+Il allait bien s'amuser.
+Ah là là.
+Il faut dire qu'il y en a qui sont payés pour ça.
+YouTube, est-ce que vous savez combien...
+Attention, alors ton père n'a pas le droit de jouer.
+Ceux qui connaissent la réponse n'ont pas le droit de jouer non plus.
+Ceux qui n'ont aucune idée de la réponse n'ont pas le droit de jouer.
+Moi je n'ai aucune idée de la question.
+Tu vas pouvoir jouer, félicitations.
+Michael aura donc le droit de jouer.
+En une minute, combien d'heures de vidéos sont envoyées sur YouTube ?
+En une minute.
+Pas mal je pense.
+Une journée.
+24 heures.
+Un an.
+Comme quoi cause 24 heures.
+Ils avaient vu la news,
+donc effectivement 24 heures de vidéos en une minute.
+Le petit joueur.
+Le mec doit modérer le bordel, il doit bien s'amuser.
+Parce que je ne sais pas comment il fait.
+Même s'ils sont 10, 100, ça doit être chaud.
+C'est assez récent ce truc là.
+En fait en juin 2007, il y avait déjà 6 heures de vidéos qui étaient envoyées chaque minute.
+Parce que j'ai uploadé des vidéos sur YouTube aujourd'hui.
+Je l'ai fait il y a 3 mois si tu veux.
+Il y a 3 mois, tu uploadais ta vidéo,
+tu attendais 5 minutes et ta vidéo était en ligne.
+Et là j'ai attendu 1h30.
+Oui mais ça je pense que c'est libre.
+Avec ça à faire.
+C'est parce que moi j'ai uploadé, j'ai fait autre chose.
+Sur ce j'ai mis d'autres liens sur mon site.
+Quacoscope.com
+C'est des liens Dailymotion qui étaient déjà tout près au final.
+Oui c'est les vidéos de boules dont tu parlais.
+Exactement.
+Quacoscope.com
+Voilà donc c'est ça,
+en matière de contenu envoyé chaque minute,
+les modérateurs doivent bien s'amuser.
+L'iPad,
+on avait déjà parlé,
+ça se vend très très bien,
+malgré le fait que personne n'ait pu mettre la main dessus ou presque personne.
+Ce qui apparemment
+sur les premiers chiffres,
+ça serait même un meilleur lancement que celui du premier iPhone.
+Ce qui est quand même pas mal.
+Ce qui veut dire que tu avais fait
+un très mauvais pronostic.
+Tu avais dit que ça ne se vendrait pas du tout.
+J'avais dit ça ?
+Non j'avais dit que ça finirait avec le placard.
+Tu avais dit que ça ne se vendrait pas,
+tu avais dit que ça finirait avec un flop commercial.
+Je devrais ressortir la bande.
+Lors ton père, on ne parle pas de toi.
+Pardon.
+J'ai mis un petit temps à comprendre.
+Je vais parler de quelque chose,
+je vais parler d'un CMS e-commerce
+qu'il doit connaître.
+Magento.
+Pourquoi tu parles de Magento ?
+Je parle de Magento parce qu'il est moyenne de lever 22,5 millions de dollars.
+Voilà la réaction d'un professionnel du métier.
+C'est une vraie réaction qui n'est pas censurée.
+Magento.
+Il leur faut bien ça ?
+Non, on fait sans moyen.
+Parle bien dans ton micro.
+Peut-être qu'ils vont alléger le bordel
+parce que franchement, c'est l'enfer.
+C'est un peu lourd.
+6 000 fichiers, il te faut un serveur de bâtard pour le faire tourner au score.
+Sinon, tu peux acheter l'hivergement chez eux,
+ça coûte 8 000 euros par an, c'est une bonne affaire.
+J'aime pas.
+C'est beau, l'open source.
+C'est de l'open source, bien sûr.
+C'est de l'open source.
+Je connais pas.
+Déjà, quand on a la T-shirt Firefox 2,
+laissez-moi voir tranquille.
+La vache partie.
+Petite information,
+depuis le lancement de Magento,
+15 milliards d'euros de transaction
+sur les différentes boutiques Magento.
+Et 60 000 marchands, si je me souviens bien.
+Est-ce qu'il y a vraiment des gros vendeurs
+qui utilisent ça ?
+Il y en a.
+T'es pas encore sous O.S.Commerce ?
+O.S.Commerce, au score.
+J'ai des images atroces qui me remontent à l'esprit
+quand tu dis O.S.Commerce.
+J'adore leur interface.
+J'adore.
+Et une bonne nouvelle
+pour notre ami Antistress.
+C'est mon anniversaire ?
+Je vais essayer Internet Explorer 9.
+Il est en train d'arriver.
+Là, je te sens sourire de tout.
+C'est impatient.
+Tu ne peux pas encore le télécharger.
+Par contre, tu peux, au summum de l'horreur,
+télécharger un add-on pour IE8
+pour le transformer en IE9
+pour pouvoir tester avec un bouton.
+Si tu aimes les bugs et le non-open source,
+tu peux essayer peut-être.
+Je pense que si on essaie Netscape 5,
+on va arriver à peu près au même résultat
+qu'Internet Explorer 9.
+C'est trop drôle.
+Sinon,
+Windows 7 et Windows Vista
+obligatoires, bien sûr, XP 2000.
+Tout ça, il faut oublier.
+Merci.
+Il me reste 3 petites news.
+Facebook.
+C'est devenu
+le premier site le plus visité au monde.
+Et franchement,
+ça me trouve le cul.
+C'est quand même une catastrophe.
+Ça prouve le nombre de chômeurs.
+Je ne sais pas ce que ça prouve vraiment.
+C'est sûr.
+C'est la crise.
+Vous rigolez, au Canada,
+j'ai passé pas mal d'interviews
+de...
+Comment on dit quand on veut recruter quelque chose ?
+Entretiens d'embauche.
+Et les mecs,
+toute la journée,
+ils passent leur temps
+sur Facebook.
+Ils nous disaient
+que j'ai le temps, je suis au chômage,
+je suis sur Facebook.
+Donc en fait, on cherchait un community manager
+et les mecs, comme ils passent leur journée
+sur Facebook, ils pensent qu'ils peuvent être
+community manager.
+Et ceux qui passent leur journée sur Twitter, c'est mieux ?
+C'est pas mieux.
+Utilisez des robots pour ça.
+Là, on voit que c'est vraiment le grand public.
+Je ne sais pas si vous souvenez cet article
+de...
+Merde.
+What is the name ?
+Capitaine, d'ailleurs, une fois,
+une fois, ils avaient fait un article sur Facebook
+et les mecs, ils étaient arrivés sur la page
+du site en question,
+et ils pensaient être sur Facebook.
+Donc ils ont rentré leur code et ils ne comprenaient pas
+qu'ils ne pouvaient pas accéder à Facebook.
+C'est là qu'on se rend compte que c'est assez grand public.
+Ce qui est curieux,
+je ne sais pas si on en a parlé,
+mais il y avait eu un article là-dessus
+qui était assez intéressant,
+où les mecs disaient qu'on pense que les nouvelles générations,
+les digitales natives,
+ce qui est totalement faux.
+En dehors de Messenger, Facebook,
+les mecs, ils ne savent même pas la barre.
+Même Facebook, il y a un tas d'utilisateurs
+qui ne savent pas sans ça.
+Les gens ne savent même pas ce que c'est que la barre d'adresse.
+Ils confondent ça avec la barre de recherche.
+Chrome ne va pas aider sur ce truc-là.
+J'ai vu aussi quelqu'un qui tapait dans la barre d'adresse
+son adresse e-mail et qu'il ne comprenait pas pourquoi
+il ne se connectait pas à son e-mail.
+Moi, j'ai encore des gens qui disent
+que j'ai un site web,
+ils confondent,
+e-mail et tout, c'est assez hallucinant.
+Tout ça pour dire que Facebook est devenu
+le premier site le plus cité au monde.
+En même temps, c'est hallucinant,
+ce qu'il y a donc 400 millions d'utilisateurs.
+Ce qui est hallucinant, c'est que
+en nombre d'utilisateurs
+actifs,
+si tu veux, tu as genre
+300 millions, c'est hallucinant.
+À titre de comparaison,
+je crois qu'il y a seulement
+10% des mecs sur Twitter, des comptes
+d'utilisateurs, qui ont fait plus de 10 tweets.
+Ça a donné l'idée d'utilisation...
+Dont l'ordre de ton père.
+Lui, il a fait moins de 10 tweets.
+Un petit peu moins.
+C'est moins de 10.
+Il a fait zéro.
+Je ne connais pas tellement le business de Facebook
+avec un succès comme ça, ils ne sont pas vendeurs ?
+Microsoft, Yahoo, Google, je ne sais pas qui.
+Je m'étais complètement planté sur Facebook
+il y a un an et demi.
+C'est impossible.
+Là, je m'étais vraiment planté, je me disais
+avec les traits qu'ils ont
+en manque de patience.
+Vous savez combien de photos sont plaidées chaque mois sur Facebook ?
+300 000.
+C'est en milliards que ça se compte.
+C'est un milliard, je crois.
+Toi, t'as pas assez chaud.
+Il est beau avec ses oreilles de panet.
+Il est magnifique.
+C'est vrai que c'est un truc que je ne comprends pas
+dans Facebook. On est dans un monde
+où tout le monde râle parce qu'on est trop fliqué.
+On n'a plus de vie privée.
+Rendez-nous notre vie privée.
+Les mecs s'incrivent tous sur Facebook.
+Je ne pense pas que tout le monde râle.
+Je pense qu'il y en a beaucoup qui ne se rendent pas compte.
+Il y en a juste beaucoup qui...
+Ils n'ont même pas compris que Facebook
+c'était pire.
+Allez, suivant.
+Et là, c'est la news spéciale anti-stress.
+Encore ?
+Ça va être rapide.
+Juste pour dire que l'open source décolle en France.
+Il décolle, il prend l'avion
+et il va de l'autre côté de l'Amérique.
+Il y a trois utilisateurs en France aujourd'hui.
+9 anthropos sur 10 qui utilisent l'open source.
+C'est des conneries.
+C'est vrai que la France est mieux positionnée
+que la moyenne européenne.
+Et spécialement, les administrations
+utilisent beaucoup l'open source.
+La gendarmerie, l'Assemblée nationale,
+les ministères.
+Mais ça, ce n'est pas nouveau.
+L'armée, ça ne besoin pas 9 sociétés sur 10.
+C'est surtout que sur les 9 sociétés sur 10,
+80% n'ont pas déclaré de licence
+Microsoft Office.
+Open source, c'est quand
+tu n'as pas payé ta licence.
+Ils ont compris ça.
+Ça décolle en France.
+C'est open price.
+Je n'ai pas du tout Microsoft.
+Moi, je suis open source.
+Moi, je suis open source.
+9 sur 10, n'importe quoi.
+Il y avait un petit malin qui avait fait une version Linux
+qui était une copie conforme de Windows.
+Windows et Microsoft n'avaient pas été contents.
+En gros, 30% cette année
+de croissance pour les logiciels libres en France.
+Oui, mais en téléchargement,
+ça ne veut rien dire. Moi aussi, j'ai téléchargé.
+Non, mais il y a vraiment...
+J'ai toujours pas compris.
+J'ai téléchargé, j'ai essayé de diminuer, de l'arrêter.
+Je regarderai sur ton ordinateur
+ce qu'il reste.
+Il ne reste rien parce que je l'ai désinstallé.
+Une dernière petite news.
+C'est la Wikipédia.
+C'est les vidéos qui arrivent enfin
+sur la Wikipédia.
+Oui, ça va rejoindre
+le sujet de leur compagnie
+sur la balise vidéo.
+Tout à fait, puisqu'ils vont utiliser la balise vidéo
+et ils vont utiliser du octéorat.
+Ça va être une grosse merde.
+Je suis curieux de voir les vidéos qu'ils vont mettre.
+Ça va consister en quoi ?
+C'est pas du YouTube.
+Il s'agit d'illustrer les pages de Wikipédia.
+Tu parles d'un musée, tu vas filmer
+l'extérieur ou je ne sais quoi.
+Ça va se retrouver sur un minimum
+de données.
+Il faut voir la qualité des vidéos
+qui vont être envoyées.
+Ils recommandent du 320x240
+pour ne pas trop surcharger.
+C'est vraiment pour illustrer.
+C'est comme la Nintendo DS.
+Ça me rappelle cette cyclopédie en kartak
+que j'avais à l'époque.
+Sur ce, c'est l'heure
+de la news Marte d'Orsel.
+C'est encore mieux dans le casque.
+Tu le sens bien là ?
+Je l'ai en 3D.
+Est-ce que tu as entendu le petit hurlement à la fin ?
+Juste encore les lunettes et c'est bon.
+On a tout qui est prêt.
+Je suis sûr qu'en 3D,
+je découvre des trucs.
+Vas-y, c'est parti.
+Et la minute à la fin.
+C'est encore mieux dans le casque.
+C'est encore mieux dans le casque.
+C'est encore mieux dans le casque.
+Et la minute à Marte d'Orsel.
+Écoute bien à la fin.
+Pour toi.
+Marte d'Orsel.
+Marte d'Orsel.
+Alors...
+C'est encore mieux que les lunettes en 3D.
+C'est dégueulasse.
+Oui c'est lors de ton père.
+Je vous en prie, messieurs.
+On m'a quand même trouvé une news,
+je ne les cherche plus, on les envoie directement.
+Si vous aimez la culture,
+vous pouvez aller au Grand Palais.
+C'est une exposition Marte d'Orsel.
+Enfin presque.
+En gros, il y a une galerie d'art parisienne
+qui fait une exposition
+qui concerne les images dans les films porno
+qui sont extraits de films X
+et apparemment c'est coproduit
+avec la société Marte d'Orsel.
+Donc ça se passe au Grand Palais, si vous voulez aller jeter un coup d'œil.
+Je vois Antistress
+dépité là dans son coin
+à côté de l'ordre de ton père.
+Tu ne peux pas y aller ?
+C'est un film que je n'ai pas déjà vu quand même.
+C'est juste des images.
+C'est magnifique.
+Sur ce, c'est tout.
+Je n'ai pas trop cassé.
+Comme d'hab.
+Tu as fait quasiment une heure.
+Il y avait déjà l'intro.
+Il y avait 5 ou 10 minutes d'intro.
+Il y avait 2 minutes de jingle aussi.
+Ce n'est pas de ma faute, tu noteras.
+C'est quoi alors ?
+C'est l'embrouille de l'ordre de ton père.
+Bienvenue sur la rubrique de l'ordre de ton père.
+LTP
+Pourquoi c'est hurlement à la fin de mon jingle ?
+C'est le talent, c'est tes fans.
+Pourquoi tu poses la question à chaque émission ?
+C'est pour le fun.
+Tu n'oublieras pas le piano.
+Il parait que ce sont les auditrices qui t'ont vu sur Chatroulette.
+Je vois que tout le monde sort son coussin.
+Ils sont 46 en ligne.
+Il n'y a pas de coussin ici.
+Il y a le pingouin là-bas.
+Tu ne veux pas me passer le pingouin ?
+C'est mon noob.
+Tu ne vas pas dormir.
+On peut mettre la caméra sur toi ?
+Il est capable de s'endormir lui-même pendant la rubrique.
+C'est possible.
+Allez les Johns.
+C'est pas possible.
+C'est pas possible.
+C'est pas possible.
+Allez les Johns.
+On prend son courage à deux mains.
+C'est le moment que vous attendiez tous.
+Michael, tu es sympa.
+Tu travailles.
+Tu ne vois pas que tu étouffes le pingouin ?
+De quoi qu'on cause ?
+C'est toi qui va nous le dire.
+Je vais vous le dire parce que je reprends mes fiches.
+Mes fiches me disent qu'on va parler ce soir de la balise vidéo.
+On en avait déjà parlé au numéro 26.
+Ce sera uniquement une petite mise à jour.
+Un événement important est intervenu entre temps.
+Je vous rappelle l'état de la discussion.
+L'antistress me corrige si je dis des bêtises.
+On avait le choix entre deux codecs.
+Le H264.
+Le méchant très cher mais très répandu.
+Et le fabuleux codec libre Oktera.
+Tout pourri, moins performant et pas du tout répandu.
+J'ai l'impression d'être partisan.
+FireFox et Opera ont choisi le champion du logiciel libre.
+Google a choisi les deux.
+Et Apple avait choisi H264.
+Eh oui, ça surprend.
+Mais on attendait le choix de Microsoft qui faisait du genre
+non, ça ne m'intéresse pas, j'ai d'autres préoccupations.
+Et comme l'a dit Capitaine Webb tout à l'heure,
+IE9 vient de sortir.
+Enfin, il sortira dans deux ans.
+Une version pour les développeurs plutôt.
+Et Microsoft a choisi d'office et directement,
+aux surprises, le codec H264.
+Ils n'ont pas un petit intérêt là-dedans ?
+J'en sais rien.
+A mon avis, ils ont déjà la licence depuis longtemps,
+donc ils s'en foutent.
+Et eux, leur intérêt, ils préfèrent se débarrasser de gens
+comme FireFox, je pense.
+Quand est-ce que Microsoft a dégainé cette arme magique ?
+C'était au Mix 10.
+Je n'y étais pas.
+A Las Vegas du 15 au 17 mars,
+où ils ont présenté leur navigateur.
+Et qu'est-ce que vous dites ?
+Eh oui, je le pense.
+Donc FireFox est de plus en plus isolé avec Opera.
+Riez, riez.
+Riez quand vous ne pourrez plus utiliser FireFox.
+Et le risque, c'est que la plupart
+des fournisseurs de contenu vidéo se tournent vers H264.
+S'il ne reste que Dailymotion
+et Wikimedia,
+on est mal barré.
+Wikimedia ?
+Il restera toujours mon blog.
+Moi, j'ai des vidéos en théora.
+Ce qui va se passer,
+le risque pour FireFox, qui est un navigateur que j'adore,
+c'est qu'il va se retrouver un petit peu en...
+Peut-être, nous ne le souhaitons pas,
+un navigateur de second rang,
+par exemple pour les vieux systèmes d'exploitation,
+par exemple XP ou 2000, qui ne pourront pas faire tourner ION 9.
+Qu'est-ce que c'est ?
+En même temps ?
+C'est bien parce que ça donne un peu de tamise.
+Même lors de ton père...
+Dites-tu que c'est chiant ?
+Même lors de ton père est en train de passer
+à Chrome plus ou moins.
+Attends, on en a perdu 12, quand même.
+Dépêche-toi, dépêche-toi.
+Laptique 2000 !
+Par respect pour lors de ton père,
+je ne dirais pas ce qu'il se dit sur le chat en ce moment.
+Heureusement qu'il n'a pas le temps de lire.
+Bayonnez-le, abattez-le.
+Il ne parle pas de toi.
+Il s'échauffe pour moi.
+Bon, dis dedans.
+Je vais essayer quand même de reprendre mon truc.
+Alors, il y a une question qui avait été posée
+la semaine il y a deux semaines.
+On m'avait posé la question suivante,
+mais pourquoi est-ce que FireFox n'utilise pas le codec H.264
+qui est présent dans le système d'exploitation ?
+C'est une bonne question.
+Oui, c'est très intéressant.
+Il y a un autre problème.
+Qui c'est qui t'a posé cette question ?
+Un auditeur.
+J'ai des auditeurs qui sont intéressés,
+qui ne dorment pas.
+Est-ce que tu as une preuve ?
+Je n'ai pas le droit à ces conneries.
+J'ai le droit au début.
+Il va se lasser au bout d'un moment.
+C'est pas sûr.
+La Fondation a répondu à cette question.
+Ça pose un problème de fragmentation.
+Il ne contrôle plus rien
+puisque le codec dépend de l'OS.
+En gros,
+ça signifie que FireFox n'a toujours
+que des lecteurs Flash.
+Et ReelPlayer.
+On ne parle pas de cette horreur.
+Histoire à suivre.
+Il faut juste rappeler
+que c'est pas choquant d'avoir le codec
+incorporé au navigateur.
+Le navigateur a déjà les codecs pour les images.
+Quand vous pouviez sous FireFox
+ouvrir des PNG transparents
+que Windows ne gérait pas,
+c'est bien parce que le navigateur a ses propres codecs
+pour les images.
+Ce n'est pas Berand qui les ai pour la vidéo.
+D'ailleurs, autre remarque,
+GIF, qui était un format propriétaire,
+était parfaitement géré dès le début
+par le navigateur.
+Ils ont fini par lâcher dans la nature
+le GIF au bout d'un moment.
+Oui, mais du temps où il était encore protégé,
+ils le géraient néanmoins.
+C'est pour ça que PNG a été développé.
+Ils avaient moins d'état d'âme vis-à-vis du codec.
+Je ne me souviens pas.
+C'était super.
+Il y avait un site notamment
+le site des GIF de la mort
+où ils ont posté tous des GIFs.
+Il y en a 10 000 à la queue le le.
+C'est l'enfer.
+Le moindre GIF animé, il fait 3 méga.
+C'est énorme.
+Qu'est-ce qu'on dit anti-stress
+à la fin d'une rubrique sur les codecs vidéo ?
+Merci.
+On dit libérer VP8 !
+Libérer VP8 !
+Libérer VP8 !
+Libérer VP8 !
+Moi, je trouve qu'on se masturbe un peu avec VP8.
+Théora est tout à fait capable.
+Il faut y aller avec Théora, c'est tout.
+Tu sais ce que c'est, VP8 ?
+Je trouve qu'on se masturbe beaucoup avec VP8.
+Ce n'est pas forcément mieux que H264 ou Théora.
+Libérer VP8 !
+Libérer VP8 !
+Je suis à court d'argument.
+Vous êtes trop forts, les gars.
+J'ai Michel Beum qui demande si
+dans le jus d'orange, il y a de la vodka.
+Peut-être.
+En tout cas, il y en a dans VP8.
+Allez, on passe au sujet suivant.
+Les deux sujets qui vont suivre
+sont des projets qui ne marchent pas.
+Moi, j'aime bien parler de trucs
+qui ne marchent pas.
+Pourquoi ça ne marche pas ?
+On va regarder ensemble.
+Premier sujet, le projet SideWiki.
+Qu'est-ce que c'est ?
+Est-ce que vous en avez entendu parler ?
+Oui, c'est moi qui t'ai présenté.
+C'est vrai. Et toi, anti-stress ?
+Non.
+Michel, rentre au Québec.
+Michel, rembarque.
+Et toi, gros coaco.
+SideWiki.
+Qu'est-ce que c'est ?
+J'ai failli cracher sur mon MacBook.
+On le récupère.
+Je vais cracher dessus.
+Je vous le ramènerai nettoyé.
+Il y a des formes bleues.
+Du calme.
+Laissez l'ordre de ton père faire sa rubrique.
+C'est une honte.
+Chaque semaine, plus le temps passe,
+plus les podcasts avancent, moins j'arrive à faire ma rubrique.
+C'est triste.
+Merci l'ordre de ton père.
+Jingle.
+Il va retourner au Québec.
+Mais il va laisser le MacBook.
+Le projet SideWiki,
+c'est un projet de Google
+qui a été lancé fin 2009, je crois.
+Dans ces eaux-là.
+Et qu'est-ce qu'elle peut dire ?
+Arrête avec ce truc, c'est insupportable.
+Déjà quand il est là, il est insupportable.
+Mais quand il n'est pas là, qu'il a juste sa voix, c'est encore pire.
+Laissez-en un peu aux autres, toi.
+Alors le projet SideWiki, en quoi ça consiste ?
+Vas-y, dis-le nous, on attend la réponse depuis tout à l'heure.
+J'essaye.
+Ça consiste à pouvoir ajouter des commentaires
+à un site web ou à une page donnée de ce site.
+Mais la particularité de ces commentaires,
+c'est qu'ils ne sont pas gérés par le site web lui-même,
+mais par Google et par ses serveurs.
+C'est-à-dire que le type qui fait son site
+n'a absolument aucun contrôle dessus.
+Exemple, Michael, tu as ton site web
+ou tu vends ton CMS ou tes produits.
+Et il y a le Captain Web qui met un commentaire
+sur SideWiki.
+Tu ne peux pas gérer le commentaire.
+Et en plus, ce salopard de Captain Web te met une saloperie.
+Voilà, exactement.
+Et là, t'es dans la merde.
+D'où l'intérêt de gérer sa e-réputation.
+Exactement.
+On en avait parlé dans un précédent podcast.
+Avec SideWiki, ça devient dur.
+Tu peux contrôler.
+Je te laisse parler.
+C'est sympa.
+Tu n'y arriverais pas.
+SideWiki, comment on l'utilise ?
+Comment ça marche ?
+C'est de la merde.
+Tout simplement, pour SideWiki,
+soit vous avez la Google Bar.
+Il est intégré.
+Il y a un petit bouton SideWiki.
+Sur Chrome, il n'y a pas de Google Bar.
+La Google Bar, c'est Chrome.
+Il faut ajouter une extension
+parce que SideWiki n'est pas installé par défaut.
+J'ai l'impression qu'il est installé par défaut.
+Il n'est pas installé par défaut.
+Pour lire les commentaires,
+vous êtes sur un site web,
+sur le site de Michael.
+Vous cliquez sur la Google Bar
+ou sur le petit bouton dans Chrome.
+Il affiche un onglet
+qui est vertical
+sur toute la longueur du navigateur.
+Sur Chrome, il est plutôt à droite.
+C'est pas bien.
+Quelles études ont poussé
+Chrome à le mettre à droite ?
+Je n'en sais rien.
+Ce n'est pas la question.
+C'est une histoire dénoncée.
+L'onglet apparaît.
+L'onglet apparaît.
+Vous cliquez dessus.
+Vous pouvez lire immédiatement les commentaires.
+Le site de Michael est à chier.
+Carrément.
+J'ai acheté son logiciel.
+Ça ne marche pas.
+Ce n'est pas faux.
+Sur le site du Capitaine Web,
+le Capitaine Web est un tocard.
+Laissez-moi des SideWiki.
+Parfois, il n'y en a pas qui apparaissent.
+Mais vous regardez
+tout en bas à droite,
+sur le texte,
+c'est les commentaires
+considérés par Google et les internautes
+comme non pertinents.
+Il y a certains sites
+où il n'y a que des commentaires non pertinents.
+C'est de la merde.
+Sur le site du Monde, il y en a plein.
+Il faut avoir un compte payant
+pour essayer des commentaires sur le Monde.
+Il y en a plein.
+Je les ai comptés.
+Comparé aux autres, il y en a plein.
+Il y en a trois qui sont considérés comme pertinents.
+Si tu les lis, ils ne sont pas pertinents.
+Quand tu cliques sur le bouton Next, il y en a 26.
+Ce sont les non pertinents.
+Et franchement, c'est sans intérêt.
+Les trois pertinents, c'est SideWiki, c'est trop de la balle.
+Google, c'est génial, c'est mieux que le monde.
+C'est exactement ça.
+Non, test.
+Comment on peut...
+Il y en a plein qui mettent test.
+Sans blague, oui.
+C'est exactement ça.
+Il y a des mecs qui mettent, j'ai testé SideWiki.
+Et la moitié des commentaires, c'est ça.
+C'est super.
+Et en plus, ils sont considérés comme pertinents.
+Est-ce que je peux faire une remarque ?
+Je demanderais, est-ce que, lors de ton père,
+regarde les webcams actuellement de notre public.
+Il y en a trois qui dorment.
+Il y a Foxy Kip qui a déjà son coussin.
+Je suis étonné
+qu'il n'ait pas le pouce dans la bouche.
+Attends, il y en a encore un qui bouge.
+Je vais l'achever.
+Je vais l'achever.
+Alors, avec le Capitaine Web,
+on en a discuté ensemble, on s'est demandé si c'était
+censuré ou pas.
+Alors, j'ai essayé de rechercher.
+Ah, parce que c'est pas fini ?
+Je peux en parler pendant des heures.
+J'ai cette capacité surprenante.
+Sur le site de l'UMP, que dalle.
+Pas de commentaires.
+Mais là, j'ai une interprétation.
+C'est bizarre.
+C'est que les gens n'ont rien d'autre à foutre que de mettre des commentaires.
+C'est pas faux.
+Sur le site du PS, j'ai regardé
+les deux entrées sans aucun intérêt.
+Sur le site de la présidence de la République,
+c'est d'aller ici.
+Même eux ne le savent pas.
+C'est ce que je me suis dit. Mais maintenant, j'en suis moins sûr.
+Parce qu'il y a deux jours, il y a un type qui a posté
+une sorte de discours apocryphe
+du président de la République.
+On a des auditeurs qui...
+Alors, apocryphe.
+C'est pas faux.
+C'est pas faux.
+Il y avait un discours.
+Et le mec, en gros,
+se faisait passer pour Sarkozy et expliquait
+qu'il était vraiment désolé, qu'il se rendait compte qu'il avait merdé, etc.
+Donc ça, c'était le commentaire
+side-week.
+Le truc était particulièrement
+long. Je suis retourné
+sur le site de la présidence tout à l'heure, comme ça,
+pour faire mes petits tests, et il avait disparu.
+Et à la place, il y a deux commentaires
+sans grand intérêt, sauf un mec
+qui se plaint que une vidéo démarre automatiquement.
+Super commentaire.
+C'est chiant.
+Les vidéos qui démarrent tout seules.
+Voilà, c'est ça, c'est les commentaires.
+Alors, le succès n'est pas en rendez-vous
+pour ce fameux side-week.
+Il y a très très peu de commentaires.
+D'ailleurs, même Google l'a pas installé par défaut
+sur son navigateur, donc c'est pas la fête.
+Ça existe depuis quand ça ?
+6 mois.
+Mais en fait, il y a personne qui le connaît.
+Ils ont pas fait beaucoup de pub là-dessus.
+C'est un projet dans leur labo ou ils l'ont vraiment lancé ?
+Non, je crois qu'il est toujours dans le labo.
+Je sais plus.
+Parce qu'ils ont un lab par service, donc je sais pas.
+C'est Chrome.
+C'est soit la barre Google, soit Chrome.
+C'est un service.
+C'est pour tous les navigateurs.
+Ils ont un lab aussi pour les services.
+C'est un bordel maintenant.
+Side-Wiki, c'est pas gagné.
+Qu'est-ce que vous en pensez ?
+Moi, je trouve qu'il y a un truc qui est bien, c'est la liberté d'expression.
+Mais le côté hyper négatif,
+c'est quand même qu'il y a des bâtards
+qui peuvent polluer ton site.
+Oui, mais en même temps, ils peuvent polluer le site.
+Le truc, c'est que c'est vraiment très très lié au site.
+C'est une barre qui apparaît sur le côté.
+Pour peu que Chrome commence à bouffer pâle de part de marché,
+ce qui est le cas entre le ballot screen et la grosse pub qu'ils ont fait partout.
+Avec leur saloperie de bannière de traduction
+qu'ils ont foutu cette semaine.
+Oui, oui, alors ça arrête pas de s'afficher.
+Tu peux le régler, moi j'ai désactivé de tout.
+Oui, option ne pas traduire les pages en anglais.
+Moi, ça me gêne quand même de parler de liberté d'expression
+sur un service aussi centralisé.
+Ça reste de la liberté d'expression.
+Oui, non, mais c'était une manière très gentille.
+Écoute, tu veux t'exprimer, t'as Facebook.
+Tout nous fait pas chier.
+Allez, on va parler d'autre chose.
+On parle de quoi, alors ?
+Tu vas voir.
+Je vais vous parler d'un nouveau moteur de recherche
+qui s'appelle...
+Alors, je vais donner l'URL parce que je sais que vous aimez quand je te donne les URL.
+Allez, on y va.
+http://
+www
+.
+Alors, arrête tes conneries.
+.com
+Arrête tes conneries.com
+C'est le bâtard.
+On peut y aller maintenant.
+C'est wolframalfart.com
+C'est wolframalfart.com
+Wolfram, c'est pas tout nouveau non plus.
+Ça fait un bout de temps.
+Mais moi, je n'en avais pas parlé avant.
+On arrive au slash.
+C'est fini.
+.com
+On vous dégage l'octobre.
+Vous chercherez tout ça.
+C'est un moteur de recherche qui a été lancé en 2009.
+C'est-à-dire il n'y a pas très longtemps.
+Le concept, c'est un moteur de recherche,
+qui donne les réponses à Google
+dans les réponses qu'ils donnent.
+C'est une sorte d'encyclopédie en ligne
+qui répond.
+Vous avez une question, vous la posez dans la barre de recherche.
+Qui est leur ton père est à la réponse.
+Exactement, vous tapez leur ton père et vous verrez la réponse.
+Y a, ta photo ?
+Non.
+C'est sur 1-2-3 people ?
+C'est un moteur de recherche en anglo-saxon.
+C'est-à-dire aujourd'hui, on n'a pas encore
+la version française, ou francophone en tout cas.
+Donc, il faut vraiment s'adapter dans ces recherches.
+je me suis amusé à faire quelques requêtes pour vous présenter alors j'ai
+fait des trucs relativement sains j'ai tapé bill j'avais évidemment bill
+getz en arrière pensée et donc le moteur intelligemment m'a répondu en me
+disant d'abord qu'il considérait qu'il considérait que bill était un prénom
+au niveau de l'analyse parce qu'il précise alors qu'est ce qui m'a
+répondu il m'a donné les statistiques sur ce prénom aux USA
+et pourtant en anglais bill veut dire bien autre chose
+exactement c'est la facture mais en français ça veut dire quelque chose et
+il m'a précisé que ça pouvait être également aussi un mot et donc en
+cliquant sur le mot mot et ben il me donnait toutes les interprétations en
+considérant qu'il s'agissait d'un mot ok notamment les synonymes les
+définitions etc d'accord alors j'ai continué à m'amuser
+j'ai tapé bladrunner donc là j'étais content j'ai effectivement trouvé des
+infos sur le film après j'ai tapé france population et là il m'a balancé toutes
+les réponses toutes les statistiques un graphique c'est intelligent alors
+donc il a bien repéré alors j'ai pas essayé alors autre autre possibilité
+assez intéressante du moteur pouvait rentrer des formules mathématiques il
+vous fait un graphe google fait aussi les formules
+qui le gèrent tu fais 2 plus 2 il va te dire qu'il rentre également des
+formules de réaction chimique il est capable de te répondre moi j'ai rien
+compris aux réponses évidemment j'ai également posé quel était la en anglais
+bien sûr parce que je parle couramment anglais quelle est la température à
+paris il m'a répondu 7 degrés hier soir à minuit est-ce que tu as vérifié
+c'était pas mon iphone j'en étais sûr mon iphone a donné 8 degrés donc là j'étais
+très perplexe c'est pas mal ça c'était terrible ça allait alors j'ai ensuite
+ce que tu as tapé quelle vidéo suis-je en train de mater sur mon ordinateur
+alors je continue dans mes exemples débiles russienne pony club j'ai tapé
+paris map la carte de paris et là il m'a sorti une carte immonde de la france
+avec un petit point rouge pour montrer paris et en dessous il y avait marqué
+satellite image donc je me suis précipité j'ai cliqué et là au magie je
+me suis retrouvé sur google map bref non mais c'est un bel algorithme quand même
+ce qui vous manque quand même c'est les mimiques de l'ordre qu'on perd
+les gens ne la verront jamais ça vaut de l'ordre parce que déjà sa voix est
+particulière c'est chronique et particulière mais alors c'est mimique
+c'est tu as vendu la mèche alors je sors un dernier exemple j'en ai noté plein
+mais je vais vous en faire grâce je viens de demander qu'elle me dit non
+je te rassure ils sont encore 12 quand tu tapes une note par exemple f dièse
+il sort les accords au piano et à la guitare c'est marrant avec une
+illustration est-ce que est-ce que tu as trouvé quelque chose d'utile oui par
+exemple quand j'ai tapé thomson le nom de la fameuse société et bien il m'a
+confirmé que c'était effectivement devenu technicolor et qu'elle a perdu
+et qu'elle a perdu 95 % de sa valeur en un an ce qui est trop tard pour
+vendre mais rassure-toi alors ton père tes actions vont remonter un jour
+d'ici 15 à 20 ans j'ai acheté à 17 euros elle valent 81 centimes aujourd'hui
+il y a eu un pic à 1 euro quand même je ne te fous pas de ma gueule ce que tu en as acheté aussi
+je les ai toujours j'attends que ça remonte à 18 à l'époque
+c'est un peu comme les statistiques du site à l'époque rappel-toi alors ton
+père je t'avais déconseillé de prendre chez thomson à l'époque tu me rappelles à la
+maternelle je te dis google mais les exemples qui ne marchent pas la bonne la
+prochaine rubrique sera la rubrique boursière de l'ordre ton père tous ces
+conseils tous ces conseils boursiers à ne pas suivre à ne pas suivre
+rentuellement fait tout le contraire pour devenir riche
+voilà confier votre argent à ltp comme on dit sur le chat alors quelques
+exemples de recherche totalement infructueuse j'ai tapé captain web rien
+trouvé et qu'est ce que vous dites j'ai tapé j'ai tapé best podcast il n'a rien
+trouvé j'ai tapé j'ai tapé what is the best porn site et effectivement il n'a
+rien trouvé non plus youtube alors j'ai tapé richest man oui et alors il m'a
+répondu bill gets me c'est planté c'est planté c'est le mexicain c'est le
+mexicain et enfin j'ai tapé end of the world pour savoir c'était la date c'était
+ma dernière recherche pour savoir quand nous allions crever état pour du chat
+roulette c'était le lhc si c'était 2012 si c'était de chat roulette et bien non
+il m'a sorti un film des années 60 qui s'appelait en réalité panique in the
+your in your 0 ça a l'air d'être une sacrée merde tu l'as regardé pas jusqu'au
+bout de ta recherche non non mais il le passe la semaine prochaine sur art et
+faites on va pouvoir l'acheter en vod alors commentaire sur ce moteur
+primo le côté positif c'est que le moteur donne systématiquement ses
+sources mais ça c'est bien ce qu'ils donnent voilà il l'a trouvé dans telle
+google maps non il donne ses sources d'italien cyclopédie etc c'est
+tandis que google met directement le lien vers le site quoi vous pouvez
+télécharger les réponses du truc en pdf c'est trop utile
+alors franchement qu'elle est putain de malade qui veut télécharger la vidéo des
+années 60 c'est sympa oui il ya une explication
+parce que le côté désagréable c'est que toutes les réponses sont générées
+sous forme d'une image gif là vraiment j'ai pas compris pardon je te le
+confie à toi tu veux dire que les textes sont générés en gif par contre quand
+tu te récupères le pdf tu peux faire des copier-coller dans adobe c'est super
+c'est un malade le mec il fait de l'ocr après pour pas être pour pas être
+référencé par google qui lui piquera sa bonne réponse en fait le mec qui
+donne les réponses il y a une tablette graphique il dessine les réponses
+franchement moi ou le frame alpha je te fais un service qu'il bat mais
+10 jours je le fais quoi non mais les réponses sont quand même vraiment
+pertinents mais je t'engage 150 000 et qui répondent derrière franchement les
+réponses sont encore plus pertinentes le modèle économique du site web il est nul
+il est nul parce que pour trouver un nom comme ça c'est pas de la vendeur
+le concept leur concept c'est qu'ils considèrent que dans google environ 10% des
+recherches c'est pas pour trouver un site web c'est pour trouver une réponse
+ils veulent eux s'emparer de ce marché là oui c'est ce qu'on appelle je sais plus
+long ça s'appelle pas un modèle économique ça c'est ce qu'eux prétendent
+donc voilà essayez le fait de la recherche la recherche il ya des cordes
+qui s'affichent sur la timeline mais j'ai perdu que six auditeurs depuis que j'ai
+commencé il y a deux cordes là c'est peut-être parce qu'ils sont endormis et
+enfin dernier sujet et on va voir un peu plus partir ma rubrique est perturbé et
+pollué par des jingles et des bruits de manox
+on va parler de cyberdépendance parce que vous êtes tous des putains de
+dépendants pas du tout pas du tout si si si alors j'avais l'intention de faire un
+sujet assez fouillé puis j'ai pas eu le temps donc je vais vous faire
+donc tu as tapé cyberdépendance sur vol forama la bidule ouais c'est un peu ça
+alors il ya une controverse je veux dire connaissance est ce que c'est oui est
+ce que c'est une véritable maladie ou pas c'est très discuté donc je n'ai pas
+la réponse et vous irez vous démerder tout seul il y aurait dit il y aurait
+d'après un article passionnant sur internet cyber cyberdépendance mytho
+réalité il ya trois phases la découverte haut un ordinateur la
+spécialisation haut il ya twitter ensuite vous avez une autre une autre
+de face qui est la vie courante c'est à dire que vous avez intégré le
+phénomène et vous commencez à moins l'utiliser puisque c'est devenu pour vous
+un outil que vous maîtrisez et donc vous passez à autre chose mais il ya le
+stade ultime celui où vous n'arrivez pas justement à passer à autre chose qui
+est le moment où ça le devient compulsif et là j'ai un exemple parfait
+devant moi le capitaine web or non moi l'exemple le plus flagrant je
+passe si vous aviez vu cette vidéo qui était devant ça devant ce poste c'était
+un suédois je crois ou un allemand qui hurle dans devant son poste parce que
+il n'arrive pas à démarrer son jeu oui à la fin il explose le truc au moins
+il s'est libéré de la dépense mais lui il était cyber dépendant mais il ya
+pire que ça regarde la vidéo sur les mecs qui jouent à seconde life dont j'ai
+parlé au début non non franchement c'est à regarder quoi c'est unique j'ai
+jamais vu ça vas-y donc là alors il ya quand même un mec qui a fait une critique
+excellente au problème de la cyberdépendance que j'ai trouvé sur
+wikipédia soyons clairs c'est jonathan bichop qui a répondu tout simplement que
+le world web est un environnement dans lequel il ya des acteurs des objets les
+structures et qu'en gros il résume en disant qu'on ne peut pas être dépendant
+qu'on peut pas être dépendant internet ce qui est dépendant internet c'est
+comme être dépendant du monde réel donc il n'y a pas de dépendance
+c'est comme être dépendant de l'oxygène voilà c'est ça ça peut pas être une
+dépendance c'est le nouveau monde c'est plus que tu es tu es dépendant tu pour
+être dépendant à facebook dépendant à twitter dépendant à seconde life mais
+pas à intérêt en lui-même alors là je vous propose le test que vous pouvez
+tous trouver sur wikipédia mais qui est génial alors captain web toi mon
+patient je savais oui allonge toi sur le divan je peux pas malheureusement il ya
+de l'habillage mikaël va te masser on va s'endormir si jamais il se couche sur un divan tu
+perds un auditeur de plus mikaël masse lui les épaules
+alors alors au secours mon vieux il a eu une poigne de canadiens en fait
+première question timber je vais prendre un stylo pour noter tes
+réponses ou là ou là est ce que est ce que je monsieur capitaine passez vous
+plus de temps connecté sur l'internet que vous auriez pensé initialement oui ou
+non je ne me rappelle pas la vie avant internet si tu veux je considère que la
+réponse est oui alors est ce que ça vous dérange franchement alors ton père
+qui répondrait non à cette question parce que tout le monde au début quand on
+a dit ouais internet et tout ouais bon on va aller voir cinq minutes tout le monde
+s'est dit la prochaine question c'est ce que tu allumes ton ordinateur le matin
+voilà je continue les questions c'est un truc scientifique est-ce que ça vous
+dérange de limiter le temps passé sur l'internet
+à limiter comment va éteindre ton ordinateur plus de cinq minutes
+c'est pour dormir non non mais ça me fait un peu chier ce que je télécharge
+des trucs mais bon la question la question et je pense qu'il y a peut-être
+qu'est ce que tu télécharges des iso des iso tout toute la nuit moi je
+collectionne des iso linux j'en ai 50 gigas j'ai 500 gigas d'iso linux
+ça me rappelle un truc que tu es en train de raconter c'est l'époque où j'avais
+encore mon modem holitech oui où tu as téléchargé la redacte non non non j'avais à
+l'époque téléchargé une mandrake oui la 3.0 à l'époque et j'étais tout
+fier et bon c'est vrai j'étais un peu un enculé c'était le jour de la grève de
+l'internet il y a longtemps et c'est déjà un malin effectivement le mec il se dit
+il y a plein de monde qui n'est pas connecté je vais prendre la bonne passante effectivement ce
+jour là c'était la fête j'ai dû monter aller à 50 kao non t'es fou 7 8 maxi et
+là c'était la fête j'ai commencé à enfin télécharger la mandrake que je voulais
+depuis si longtemps et j'ai mis j'ai réussi à récupérer 50 méga octet
+tu l'as toujours pas installé en 5 heures et ces enculés le lendemain matin ils ont
+bien fait c'est la punition dégoûté quoi pour ne pas avoir participé à la grève de
+l'internet 3e question capitaine web oui est-ce que des amis ou des membres de
+famille se sont plaints par rapport au temps que vous passez sur internet j'ai
+plus d'amis oui tous le problème c'est que ta face ta femme passe autant de temps que
+toi sur internet non c'est impossible personne de passer autant de temps donc
+est-ce qu'il ya des gens sont plein oui j'entends oui quatrième question tu veux
+sortir son profil à la fin c'est ça non mais il a déjà fait c'est pas
+difficile non mais lui en le vendre est-ce que vous trouvez difficile de
+rester sans être connecté pendant plusieurs jours
+oui impossible impossible franchement j'ai un serveur linux qui arrête pas de
+planter c'est pour ça c'est professionnel uniquement moi je sais je suis parti
+plusieurs fois en vacances avec toi t'es insupportable internet c'est uniquement
+une déformation professionnelle moi j'ai passé des vacances dans un dans une
+cabane dans un arbre uniquement parce qu'il y avait le wifi sérieux
+excellent dans le durant fabuleux je passe les prochaines questions elles sont
+toutes à chier mais non mais non on veut toutes les questions on fait un vrai
+sondage est-ce que le rendement de votre travail professionnel à se faire
+l'avantage c'est son job que vous passez sur internet oui mais c'est pas faux
+depuis que twitter existe le rendement un petit peu diminué quand il y a même
+plus de rendement je dirais oui légèrement on va dire légèrement est-ce
+qu'il y a des zones de l'internet des sites particuliers que vous trouvez
+difficile à éviter
+mégaporbe, burn-up, twitter éventuellement oui oui oui c'est
+c'est mais en même temps est-ce que tu parles de site web ou de service
+je te lis la question vous pouvez répéter la question c'est un sondage qui
+c'est oui des sites mais la question suivante est-ce que vous avez du mal à
+contrôler l'impulsion d'acheter des produits ou des services étant en
+relation avec l'internet non non j'ai un peu dit ça même franchement
+moi du moment que mon ordinateur marche je n'ai besoin d'un rien d'autre
+j'ai quelqu'un d'extrêmement économe du moment que j'ai un ordinateur sur un ordinateur
+cette question parait pas lié à la cyberdépendance
+c'est scientifique
+toi chacune va à gueule du mec qui a fait le sondage
+avez-vous essayé sans succès d'écourter l'usage de l'internet
+tu veux dire quand je suis à 11 heures du soir je vais me coucher dans 10 minutes et
+qu'à 6 heures du matin je me rends compte qu'il est l'heure d'aller travailler
+oui la chine a réussi à écourter l'usage de l'internet
+alors dernière question est-ce que vous déviez beaucoup de vos champs d'action
+et satisfaction à cause de l'internet
+c'est quoi cette question ?
+je t'explique par exemple tu as une mise à jour à faire sur un site qui doit prendre
+exactement 30 secondes à savoir
+modifier une lettre, uploader quoi
+et là tu dis ah tiens j'ai pas vérifié mes velles tu cliques sur Thunderbird
+10 minutes t'as utilisé tes velles et après tu fais
+ah merde sur twitter est-ce qu'il y a quelque chose de nouveau tu vas sur twitter tu vois un lien
+tu cliques dessus et là manque de pot c'est une vidéo d'une heure quoi
+et quand t'as fini il est déjà temps de rentrer chez toi et t'as pas fait le truc qui te
+prenait 30 secondes oui effectivement je confirme
+je connais parfaitement ce genre de problème
+voilà tu as répondu à toutes les questions
+il a répondu oui partout
+non non non un seul non mais ça changera rien
+c'est la question qui avait pas le rapport où il a répondu non
+de une à trois réponses positives il y a une petite tendance à devenir
+addictif à internet
+ah bah t'as une à trois réponses, t'as que trois réponses, t'as que une
+mais si t'as une réponse t'es déjà
+le sujet à la dépendance intermise
+non mais c'est tout petit quoi
+entre quatre et six réponses positives il y a une chance de développer cette
+conduite addictive
+entre sept et neuf réponses vous êtes foutus
+je suis foutu
+non je crois que t'as un vrai problème captain web
+et on va tomber dans une petite clinique de désintoxication
+d'ailleurs les monsieur vont t'attendre à la sortie du podcast
+je tiens à préciser que la personne qui me dit ça passe son temps collé à son
+iphone si tu veux
+son iphone il a 13 d'usure sur l'écran à force qu'il l'utilise pas
+non mais c'est parce que je joue un jeu extraordinaire que je viens de découvrir
+qui est tap tap ninja quoi
+vous plaisantez c'est pas le nom de jeu que je sais plus, non c'est chop chop ninja
+alors que je t'ai installé, c'est un petit ninja et tu t'appuies sur l'écran pour dégommer
+les salopards alors que je t'ai installé, c'est super hein, trop fort, t'as pas l'air con
+dans le métro
+surtout que je t'ai installé trois applications qui a baisse ultra samedi dernier
+que j'ai vite effacé
+voilà enfin bon
+ça y est c'est fini, c'était la rubrique de l'ordre ton père
+32, alors par contre t'as soulevé une bonne question est-ce qu'il existe des
+cures de désintégration internet ? oui je crois en chine, en chine c'est plus pour les jeux
+en ligne
+en chine c'est pour tous les jeux mais ça passe par une prison éventuellement une
+condamnation à mort c'est pas évident
+non mais la rigueur coupe les mains
+oui c'est possible, non alors avec le casque
+le casque cérébral dont j'avais parlé la semaine dernière il sera possible de
+taper sans les mains
+allez la rubrique est finie et maintenant Mikel qui faisait le malin tout à
+l'heure eh bien c'est ton tour, eh bien à bientôt
+la rubrique de l'invité, on a même eu ce qui lui
+c'est l'invité de l'apéro
+t'es pas venu les mains vides au moins
+t'as bien buer ?
+j'ai un peu peur de vampire là quand même
+l'invité de l'apéro
+on respecte les invités
+oh la flûte galette
+Mikel
+et oui c'est moi qui habituellement
+me charge de commencer l'interrogatoire de nos invités
+et tu vas passer à la questure
+la gégène, la gégène, la gégène
+alors traditionnellement
+dans cet apéro on pose trois questions
+à nos invités auxquels on leur propose
+je suis jamais allé jusque là
+jamais tenu jusque là
+je me t'effondrerais avant
+oui parce que généralement l'invité est après
+ma rubrique
+et donc les trois qui
+lui, le fouet
+les trois questions
+sont les suivantes
+qui es-tu
+qui es-tu, d'où viens-tu
+et où vas-tu
+alors commençons peut-être par la première
+qui es-tu
+qui suis-je
+qui suis-je donc
+moi j'ai fondé une boîte qui s'appelle Actinium
+qui a créé
+il y a quelques temps
+il y a une éditeuse qui s'appelle Webagoo
+on a diffusé
+là maintenant depuis quelques temps
+en France et qu'on vient d'installer
+au Canada
+est-ce que tu peux expliquer à ceux de nos éditeurs
+qui ne le sauraient pas ce qu'est un CMS
+un CMS vulgairement
+c'est un outil qui permet de créer et gérer
+son site internet
+la particularité de Webagoo
+c'est que on ne s'est pas arrêté
+au programme de base
+qui permet de créer son site
+et aussi vulgairement
+de contrôler le web
+puisqu'on est parti du principe
+que créer son site c'est bien
+sauf que quand on crée
+son site et qu'on est tout seul sur internet
+il faut ramener du monde sur son site
+pour le rendre
+utilisable et visible
+par les visiteurs
+donc ce qu'on a fait
+c'est que dans le CMS on a créé un certain nombre d'outils
+qui vont diffuser l'information
+notamment en France on a créé un réseau de portails
+on a créé 40 000 portails
+j'ai vu ça dans l'interview que tu avais fait
+j'ai réécouté 2 fois
+j'ai fait 40 000
+tu comptes le nombre de communes
+en France, le nombre de cantons
+en France, le nombre de
+départements et le nombre de régions
+ça fait 40 000 à peu près
+la vache mais Google doit te détester
+ils doivent te haïr
+et en fait chaque fois que
+le principe c'était quoi
+le CMS s'adresse essentiellement aux
+petites entreprises donc notre
+artisan, notre boulanger lui il s'en fout
+d'être visible à l'autre bout du monde
+à part ceux qui ont un ego
+surdéveloppé, l'objectif
+c'est qu'il puisse toucher des clients
+sur son secteur donc avec
+le CMS il va pouvoir comme ça
+choisir sa zone de diffusion
+il va dire auquel boulanger lui c'est
+le canton administratif
+donc il va diffuser automatiquement
+ses informations
+dans son outil vers
+une quinzaine, une vingtaine de sites
+ce qui fait qu'il va être visible sur son secteur
+alors les sites
+en question, imaginons que t'es au niveau du canton
+t'as un nombre de domaines par site ?
+oui
+en gros t'as 40 000 noms de domaines
+pour l'instant on a des sous domaines
+on a essentiellement des sous domaines
+le jour on aura le pognon pour s'acheter
+40 000 domaines on le fera, pour l'instant
+c'est sur 5 noms de domaines
+par contre chaque site est indépendant
+c'est à dire que c'est pas
+un portail qui est
+démultiplié, chaque site est vraiment
+tout seul
+et dans chaque site vous avez
+un annuaire avec toutes les entreprises
+du secteur, on a référencé les
+4 millions d'entreprises en France
+ah c'est toi le salopard quand
+on tape un truc et qu'il pourrit
+avec une tas de google
+ce qui est assez marrant
+c'est que du coup
+les portails ne deviennent actifs que quand
+un web à goût est créé sur le secteur
+donc il pollue pas
+justement
+google et les résultats
+tant qu'il n'y a pas d'utilisateur
+qui a commencé à mettre des infos
+là dessus
+on va peut être revenir aux 3 questions de l'ordre
+de ton père avant de parler du web à goût
+plus en profondeur
+qui suis-je ?
+on recommence
+d'où viens-tu ?
+moi je viens d'Alsace
+je suis originaire de Colmar
+et
+je sévis actuellement à Ribouville
+dans une petite ville
+sur la route des vins d'Alsace
+cité médiévale
+pardon
+ça a réveillé quoi cause ?
+vins d'Alsace, on a à peu près
+800 vitiquilouteurs autour de chez nous
+est-ce que tu leur as refourgué à chaque
+aventure un site ?
+minimum oui
+parce que l'avantage avec les viticulteurs
+c'est qu'une fois que tu as fait un site pour un
+tous les autres autour ils en veulent un aussi
+ils disent en général
+je veux mieux que le voisin
+et puis tu fais exprès les premiers de faire des trucs vraiment sales
+pour avoir de la marge
+en général même ils disent je veux mieux que le voisin
+et un peu moins cher
+non plus cher
+le viticulteur veut claquer un peu plus que le voisin
+parce que du coup il va pouvoir dire moi j'ai mis 30 000
+c'est quoi le prix moyen des sites
+mais t'es pas obligé de répondre à la question ?
+le panier moyen c'est 1500-2000 euros
+ah oui quand même
+et t'en vends combien par an ?
+écoute aujourd'hui
+on est à peu près à 700 sites
+qui te vendent sur nos serveurs
+plus 200
+qui sont
+en dehors de Webagoo
+on va peut être demander un chèque plus élevé finalement
+non mais déjà le Macbook on l'embarque
+alors quels sont tes projets d'avenir ?
+ben là
+comme je le disais tout à l'heure
+on a créé la succursale canadienne
+qui a démarré la semaine dernière
+on a commencé les recrutements
+on a une petite équipe
+de 5 personnes en Gaspésie
+qui démarre là début avril
+alors où est la Gaspésie ?
+alors la Gaspésie
+c'est un peu plus loin
+donc la Gaspésie
+c'est pour vous voyez un petit peu
+le Canada
+c'est au sud des Etats-Unis
+bien joué et au sud du pôle nord
+et d'ailleurs
+si vous regardez les Etats-Unis
+c'est microscopique à côté du Canada
+je veux quand même faire remarquer que sur le chat
+il y a un mec qui a mis un petit drapeau du Canada
+et qu'il y a un petit revolver à côté qui tire dessus
+ah oui c'est vrai
+je sais pas si c'est un hasard
+en tout cas
+les Canadiens sont extrêmement sympathiques
+voyez donc en fait c'est à l'est
+donc à l'est du Canada vous avez
+le Québec
+et à l'est du Québec vous avez la Gaspésie
+qui est réputée pour
+ses
+homards, ses crabes
+et son sucre
+et son sucre sirop d'érable
+est-ce qu'ils ont du bon pinard ?
+non, ils ont pas de bon pinard
+parce que le meilleur pinard est en Alsace
+c'était con ça
+c'était anti stress non ?
+c'est anti stress qui stresse
+la minute Marc Dorsal est terminée
+c'est horrible
+qui a fait ça ?
+je pense que c'est Mickael qui jouait avec son siège
+je vais essayer de le refaire
+un peu de silence
+on est pas sur Chatroulette
+ça marche plus tu vois
+pourquoi le Canada ?
+alors c'est un concours de circonstance
+raconte
+question suivante
+non en fait
+j'ai eu l'opportunité
+d'assister à un salon
+qui est fabuleux
+le salon du caribou
+non, c'est un salon qui s'appelle Futuralia
+qui est un concept vraiment intéressant
+pour nous chefs d'entreprise
+c'est que c'est pas un salon
+où vous venez vous poser vos affaires
+vous avez un stand et vous faites un concours
+pour savoir qui c'est qui a le plus gros stand
+là c'est sous forme de
+speed dating
+vous inscrivez votre entreprise
+deux mois avant
+c'est ça
+et à un moment donné
+sont ouvert les matchings
+donc vous avez la possibilité de prendre des rendez-vous
+avec des boîtes du monde entier
+parce que Futuralia c'est une manifestation
+qui se déplace chaque année dans un autre pays
+et du coup vous avez l'opportunité
+de rencontrer comme ça
+des chefs d'entreprise du monde entier
+en 2008 c'était au Québec
+donc moi j'y suis allé
+comme ça en observateur
+et on s'est rendu compte
+14 pays étaient intéressés
+pour distribuer notre solution
+et les plus
+les plus acharnés étaient les Québécois
+et ils t'ont même payé pour ça
+ils m'ont payé pour ça oui puisqu'ils nous ont fait
+un beau petit
+un beau petit pont d'or
+pour qu'on vienne s'installer en Gaspéry
+qui est un petit peu une région sinistrée
+à cause de l'industrie
+et donc ils ont créé
+un technopole
+dans lequel on vient d'installer
+la boîte
+ok alors qu'est ce qu'on pourrait poser comme question
+c'est le Canada quoi
+tu vas combien de fois ?
+tous les 3 mois tu m'as dit ? oui à peu près tous les trimestres
+et là ça commence tu viens de voir les bureaux
+t'as du monde ? oui donc on a
+à peu près 200 mètres carrés de bureaux
+donc ils sont bien perdus là dedans
+j'ai mon
+j'ai un associé canadien
+qui s'appelle Paul Grenier
+Paul Grenier quoi
+Paul Grenier
+il parle français oui c'est le Québec
+oui oui c'est ça d'ailleurs
+l'avantage du Québec pour tester
+un outil à l'international
+c'est justement que c'est un pays francophone
+culturellement
+ils sont
+extrêmement proches de chez nous
+ils sont super sympas avec les français
+il y a des ponts
+économiques qui sont faits entre la France
+et le Canada et c'est ce qui nous a permis
+d'adapter vraiment tout l'outil
+à l'international puisque maintenant
+on a chopé la version anglaise
+et on a vu aussi tous les problèmes
+que ça pose
+d'adapter un outil
+quand on n'avait pas prévu au départ
+de le faire à l'international
+les joueurs du code vous êtes combien ?
+techniquement ?
+Actinium c'est une équipe de
+12 personnes
+aujourd'hui il y a 3 développeurs
+3 développeurs web
+qui travaillent sur l'outil
+tout le reste c'est des commerciaux
+des graphistes
+on a un certain nombre
+que vous connaissez peut-être pour les tweeters
+on a un community manager
+c'est Max Lifer
+oui exact je l'ai même sur
+je le suis et il me suit aussi
+et puis
+les développeurs pour ceux qui connaissent
+Clément Choir
+Modin, Modin aussi
+qui est dans l'équipe qui s'occupe du recrutement
+des distributeurs parce qu'en fait
+la solution c'est pas une solution open source
+c'est un outil
+qui permet à n'importe qui
+de prendre la main sur son site
+aussi bien
+l'utilisateur lambda qui n'a
+aucune connaissance ni en graphisme
+ni en code peut
+prendre la main dessus
+mais ce qu'on souhaitait aussi
+c'est le rendre accessible
+aux graphistes, webmaster, webdesigner
+qui vont eux pouvoir s'amuser dans le code
+et échanger toute la CSS
+et pas s'emmerder avec
+un CMS open source
+sur lequel ils vont
+s'arracher les cheveux peut-être pour
+le mettre en oeuvre
+en gros
+anti stress en train de bavé
+là
+open source
+est-ce que je te donne le contrôle du fouet
+entre moi la touche
+c'est celle là
+en gros
+frappez encore
+frappez encore
+il a dit logiciel propriétaire
+frappe
+alors c'est vous qui l'hébergez ?
+hébergement où ? en France ?
+tout est hébergé en France
+même pour les futures solutions canadiennes
+une partie est au Canada
+parce que les canadiens sont
+extrêmement
+ils aiment pas avoir 30 secondes de lag
+sur chaque requête
+ils sont extrêmement sensibles
+au fait que
+ce soit une boîte canadienne qui le fasse
+c'est bien simple on a dû faire la version
+webagoo.ca
+tout simplement parce que
+webagoo.fr ça marchait pas
+bah oui tu m'étonnes
+ils sont susceptibles
+il n'y a pas que nous qui sommes chauvin alors
+vous avez vos propres serveurs
+oui
+on a 10 serveurs dédiés
+mais qui sont dans plusieurs
+fermes
+la population canadienne
+c'est combien à peu près ?
+avec les caribous ou sans les caribous ?
+ils sont 54
+il faut oser
+je sais plus c'est 3 millions de personnes
+je crois
+3 millions ?
+je suis en train de raconter
+des conneries
+wikipedia
+tu t'es trompé 3 millions
+c'est le nombre de tes clients
+non il y a
+1 600 000 entreprises
+moi ce qui m'intéresse c'est le nombre d'entreprises
+1 million
+utilise
+alpha bilule
+tu tapes canada population
+la première réponse de wolfram
+je ne sais pas
+ça n'arrête pas de changer
+c'est l'indien
+33 millions
+presque 34
+tiens
+il en reste
+1400
+on va envoyer leur ton père
+tu les as fait 34 millions
+ils arrêtent pas de se reproduire
+je ne peux pas répondre
+des vrais lapins
+actinium
+vous ne faites pas que web à goût
+vous avez d'autres activités
+actinium c'est une agence
+une agence de pub
+on a une division impression
+on a une division développement web
+tout ce qui est graphisme web design
+on fait ça à 10
+web à goût
+c'est le fruit de 10 ans d'expérience
+au service des petites entreprises
+c'est vraiment ça
+l'objectif c'était de trouver des moyens
+d'apporter ces solutions
+aux très petites boîtes
+donc imaginez l'électricien
+le boulanger
+il y a 10 ans quand j'ai lancé la boîte
+le parti communiste
+l'objectif
+c'était vraiment ça
+toutes les autres agences
+se battaient pour 4%
+je me suis dit bien hier
+il reste 96%
+des entreprises en France à conquérir
+attaquons nous à ce petit marché
+tes clients c'est quoi ?
+c'est principalement nelsas ?
+aujourd'hui on a 140 distributeurs
+qui sont des graphistes indépendants
+des webmasters
+on a aussi des gens qui sont du domaine
+du service aux entreprises
+qui sont devenus distributeurs
+parce que leurs clients leur demandent
+des outils simples
+pour être présents sur internet
+et du coup
+on a 140 représentants
+qui sont tous indépendants
+qui payent juste une licence d'exploitation
+du logiciel
+et vendent leurs prestations
+et se concentrent vraiment sur leur métier
+donc sur la création plutôt de CSS
+et mine derrière ça va
+de la vitrine en flash
+jusqu'au site de l'e-commerce complet
+en fait on a une vingtaine
+de modules dedans
+on a le forum, on a le module e-commerce
+qui est extrêmement poussé
+d'ailleurs pour ceux qui se sont amusés
+avec OS commerce
+c'est vraiment
+les 10 ans
+de notre expérience
+qui ont été mis dans ce outil
+aujourd'hui c'est la version 4
+ça tourne sur du PHP ?
+il y a des logiciels livres donc
+mine de rien
+je le savais
+il ne pouvait pas être foncièrement mauvais
+la terme
+c'est de l'ouvrir
+de créer un SDK
+pour permettre à des développeurs
+externes, on a déjà deux
+SS2I qui développent des modules
+spécifiques pour WebAgu
+donc on est en train de tester
+pour voir ce que ça peut donner
+et confier éventuellement
+le développement de modules externes
+sous la forme d'un
+AppStore
+tout simplement pour créer des outils
+auxquels on va reverser
+un pourcentage des ventes à chaque développeur
+donc c'est un petit peu vraiment
+le modèle iPhone
+d'ailleurs l'interface du CMS
+c'est iTunes
+est extrêmement ressemblante
+à l'iPhone
+d'ailleurs on a testé
+on a regardé un petit peu
+d'ailleurs ça ne marche qu'avec le doigt
+sur l'iPad en tout cas
+ce sera certainement le seul CMS
+dès la sortie de l'iPad
+qui sera super compatible avec l'iPad
+parce qu'en fait l'idée c'était ça
+c'est de ne pas faire un CMS
+avec des modules
+partout, des fichiers partout
+des paramètres partout
+c'est vraiment un truc ultra simple
+et pourtant pas simpliste
+parce qu'on peut aller vraiment très très loin
+j'ai pas essayé, j'ai vu les screenshots
+je t'ai envoyé sur le site mais j'ai pas eu l'occasion
+de les essayer
+il y a une version de démo ?
+c'est pas testé, c'est gratuit
+totalement gratuit la version complète
+j'invite tout le monde à s'inscrire
+sur webagoo.fr
+version testez-le
+on va mettre en place
+d'ici quelques jours
+la vidéo explicative
+j'ai d'ailleurs
+si vous allez sur le site webagoo.ca
+normalement le deuxième slide
+vous avez la vidéo
+qui explique vraiment le principe
+qui a été faite par un
+super motion designer
+je ne peux jamais aller sur un site webagoo.ca
+si j'y vais
+ça sera ma première fois
+je ne veux pas savoir ce que tu fais dessus
+allez carré vous c'est sympa
+il faut quand même donner un élément
+de fait extrêmement important
+en ce qui te concerne
+parce que souvenez-vous lors d'un des précédents podcasts
+très très lointain podcast
+nous avions eu un problème de clavier
+qui est tombé
+noyé sous la bière
+et là Michael nous a sauvé
+rappelons-le
+parce que c'est lui qui nous a envoyé
+le clavier mac de secours
+qui est toujours utilisé
+je suis venu exprès pour vérifier
+et pour le récupérer
+donc plus podcast
+il nous laisse
+son mac
+il a traversé la tournée pour reprendre son clavier
+alors par contre tu nous a envoyé
+un québécois qui ne me parle qu'à un ribou
+je comprends pas tout
+des fois quand je t'appelle des trucs
+tabernak
+oui et lors de ton père
+tu voulais en venir à quelque chose
+je souhaitais absolument rappeler
+ce fait essentiel
+il t'a remercié
+et on le remerciera la semaine prochaine pour le macbook
+et le chèque
+là il rigole et tout
+tu ne sortiras pas d'ici
+tant que tu n'auras pas signé le chèque
+un chèque c'est facile à signer
+c'est difficile à encaisser
+le capitaine web n'est pas d'accord
+on libère pas nos invités
+tant qu'on n'a pas encaissé le chèque
+la dernière question
+c'est où vas-tu ?
+écoute je vais y aller
+il vient y répondre
+l'avenir c'est quoi ?
+c'est le Québec
+le Québec c'était
+la première étape qui nous a permis
+d'avoir bien adapté l'outil
+en avril il y a Futuralia 2010
+qui cette année est en France
+c'est à Paris ?
+à Poitiers
+au Futuroscope
+et donc cette année on est prêt
+pour présenter ça aux différents pays
+et ton interface elle est en français
+c'est pour ça que tu es au Québec ?
+non en fait elle est maintenant en français
+et en anglais
+donc tu commences à vendre un peu en international ?
+l'objectif c'est d'avoir
+chaque fois dans le pays
+une succursale qui va permettre
+de mettre en place tout ce qu'il faut
+au niveau de l'exploitation
+l'objectif c'est pas de s'en mettre
+les pédales en France
+donc on attaque
+les Etats-Unis normalement en 2011
+ça sale des bureaux là-bas ?
+est-ce que vous vendez des sites
+sans passer par des commerciaux ?
+est-ce que les gens viennent naturellement
+alors en fait WebAgo 3
+a été un formidable échec
+à ce niveau là
+on pensait que l'outil était super simple
+d'utilisation pour l'utilisateur final
+et on s'est rendu compte
+que la population
+d'utilisateurs qu'on visait
+donc c'est pas du geek
+c'est vraiment l'artisan
+la petite boîte
+et la petite boîte a besoin d'un interlocuteur
+de proximité
+c'est pour ça qu'on a monté le réseau de distributeur
+on est prêt maintenant
+le jour où des utilisateurs vont vouloir
+vraiment monter leur site
+de A à Z avec WebAgo
+et passer à la caisse
+il n'y a aucun souci, ils peuvent déjà le faire
+si vous voulez passer à la caisse, c'est un message profond
+ils sont prêts à le faire, il faut le savoir
+ok, c'est intéressant tout ça
+tu nous donneras des nouvelles ?
+bah écoute avec plaisir
+mais déjà on va encaisser le chèque
+ouais bah encaisse
+t'as un petit message ?
+www.webagoo.fr
+www.webagoo.ca
+pour ceux qui veulent
+une version anglaise
+c'est sur www.webagoo.ca
+et vous n'avez pas de version .com ?
+si, tout tourne vers
+.org, .net, .com, .cl
+t'es cachin bientôt ?
+non
+et dans tes modules
+tu parles d'un module OS commerce tout ça
+est-ce que tu as un module webcam live ou pas ?
+non, j'ai pas de webcam live
+par contre
+il y a un module twitter
+qui permet instantanément de publier
+le pain est prêt
+exactement
+pour les petites entreprises
+il n'y a pas trop d'informations
+l'entrepreneuse, il a éventuellement
+des contacts
+les contacts est un petit mot
+pourquoi pas
+et puis sur twitter
+twitter, Michael Bechler
+et webagoo
+et puis ton community manager
+Max Lifer
+vous avez toute l'info sur le site
+dactinium qui est ac89.com
+et le nom du banquier c'est ?
+c'est...
+caïman
+caïman la même chose
+caïman la même chose
+c'est sur les îles caïman, c'est sympa
+petit message à tous les gens du fisc qui nous écoutent
+je vous rassure pour l'instant
+la boite fait très peu de bénéfices
+puisqu'on investit énormément
+dans le développement
+mais c'est comme ça que ca marche
+en fait
+l'outil a été entièrement
+autofinancé, c'est à peu près
+400 000 euros d'investissement
+autofinancé sur 10 ans à peu près
+pas mal
+les amis des banquiers
+ah ça c'est un message que j'aime
+carrément
+je vois que tu aimes autant que les banquiers, ca fait plaisir
+allez on fait une seconde pause dodo
+avec notre ami anti-stress
+ouh
+mais c'est le jingle de anti-stress
+il a même son propre jingle
+et il a son propre jingle anti-stress
+anti-stress
+anti-stress
+anti-stress
+anti-stress
+anti-stress
+ouh
+en fait c'était ça la rubrique
+la rubrique c'était le jingle
+c'était la petite oasis de liberté
+la seule petite oasis autorisée
+la musique libre je sens qu'un de ces quatre on va se prendre la CSM
+en fait c'est pas libre du tout on va se retrouver
+avec une arnaque qui me part
+il m'a promis que c'était libre
+c'est un extrait, un extrait peut être diffusé
+t'es sûr ?
+je pense qu'elle est plus longue que ça
+je confirme
+je confirme
+je fais la version longue ou la version courte
+version longue
+version longue
+j'ai un rendez-vous à 9h
+on veut la version oreiller
+on veut la version oreiller
+vas-y anti-stress
+j'ai une série de sujets là
+premier sujet
+par anti-stress
+alors le premier sujet
+je vais vous
+je vais parler
+de logiciel libre
+je vais vous
+introduire dans les coulisses
+du développement du noyau Linux
+laisse mon tux tranquille il t'a rien fait
+tu vas voir ce que je vais faire à tes poney
+moi tout à l'heure dans la cour
+la bouche m'est un peu élargie
+un jour je vous raconterai l'histoire de cette
+penis
+c'est un sauna cette cave
+c'est ce que contact a dit
+avant de s'évanouir il y a quelques semaines
+ça suffit
+il annonce l'heure
+deux heures moins le quart
+au quatrième ro il sera exactement
+il est ro moins le quart
+et c'est l'heure de ma rubrique
+à ro moins le quart
+laissez-le parler
+alors vous êtes tous curieux de savoir
+comment ça se passe dans les coulisses du développement
+du noyau Linux je le sais
+qu'est-ce que c'est ?
+le noyau Linux il est développé
+sur une base régulière à peu près
+tous les trois mois il y a une nouvelle version qui sort
+évidemment sous la houlette
+de Ninus Torlvard
+vous connaissez on en a déjà parlé
+il continue à contribuer aux prochaines lignes
+lui c'est intéressant parce que
+il a codé au début
+le noyau Linux
+c'est un petit peu le Peter Parker
+du logiciel
+au début et puis
+quand il s'est aperçu qu'il avait des pouvoirs
+en l'occurrence
+des super pouvoirs
+celui de faire planter 30 millions de machines
+en une seule ligne de code
+celui de nous libérer
+il s'est vraiment révélé
+dans la gestion d'un projet collectif
+de très grande ampleur puisque le noyau Linux
+est géré par des milliers de contributeurs à travers le monde
+et on est passé du petit garçon timide
+à quelqu'un qui arrête pas de tacler tout le monde
+puisque dans la communauté
+du logiciel c'est assez marrant
+vous avez des contributeurs qui aiment
+se faire tacler, ils viennent là, ils se font tacler
+ils travaillent gratuitement ou pas
+et ils en redemandent
+on appelle ça
+en fait il y a beaucoup de projets comme ça
+de grande ampleur qui ont besoin d'un
+dictateur bénévole, il prend des décisions
+de manière autoritaire
+mais pour le bien du projet
+ça me parle bien d'éloigner des notions
+de liberté véhiculées par l'open source
+mais c'est un dictateur que l'on aime
+effectivement
+arrête d'embrasser ma peluche
+il n'embrasse pas là, il est en train de m'enculer
+je vais vous parler un petit peu
+de comment ça se passe le développement du noyau Linux
+à travers 3 petites anecdotes de la dernière version
+puisque ça concerne
+tenez vous bien, Microsoft
+redat ça sans doute
+puisque c'est une entreprise qui fait son business
+sur des distributions GNU-Linux
+et puis Google pour finir
+puisque je sais qu'on ne fait pas plus de 10 minutes ici
+sans parler de Google
+sinon c'est un podcast loupé
+c'était le titre du podcast
+et tous les trucs qui finissent en GOO
+qui ont du goût
+GOOGLE
+GOOGLE
+GLOO
+GNU
+oh mais ferme ta Google
+j'ai mal à mon GNU
+GOOGLE
+c'est tout
+on les a toutes faites vous vous en voyez d'autres
+c'est un caribou
+alors
+Microsoft a contribué
+ça va peut-être vous étonner à la dernière version
+du noyau Linux
+qui vient de sortir au mois de février
+alors ils sont très contents
+ils arrêtent pas de crier sur tous les toits
+il faut savoir que la semaine dernière
+il y avait le salon solution Linux
+mais c'est ignoble
+il fallait pas l'emmener
+libre logiciel libre
+alors ils étaient au salon
+solution Linux Microsoft la dernière fois
+pour donner une conférence notamment pour vendre
+un petit peu le fait qu'aujourd'hui ce sont
+des grands amis de Linux
+et qui contribuent au code
+sur le site de Microsoft vous pouvez trouver
+notamment un petit panneau son
+qui vous explique que Microsoft est un ami
+de Linux puisqu'il a rendu disponible
+20 000 lignes de code
+de pilote de périphérique
+c'est un pilote Hyper-V
+c'est ce qui permet de faire fonctionner
+c'est ce qui permet
+de faire fonctionner Linux
+en tant qu'invité sur un système Windows
+attends vas-y
+j'ai un peu lâché l'affaire
+il y a 100 minutes
+on retenait simplement
+que Microsoft
+a déversé 20 000 lignes de code
+pour un pilote dans le dernier noyau Linux
+donc il en est très content
+un pilote de quoi ?
+si vous rentre dans le détail vous décrochez
+de lignes ?
+ils ont déversé des lignes
+avec leur pilote
+c'est ce qui leur permet de faire tourner Linux en tant qu'invité
+sur un système Windows
+ils se sont dit putain fais chier tous ces mecs
+qui ont Linux, qui veulent Linux
+mais qui sont obligés de désinstaller Windows
+donc on va balancer un driver pour qu'ils puissent utiliser
+Linux sous Windows
+il y a des entreprises qui ont des solutions Linux et Windows mélangés
+c'est la technique du coucou ça
+c'est vrai
+et donc
+et donc Microsoft c'est
+du gougou
+ça va être dur
+il faut pas se décourager
+prends une jante sur moi
+prends un verre
+prends un Amuse Google et puis recommence
+donc il faut savoir que
+oh non
+le tux attaque nos roms
+c'est des enfants qui regardent
+oh je suis pas sûr
+il a pas eu son...
+la rubrique suivante
+ah bon ?
+c'est une blague
+on écoute Antistress
+c'est intéressant
+donc au gros Microsoft a développé
+Microsoft s'est attaqué à mes nuques
+c'est très visuel
+je suis pas sûr que les gens qui font le podcast
+on va essayer de prendre une photo
+de pas moins pendu par le truc Marc Dorsel
+on le pose et on arrête
+on écoute Antistress
+c'était juste pour donner une illustration
+mais vous n'avez rien écouté
+du développement du Noyau Linux
+donc toutes les deux versions
+il menace Microsoft de virer
+leur code du noyau puisque Microsoft une fois qu'il a
+déversé son code ne l'entretient plus
+et donc toutes les deux versions ils le préviennent
+attention dans deux versions on va vous y clé
+et donc d'un coup ils se souviennent qu'ils ont ça
+c'est de l'open source en théorie
+n'importe qui peut le modifier non ?
+ça peut être modifié mais souvent celui qui a déversé
+à la responsabilité de suivre un minimum le code
+surtout quand ça intéresse que lui
+regardez on a racheté une icône là
+c'est bon ça a reparti pour deux versions
+juste pour la petite histoire
+ces 20 000 lignes de code on peut s'étonner
+que Microsoft les ai déversés généreusement
+dans le Noyau Linux
+c'est parce qu'ils avaient volé du code sous licence GPL
+donc ils étaient obligés de le reverser
+mais évidemment plutôt que de l'avouer ils font passer ça
+comme une œuvre de biensouffrance
+est-ce que c'était bien codé au moins
+ou est-ce que c'était vraiment un truc de porc ?
+je ne sais pas il y a que ceux qui utilisent Windows
+qui peuvent le savoir
+normalement tu dois pouvoir jeter un coup d'œil au code
+oui absolument
+en tout cas ça tourne le GPL
+ah je ne l'ai pas fait
+ça ne m'a pas tellement intéressé
+c'est un peu comme ma rubrique pour vous
+bon
+sur Twitter on nous dit que
+l'apéro est en train de faire
+de l'alcool
+puisqu'on fait boire des animaux
+bon je vais vous passer à la version Red Hat
+parce que tout le monde s'en fout
+et je vais vous parler un petit peu de Google
+Google c'est aussi fait boucler
+en dehors du... non c'est la suite
+ah d'accord
+c'est parce que tu passes du cocalan
+c'est Google dans le Noyau
+la contribution de Google dans le Noyau Linux
+qui a été rejetée
+parce que les mecs ils ont
+développé Android qui est basé
+sous Linux
+et ils ont attendu d'avoir pondu la version A0
+après l'avoir développé pendant 5 ans de leur côté
+pour le déverser dans le Noyau Linux
+et les mecs ils leur ont dit non mais vous êtes bien gentil mais c'est pas comme ça que ça marche
+normalement on publie son code au fur et à mesure
+et on essaye de s'intégrer
+à l'existent et là votre code c'est de la merde
+parce que vous avez codé n'importe comment
+au lieu d'utiliser et d'adapter le matériel existant
+ce qui est le but c'est de faire évoluer
+le Noyau Linux ce que tout le monde fait pour le rendre
+disponible sur le maximum
+de processus etc
+eux ils ont développé une alternative
+à côté qui dupliquait ce qui existait déjà
+donc ils leur ont fait remarquer gentiment
+et les mecs de Google ont complètement mal pris
+parce que visiblement ils ont un ton assez
+arrogant et pour eux ce qu'ils codent c'est magnifique
+et ça doit forcément être intégré
+dans le Noyau Linux
+le Noyau Linux est commun à différentes distributions
+le Noyau Linux sur lequel
+qui est utilisé dans Android
+sur les téléphones
+enfin les smartphones etc
+c'est un seul noyau pour toutes les distributions je connais très mal
+il y a un noyau et puis il y a plusieurs modules
+dedans il est modulaire
+il est compilé avec différentes options selon les solutions
+on peut le compiler de manière plus ou moins légère
+et Google évidemment
+était intéressé pour intégrer ces développements
+dans le Noyau puisqu'après ils étaient pris en charge par la communauté
+et donc ce qui est intéressant là dedans
+c'est que vraiment on s'est rendu compte que Google était complètement
+arrogant et qu'il refusait
+complètement de recevoir la moindre critique
+au niveau du code
+alors que c'est ce qui se passe au niveau
+de l'ensemble des développeurs
+donc ça a été un peu une surprise pour la communauté
+de voir que Google ne jouait pas tellement le jeu
+c'est une grosse société en même temps
+est-ce qu'ils le faisaient purement
+par intérêt ou par
+parce qu'ils avaient
+ils font pas mal de proches open source à Google non ?
+oui ils ont pas mal à eux
+c'est le plus gros contributeur
+d'autres open source à l'heure actuelle je crois
+ben je sais pas, bon Android déjà est open source
+après ils ont tout un truc
+ils ont tout un truc
+ils ont énormément de projets
+ils développent des langages open source
+oui ils ont un propre langage open source
+qu'ils ont lancé il y a quelques temps non ?
+je sais plus combien
+non rien j'allais dire une colline
+oui comme d'habitude mais tu peux quand même
+mais bref, ouais donc en gros Google
+s'est fait jeter quoi
+ça fait quand même 5 minutes leur grand-père qui t'a pas parlé
+oui
+donc par exemple je vais vous citer
+ce que disait un des développeurs du noyau
+je suis content que les développeurs de Google
+aient participé à cette discussion
+ils m'ont appris quelque chose que je ne savais pas
+que Google et ses développeurs croient qu'ils ont raison
+quoi que pensent les autres
+c'est peut-être un problème de culture en entreprise
+ils croient vraiment qu'ils ont raison et que tous les autres ont tort
+je pense que n'importe qui serait d'accord pour dire que parfois
+c'est mieux d'être en dehors de
+la partie technique
+mais ils concluent en disant pour moi c'est une révélation
+les développeurs de Google sont arrogants au sujet de leur code
+donc ça faillite pas mal
+ouais mais est-ce que c'est pas pareil
+en interne si tu veux même entre contributeurs
+qui sont hors société
+ah si si si il y a vraiment un ton
+mais les développeurs du noyau Linux
+ont l'habitude de ce ton
+les mecs ont, enfin Linus
+régulièrement à la sortie de chaque nouvelle
+version de développement du noyau
+il dit clairement développeurs ce que vous avez fait c'est de la merde
+vous le remballez, vous le mettez sous le bras
+et vous revenez la prochaine fois avec un truc correct
+ça c'est une vraie communauté
+ça fait plaisir de participer
+on file des trucs de ratos en relance
+c'est de la merde
+c'est ce qui permet de progresser puisqu'effectivement il y a un échange franc
+sauf que Google quand on leur dit ça
+ils disent attendez
+nous on a codé la huitième merveille du monde
+on comprend pas que vous en vouliez pas
+peut-être qu'ils avaient codé la huitième merveille du monde
+on ne le saura jamais
+car Linus les a envoyé se faire foutre
+j'avais visité les locaux
+de Google à Duplan
+ils sont énormes
+à Duplan je sais pas
+en France je sais qu'ils ont un pauvre appartement qui fait trois pièces
+ouais ça fait un peu bi
+à Duplan ça doit être énorme
+mais par contre à Duplan c'est gigantesque
+ça y est toutes les heures
+on snack, on boisson
+est-ce que tu as vu des Legos ?
+je me rappelle pas
+normalement ils ont tous des Legos
+leurs pièces
+t'as l'impression que c'est
+l'entreprise super
+tout est organisé pour pas qu'ils aient envie de rentrer chez eux
+ce qui est de marrant
+c'est la hiérarchie
+t'as toujours niveau 1, niveau 2, niveau 3
+attends je vais te passer mon niveau 4
+c'est hyper structuré
+et puis à partir du niveau 4
+ils sont superbes pas sympas
+niveau 6
+en fait le niveau 7
+c'est Sergeï et
+donc ils disent toujours
+moi je suis niveau 3 donc j'ai juste
+4 niveaux jusqu'au patron
+on pourra aller jusqu'au patron
+tu n'as pas pu atteindre le niveau 7
+non
+anti stress
+alors mes autres sujets puisque là vous m'avez saboté
+si peu
+c'est le pingouin
+je vais vous parler rapidement
+de la Chine
+de la façon dont ils utilisent les technologies
+alors paradoxalement
+il y a un point commun entre les logiciels libres
+et la Chine
+qui n'est pas réputé pourtant pour être un pays
+très libre mais dans les deux cas
+il y a une volonté de contrôler
+ces outils
+et une volonté d'indépendance
+par rapport à l'extérieur donc typiquement
+les chinois ils n'aiment pas trop dépendre des technologies
+de l'ouest
+quand ton père avait parlé de faire un sujet là dessus
+c'est intéressant on va enfin en parler
+il y a quelques portes ouvertes
+dans ton père pour approfondir la prochaine fois
+je n'ai pas du tout prévu d'être exhaustif
+donc concrètement
+ils se sont attaqué un petit peu
+à toutes les technologies qui pouvaient être intéressantes
+donc évidemment il y a un internet chinois aujourd'hui
+ils ont mis en place
+en 2006 je crois leur propre système
+de DNS
+ils voulaient plus être dépendant de la table
+officiellement pour mieux gérer les idéogrammes
+mais en fait c'était pour prendre leur indépendance
+c'est bien pratique quand tu veux virer des noms de domaines
+donc là il y a vraiment encore une volonté
+de contrôle et en même temps
+d'être indépendant des technologies de l'ouest
+ils ont évidemment leur propre moteur de recherche
+chinois Beidou
+et en mars 2010 c'était le site
+le plus visité de chine et le 8ème
+le plus visité sur internet
+je crois que c'est 60 à 70% des recherches
+en chine si je me souviens mieux
+donc c'est quand même pas mal le 8ème au monde
+donc ça montre un peu la force
+de frappe des chinois c'est vrai que quand on est aussi
+nombreux c'est assez facile de dire merde aux autres
+on peut proposer des produits uniquement pour son marché interne
+et puis il y a des
+économisations un effet de levier
+il y a combien je crois que c'est énorme le nombre d'utilisateurs
+en chine enfin d'internautes chinois
+pas tant que ça justement
+enfin en pourcentage de la population
+c'est vraiment un marché qui va exploser
+je sais pas si tu vas en parler anti stress
+mais les chinois vont encore plus loin puisqu'ils
+développent leur propre
+processeur
+et ils développent également leur propre OS
+et ben c'est mes deux sujets qui viennent
+magnifique
+et par contre est-ce que t'as déjà vu un clavier
+chinois ?
+mais j'avais jamais vu de clavier Apple
+avant aujourd'hui non plus
+et ben c'est le même que le Note
+sauf qu'ils font des combinaisons de touches
+pour faire des idéogrammes
+et comment se fait la POM en idéogramme ?
+ben ils ont des claviers Apple
+donc ils ont la POM
+en tout cas je leur envoie
+régulièrement des claviers Apple aussi
+quoi c'est pas qu'à nous
+par contre je te dis pas les frais de port
+alors dans leur
+vénéité d'indépendance technologique
+ils développent un processeur national
+pour ne plus être obligé d'avoir
+les processeurs Intel et compagnie
+donc ils se méfient un petit peu évidemment
+de toutes ces technologies qui pourraient
+infiltrer leur propre
+architecture
+et donc ils ont développé le Longson
+qui se traduit par la puce dragon
+et c'est une technologie
+basée sur la
+technologie MIPS en fait c'est des instructions RISC
+en fait il faut savoir que c'est pas du tout
+compatible avec les instructions x86
+de tous les processeurs Intel actuel
+et donc on peut pas faire fonctionner un Windows
+par exemple aujourd'hui dessus
+donc c'est assez intéressant c'est à dire que tout le marché chinois qui va
+s'ouvrir, de toute façon je pense pas
+que les chinois avaient l'intention d'utiliser
+Windows en tout cas pas de payer
+et donc tout ce marché va être
+utilisé à partir de
+logiciels Linux,
+BSD etc. qui sont des logiciels qui
+font en compte ce type de
+processeurs. C'est aussi une sorte de
+protectionnisme qui est assez intéressant dans la façon de faire
+Absolument
+Je trouve pas que ce soit un...
+C'est pas une
+réponse par rapport à l'étranger, c'est une volonté
+d'indépendance
+Après on peut le voir sous l'angle du protectionnisme
+mais c'est d'abord une volonté d'indépendance par rapport à l'Occident
+Alors c'est une double indépendance
+pour eux c'est politique et économique
+parce que payer des milliards
+de licences de processeurs
+par Intel ça les amuse pas et effectivement
+ils ont un doute aussi de ce que pourrait mettre Intel
+dans ces processeurs par exemple
+Donc c'est un processeur
+qui est assez récent
+qui en est à sa troisième version qui est déjà
+multicore avec toute une série d'instructions
+d'accélération. Donc c'est vraiment un processeur
+qui évolue vite et beaucoup
+d'analyses considèrent qu'on aurait tort
+de considérer que c'est un processeur un peu
+exotique etc. parce que vraiment
+avec la force de frappe
+des chinois et le fait que ça va être répandu
+dans tous les foyers chinois
+quand ils s'équiperont tous
+il y aura vraiment tout un marché
+qui va s'ouvrir pour une architecture
+qui n'est pas l'architecture Intel
+sur laquelle la plupart des logiciels
+de l'Ouest sont développés
+Est-ce qu'il est compatible x86 ?
+Non il n'est pas compatible x86
+il faut faire tourner des machines virtuelles
+c'est assez peu performant si vous voulez
+faire tourner les logiciels habituels
+Aujourd'hui ces processeurs là ils sont utilisés où ?
+Alors ils sont utilisés en Chine
+J'imagine mais dans quel type de situation ?
+Alors ils sont utilisés par Richard Stallman
+Une blague ?
+Je reviens toujours à Richard Stallman, non pas du tout
+parce que Limode qui est une société
+chinoise a développé
+son propre ordinateur évidemment à partir
+de ces processeurs
+et c'est aujourd'hui avec le projet WellPC
+le seul ordinateur qui est libre de AZ
+y compris le BIOS etc.
+Et donc Stallman évidemment
+Ça c'est marrant, qui c'est qui les développe en Chine ces processeurs ?
+Bah c'est l'industrie chinoise
+inspirée, ils ont d'ailleurs plus ou moins
+des menaces de procès inspirées
+de la technologie MIPS et aujourd'hui
+ils ont arrêté cette compatibilité
+et c'est des processeurs risques
+Donc c'est des sociétés privées ?
+Alors non en fait c'est toujours le pouvoir chinois
+qui est derrière, c'est des universités
+chinoises mêlées au pouvoir
+militaire, au pouvoir politique etc.
+Parce que je crois que je sais pas si tu te rappelles
+lors de ton père, on avait lu un article il y a très longtemps
+comme quoi justement les militaires
+développaient leur propre OS
+C'est vrai qu'en Chine c'était une tannée parce que les mecs
+de l'autre côté, autant ils avaient l'habitude
+de travailler sur des systèmes Linux ou VR
+que tout le monde l'utilisait et tout, autant quoi il...
+Ça c'est un mythe
+Je sais pas justement je demande
+Je vais vous en parler
+Je demande, justement tu vas m'en parler
+Ne parle plus de moi
+Donc voilà il y a ce processeur et d'ailleurs
+sur Wired, l'analyse
+avait une vision assez intéressante, il disait il faut pas se moquer
+de ces processeurs qui aujourd'hui sont peut-être pas aussi
+performants que ce qu'on fait nous actuellement
+avec les processeurs, mais on disait pareil
+un petit peu avec les Toyota
+à l'époque, on regardait ça
+d'un œil un peu moqueur en disant
+Ils ont quand même du mal à freiner aujourd'hui
+Et donc il faut
+surtout pas prendre ça à la légère, il y a vraiment une volonté
+chinoise de développer
+ce processeur qui a vocation
+à être versatile, qui
+prend aussi bien les super calculateurs
+que les robots industriels, les
+ordinateurs
+à domicile
+Et je vais vous parler
+du système d'exploitation chinois
+Donc vous avez certainement entendu parler de
+Kaillin, au congrès
+américain en avril dernier
+il y a un expert qui a été interrogé
+justement sur les questions d'espionnage
+et les risques
+pour les Etats-Unis, notamment
+vis-à-vis de la Chine
+il a révélé qu'il y avait un système
+d'exploitation chinois qui était développé
+de A à Z, Kaillin, et qui allait bien
+embêter les américains qui ont développé
+tous leurs outils d'intelligence
+et d'espionnage
+contre des systèmes Linux, Unix,
+Windows et Mac
+S'ils arrivent avec un système complètement nouveau
+ils sont bien embêtés
+Sauf qu'il y a de fortes chances que
+l'expert qui avait expliqué ça au congrès
+je pense, c'est mon analyse
+le gars il voulait un budget
+il voulait du pouvoir
+et donc il a fait peur
+aux
+députés américains
+pour récupérer un budget
+car en réalité, dès le départ
+c'était un OS basé sur FreeBSD
+qui a un dérivé d'Unix
+et aujourd'hui ils sont passés sur un noyau Linux
+simplement ils l'ont un petit peu sécurisé
+donc il y a des techniques
+de chiffrement
+il y a des techniques de contrôle d'accès etc
+ils ont un peu blindé le Linux
+comme la France fait d'ailleurs sur
+ces opérations militaires
+ils ont un Linux un peu blindé
+en sous biannium, rappelons-le
+qui avait été touché par le bug
+et donc Keilin est bien basé sur
+un système Linux mais ils ont encore une fois
+la volonté de maîtriser l'outil
+puisque là encore c'est l'open source
+donc ils n'ont pas accès aux codes
+ils ont vraiment la volonté de maîtriser l'outil
+et de s'affranchir complètement des technologies de l'OS
+même si malgré tout, Linux aujourd'hui
+l'essentiel des contributeurs sont
+des contributeurs de l'OS
+mais est-ce que les chinois
+en utilisant Linux reversent le code
+il faut ou pas ?
+même le code de sécurité ?
+ça le code de sécurité peut-être pas forcément
+mais derrière tous les portages
+qu'ils font sur leur système
+ils font en logiciel libre
+ils rendent le code mais en chinois
+ça c'est le code
+c'est une façon de se protéger
+ce qui est intéressant c'est que le Keilin
+fonctionne sur un processeur sécurisé
+alors je ne sais pas quel est le lien
+avec la puce dragon dont on parlait tout à l'heure
+mais les analyses qui effectivement
+un système sécurisé avec un processeur sécurisé
+ce que ne font pas les processeurs Intel
+courants, ça va rendre
+très difficile de pouvoir
+l'espionnage puisque chacun des pays
+évidemment s'espionne, la Russie, la Chine
+les Américains même si chacun lit
+donc ça va rendre très difficile l'espionnage
+donc moi ça me fait penser à deux choses
+d'abord pour l'allopsy ça pourrait être sympa
+d'avoir accès à ce système d'exploitation
+et à ce processeur sécurisé parce que après
+oh quel méchant anarchiste
+pour qu'il puisse poser des mouchards
+pour qu'il puisse poser des mouchards sur les ordinateurs
+de tout le monde ça va être sympa
+il faudra quand même que tu apprennes le chinois avant
+et ce qui est intéressant c'est que
+les chinois ils ont cette double approche
+mais ils ont bien compris les enjeux
+ils se blindent et ils développent l'espionnage
+on a vu avec l'affaire Google
+où ils avaient récupéré des comptes GML
+de dissidents
+et de rebelles
+je pense que c'était avec du phishing ou une attaque brute
+ils avaient quand même réussi à péter
+les soldats par Google parce qu'il y avait vraiment une faille
+c'était pas seulement les comptes GML
+ils avaient réussi apparemment à atteindre
+les services Google
+il y a quelques mois il disait
+qu'il y avait à peu près 128 actes
+de cyber agressions par minute qui viennent
+d'adresse IP chinoise
+alors ce qui est intéressant
+et là ça me fait bien sourire
+c'est que heureusement le système bancaire américain
+n'est pas touché
+parce que les chinois ont beaucoup trop d'intérêt là dedans
+donc ils n'attaquent jamais
+le système financier américain
+et comme ils sont évidemment des gros créanciers
+des Etats-Unis ils auraient beaucoup à perdre
+si le système financier n'est pas à terre
+en résumé touchent pas au Grisby
+donc ils espionnent à tout va
+mais ils n'ont absolument pas la volonté de faire tomber le système financier américain
+à mon avis au cas où il doit y avoir des petits codes de côté
+ça doit être méchant
+je me trompe peut-être
+donc voilà c'était juste pour faire une petite
+parenthèse sur la Chine
+et je trouvais intéressant qu'effectivement ils ont parfaitement compris
+les enjeux
+au niveau de l'internet chinois ils censurent à l'intérieur
+et ils utilisent toutes ces technologies
+pour se protéger et en même temps pour
+pouvoir espionner
+donc ils sont parfaitement fait des enjeux
+et ça c'est l'esprit open source, rappelons-le
+les dictateurs bienveillants
+vive la Chine, voilà
+alors je vais faire une petite rubrique juridique
+je vois quelqu'un en train de se pondre sur notre chatroom
+ah non Dolly Pran
+on nous repose du monde
+on nous reprise tout le monde
+et c'est pas très loin du sujet précédent
+c'est la sécurité des logiciels
+Dolly Pran 500 c'est pas assez fort
+alors je vais vous parler
+comme on va pas parler
+du Canada toute la soirée
+je vais vous parler des Pays-Bas
+et qu'est-ce qu'il y a au Pays-Bas
+alors au Pays-Bas il y a un système intéressant
+il faut savoir qu'il y a une carte
+donc là je vais vous parler
+des divulgations de failles de sécurité
+qui sont faites par les gens justement
+qui ont incité les développeurs
+à boucher leur trou
+et là je...
+je ne fais aucune allusion au Pays-Bas
+donc il y a un système de carte
+type Navigo qui est en vigueur au Pays-Bas
+qui a été développé au Pays-Bas
+qui est utilisé dans les transports publics l'odonien
+comme système de paiement à Hong Kong
+et au Pays-Bas
+donc c'est quand même pas neutre
+et il y a un gars qui s'est aperçu que
+le truc était complètement
+ouvert
+et qu'on pouvait complètement...
+il y a des failles de sécurité
+enfin bref
+on pouvait complètement
+on était embêtés
+et donc le fabricant de la carte lui il était pas content
+qu'on lui mette le nez dans le caca
+et donc il a cherché à interdire la publication
+du chercheur qui révélait les failles de sécurité
+et la justice néerlandaise a tranché
+on l'applaudit, les dommages potentiels
+encourus par NXP, donc la société qui commerçait
+les sépuses, ne sont pas le résultat
+de la publication de l'article mais de la production et de la vente
+de la puce défectueuse
+ce qui semble logique, mais en même temps en France
+je crois qu'il y a eu un changement contraire
+et c'était ma façon d'introduire
+sur les cartes bleues le système français
+donc c'est un arrêt très récent du 27 octobre 2009
+de la cour de cassation
+qui applique
+là en l'occurrence un article de loi
+franco-français
+un article du code pénal qui
+punit le fait sans motif légitime
+de mettre à disposition
+un programme ou des techniques
+spécialement pour commettre des atteintes
+à un système informatique
+et donc celui qui publie
+une alerte en signalant
+une faille de sécurité sur son site
+peut tomber sous le coup de
+cet article
+et ça pose un
+vrai problème dans la communauté
+des développeurs logiciels
+parce que traditionnellement qu'est-ce qui se passe
+au niveau de la révélation des failles de sécurité
+il y a la démarche on va dire éthique
+où celui qui découvre une faille de sécurité
+commence par prévenir l'entreprise
+lui laisse le temps de mettre au point le correctif
+et diffuse, rend publique
+la faille de sécurité en même temps que
+le correctif est publié
+comme ça lui il retient
+la gloire de son exploit
+et en même temps il n'y a pas d'atteinte
+au système puisque
+le système a été corrigé dans la foulée
+c'était le cas de l'affaire Zatase
+il y a eu de nombreux problèmes
+il y en a eu un l'année dernière
+je ne savais pas parler pendant un podcast
+et c'était exactement ça
+Zatase avait trouvé une faille
+une énorme liste
+de nombre de clients et de bases données
+et la société l'avait attaqué en justice
+il avait même failli se fermer le site
+Alors le problème des failles de sécurité
+c'est que ça coûte cher à reboucher
+et donc parfois les entreprises sont averties
+et ne bougent pas, donc là le développeur
+au bout d'un moment il se dit c'est peut-être
+mon devoir d'avertir les gens
+qu'il y a une faille de sécurité, surtout que lui
+il a quand même pas travaillé pour rien, c'est aussi
+l'exploit à mettre sur son CV
+s'il travaille dans la sécurité
+et dans la recherche informatique
+les scientifiques ont l'habitude de publier leurs travaux
+pour être jugés par leurs pairs etc
+donc s'il a le malheur en France
+de publier une faille de sécurité
+que le développeur n'a pas voulu corriger
+ce qui peut être un moyen de faire pression
+sur la société pour reboucher le trou
+et bien aujourd'hui
+il insiste hein
+il aime bien ce mot là
+son père m'a plâtré
+l'auditoire, aujourd'hui avec
+cet article du code pénal qui est interprété
+par la cour de cassation, il commet un acte
+répréhensible, il commet un délit
+alors là où c'est un petit peu bizarre
+c'est que le code pénal prévoit que
+c'est celui qui sans motif légitime
+révèle
+une technique comme une faille de sécurité
+qui peut être poursuivie
+et là où c'est intéressant c'est que la cour de cassation
+j'ai vachement de mal à me concentrer avec vous les gars
+ils sont en train de faire défiler les canettes de bière
+pendant que je parle
+c'est pas des caracasses man
+au dessus du MacBook c'est une mauvaise idée
+c'est bon on est tous servis
+on est là anti stress
+et là où j'ai trouvé ça un petit peu fort de café
+c'est que ne constitue pas un motif légitime
+pour la cour de cassation
+l'argument de la sécurité
+et là la société
+qui avait
+révélé cette faille de sécurité
+évidemment c'était son métier elle travaillait dans la sécurité
+donc elle avait publié cette faille
+et la cour de cassation a considéré qu'elle avait un intérêt financier
+donc elle a publié cette faille
+et qu'elle ne pouvait pas à cause de ça
+utiliser le prétexte
+d'un motif légitime d'informer les gens
+ça m'étonne que le gouvernement
+français, j'avais pensé à ça parce qu'ils ont fait plein
+d'initiatives pour la sécurité
+il y a un site, un portail dédié à la sécurité du gouvernement d'ailleurs
+j'ai jamais pensé à se mettre en tant qu'intermédiaire
+c'est à dire que le mec déclare en même temps
+j'ai trouvé une faille de sécurité
+j'ai prévenu leur ton père
+je sais pas
+ça m'étonne qu'ils aient pas pensé à ça
+je vais mettre une sorte de site en place
+pour qu'on puisse prévenir en même temps
+vu qu'il y a une sorte d'intermédiaire
+une sorte de médiateur
+exactement, c'est le terme que je cherchais
+donc là c'est un peu dommage parce qu'on a une loi
+qui est censée être sur la sécurité
+informatique et qui paradoxalement
+ne va pas sécuriser l'informatique
+puisqu'elle interdit la publication des failles
+pour forcer la main aux sociétés pour les corriger
+c'est fini ?
+c'est tout ?
+sans déconner
+c'est un truc un peu plus long
+sérieux ?
+tu peux vous chanter une chanson ?
+bah vas-y
+une chanson
+c'était la rebrouille de autostress
+autostress
+autostress
+très bien
+aller autostress chante
+on a pas les paroles
+est-ce que tu sais la jouer à la guitare ?
+et c'est une grosse erreur
+toutes les personnes qui travaillent dans le lycée libre devraient
+savoir la jouer à la guitare
+exactement
+est-ce que tu sais la jouer à la guitare ?
+what the fuck
+what the fuck
+what the fuck
+what the fuck
+what the fuck
+what the fuck
+what the fuck
+alors
+c'est quoi le what the fuck ce soir ?
+non il n'y a pas eu de gros
+il n'y a pas d'énormes what the fuck cette semaine
+pas de bulldog se faisant enculer par un ministre
+quelque part sur la planète
+c'est bien dommage
+c'est bien quand même
+je sors la corde
+du thé pour planer
+c'est l'histoire qui arrive
+à Maria Cecilia Silva
+29 ans
+qui partait à Melbourne pour faire un petit peu de tourisme
+et là une fois à l'aéroport
+les douanes arrivent
+ouvrez votre valise madame s'il vous plaît
+qu'est-ce que c'est que ce sachet
+qui contient une substance un petit peu étrange
+vite vite on appelle les clebs
+les clebs ils arrivent
+et là ils se font enculer
+non c'est pas en Slovénie
+non c'est en Australie
+et les clebs ils sentent les petits sachets
+ils commencent à s'exciter
+alors là tout de suite elle se fait arrêter
+en direct en taule 5 jours
+parce qu'elle est soupçonnée
+d'avoir planqué dans des sachets
+un petit peu de
+d'amphetamine
+et qu'est-ce qui se passe après étude
+des sachets et ben il s'agissait
+purement et simplement de thé
+acheté dans un supermarché
+aux Philippines
+donc je sais pas ce qu'ils boivent comme thé aux Philippines
+mais en tout cas ça fait réagir les clebs
+des douanes australiennes
+elle a quand même eu 5000 dollars australien
+de dédommagement c'est à dire
+3400 euros et elle est repartie
+avec ses sachets de thé philippin
+tout ça pour ça
+le chien
+le meilleur ami de l'homme
+ah voilà enfin un chien qui se fait enculer
+non
+enfin tu vas voir
+c'est l'histoire d'un chien
+qui s'appelle
+qui a un memètre
+qui l'adore
+il l'adore tellement
+qu'il l'emmène partout avec lui
+même au travail
+et le memètre
+il tient une bijouterie
+et il attend 2 gros clients
+qui viennent lui acheter un petit diamant
+d'une valeur de 20 000 dollars
+mais voilà
+le diamant est resté un petit peu sur le comptoir
+le chien chien il est là et il joue avec le diamant
+et puis il le bouffe
+c'est con ces clebs
+c'est con quand même
+le chien a été entrainé
+pour ça que pour bouffer les diamants
+non non a priori non
+il a l'habitude d'en voir mais là il était peut être gros
+donc il faut attendre que ça ressorte
+et donc 20 000 dollars
+qu'est ce que tu fais est ce que tu emmènes
+l'ordre de ton père toi tu emmènerais ton chien chien au vétérinaire pour qu'il ouvre le ventre
+oh je le fais moi même
+au couteau
+dans la bijouterie
+moi j'ai fait bouffer une grenade
+si il a un diamant dans les intestins
+le diamant
+s'il est bien taillé il va lui démolir le bif
+tu as même pas besoin de t'en occuper
+toi même
+qu'est ce qu'il a fait le memètre
+il a demandé au client de revenir quelques jours plus tard
+une fois que le petit chien chien
+avec bien sûr
+la nature aidant et tout ça
+il a fait son petit popo il a nettoyé le diamant
+il a fait son popo
+et bizarrement il n'a même pas fait de remise
+à ses clients après l'avoir nettoyé
+il l'a quand même vendu 20 000 dollars
+mais moi j'aurais été à la place des clients
+je pense que j'aurais refusé
+cette histoire de diamant
+sorti tout droit d'un indice
+c'est poétique un diamant
+dans un écrin de merde
+démoulé par un toutou
+quand j'entends ce genre de truc
+au début de son wasop j'ai peur parce que je m'attends au pire pour la suite
+de toute façon on ne sait jamais
+d'où viennent les diamants
+et les diamants sont éternels
+si maintenant on le sait de cul de clé va
+attendez parce que c'est pas dans l'ordre en plus
+la page mais
+il y a combien de pages
+50 pages plus tard
+la vidéo
+il va nous les passer en 24 secondes
+l'amant dans la capote
+le mari sur le capot
+ça ça se passe
+alors sa mari qui était en train de chier un diamant
+c'est l'histoire
+d'une femme qui a été surprise
+dans la voiture familiale
+en compagnie de son amant
+des petites choses
+pas très
+marital
+ça se passe encore ici
+et les poups enragés
+il essaye d'ouvrir la porte
+les poups de mari
+il n'y a pas encore des sortes de poups
+ça va me tourner au drame
+les poups
+le drame
+j'en peux plus j'arrête
+c'est la soirée en ou
+c'est l'époux
+d'habitude c'est moi qui dit j'en peux plus
+le mari
+trompé, âgé de 59 ans
+avait donc surpris sa femme
+se faire mettre un diamant
+il a appris plus précisément
+je vais fouiller
+l'information
+au départ il n'a pas surpris sa femme
+il a surpris les pieds de sa femme
+qui sortaient de la fenêtre
+elle prenait son pied
+au plein d'intimité
+avec son amant
+il se précipite sur le véhicule
+et commence à hurler
+les deux avaient fermé les portes
+il a essayé d'attraper
+les pieds de sa femme
+mais l'amant démarre la voiture
+il avait les pieds par la fenêtre
+c'est ça ?
+le mari ne s'arrête pas là
+il s'accroche
+il s'accroche au capot
+au capot ou au pied ?
+j'imagine la scène
+non, au capot
+il a essayé d'attraper les pieds
+il n'arrête pas de la faire sortir
+je pense qu'en tirant plus sur les pieds
+il n'emboîtait plus
+qu'il déboitait
+c'était peut-être pas
+mon truc à faire
+je sais que j'en étais
+tu passais la deuxième
+il y avait des fixations
+de porte-bagages sur le dos
+et il s'est accroché là-dessus
+la femme et son amant se sont réfugiés
+dans une station de police la plus proche
+qui était située à 5 ou 7 km
+du domicile
+et le mari était sur le porte-bagages
+le silence des agneaux
+le silence des agneaux
+le silence des agneaux
+le silence des agneaux
+le silence des agneaux
+le silence des agneaux
+le silence des agneaux
+c'est encore un drame automobile
+qui se passe là
+en allemagne
+on n'est pas couchés
+exactement
+dimanche dernier
+un accident provoqué par un agneau
+en tombant d'une passerelle
+c'était casé au beau milieu d'une rue
+provoquant un accident
+parce qu'il y avait un jeune homme
+qui était au volant de sa voiture
+qui voit une espèce de bébête qui tombe du ciel
+on s'emmerde
+est-ce que tu peux leur ton père
+nous éviter la nuit au détresse
+qui tombe
+je suis tombé du paradis
+donc le mec a donné un grand coup de volant
+il est rentré dans un vieux mur bétonné
+il s'est fracturé la main
+il est allé à l'hôpital à cause d'une bébête
+à cause d'un agneau
+alors il faut quand même savoir
+que c'était un troupeau de 600 agneaux
+qui étaient en train de traverser une passerelle
+au dessus de la route
+ils sont les 600, il y en a un qui est tombé
+bousculé par les autres bien sûr
+voilà, j'arrête
+c'est vraiment épatant
+d'écrire comme ça
+moi sur youtube
+moi sans mes pattes
+mais c'est un spécialiste
+police, milices
+désorganisés
+là ça se passe à New York
+bien sûr nos américains sont
+toutes les semaines dans le wassup
+et c'est quand même une pauvre histoire
+c'était un agneau
+en train de chier un diamant qui est tombé dans la voie
+du tout du tout
+et qui avait des pattes par la fenêtre
+comment début
+je ne vais pas raconter comment début
+je vais plutôt raconter comment elle finit d'abord
+c'est le grand chef de la police de New York
+de New York himself
+qui est venu en personne offrir
+une tarte au fromage à un couple
+d'octogénaire de Brooklyn
+qui, suite à une erreur
+informatique, a essuyé
+pas moins de 50 descentes de police
+à l'ordre d'un missile au cours
+des 8 dernières années
+espèce de sale fille de pute trafiquante
+c'est la bibi
+mais non ça charme pas vous êtes parano
+c'est la bibi ici qui révèle cette affaire
+la dernière d'entre elle de cette descente
+qui survenie pas plus tard que la semaine dernière
+pendant que nous étions ici
+il était en train de défoncer la porte
+du couple
+pour la 80e fois
+la 50e fois
+je t'avais dit de laisser la porte ouverte
+lorsque les policiers
+de New york aident
+ont défoncé la porte en criant police d'ouvrir
+c'est un problème à noter
+ils disent police ouvrer
+en défonçant la porte
+selon la police de New york
+le problème a débuté en 2002
+lorsque l'adresse de Walter
+et Rose Martin
+a été utilisée comme données test
+dans un officiel de lutte contre la criminalité
+on va mettre l'adresse de mon grand-père
+pour se marrer un coup
+ah c'est ce qu'il a fait
+c'était antistress
+c'est un problème de dénoncer
+à mon avis c'est le même mec
+qui fait les tests sur le site de la SNCF
+je sais pas mais il faut savoir
+que les policiers au bout de 50 interventions
+n'ont toujours pas compris
+en voyant l'adresse s'afficher sur leur truc
+qui vont encore taper un pauvre vieux de 80 pages
+si j'ai bien compris
+monsieur le maire leur a offert un gâteau
+c'est le chef de la police
+au bout de 50 interventions
+alors ils leur ont offert une porte aussi
+le sacré papy là
+il faut-il que les petits vieux n'ont commencé à se plaindre
+qu'à partir de 2007
+en même temps fallait aller à la police pour se plaindre
+non mais elles venaient directement chez eux
+je crois qu'ils ont plein tous les semaines
+ils se sont dit ça m'empire
+je veux déposer plainte
+vous avez qu'à passer au commissariat
+c'est moi qui serai au poste faut pas hésiter
+malgré cette plainte depuis 2007
+leur adresse est toujours restée dans l'ordinateur
+des policiers
+au cas où
+pour un prochain exercice
+d'aide, d'aide de relive
+moi je dis qu'il n'y a pas de fumée sans feu
+il l'avait cherché
+maintenant il faut savoir
+que dans l'ordinateur
+des agents de police
+leur adresse
+est dans la rubrique
+interdiction d'intervention
+si tu veux faire des crimes
+tu peux aller là bas
+est-ce qu'on peut faire le parallèle
+avec l'adopie quand ils vont commencer à balancer
+des fausses IP sur les réseaux
+les pauvres innocents vont avoir des descentes chez eux
+oui peut-être
+je vais en parler un petit peu plus tard
+de l'adopie
+il y a un petit truc sympa qui se passe
+qui se prépare
+allez suivant
+surtax post mortem
+fire
+et oui
+la crémation d'une personne en surpoids
+a été surfacturée à la dernière minute
+c'est une cérémonie funéraire
+montu sang en gyronde
+au motif que le défunt pesait plus
+que prévu
+après vendredi
+il va falloir une urne plus grosse
+Michel était un bon vivant
+à sa mort
+il voulait qu'on le brûle
+ça doit faire un paquet de cendres
+et qu'on passe
+à autre chose
+s'il avait su qu'il devait payer
+une surtax
+c'est une cérémonie
+faites comme moi votre mort
+demandez à être mangé par vos proches
+alors
+si si j'avais trouvé
+le montant de la surtax
+c'était pas facile à trouver
+c'était le poids
+il a appelé personnellement
+le crébatorium
+le défunt pesait plus
+je m'oppose à cette facture
+quoi cause le capitaine Webb
+pas de relation
+pas de problème monsieur
+alors
+le défunt pesait 125 kilos pour 1m75
+c'est pas non plus
+mais la famille
+avait annoncé 120 kilos
+ah les ordures
+c'est pas fini
+il avait bouffé juste avant de mourir
+l'autre il s'est fait une
+attendez je vais couper une jambe
+voilà c'est bon il fait 120 kilos
+il s'est mangé une poutine
+il s'est noyé il faisait 20 kilos de plus
+donc les pompes funèbres
+ont quand même facturé 565 euros
+le prix de la création
+c'est à dire
+20% de surtax
+la vraie question ça fait combien du kilo
+alors attends
+5 kilos
+parce que là
+c'est mon moment
+imagine le prix
+le poids de la cendre
+c'est le moment scientifique sérieux
+donc il faisait 125 kilos
+il avait annoncé 100 kilos
+mais au final sur la balance
+135 kilos
+il le pèse si tu veux
+au moment où il a vu qu'il rentrait pas dans le bordel
+beaucoup de maquillage c'est bon ça
+alors attention il faut savoir maintenant
+que ton père
+pendant son coma il a pris du poids
+c'est à dire
+qu'il a été nourri virtuellement
+par des petits tubes
+au secours
+au secours
+il est entubé aussi pour
+vider de l'autre côté
+mais il faisait peut-être un petit peu moins l'exercice
+que d'habitude
+peut-être avait-il avalé quelques diamants
+il tournait en circuit fermé
+et donc il avait pris 10 kilos pendant son coma
+il s'est fait entuber une deuxième fois après sa mort
+donc la famille était innocente
+la famille était innocente
+enfin elle avait essayé de griller de 5 kilos à la base
+mais
+franchement je sais pas combien
+pèse mon père
+moi non plus
+personnellement à 5 kilos près
+je pourrais pas le dire
+c'est pas vraiment des questions que tu te poses
+chéri on va aller voir les entreprises des pompes funèbres
+pèse donc grand-père avant
+c'est toujours utile
+vite à Fenwick
+sur le treuil
+pourvu qu'il ait pas fait de raclette hier soir
+ça va nous coûter une surtaxe
+j'ai vu
+j'ai vu qu'il commençait à facturer
+il double facturé dans les avions
+les personnes en surpoids aussi
+il est grave qu'ils font payer deux sièges maintenant
+le mec il a pas de vol
+en avion il paye
+le mec il paye
+il prend l'avion il est en surpoids
+il crève dans l'avion on le fait payer une deuxième fois
+c'est clair
+déjà faut payer le retour
+bah ouais
+il faut payer une plus grosse urne
+pour mettre les cendres
+enfin bon
+je sais pas qu'on est à Talfont là non ?
+le lit de la mort
+on avait pas encore à Talfont
+autant que pour moi
+c'est très cadavérique ce soir
+le titre du podcast
+on creuse encore
+le corps d'une jeune femme
+a été retrouvé caché sous le lit
+de sa chambre d'hôtel un mois et demi
+après sa disparition
+mais tu l'as déjà sorti cette fois
+tu parles du mec en banlieue
+du voisin c'était deux ans
+mais il était tout seul
+non non tu parles pas du usdf qui pissait par dessus le corps de l'autre
+j'en ai sorti putain des trucs
+non tu parles du mec
+qui était à Nière
+dans un rechaussé
+dans un HLM
+si tu veux que le mec
+malgré que ça pouvait sans remédie qu'il était mort
+non ça n'a rien à voir
+attention est-ce que tu as bien écouté quand même
+la jeune femme est retrouvée
+cachée sous le lit
+d'une chambre d'hôtel pendant un mois et demi
+tu te doutes bien
+tu l'as déjà dit
+tu te doutes bien qu'entre temps
+pendant un mois et demi
+la chambre d'hôtel a été louée plus d'une fois
+j'ai pas vérifié sous mon lit
+ça c'est encore la femme des tâches
+qui a saloppé le boulot
+ah mon chéri tu sens le fenex ce soir
+elle s'en est pris des coups de ressort
+oui
+elle pesait combien
+je passe au poids
+je veux connaître le poids de la femme sous le lit
+t'as oublié un bagage sous le lit
+ah non c'était pas moi c'est là qu'on est arrivé
+je passe au poids
+donc au bout d'un mois et demi
+un an et demi plus tard
+il y avait une odeur un peu spéciale
+et donc ils sont allés fouiller un peu plus loin
+ils ont dit c'est canalisation
+alors la chambre a été louée
+5 fois
+et attention
+la précision est nettoyée
+c'est le personnel de l'hôtel
+à plusieurs reprises
+imagine la gueule du nettoyage de la chambre
+ça c'est encore Gisèle
+elle a encore fini de laisser le poids sous le lit
+depuis la disparition de la victime
+qui s'appelait Sony Milbrook
+le 27 janvier
+j'ai quand même une question
+qu'est ce qu'elle foutait sous le lit
+c'est la femme fax
+je ne sais pas
+je te le dis
+le matelas et le sommier du lit
+est encastré dans une armature en métal
+posé à même le sol
+je ne sais pas si tu vois la scène
+je suis sûr que tu en as déjà parlé aux impressions
+mais c'est sûr que non
+j'ai une très bonne mémoire pour un truc ignoble
+donc le corps n'était pas visible
+normalement la femme de ménage aurait dû quand même
+seule odeur compte
+je ne comprends pas si c'est posé sur le sol
+elle est où la fille
+c'est une armature en métal
+qui est posée sur le sol
+elle est sous l'armature si tu veux
+je propose
+que tu fasses des dessins
+il faudrait faire ça des croquis
+il faudrait que tu fasses des croquis
+tout le monde t'imagine
+je propose qu'on mette un petit tableau derrière
+un vidéoprojecteur
+est ce que tu as demandé
+des photos à la police
+est ce que tu as appelé l'hôtel
+non je n'ai pas appelé l'hôtel
+son compagnon
+était arrêté
+pour port d'armes illégales
+j'ai eu à l'intéressé la police dans cette affaire
+lors ton père est ce qu'une armature en métal
+est considérée comme une arme
+ça peut être une arme par destination
+tout peut être une arme par destination
+j'ai quand même du mal à croire que les mecs
+ils ne sont pas posés de questions
+ça sent quand même mauvais dans cette chambre
+la chambre elle coûtait combien
+5 euros la nuit
+vous serez mis à partager avec quelqu'un
+petit déjeuner inclus
+à mon avis il coûtera moins cher
+si vous avez encore faim
+la plupart de chambres sont à 50 euros la nuit
+mais j'en ai eu à 2 euros
+c'est pas louche du tout
+par contre il faut nettoyer avant de partir
+vous virez tout
+je vous donne un peu de petit à mettre
+là vous parlez d'un petit garçon
+une bonne claque pour le Westerner
+rassure moi il est vivant
+oui il est vivant
+au début en tout cas il est vivant
+est-ce que c'est un plus pour lui je ne sais pas
+il n'est pas dans une boite en métal il ne chie pas des diamants
+non non la rubrique s'appelle
+oduard et là quelqu'un nous a fait un dessin
+bah c'est cool
+c'est foxy keep
+vous pouvez nous l'envoyer par email
+bien que quacko ça de captainweb.net
+merci
+est-ce que je peux vous parler de xinlin
+ce petit garçon
+de 6 ans
+qui est arrivé à l'hôpital
+alors l'hôpital
+je l'appelle je l'ai
+je vous passe tout ça quand même
+il pesait combien
+non son poids
+n'est pas normal
+rien chez lui
+il y a des choses anormales chez lui
+oh je sais je sais
+il avait deux bras et deux jambes supplémentaires
+non ah non c'est pas celui là
+celui là c'était la semaine dernière
+il a tout simplement
+en tout
+15 doigts
+à chaque main
+alors ton père tu vas loin quand même
+t'imagines les gants
+alors il a 7 doigts
+et 8 doigts
+c'est vraiment sur mesure quoi les gants
+ça aurait été 7 et demi
+t'aurais trouvé des gants
+c'est un pianiste célèbre
+pas encore mais il avait peut-être 100
+et il a 16 orteils
+oh la vache
+8 de chaque côté
+moi franchement j'attends qu'il ait 18 ans
+je vais gagner des fortunes
+une chirurgie est quand même prévue
+mais il faut savoir
+que le
+le record
+le record du nombre de doigts
+le record du nombre de doigts est à hauteur
+à votre avis le record du nombre de doigts
+c'est la rubrique marque dans celles
+juste un petit commentaire avant qu'on condonne
+le maximum de doigts
+je pense qu'il y a une grosse erreur de la part des médecins
+d'accueillir ces gens là en disant
+on va lui enlever des doigts
+la prochaine évolution
+c'est l'enfant twitter
+140 doigts
+140 doigts
+non le record n'est pas encore
+alors combien de doigts
+21
+il a fait don de ses organes
+mais vivant
+par main pour les deux mains
+21
+18
+est-ce que la prochaine news c'est l'homme au 5 sexe
+124
+124
+124 doigts
+124 doigts
+c'est une méduse
+leur tomber
+tu imagines 124 doigts
+non mais s'il y a des grandes mains
+il en a tout dans les bras
+et puis 124 c'est le nombre de touches sur un clavier azertingue
+t'es sûr
+tu veux pas me le dire
+je l'ai coupé
+alors je vais te donner la réponse tout de suite
+le 10 c'est super pratique pour le pavé numérique
+et ben un petit peu plus
+c'est 25 doigts en tout
+oh putain j'étais pas si loin que ça avec mes 21
+et le mec il est comptable
+alors je n'ai pas réussi à trouver des informations
+sur lui
+je maintiens que pour le fistfucking
+ça peut faire des excellents films
+c'est possible
+peut-être un peu trashos mais
+peut-être légèrement mais bon
+allez je parle 4 langues
+tu colleras l'éteinte
+une montre préhistorique
+t'es dégueulasse
+excusez moi
+je n'accepte pas ça dans ma rubrique
+c'est le truc le plus drôle que j'ai entendu depuis longtemps
+est-ce que vous connaissez
+cette orlogée suisse qui s'appelle
+Yvon Arpa
+non d'accord j'ai quelques questions pour toi
+est-ce qu'il est mort
+est-ce qu'il a une particularité physique
+combien est-ce qu'il pèse
+est-ce qu'il est diamant
+est-ce qu'il a tué quelqu'un
+non mais tu t'en rapproches
+est-ce qu'il a mangé un chien
+il chie des pendules
+il est réparé avec son anus
+est-ce que ça va avoir quelque chose
+est-ce que ça va avoir quelque chose avec le chocolat
+et les coucou
+c'est bien tu as pas assez coucou
+dans une phrase
+félicitations
+cette orlogée est très connue
+sur d'anciennes créations de montres
+il avait déjà utilisé de la poussière de lune
+et même de la rouille du Titanic
+et cette année
+il a lancé une nouveauté
+il a incorporé des excréments
+de dinosaures
+dans sa nouvelle collection
+été 2010
+j'en peux plus ça y est
+je cite
+j'ouvre les guillemets ce n'est pas de moi
+j'ai décidé d'aller plus loin et d'utiliser
+le matériau interdit
+le coprolite
+qu'est-ce que c'est que le coprolite
+il faut savoir
+le Dr Ross
+vous dirait ça dans Friends
+un terme utilisé
+pour désigner les excréments
+fossilisés de dinosaures
+donc voilà
+si tu veux une montre en caca
+de triceratops alors ton père tu sais
+où elle est maintenant
+on va tous y précipiter
+pardon
+Madame Claude au musée Grévin
+il y en a combien encore ?
+il reprend
+je dirais qu'il faut lui couper
+plus tôt
+mais là ce qui est con c'est qu'il a eu le temps de les imprimer
+il faut lui trouver les yeux pour qu'il puisse
+plus lire les news
+attachez-lui les trois bras
+c'est pas un bras
+c'est pour ça qu'on ne le filme pas lui
+je suis con j'ai la cave en plus
+ah ouais ?
+non vas-y
+alors elle s'est suicidé
+alors
+je vous parle d'une oeuvre d'art
+qui est
+au National
+Gallery de Londres
+qui restera
+et qui va aller cette année
+jusqu'au 29 août
+au musée d'Amsterdam
+pourquoi tu prends cette voix d'un seul coup ?
+d'un seul coup parce que je parle de choses
+culturelles
+c'est la voix culturelle
+la voix culturelle
+ce sont tout simplement des
+vas-y enchaîne champion
+c'est tout simplement une oeuvre d'art
+de 14 mètres de long et 4 mètres de large
+laisse-moi deviner c'est une merde de dinosaure
+et 3 mètres de haut en cire
+qui représente le quartier rouge
+d'Amsterdam avec les jeunes
+demoiselles en cire derrière des vitrines
+je sais pas ce que vous en pensez
+je trouve ça assez marrant
+ouais c'est sûr c'est le plus drôle
+le truc le plus drôle que j'en ai eu plus longtemps
+attends c'est fort t'imagines
+t'arrives dans un musée et au lieu d'avoir
+chez trousseau tout ça
+des personnalités
+des personnalités en cire
+tu as tout simplement Jeanette
+la prostitue de la vitrine de la 3e rue
+qui est là
+alors ça s'appelle, quand même il faut y aller
+The
+The Orangrach
+ça rappelle le dire bien maintenant que c'est pas là
+Traduction le quai des putes
+Les femmes ne se trouvent pas
+assez gonflées
+ça intéresse leur
+ton père. C'est une enquête
+qui a été réalisée par un site internet
+qui s'appelle MyFaceMyBody.com
+et qu'est-ce qu'elle révèle
+cette enquête ? Elle révèle
+qu'un britannique sur 4 préfère
+les faux seins au sein naturel
+lors de ton père
+c'est bien dommage
+c'est plutôt les 3 quarts des autres
+ils révèlent aussi que 55%
+des femmes désiraient augmenter
+leur attribut ma mère
+ma mère ?
+que c'est ma mère là dedans
+et attention et que
+un tiers des hommes
+33% des hommes se déclarent
+prêts à payer
+pour voir leurs partenaires avec de plus gros atouts
+alors ?
+je confirme c'était effectivement
+la séquence culturelle
+pas la réaction lors de ton père
+je pensais que t'allais rager là-dessus
+non il pleure du sang là, il ne peut plus parler
+alors viens un truc un peu plus solide
+arrête de te frapper le crâne
+ça c'est un petit peu pour
+toi lors de ton père
+c'est un petit peu ce qui va nous arriver
+c'est gentil ça faisait longtemps
+c'est pas un vrai voice-off, c'est une petite
+info que j'ai trouvé assez sympa
+alors est-ce que c'est dû à la peur
+de l'acta, de l'adopie
+et tout ça, mais en tout cas
+tu sais lors de ton père il y a beaucoup
+de gens qui maintenant préfèrent pirater
+via le compte wi-fi
+du voisin, et ben il y a une nouvelle tendance
+qui sort, c'est de renommer
+tout simplement son réseau wi-fi
+oui moi je l'ai fait, tu l'as fait ?
+alors j'ai trouvé quelques perles
+alors c'est surtout des...
+le mien il s'appelle ta gueule connasse et c'est destiné au voisin du dessus
+et ben
+c'est surtout en anglais là par l'instant
+donc lors de ton père pourra traduire juste derrière moi
+je me prépare
+le premier réseau s'appelle
+your dog shits in my yard
+ton chien chine en mon jardin
+des diamants
+mais ça c'est pas possible
+l'autre c'est
+arrête de mentir sur ton poids
+il y en a un autre qui a renommé
+third floor you asshole
+je peux t'entendre baiser ta salope
+je peux t'entendre baiser ta salope
+je peux t'entendre baiser ta salope
+catelyn
+catelyn stop using
+our internet you bitch
+catelyn salope arrête d'utiliser mon internet
+il y en a un qui est très sympa
+please no more
+grindcore at 3am
+j'aime le
+grindcore
+stop being fucking loud
+enfin bon il y en a plein d'autres comme ça
+j'avais trouvé quelques idées pour renommer ton réseau captain
+il y en a un
+il y a un réseau d'empoison qui s'appelle ta mère
+la pute
+le tien tu pourrais l'appeler arrête de percer le mur
+de la gaffe pendant l'apéro du captain
+ou alors anti stress
+lâche cette bouteille de rhum
+voir encore
+attention sur ce réseau wi-fi
+circule des photos de poney
+je crois pas que je sois en état de scanner
+les réseaux wi-fi à la fin d'une bouteille de rhum
+mais ça c'est adressé à moi je reste pas loin
+surtout que t'as que des feuilles
+pour scanner toi
+ah c'est vrai
+suivant
+ça ne s'arrête jamais
+c'est pure doom
+où c'est que j'en suis
+il y en a plus que 3
+plus que 3 feuilles
+un texto pour freine
+et là c'est intéressant
+ça va c'est loin
+ça se passe à dubai
+pays de la grandeur de la folie
+et de la faillite aussi
+et de la faillite aussi un petit peu
+une hôtesse de l'air et son chef
+tous deux indiens ont été condamnés à dubai
+à 3 mois de prison chacun
+pour avoir échangé des sms
+jugés obscènes
+l'hôtesse de l'air 42 ans et son chef 47 ans
+travaillaient pour Emirates
+la compagnie aérienne de dubai
+et ont été condamnés pour incitation à la débauche
+ils écoutaient le podcast du capitaine
+la raison c'est comment est ce qu'on est tombé sur leur sms
+et ben je suis allé chercher
+l'information
+normalement c'est des correspondances privées
+je tiens à préciser
+quand il dit je suis allé chercher l'information c'est à dire qu'il a lu l'article
+jusqu'au bout
+non non non
+je fais des recherches sur la même info
+il a cliqué sur le lien en savoir plus
+voulez vous en savoir plus
+viens la suite
+il n'est pas resté que
+244
+à la base ils étaient quand même condamnés à 6 mois
+de prison
+plus une demande
+et un ordre
+d'expulsion
+alors comment ça a commencé
+c'est le mari de l'hôtesse de l'air
+qui a porté plainte
+en pleine procédure de divorce pour accuser sa femme
+d'adultère
+et alors la compagnie a fourni
+sur ordre de la justice
+les textes pendant des sms
+je savais pas qu'on pouvait faire ça
+sûrement parce que les téléphones de leur père
+les téléphones étaient peut-être prêtés par la compagnie
+et ils ont peut-être un endroit de regard là-dessus
+je ne sais pas mais
+il me semblait en effet comme disait anti-stress
+que le sms c'était privé
+ils ont quand même donc
+la jeune femme
+s'est défendue et a dit que c'était sa soeur
+qui couchait avec son patron
+et tout ça et qu'elle lui prêtait son téléphone portable
+par doute quand même
+au lieu de 6 mois et en foutu que 3 mois
+c'est bien
+alors 1 mois pardon
+enfin voila
+donc c'est tout
+si
+il y avait quoi dans ce sms
+puisque tu vas au bout des choses
+non je n'ai pas réussi à voir le texte des sms
+ça ça m'intéresse
+6 mois de taule
+plus expulsion pour sms
+parce que tu dis ouais
+si tu reviens j'arrête tout
+t'imagine
+si il tombe sur ton portable lors de ton père
+c'est fini quoi
+c'est la fin
+non d'abord il te coupe les membres
+pour que tu puisses plus faire des sms
+il te coupe 5 doigts et il te respecte 10
+parce que on va faire un sms avec des
+avec le nez c'est difficile
+avec le gros orteil
+une question technique concernant le fait de se faire couper les doigts
+combien de doigts minima il faut pour se branler
+je sais pas mais
+peut être que notre ami coréen de tout à l'heure
+si t'as un crochet c'est la politique
+de la mousse autour ça peut être dangereux
+pour finir sur du bail
+moi je dirais ça dépend combien t'as de sexe
+pour finir sur du bail
+et leur peine
+il faut savoir qu'un couple britannique
+a été condamné à un mois de prison
+pour s'être embrassé sur la bouche en plein lieu public
+c'est dégueulasse
+un vagin de luxe
+mais putain tu peux pas faire
+d'autres sujets parfois quoi
+c'est pas possible c'est la spécialité
+c'est un vagin qui a avalé un galant
+non non c'est un jovier français
+installé place vendeau ma pari
+c'est quoi ton problème avec les diamants
+avec les bijoux et les vagins
+et les anus
+moi ce que je me demande c'est qu'est ce qu'il met comme mot
+pour rechercher ces infos
+il a un fugeant anus bijou
+l'autre jour je suis rentré dans une boutique
+qui vendait des boucs d'oreilles des machins et tout
+et sur les présentoirs ils ont des vagins
+pour présenter les anneaux
+j'ai détonné
+c'est assez bizarre quand on voit ça dans la vitrine
+j'ai pas de vagin personnellement ça ne me concerne pas merci
+dans la vitrine non plus
+tu peux les lécher pour voir si le piercing est sympa
+c'est en fait avec les autres oreilles fils
+donc ça pour dire que ce bijoutier est spécialiste
+je cite bijoux intimes
+et là il vient
+donc en gros
+il commercialise en gros des god michel
+c'est peut être la boutique en titresse à visiter
+et il vient de sortir le god michel le plus
+explosif
+exactement
+à 40 000 euros
+une fois qu'ils ont récupéré le diamant avec le toutou
+ils ont pu enfin l'utiliser
+40 000 euros
+alors comment qu'est ce qu'il est
+il est fait en excréments de dinosaures
+il est en or 18 carats
+et certi de 117
+diamants véritables
+pour plus d'effet mesdames
+et à ce prix là les piles sont fournies ?
+je sais pas
+et à ce prix là si tu perds un diamant au plus profond de ton être
+c'est quand même pas donner un orgasme
+c'est un peu cher
+c'est peut être une idée de cadeau pour ta femme
+pour son anniversaire
+non ça va pas être possible merci
+bon allez dernière
+enfin
+avoir chaud
+derrière dans les deux sens
+du terme
+c'est la meilleure que t'as gardé pour la fin
+il y a des auditeurs qui l'ont déjà vu parce qu'ils me l'ont tweeté
+surtout la pire qu'il a dû garder pour la fin
+je l'avais déjà vu
+c'est un Suisse
+c'est un Suisse qui a eu très très chaud
+il y a Suisse aussi dans les mots qui cherche
+mais
+pas mal d'infos aussi qui viennent directement du Canada
+le secret de cuaco s'en fin révélé
+celle seule à aller sur google.ch
+c'est un peu ça
+où c'est que j'en étais
+un Suisse
+où chaud
+en se rendant dans une maison close pour transexuels
+à balles en Suisse
+c'est pas ton père
+je sais
+la chambre dans laquelle il s'était installé
+a pris feu
+on ne sait pas comment
+j'avais un cadavre joli
+peut-être
+un coté du chien
+de 135 kilos
+c'était le chien qui a été fait se domiser par le ministre la semaine dernière
+attention
+le pauvre homme qu'est-ce qu'il fait, ça prend feu
+il fuit sauf que
+il a pris feu vers la porte
+donc il est sorti par la fenêtre à poil
+il est resté pendu à la fenêtre à poil
+il y a plein de photos qui circulent
+sa femme doit être contente
+le ridicule ne tue pas contrairement au feu
+parce que justement
+en se retrouvant avec ces photos
+qui circulent sur internet
+l'homme a été interrogé
+33 ans
+selon lui il s'était rendu
+dans cet endroit pour rendre visite à un ami
+pour nettoyer la chambre
+un ami, une amie, mais donc le transsexuel
+tu vois le truc
+soudain pour une raison
+qu'il ignore
+un incendie s'est déclaré
+vous pouvez faire les flammes derrière
+l'incendie s'est déclaré
+ça brûle
+ça brûle
+donc il est sorti par la fenêtre
+alors il ne dit pas pourquoi
+il a rendu visite à son ami tout nu
+il ne l'a même pas justifié
+que ses vêtements auraient brûlé
+mais voilà
+il s'est retrouvé
+donc je crois c'est pendant
+45 minutes
+pendu à la fenêtre à poil avant que les pompiers viennent le secourir
+à quelle période de l'année ?
+c'était il y a quelques jours
+il fait très très froid
+non c'était il y a quelques jours ça va
+bon ça y est j'ai fini mon was-off
+vous êtes content ?
+j'ai un tout petit dernier truc
+c'est pour faire un espèce de
+clin d'œil à Manox
+ce que je ne vais pas mettre dans le was-off
+ou dans une france des chansons
+je suis tombé sur un site internet
+que vous connaissez peut-être, moi je ne connaissais pas du tout
+qui s'appelle pardonmyfrench.fr
+pardon-my-french.fr
+excusez mon français
+exactement
+c'est un site assez exceptionnel
+où Manox pourrait trouver une
+manne d'artistes
+chantonnants
+parce que le principe du site c'est quoi
+vous prenez un fichier midi d'une chanson super connue
+vous traduisez des paroles en français
+et vous vous enregistrez en train de la chanter par dessus
+et ça donne des fois quelques perles
+alors j'en ai chopé une
+que je vais vous faire écouter
+est-ce que je vais retirer mon casque tout de suite ?
+tu peux retirer le casque
+c'est assez horrible
+puis un petit clin d'œil à Vanessa
+parce que je crois que c'est une chanson de Britney
+ça donne à peu près ça sur ce site
+Manox, si tu nous écoutes
+il fait du commercial que M. Katana maintenant
+alors c'est des professionnels
+c'est le prochain générique du clip UMP
+c'est un link dub
+arrête arrête arrête
+au secours
+il va arrêter ça
+il faut savoir d'où vous avez plein de perles
+comme ça
+il y a plein de perles
+je n'avais pas téléchargé les 10 000
+si tu veux
+parce que je suis sur le site
+et j'ai repéré notamment la méthode à mi-mille
+pour t'aimer entre portes bisous
+alors ce qui est sympa c'est que les titres
+sont en général aussi traduits
+dans la liste tu ne reconnais pas forcément la chanson
+mais il y a des belles perles
+il y a des beaux trucs à écouter
+et c'est marrant
+je n'y ai pas passé non plus 3 quarts d'heure
+mais je me suis fait
+5 ou 6 journées
+c'est assez fun
+tu le voulais ce MacBook
+tu l'auras le MacBook
+je ne le crois pas
+un petit peu de bière sur le MacBook
+de Mickael
+tu nous remets
+cette petite musique
+sur l'alime
+mais non
+tu comprends mieux maintenant pourquoi il y a un rouleau de PQ
+en permanence
+c'est pas que pour ton père
+tu comprends pourquoi je ne l'amène plus mon ordinateur
+je ramènerai des feuilles
+la prochaine fois
+il faut l'emballer
+sur cette noyade à l'acro
+on va se quitter
+tu sais qu'une pomme à la bière c'est pas mauvais
+c'est bon
+il n'y a pas pris de feuilles
+il y a Paris wet c'est Paris blanc
+on va dire les bouteilles de bière
+en général ils traduisent aussi
+les noms des artistes
+les noms de famille
+allez faire un petit tour là-dessus
+vous allez bien vous marrer
+je sais pas si se marrer
+je me suis bien marré
+après tu zappes vite
+mais tu te marres
+c'est fini
+qu'est-ce qu'il fait à mon tux
+il reste encore des rubis
+je l'utilise quand même
+je crois que c'est fini là
+trois heures quand même
+j'ai quatorze rendez-vous demain
+tout à l'heure
+tout à l'heure en fait
+tu dis qu'il y a la grève
+merci pour
+niquer ton macbook de rien
+c'était une belle conclusion
+très très sympa les mecs
+en réalité on l'avait prévu
+vous êtes des acteurs
+je le sais
+captain
+fantastique numéro
+trois heures bien remplies encore une fois
+je crois qu'il y a rien à dire là-dessus
+pourquoi tu me regardes comme ça
+j'ai pas tout compris
+on comprend jamais tout
+maintenant je sais que dans l'inux
+il y a un noyau
+le truc à cracher
+c'est ça qui te la valette travers
+il y a un noyau dans l'inux
+je viens de le cracher
+c'est bon
+le noyau
+en plus c'est sur la webcam
+un petit tour de table pour finir
+parce que quand même
+bon numéro
+moi même
+merci d'être venu Michael
+merci anti stress d'être venu aussi
+merci à toute l'équipe
+je vous passe la parole Quacos
+c'est tout ce que tu as à dire
+merci
+ça fait trois heures qu'on cause
+je vais faire un peu plus original
+merci Michael
+merci anti stress
+tu es le bienvenu anti stress
+tu sais maintenant où est la porte de la cave
+et où est le bouchon de la bouteille
+de rhum
+ça c'est partout le bouchon
+bouteille qui a pas l'air d'avoir descendu beaucoup
+ça te dira pas où tu l'as mis la dernière fois
+toujours est-il que
+Manox nous manque encore
+reviens-nous vite Manox
+et je laisse la parole tout de suite
+peut-être aux invités avant de conclure Captain
+alors on va commencer par anti stress
+et après on laissera le mot final
+anti stress content
+moi je suis étonné d'être encore à peu près lucide à cette heure-ci
+c'est une fois qu'on a balancé le jingle
+je n'ai rien que tu parles
+ça je ne me souvenais plus
+je me suis bien amusé
+merci encore une fois
+de m'avoir invité
+et effectivement petit bonjour à Manox
+qui est peut-être encore en vie
+non du tout
+je lui ai envoyé un email il y a trois jours et il ne m'a pas répondu
+il est parti avec MC Katana
+ou ils sont partis en groupe
+je ne sais pas avec qui il est parti
+peut-être qu'il est tombé sur Pappy
+Pappy Bernard
+Pappy Bernard
+Allons c'est guérir Pappy
+le vlaque
+oui
+le mot de la fin
+merci de m'avoir
+dit-il en pensant à son rendez-vous de demain matin
+et à son macbook
+qui donne des signes
+que les journalistes ne regardent pas ça
+après tu sais qu'on est super bien référencé
+tu vas t'appeler Michael Bechler
+tout de suite t'arriveras sur quoi ?
+l'apéro de Michael
+non non c'était très sympa
+merci encore
+c'est nous qui te remercions d'être venus
+après combien d'heures d'avion t'es tapé ?
+8 heures
+tu as pris des risques à la douane pour nous apporter
+ces belles bouteilles d'ampere
+on a pas encore attaqué une bouteille de whisky
+on va finir ça dans l'after
+et les bonbons super sucres
+ton toit de sucre va exploser
+c'est bon
+ok bah écoute
+merci d'être venus
+on va résumer vite fait
+le twitter de Lordtomper
+c'est hacklordtomper
+suivez-le surtout parce qu'il dit les choses super intéressantes
+le site www.wes-en-systresse
+tu peux nous rappeler ton url ?
+oui
+ça remet plus ça y est
+c'est libre
+tout le monde le trouve
+c'est libre-ouvert
+c'est libre-ouvert
+.toile-lib.org
+tout ça
+c'est ça c'est libre et ouvert
+blogueur.com c'est plus rapide
+mais c'est pas du tout ouvert
+t'as pas de twitter par contre
+t'as pas de facebook
+j'ai pas prévu d'en avoir
+on aura essayé
+ton nouveau site
+quacoscop.com
+et ton twitter bien sûr
+tout le monde le craint
+il y a peut-être des gens qui les écoutent
+venez sur twitter c'est la fête tous les jours là-bas
+j'ai aussi hâte quacoscop
+deux fois plus de raison
+de ne pas aller sur twitter
+et puis évidemment Michael
+twitter Michael Bechler
+webagoo.fr
+actinium.com
+ac89.com
+.ca
+et pourquoi ac89.com
+et 40 000 noms de domaines
+a cause du département
+je sais moi les départements
+ac89
+tu peux nous faire la voie culturelle s'il te plaît
+la voie culturelle
+alors pourquoi ac89
+bien parce que actinium c'est un
+élément
+du tableau de Mendeleev
+Et AC89 étant son numéro atomique
+Yooo
+Et vous aurez appris quelque chose dans ce podcast
+Exclusivité, uniquement pour Captain Web
+Il aura fallu 3 heures pour avoir un véritable élément culturel dans l'apéro
+Exactement
+Non non, nous la culture ici on la connaît quand même
+L'Aptique de Mille
+Bon allez, donc on se retrouve sur Twitter, sur le Web
+Sur ce on va lancer le générique de fin, puis on va vous dire à la semaine prochaine
+A bientôt
+Je consulterai bien mes notes parce qu'elles sont pleines de bière
+C'est bien, il y aura pas besoin de culettes pour accrocher au mur
+Non mais je consulterai bien mon MacBook
+Mais c'est pareil
+On finit avec un MacBook
+Tu peux l'accrocher au mur aussi
+Donc on se donne rendez-vous la semaine prochaine
+Allez sur iTunes pour voter pour nous
+5 étoiles
+Oui bien sûr
+A la semaine prochaine mardi, 23h30 comme d'habitude
+Ciao
+Ciao
