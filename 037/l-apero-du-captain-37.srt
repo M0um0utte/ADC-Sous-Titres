@@ -1,0 +1,8972 @@
+1
+00:00:00,000 --> 00:00:18,800
+Salut tout le monde, amis auditeurs, camarades lecteurs, hommes troncs et femmes cul de jattes,
+
+2
+00:00:18,800 --> 00:00:24,080
+vous êtes tous là à l'écoute de cet épisode numéro 37 ! Puisque oui, il y a eu un numéro 36
+
+3
+00:00:24,080 --> 00:00:29,600
+mais nous allons en reparler. Nous sommes le 8 juin, il est minuit au 25, on va pas tricher
+
+4
+00:00:29,600 --> 00:00:35,080
+aujourd'hui. Nous sommes donc le 9 juin. Et ouais, il y en a qui savent compter ici autour de cette table.
+
+5
+00:00:35,080 --> 00:00:39,760
+Alors ce soir on va y aller tranquille, pourquoi ? Parce que Manox n'est pas là, il est actuellement
+
+6
+00:00:39,760 --> 00:00:45,360
+en garde à vue pour un léger problème d'exhibitionnisme sur le parvis du Trocadéro.
+
+7
+00:00:45,360 --> 00:00:50,000
+Nous pensons à lui au fin fond de cette prison, à se faire ramener le derrière. J'imagine que ça
+
+8
+00:00:50,000 --> 00:00:54,400
+doit être dur. Ok, avant de faire le tour d'étape, pour une fois on va plutôt parler, je me suis
+
+9
+00:00:54,400 --> 00:01:00,160
+connu qu'on allait inverser aujourd'hui. Je vous préviens pas, je lance comme ça les nouveautés.
+
+10
+00:01:00,160 --> 00:01:05,480
+Pour revenir sur ce qu'on a fait la semaine dernière. On a fait quelque chose ? Oui, on a fait
+
+11
+00:01:05,480 --> 00:01:10,120
+quelque chose. Alors au début on avait commencé dans l'idée de faire une libre antenne comme on
+
+12
+00:01:10,120 --> 00:01:15,720
+avait déjà fait plusieurs fois. Et puis finalement comme ça on s'est dit... Capten, tu fais un truc
+
+13
+00:01:15,720 --> 00:01:19,560
+une fois et il dit qu'il l'a fait plusieurs fois. On l'a fait deux fois déjà avant la libre antenne.
+
+14
+00:01:19,560 --> 00:01:25,360
+Je ne suis pas persuadé mais... Ah si, je t'assure qu'on l'a fait deux fois. Donc finalement cette
+
+15
+00:01:25,360 --> 00:01:29,000
+libre antenne entre guillemets s'est transformée en numéro 36, comme ça à l'arrache on n'avait rien
+
+16
+00:01:29,000 --> 00:01:33,000
+préparé du tout. Et on a eu des retours qui étaient plutôt positifs. Ça il dit ça pour te faire
+
+17
+00:01:33,000 --> 00:01:36,640
+plaisir. Non, honnêtement moi je ne l'ai pas réécouté parce que ça me fait franchement chier de
+
+18
+00:01:36,640 --> 00:01:39,960
+réécouter. Mais je pense que c'était pas trop mal. Tu vois pour un truc qu'on n'avait pas préparé du
+
+19
+00:01:39,960 --> 00:01:45,400
+tout, ça avait ce petit côté impro etc etc. Alors du coup il était mis un peu en retard parce que
+
+20
+00:01:45,400 --> 00:01:49,120
+Quacko ça a beaucoup bossé dessus pour faire du montage, ce qui est quand même pas mal de trache.
+
+21
+00:01:49,120 --> 00:01:54,220
+C'est pas pour ça mais c'est pas grave. Ah bon ? Allez vas-y. Et bon il y avait aussi beaucoup de
+
+22
+00:01:54,220 --> 00:02:00,720
+boulot tout court en dehors de ça. Donc le numéro 36 disponible enfin près de 24h à galérer sur
+
+23
+00:02:00,720 --> 00:02:07,240
+Feedburner à le mettre en ligne. Mais il est là. Quoi d'autre sinon ? Hier, et ça c'est de l'heure
+
+24
+00:02:07,240 --> 00:02:13,160
+ton père qui va parler, il y a eu un live. Alors oui on a fait un petit live hier vers 19h30 ou 20h30
+
+25
+00:02:13,160 --> 00:02:18,360
+je ne sais plus, avec David de chez Brajlon et Laurent Gennefort qui nous a fait plaisir de
+
+26
+00:02:18,360 --> 00:02:23,120
+venir, qui est donc auteur de SF et directeur de collection. Et donc on a couvert la keynote Apple.
+
+27
+00:02:23,120 --> 00:02:28,720
+Alors évidemment on était pas très nombreux. À votre façon ? À notre façon, on a raconté que des conneries. Moi je
+
+28
+00:02:28,720 --> 00:02:33,040
+me suis bien amusé, c'était sympa. Et je le dis pour nos auditeurs, je ne pense pas qu'il sera un
+
+29
+00:02:33,040 --> 00:02:39,560
+jour disponible en téléchargement. C'est réservé uniquement au live pour hier. Ah moi je suis assez
+
+30
+00:02:39,560 --> 00:02:44,880
+pour le... tu devrais peut-être le mettre en téléchargement, on verra. Vous avez qu'à lui demander
+
+31
+00:02:44,880 --> 00:02:50,320
+avec notre ami LTP à CapitaineWeb.net si vous avez envie de le voir. Il y a aussi, on m'a dit que tu
+
+32
+00:02:50,320 --> 00:02:55,280
+avais écrit un article pour la foire aux liens. J'en parlerai tout à l'heure. Ah d'accord ok moi je vais pas
+
+33
+00:02:55,280 --> 00:02:59,520
+guêcher le plaisir. Sinon tu me vides ma rubrique là. Et sinon, et ça c'est important, on va en parler la
+
+34
+00:02:59,520 --> 00:03:05,800
+semaine prochaine. Qu'est ce qui se passe ? Pas d'apéro. Pas d'apéro le mardi soir. Mais il est
+
+35
+00:03:05,800 --> 00:03:12,920
+déporté, reporté même. Au 18 juin. Vendredi soir. Voilà. À quelle heure ? On va dire 23h, allez soyons
+
+36
+00:03:12,920 --> 00:03:18,720
+fous. Et là, on va être nombreux dans la cave. Ça va être du lourd, ça va être du hardcore. Toute l'équipe
+
+37
+00:03:18,720 --> 00:03:23,920
+des scudes au grand complet sera ici avec nous dans ce trou. Et Manok sera là également. Manok sera
+
+38
+00:03:23,920 --> 00:03:30,320
+aussi là. Nous aurons peut-être même quelques invités en plus. Tous les scudes seront là ? Ouais ouais
+
+39
+00:03:30,320 --> 00:03:33,840
+tous les scudes. Va falloir qu'on achète du lait fraise alors. Ouais ouais je sais, j'ai déjà prévu des
+
+40
+00:03:33,840 --> 00:03:38,000
+stocks de grenadines parce qu'on m'a dit qu'ils avaient un peu de mal à tenir et puis voilà. Donc
+
+41
+00:03:38,000 --> 00:03:45,640
+écoutez voilà, il y a un topic que j'ai eu le plaisir de mettre sur le forum de Nowatch dans le
+
+42
+00:03:45,640 --> 00:03:51,800
+sous-forum rendez-vous des scudes RDS. Non, retour de scudes qu'est ce que je dis. Donc voilà vous pouvez
+
+43
+00:03:51,800 --> 00:03:56,200
+aller un peu l'échauffer cette bande de fillettes parce que bon on sait qu'ils ne tiennent pas mais
+
+44
+00:03:56,200 --> 00:04:00,080
+ils ont besoin d'être un peu motivés pour venir parce que sinon ils vont avoir du mal. Donc allez
+
+45
+00:04:00,080 --> 00:04:06,320
+un peu leur montrer comment ce que c'est qu'un auditeur de l'apéro de notre part. Et Manok sera
+
+46
+00:04:06,320 --> 00:04:11,040
+là. Et Manok sera là mais on l'avait déjà dit. Ah mince. C'est pas grave. Sinon un grand merci à
+
+47
+00:04:11,040 --> 00:04:16,760
+tous ceux qui nous ont filé de la thune. Je voulais tous vous remercier un par un. Malheureusement
+
+48
+00:04:16,760 --> 00:04:23,720
+j'ai pas eu le temps avant parce que je passais trop sûrement de récupérer vos noms donc ce sera pour
+
+49
+00:04:23,720 --> 00:04:28,520
+la semaine prochaine. Voilà voilà. Alors maintenant on va faire le tour d'étable. Tu vois j'avais
+
+50
+00:04:28,520 --> 00:04:33,600
+lancé les rubriques. Alors lors de ton père. Ah bah c'est moi. Alors la semaine dernière donc on en a
+
+51
+00:04:33,600 --> 00:04:38,640
+déjà parlé donc je n'en reparle pas donc je barre ça sur mes petites nonotes. Et bah cette semaine
+
+52
+00:04:38,640 --> 00:04:43,520
+on va faire ce qu'on peut aussi comme comme la semaine dernière. Je vais faire un petit peu de
+
+53
+00:04:43,520 --> 00:04:50,160
+courrier d'électeur mais vous verrez ce sera sympa pour remercier les gens qui m'envoient. La rubrique
+
+54
+00:04:50,160 --> 00:04:54,200
+courrier d'électeur c'est vraiment le fond le fin fond. Non pas du tout pas du tout parce que j'ai
+
+55
+00:04:54,200 --> 00:04:59,200
+des sympathiques auditeurs qui m'ont envoyé des mails sympa avec des trucs intéressants donc je
+
+56
+00:04:59,200 --> 00:05:02,680
+vais en parler ça va me permettre de rebondir sur d'autres choses et puis j'ai quelques news
+
+57
+00:05:02,680 --> 00:05:07,920
+débiles dont je vous vais vous faire part. Et je garde non pas pour l'apéro avec les scutes parce
+
+58
+00:05:07,920 --> 00:05:11,680
+que là ça va être un tel bordel que ça sert à rien d'essayer de faire un truc sérieux. Oui. Mais
+
+59
+00:05:11,680 --> 00:05:18,600
+pour le numéro d'après donc ce sera le donc le 39 je vous prépare un gros dossier et là les
+
+60
+00:05:18,600 --> 00:05:25,280
+enfants vont leur faire chauffer les oreillers. Moi écoute je ne ferai pas de courrier d'électeur
+
+61
+00:05:25,280 --> 00:05:29,920
+avec toutes les photos qu'on m'envoie. C'est pas du lecteur c'est des j'en ai plusieurs. De sphincter
+
+62
+00:05:29,920 --> 00:05:36,840
+éventré autre sorte. Je ferai juste une rubrique wassup. J'avais voulu je me suis dit je vais faire
+
+63
+00:05:36,840 --> 00:05:40,040
+comme la semaine dernière je vais laisser les auditeurs appeler tout mais non en fait parce
+
+64
+00:05:40,040 --> 00:05:44,360
+que ça n'a pas été non plus une grande révélation. C'est une mauvaise idée. C'est une mauvaise idée.
+
+65
+00:05:44,360 --> 00:05:50,040
+Il y a un côté chez nos auditeurs qui c'est le côté second degré. Il faut apprendre les
+
+66
+00:05:50,040 --> 00:05:54,560
+différents degrés dans l'humour. Voilà quelqu'un qui se fait éventrer et qu'on retrouve ce n'est pas
+
+67
+00:05:54,560 --> 00:05:57,640
+drôle. Il y avait des tas de gens qui étaient partis pour rappeler la semaine dernière et tout et
+
+68
+00:05:57,640 --> 00:06:00,800
+puis dès qu'on a dit qu'il fallait qu'il y a un petit côté un peu fun et bien il y en a eu deux coups
+
+69
+00:06:00,800 --> 00:06:08,160
+de fil. Et on a été extrêmement déçus. Donc j'ai préparé le wassup il y a quelques heures et donc
+
+70
+00:06:08,160 --> 00:06:12,920
+je m'en chargerai personnellement cette semaine. Voilà maintenant que ce n'est pas là donc le tour
+
+71
+00:06:12,920 --> 00:06:21,320
+de table est fini. Ça va être peut-être l'heure des actus. Déjà ? Non il y a le répondeur bien
+
+72
+00:06:21,320 --> 00:06:25,840
+sûr. Le répondeur c'est à la fin normalement. Oui c'est vrai mais de toute façon je n'ai pas
+
+73
+00:06:25,840 --> 00:06:29,920
+préparé donc en fait il n'y a pas de répondeur. Ah super. Mais par contre je voulais vous dire à
+
+74
+00:06:29,920 --> 00:06:38,840
+tous, à tous ceux qui nous écoutent, de laisser des messages pour l'escude aux 09 72 11 00 22. Et
+
+75
+00:06:38,880 --> 00:06:44,160
+c'est gratuit. Et c'est gratuit si vous appelez d'une box ou d'un numéro fixe à part si vous êtes
+
+76
+00:06:44,160 --> 00:06:51,520
+chez France T.com bien sûr. Voilà donc vous leur laissez des messages. Si possible sans banjo merci.
+
+77
+00:06:51,520 --> 00:06:54,920
+Je parle au psychopathe qui nous envoie des messages toutes les semaines. Il faut arrêter le banjo.
+
+78
+00:06:54,920 --> 00:07:00,520
+Arrête de nous appeler tout court mec. Au secours. Donc laissez des messages au scud. Posez-leur
+
+79
+00:07:00,520 --> 00:07:03,440
+des questions intéressantes. Voilà. Ou pas. Ou pas.
+
+80
+00:07:08,840 --> 00:07:16,520
+Ouais alors l'actualité du web cette semaine, l'actualité du net, du hi-tech même dirais-je.
+
+81
+00:07:16,520 --> 00:07:21,520
+C'était bien entendu la keynote d'hier. On est obligé d'y passer. On va reparler un peu de tout
+
+82
+00:07:21,520 --> 00:07:26,720
+ce que notre ami Steve nous a annoncé lors de cette conférence. Alors ton père toi qui était au
+
+83
+00:07:26,720 --> 00:07:31,080
+premier pas puisque tu as suivi. J'ai sûr que t'allais faire ça. On dirait. T'as bien foutu. Et si
+
+84
+00:07:31,080 --> 00:07:36,320
+j'ai foutu j'ai tout préparé. Ok bon on va reprendre la keynote dans l'ordre. Le premier moment
+
+85
+00:07:36,680 --> 00:07:43,280
+Steve Jobs est arrivé. Avant tu avais Phil Schiller qui est arrivé. Oui d'accord. Voilà et qui a dit
+
+86
+00:07:43,280 --> 00:07:48,920
+on a la plus grosse. C'est un truc habituel chez Apple. Ils arrivent. Fantastic, Formidable, etc.
+
+87
+00:07:48,920 --> 00:07:53,800
+On a la plus grosse. En quoi ils ont la plus grosse ? Sur iPad 8500 applications disponibles sur
+
+88
+00:07:53,800 --> 00:08:00,280
+l'app store. En quoi ? En deux mois je crois. Mais tu sais qu'ils ont vendu un nombre de livres. Oui je
+
+89
+00:08:00,280 --> 00:08:05,480
+sais. Je peux même te dire 5 millions de livres électroniques. Ce qui est beaucoup moins imposant
+
+90
+00:08:05,480 --> 00:08:09,800
+quand tu divises par le nombre de devises vendues puisque ça fait 2,5 livres vendus par iPad. Enfin
+
+91
+00:08:09,800 --> 00:08:17,400
+en huit jours je crois non ? Ah non pas en huit jours non. C'est plus que ça. Parce que c'est
+
+92
+00:08:17,400 --> 00:08:21,200
+combien de temps ? Ça fait un mois que l'iPad est dispo ? Non moins deux semaines trois semaines ?
+
+93
+00:08:21,200 --> 00:08:26,120
+Attends au States ça fait longtemps qu'il y ait dispo. Ça fait un mois et demi. C'est déjà pas mal.
+
+94
+00:08:26,120 --> 00:08:29,600
+C'est déjà pas mal mais à moins. Il faut quand même le temps que le mec lise le livre. Voilà.
+
+95
+00:08:30,200 --> 00:08:36,680
+Est-ce qu'il le lit aussi ? Bah oui. A ce prix là j'espère au prix d'un iPad il le lit ton bouquin.
+
+96
+00:08:36,680 --> 00:08:44,000
+Ils ont dit que 5 millions de livres avaient été vendus jusqu'à présent. Par contre concernant
+
+97
+00:08:44,000 --> 00:08:49,480
+les applications, 35 millions de téléchargements sur iPad. Vous noterez que ces téléchargements
+
+98
+00:08:49,480 --> 00:08:54,520
+ce n'est pas des ventes. Je serais que de savoir le ratio. Parce que si tout le monde est comme
+
+99
+00:08:54,520 --> 00:08:57,800
+leur ton père, il n'y a pas grand monde qui doit gérer cette question. Ce que je veux pas dire mais
+
+100
+00:08:57,800 --> 00:09:01,960
+non c'est vrai. Leur ton père ne participe pas beaucoup à l'écosystème Apple en donnant son argent à Apple.
+
+101
+00:09:01,960 --> 00:09:10,520
+Non. Il participe à un autre écosystème avec son Apple dans la main. C'est un mythe. Donc ensuite.
+
+102
+00:09:10,520 --> 00:09:14,200
+C'est une mythe. Donc voilà donc ça c'était le moment où on a la plus grosse et puis après évidemment
+
+103
+00:09:14,200 --> 00:09:21,560
+est venu. Je vais devoir supporter l'autre. C'est une keynote ambiance quoi. Ouais non mais là c'est pas
+
+104
+00:09:21,560 --> 00:09:24,800
+une keynote c'est l'enfer. Parce que pendant la keynote Steve n'arrêtait pas de dire qu'il fallait
+
+105
+00:09:24,800 --> 00:09:29,480
+couper les réseaux wifi. Il était pas content. J'y viens après il me gâche toute la surprise.
+
+106
+00:09:29,480 --> 00:09:33,320
+C'est pas vraiment une surprise non plus. Par contre si tu avais des bellements ça irait peut-être mieux
+
+107
+00:09:33,320 --> 00:09:39,320
+avec l'ambiance de la keynote Apple. On peut les faire avec l'ordre de ton père si tu veux dire.
+
+108
+00:09:39,320 --> 00:09:46,640
+D'ailleurs quelqu'un a pas trouvé drôle. Hier j'avais tweeté que j'avais une image exclusive de la
+
+109
+00:09:46,640 --> 00:09:50,720
+bousculade pour l'entrée de la keynote et j'avais linké ça vers un troupeau de moutons et quelqu'un
+
+110
+00:09:50,720 --> 00:09:53,520
+qui m'a dit qu'il était et que c'était pas drôle. Je pense qu'il était journaliste probablement.
+
+111
+00:09:53,520 --> 00:10:00,320
+Ok donc après Steve Jobs est arrivé bien sûr l'iphone 4. J'ai l'impression de me retrouver dans une
+
+112
+00:10:00,320 --> 00:10:04,520
+site comme Emma Hickens et genre madame et service insupportables. C'est un peu ça. Bien que le
+
+113
+00:10:04,520 --> 00:10:10,400
+waaah ça me rappelle team park ou sim city non ? Qu'on aimerait surtout c'est que tu nous parles
+
+114
+00:10:10,400 --> 00:10:16,040
+de la keynote. Alors l'autre il veut y aller quoi. Monsieur va rentrer à une heure du matin chez lui.
+
+115
+00:10:16,040 --> 00:10:19,920
+Faut du rythme. Bon ok faut du rythme. Alors l'iphone 4 il a annoncé l'iphone 4 évidemment.
+
+116
+00:10:19,920 --> 00:10:24,840
+Pas de surprise puisque c'était exactement le modèle qui avait été volé présenté par
+
+117
+00:10:24,840 --> 00:10:33,920
+Gizmodo. Voilà exactement donc de ce côté là pas vraiment de surprise. Plus petit. Plus fin.
+
+118
+00:10:33,920 --> 00:10:39,840
+Plus fin ouais moins épais de 34%. Il est plus bombé derrière. Ouais alors j'ai vu il n'y avait
+
+119
+00:10:39,840 --> 00:10:44,080
+pas de monde qui n'était pas super emballé par le nouveau design. Je trouve ça bien mieux. Grosse
+
+120
+00:10:44,080 --> 00:10:49,720
+résolution enfin le double. Oui alors exactement c'est surtout ça. Il a une grosse grosse résolution.
+
+121
+00:10:49,720 --> 00:10:54,480
+Plus de pixels et est-ce que tu te doutes de pourquoi ? Quel est l'intérêt selon toi ?
+
+122
+00:10:54,480 --> 00:10:57,840
+Bah par rapport à l'ipad. Voilà exactement. Pour éviter de s'emmerder à développer deux
+
+123
+00:10:57,840 --> 00:11:01,400
+applications. Tout à fait puisque je pense pas que l'intérêt soit trop dans les graphismes.
+
+124
+00:11:01,400 --> 00:11:04,720
+Ils sont intelligents. Quatre fois plus fin je crois pas que l'œil humain soit vraiment
+
+125
+00:11:04,720 --> 00:11:09,760
+capable de sur un écran de cette dilate détecter si. Le mien si. Ouais. Et je pense que quoi qu'il
+
+126
+00:11:09,760 --> 00:11:13,120
+soit par contre toi il y a du boulot. J'allais sortir une grosse connerie mais je vais l'éviter.
+
+127
+00:11:13,120 --> 00:11:21,740
+Tu as vu qu'il avait déjà le doigt sur le bouton du fouet. Ok donc ça c'était la formation
+
+128
+00:11:21,740 --> 00:11:27,360
+professionnelle. La caméra en façade. Alors la caméra le nouveau le Pro, surtout la 4 qui
+
+129
+00:11:27,360 --> 00:11:31,200
+est intégrée directement. Le même que dans l'ipad. Voilà un slot micro sim puisque le
+
+130
+00:11:31,200 --> 00:11:34,800
+processeur prendrait plus de place après ce que j'ai lu et donc il devrait être obligé de mettre
+
+131
+00:11:34,800 --> 00:11:40,720
+micro sim à la place. Donc compatibilité a priori avec les ipad. Il doit être intéressant. Le
+
+132
+00:11:40,760 --> 00:11:46,240
+gyroscope 6 axes. Ce qui va sûrement servir à plein de trucs du côté des jeux. Je n'ose pas
+
+133
+00:11:46,240 --> 00:11:51,560
+imaginer quoi. Tu me fais frétiller. Alors le l'appareil photo 5 mégapixels. Et la super
+
+134
+00:11:51,560 --> 00:11:55,880
+batterie me rappelle-t-on sur le chat. Oui la super batterie. Je te demande à voir comment
+
+135
+00:11:55,880 --> 00:12:01,240
+elle fonctionne. C'est insupportable. Mais c'est comme ça dans une keynote. Il y a de l'ambiance.
+
+136
+00:12:01,240 --> 00:12:05,240
+Chez le capitaine aussi il y a de l'ambiance. Prépare toi quand tu feras des lives avec 200000
+
+137
+00:12:05,240 --> 00:12:10,120
+personnes à Bercy. Oui bien sûr. La semaine prochaine c'est prévu. Des vidéos en haute
+
+138
+00:12:10,120 --> 00:12:14,920
+résolution 720p. Et là je sens que Quacko va dire quelque chose. Non tu t'arrêtes de dire
+
+139
+00:12:14,920 --> 00:12:20,000
+j'en peux plus. C'est rien. C'est dit j'étais à la moblie. La caméra en façade. La caméra en
+
+140
+00:12:20,000 --> 00:12:26,320
+façade bien sûr. Uniquement wifi. Oui ben oui. Mais alors ça on va y venir après parce que c'est
+
+141
+00:12:26,320 --> 00:12:32,880
+le one more finger de la fin. One more finger. Et pas le one more finger de Marc Dorsel. Alors
+
+142
+00:12:32,880 --> 00:12:37,160
+il y aura deux coloris noir et blanc c'est fantastique. Mais il y aura un petit coq à 24$. Voilà
+
+143
+00:12:37,160 --> 00:12:41,400
+est ce qu'il n'y a pas il n'y a pas il n'y a pas de petits profiches. Donc les coqs aussi
+
+144
+00:12:41,400 --> 00:12:45,520
+surtout vu le prix du plastique à mon avis ils doivent bien se faire de la marche dessus. 199$
+
+145
+00:12:45,520 --> 00:12:53,400
+pour le modèle CSJA. Qui en France va donner du 199 euros. Ouais voire plus on verra. Et puis
+
+146
+00:12:53,400 --> 00:12:57,480
+surtout les précommandes qui commencent très vite puisque le 15 juin est une sortie. Le 25. Le
+
+147
+00:12:57,480 --> 00:13:04,040
+24. Dans cinq pays dont nous faisons partie. On est des privilégiés. États-Unis, Allemagne,
+
+148
+00:13:04,040 --> 00:13:07,680
+Grande-Bretagne, Japon et France. Steve nous adore. En même temps au Japon je ne suis pas sûr
+
+149
+00:13:07,680 --> 00:13:10,880
+qu'il y ait beaucoup de demandes. I love you Steve. Ça a été un bid là bas l'iPhone. Ah je ne sais
+
+150
+00:13:10,880 --> 00:13:18,120
+pas. Ils ont tellement de portables à eux là bas. En plus ils n'aiment pas les polis américains,
+
+151
+00:13:18,120 --> 00:13:22,840
+ils préfèrent le Sony tout ça. Bon alors sinon ça c'était tout la partie iPhone. Vous voulez en
+
+152
+00:13:22,840 --> 00:13:28,320
+parler un peu ? Non mais on va parler de l'iOS 4. Oui mais j'y arrive. Donc l'iPhone OS devient
+
+153
+00:13:28,320 --> 00:13:34,280
+l'iOS évidemment. Ils ont acheté, ils ont obtenu l'accord d'utiliser le nom. Oui parce que
+
+154
+00:13:34,280 --> 00:13:37,960
+d'avant il était... Il appartenait à quelqu'un d'autre. Enfin il appartient toujours à quelqu'un
+
+155
+00:13:37,960 --> 00:13:45,680
+d'autre je sais plus qui. La propriété de... Et bah voilà. Ukefner. Vous ne savez pas et je ne vous
+
+156
+00:13:45,680 --> 00:13:49,160
+le dirai pas parce que je ne le sais pas. Vous avez cru il y a un moment que je m'étais enceigné.
+
+157
+00:13:49,160 --> 00:13:54,280
+A Cisco me dit-on sur le chat. Heureusement que nos auditeurs sont là. Coxis. D'ailleurs salut à
+
+158
+00:13:54,280 --> 00:14:00,880
+tous nos éditeurs. 150 personnes en ligne. Un taux de tits par rapport au nombre de pénis assez
+
+159
+00:14:00,880 --> 00:14:09,680
+moyen quand même je trouve. Il faudra améliorer. Donc l'iOS 4, Bing arrive mais Google reste par
+
+160
+00:14:09,680 --> 00:14:13,160
+défaut. Oui voilà c'est Google par défaut. Google reste par défaut peut-être pas pour très
+
+161
+00:14:13,160 --> 00:14:18,880
+longtemps en mon avis personnellement. Le multitash. Oui mais ça c'était toutes les nouveautés de
+
+162
+00:14:18,880 --> 00:14:23,040
+l'iOS 4. Et ebooks surtout qui pourra être utilisable. Donc ce qui est intéressant, il faut
+
+163
+00:14:23,040 --> 00:14:27,880
+préciser que l'iOS 4 va fonctionner sur bien sûr l'iPhone 4 mais aussi sur les iPhone 3 GS.
+
+164
+00:14:27,880 --> 00:14:34,000
+Oui exactement. Et en plus la mise à jour sera gratuite. Non. Sur les iPod touch. Et les iPod
+
+165
+00:14:34,000 --> 00:14:37,160
+touch aussi. Les iPod touch avant il faut les payer. La prochaine mise à jour sera effectivement
+
+166
+00:14:37,160 --> 00:14:41,440
+gratuite. Ohlala ils sont trop bons. C'est la fête. Steve là franchement c'est Noël merci. Avec les
+
+167
+00:14:41,440 --> 00:14:47,320
+pèltés de pognon qui se font franchement. Donc l'iOS 4 vient de passer en version Golden Master.
+
+168
+00:14:47,320 --> 00:14:56,360
+Les développeurs y ont accès depuis hier. Voilà exactement. Et puis voilà je crois que ici il
+
+169
+00:14:56,360 --> 00:14:59,960
+sera disponible de téléchargement le 21 juin. Ce qui est normal puisque le 24 nous n'oublions pas
+
+170
+00:14:59,960 --> 00:15:06,960
+que c'est l'arrivée officielle de le nouvel iPhone. J'ai vu que le 3 GS elle est baissé. Oui à 99
+
+171
+00:15:06,960 --> 00:15:09,640
+dollars. Heureusement. Alors la question c'est est-ce que c'est pour vider les stocks ou est-ce qu'ils
+
+172
+00:15:09,640 --> 00:15:13,240
+vont continuer à en produire ? Non c'est pour vider les stocks. Je ne sais pas je suis pas si
+
+173
+00:15:13,240 --> 00:15:18,280
+sûr. T'as déjà vu Apple continuer à produire un truc alors qu'ils passent à un autre. Il me
+
+174
+00:15:18,280 --> 00:15:21,120
+semble que le 3G est encore en vente. Ça n'aurait pas trop de sens parce que s'ils veulent unifier la
+
+175
+00:15:21,120 --> 00:15:25,920
+plateforme avec des écrans identiques, le même processeur, ça ne va pas dans ce sens là. C'est pour
+
+176
+00:15:25,920 --> 00:15:30,880
+vider les stocks. Ouais je pense que c'est pour vider les stocks. Je ne suis pas sûr parce que je crois
+
+177
+00:15:30,880 --> 00:15:36,120
+que le 3G est encore en vente. Bon écoute on ne va pas en faire une tarte. Trouve moi un 3G en vente
+
+178
+00:15:36,120 --> 00:15:40,280
+à Passe-Ribé et puis on en reparle. Peut-être qu'ils veulent justement s'incruster sur le marché
+
+179
+00:15:40,680 --> 00:15:45,440
+d'arrivée et défoncer le marché des smartphones en faisant l'iPhone. Ça va travailler chez Foxconn.
+
+180
+00:15:45,440 --> 00:15:50,960
+Ah ouais ça c'est pas fini suicide tout ça. Si vous avez une usine qui fabrique de la corde pas loin
+
+181
+00:15:50,960 --> 00:15:55,320
+de celle de FoxCord, c'est le bon moment d'investir et de monter la cadence de production. Ce qui me
+
+182
+00:15:55,320 --> 00:16:00,320
+fera peut-être double usage bref. Et puis le one more thing, le truc le plus ridicule que j'entends
+
+183
+00:16:00,320 --> 00:16:07,400
+le plus longtemps, le FaceTime. Alors caméra en façade, on va pouvoir discuter une sorte d'iChat
+
+184
+00:16:07,400 --> 00:16:13,280
+sur iPhone. Le truc amusant entre guillemets, c'est que c'est utilisable uniquement en wifi entre
+
+185
+00:16:13,280 --> 00:16:18,640
+deux iPhone. Mais est-ce que c'est uniquement entre deux iPhone en wifi avec le même router wifi ou
+
+186
+00:16:18,640 --> 00:16:22,440
+même switch wifi ? Ah non bah non quand même pas. Oui je pense sinon ce serait vraiment ridicule.
+
+187
+00:16:22,440 --> 00:16:26,920
+Donc il faut en gros que tu connaisse quelqu'un qui est un iPhone. Et qui a le wifi chez lui.
+
+188
+00:16:26,920 --> 00:16:32,400
+C'est quand même relativement... Qui soit connecté en wifi. Ça va quoi, c'est pas non plus exceptionnel.
+
+189
+00:16:32,400 --> 00:16:36,800
+Ouais sauf qu'il faut que tu l'appelles. Bah oui. Donc il faut qu'il soit connecté en wifi au moment
+
+190
+00:16:36,800 --> 00:16:40,240
+où tu l'appelles. Le côté surprise c'est un peu mort quoi. Il faut déjà que tu te prépares
+
+191
+00:16:40,240 --> 00:16:44,000
+parce que je sais pas mais je pense que... Bah tiens il faut que tu appelles le mec, tu dis je vais
+
+192
+00:16:44,000 --> 00:16:49,560
+t'appeler. Voilà et là comme ça il peut voir ta gueule. Bah ouais mais enfin pour les couples c'est sympa.
+
+193
+00:16:49,560 --> 00:16:55,360
+Ouais donc en gros ça va servir à faire des trucs de cul quoi. Mais non tout de suite. Bah c'est juste pour
+
+194
+00:16:55,360 --> 00:16:58,720
+voir la gueule de quelqu'un en face. Mais non c'est pour voir... T'as pas vu mémé ou ta petite copine
+
+195
+00:16:58,720 --> 00:17:02,520
+depuis longtemps, t'es content de la voir plutôt que de pas la voir et d'entendre que le son. Oui enfin
+
+196
+00:17:02,520 --> 00:17:06,000
+mémé je suis pas sûr qu'il y en a un réseau wifi qui est assez connecté. Tu te trompes, il y a beaucoup de
+
+197
+00:17:06,000 --> 00:17:10,920
+mémés qui sont connectés. Écoute je demanderai... C'est pour préparer l'application IJASMINE qui va
+
+198
+00:17:10,920 --> 00:17:16,800
+arriver bientôt. Oui alors one more thing captain. Sur l'iPhone. Ah bah on en parlait je suis con. Oui le fail
+
+199
+00:17:16,800 --> 00:17:22,240
+de la keynote. Je suis fort ce soir. Le fail de leur ton père. Le fail de la keynote et là leur ton père tu voulais en
+
+200
+00:17:22,240 --> 00:17:27,080
+parler tout à l'heure. Non non mais vas-y capitaine. Bah donc alors que notre ami Steve était en train de faire
+
+201
+00:17:27,080 --> 00:17:33,240
+une magnifique démonstration sur scène avec safari chargé. D'ailleurs le safari 5 est sorti ce matin. Et il est
+
+202
+00:17:33,240 --> 00:17:42,360
+compatible html5. Et d'ailleurs Steve a fait remarquer, il a soutenu le html5 en disant que pour ceux qui
+
+203
+00:17:42,360 --> 00:17:48,800
+n'arriverait pas à faire valider leur application sur AppStore, ils peuvent passer via html5. Et je crois
+
+204
+00:17:48,800 --> 00:17:55,000
+que, je sais pas si c'est Adobe qui a sorti ça, un convertisseur d'application flash vers html5.
+
+205
+00:17:55,000 --> 00:18:00,200
+Non je sais. Ou c'est une société tierce. Peut-être. Il me semble avoir vu ça. En tous les cas je pense que notre
+
+206
+00:18:00,200 --> 00:18:04,520
+ami Steve Jobs ne veut pas apprécier des masses. Donc en tout cas pendant que Steve était en train de faire
+
+207
+00:18:04,520 --> 00:18:09,320
+une belle démonstration sur safari, ça s'est mis à ramer. Voir à caméraman planté parce que tous
+
+208
+00:18:09,320 --> 00:18:13,400
+ces petits savoir-parleur journalistes étaient connectés sur le wifi. Et Steve était sur le même réseau wifi
+
+209
+00:18:13,400 --> 00:18:23,200
+que le peuple. Que les vilains. Dans la fosse. Le 3e état. Les serres. Et du coup il avait un peu mauvaise.
+
+210
+00:18:23,200 --> 00:18:27,560
+Il y a des têtes qui risquent de sauter. Ce qui n'avait pas l'air vraiment content-content. Ça se rapproche un peu.
+
+211
+00:18:28,280 --> 00:18:32,040
+De plus en plus je te parlais hier de ça. Que Apple allait devenir le nouveau Microsoft.
+
+212
+00:18:32,040 --> 00:18:36,840
+Dans le sens qu'ils allaient être détestés de tout le monde et tout. Des trucs qui meurtent sur scène.
+
+213
+00:18:36,840 --> 00:18:41,720
+Comme le fameux coup du scanner sur Windows. Et surtout le blue screen of the dead avec Bill Gates.
+
+214
+00:18:41,720 --> 00:18:47,720
+Quand il branchait un scanner en usb. C'était sur Windows 2000. 98. Et là le blue screen of death.
+
+215
+00:18:47,720 --> 00:18:51,720
+Ça me fait un peu penser à ça. C'est pas le même niveau. C'est pas le même genre là aussi.
+
+216
+00:18:51,720 --> 00:18:56,680
+Steve se plaignait qu'on utilisait sa bande passante. Bah oui un peu. Il faut pas déconner.
+
+217
+00:18:56,760 --> 00:19:00,760
+Si ça se trouve il y a des salopards qui étaient en train de mettre du YouPorn. Qui étaient en train de bouffer de la bande passante à cause de ça.
+
+218
+00:19:00,760 --> 00:19:08,520
+Ok bon voilà. Et puis sur ça c'est la fin de la grosse rubrique iPhone, Apple. On a quelque chose à rajouter dessus.
+
+219
+00:19:08,520 --> 00:19:10,520
+Vous avez l'acheté ? Est-ce que alors ton père va acheter la iPhone 4 ?
+
+220
+00:19:10,520 --> 00:19:11,560
+J'hésite. J'hésite.
+
+221
+00:19:11,560 --> 00:19:13,560
+Qu'est-ce que tu vas faire de l'ancien ?
+
+222
+00:19:13,560 --> 00:19:15,560
+Je suis en discussion avec Quacos.
+
+223
+00:19:15,560 --> 00:19:17,560
+Quel monde de croire.
+
+224
+00:19:17,560 --> 00:19:18,360
+Bon ok.
+
+225
+00:19:18,360 --> 00:19:20,360
+Avec les applications.
+
+226
+00:19:20,360 --> 00:19:21,080
+Of course.
+
+227
+00:19:21,080 --> 00:19:23,080
+Bah oui de toute façon ils sont tout gratuits en même temps.
+
+228
+00:19:23,080 --> 00:19:24,040
+Ça t'aura pas trop mal hein.
+
+229
+00:19:24,040 --> 00:19:26,040
+Par contre on fera un je-n'-et-toi un petit peu je pense avant de le répondre.
+
+230
+00:19:26,440 --> 00:19:28,440
+Avant de poser ça sur mon oreille.
+
+231
+00:19:28,440 --> 00:19:30,440
+Comment ça se passe quand tu refiles ton site, je le remets à zéro, tu fais un reset.
+
+232
+00:19:30,440 --> 00:19:32,440
+Non c'est YouTunes qui te...
+
+233
+00:19:32,440 --> 00:19:34,440
+Non ils sont pas chiant là.
+
+234
+00:19:34,440 --> 00:19:36,440
+YouTunes. C'est quoi ce nouveau programme ?
+
+235
+00:19:36,440 --> 00:19:38,440
+YouTunes. Itunes peut-être.
+
+236
+00:19:38,440 --> 00:19:40,440
+Parce qu'il est lié à ton compte iTunes normalement.
+
+237
+00:19:40,440 --> 00:19:42,440
+Oui oui oui. Exact.
+
+238
+00:19:42,440 --> 00:19:46,440
+Mais ils sont pas chiants, tu peux passer les applis d'un iPhone à l'autre.
+
+239
+00:19:46,440 --> 00:19:48,440
+Ou même à l'iPad.
+
+240
+00:19:48,440 --> 00:19:50,440
+Le numéro de série de ton iPhone, est-ce qu'il est collé à ton compte iTunes ?
+
+241
+00:19:50,440 --> 00:19:52,440
+Ah je pense oui.
+
+242
+00:19:52,440 --> 00:19:54,440
+Alors comment tu fais quand tu le files à quelqu'un d'autre ?
+
+243
+00:19:54,440 --> 00:19:56,440
+Ben quoi que je suis désolé.
+
+244
+00:19:56,440 --> 00:19:58,440
+Ben tu me files ton iTunes avec.
+
+245
+00:19:58,440 --> 00:20:00,440
+Avec ton numéro de carte bleue.
+
+246
+00:20:00,440 --> 00:20:02,440
+Donc je connais le mot de passe si quelqu'un veut connaitre le mot de passe.
+
+247
+00:20:02,440 --> 00:20:04,440
+Non.
+
+248
+00:20:04,440 --> 00:20:06,440
+On va passer au gadget USB à la compte.
+
+249
+00:20:06,440 --> 00:20:08,440
+Alors.
+
+250
+00:20:08,440 --> 00:20:10,440
+Aujourd'hui, je ne vous cache pas que je n'avais pas énormément de temps pour...
+
+251
+00:20:10,440 --> 00:20:12,440
+Donc j'ai choisi d'innover.
+
+252
+00:20:12,440 --> 00:20:14,440
+Mais c'est pas ça, alors c'est ça qui est extraordinaire.
+
+253
+00:20:14,440 --> 00:20:16,440
+C'est à dire que quand tu bosses pas, t'innoves.
+
+254
+00:20:16,440 --> 00:20:18,440
+Oui j'innoves, exactement. Parce que le captain, c'est pas que le captain ne bosse pas, c'est qu'il innove.
+
+255
+00:20:18,440 --> 00:20:20,440
+Et donc je me suis dit je vais faire pas de simpé.
+
+256
+00:20:20,440 --> 00:20:22,440
+C'est le high nov.
+
+257
+00:20:22,440 --> 00:20:24,440
+Donc dans la lignée de notre podcast de la semaine dernière,
+
+258
+00:20:24,440 --> 00:20:26,440
+je me suis dit que j'allais faire participer
+
+259
+00:20:26,440 --> 00:20:28,440
+tous ces auditeurs qui nous écoutent chaque semaine
+
+260
+00:20:28,440 --> 00:20:30,440
+et qui ont envie de
+
+261
+00:20:30,440 --> 00:20:32,440
+mettre leurs petites briques dans cette immense
+
+262
+00:20:32,440 --> 00:20:34,440
+tas de merde qui est là.
+
+263
+00:20:34,440 --> 00:20:36,440
+Et donc j'aurais dit ben voilà,
+
+264
+00:20:36,440 --> 00:20:38,440
+c'est vous qui allez faire le quick and dirty.
+
+265
+00:20:38,440 --> 00:20:40,440
+Et vous allez nous envoyer vos news.
+
+266
+00:20:40,440 --> 00:20:42,440
+Et puis je vais vous citer à chaque fois.
+
+267
+00:20:42,440 --> 00:20:44,440
+On va voir si les quick and dirty que...
+
+268
+00:20:44,440 --> 00:20:46,440
+Je fais un peu la même chose cette semaine, c'est marrant.
+
+269
+00:20:46,440 --> 00:20:48,440
+On va les noter les mecs aussi.
+
+270
+00:20:48,440 --> 00:20:50,440
+Je vous laisserai les noter après.
+
+271
+00:20:50,440 --> 00:20:52,440
+Alors, j'avais pas prévu de le faire pour un gadget USB,
+
+272
+00:20:52,440 --> 00:20:54,440
+mais il se trouve que Romaric17,
+
+273
+00:20:54,440 --> 00:20:56,440
+et vous pouvez le suivre sur Twitter,
+
+274
+00:20:56,440 --> 00:20:58,440
+arôbas Romaric17, donc,
+
+275
+00:20:58,440 --> 00:21:00,440
+m'a envoyé aussi des gadgets USB à la con
+
+276
+00:21:00,440 --> 00:21:02,440
+et je vais prendre sa sélection
+
+277
+00:21:02,440 --> 00:21:04,440
+que je vais vous donner tout de suite.
+
+278
+00:21:04,440 --> 00:21:06,440
+Copier, coller.
+
+279
+00:21:06,440 --> 00:21:08,440
+Alors, on commence par l'aquarium USB.
+
+280
+00:21:08,440 --> 00:21:10,440
+On avait déjà parlé d'un aquarium USB, il me semble,
+
+281
+00:21:10,440 --> 00:21:12,440
+celui avec les petits poissons en plastique qui flottaient.
+
+282
+00:21:12,440 --> 00:21:14,440
+Sauf que celui-là, c'est plus fort, c'est un véritable aquarium.
+
+283
+00:21:14,440 --> 00:21:16,440
+Et l'USB, attention...
+
+284
+00:21:16,440 --> 00:21:18,440
+C'est pour le filtre. Oui, il alimente le filtre.
+
+285
+00:21:18,440 --> 00:21:20,440
+C'est pas idiot. C'est pas idiot, sauf que si t'as un portable
+
+286
+00:21:20,440 --> 00:21:22,440
+et que tu déconnectes pour aller, par exemple,
+
+287
+00:21:22,440 --> 00:21:24,440
+au boulot, t'as plus de filtre.
+
+288
+00:21:24,440 --> 00:21:26,440
+Un ordinateur qui tourne tout le temps.
+
+289
+00:21:26,440 --> 00:21:28,440
+Peut-être que le truc passe en mode auto.
+
+290
+00:21:28,440 --> 00:21:30,440
+C'est peut-être juste pour lui filer des instructions,
+
+291
+00:21:30,440 --> 00:21:32,440
+une petite reprogrammation.
+
+292
+00:21:32,440 --> 00:21:34,440
+Tu vas reprogrammer ton filtre dans ton pauvre aquarium.
+
+293
+00:21:34,440 --> 00:21:36,440
+L'aquarium, il fait cette taille-là,
+
+294
+00:21:36,440 --> 00:21:38,440
+il fait genre 20 centimètres sur 10.
+
+295
+00:21:38,440 --> 00:21:40,440
+Quand tu aimes les poissons, tu comptes pas ton temps.
+
+296
+00:21:40,440 --> 00:21:42,440
+Oui, d'ailleurs, on a un ami qui viendra parler
+
+297
+00:21:42,440 --> 00:21:44,440
+d'aquariophilie un jour.
+
+298
+00:21:44,440 --> 00:21:46,440
+Je pense que notre ami BMH pourra faire un sujet
+
+299
+00:21:46,440 --> 00:21:48,440
+complet sur l'aquarium. Je pense qu'il nous parlera d'autre chose aussi.
+
+300
+00:21:48,440 --> 00:21:50,440
+L'aquarium est notre meilleur. Il est plus teuslovaque.
+
+301
+00:21:50,440 --> 00:21:52,440
+C'est le sujet favori.
+
+302
+00:21:54,440 --> 00:21:56,440
+J'avais trouvé ça quand même pas mal
+
+303
+00:21:56,440 --> 00:21:58,440
+parce que j'avais vu des aquariums USB,
+
+304
+00:21:58,440 --> 00:22:00,440
+mais c'était surtout des espèces
+
+305
+00:22:00,440 --> 00:22:02,440
+de bacs à eau ou des poissons en plastique flottés.
+
+306
+00:22:02,440 --> 00:22:04,440
+Dans le même genre,
+
+307
+00:22:04,440 --> 00:22:06,440
+il m'a aussi trouvé la souris aquarium.
+
+308
+00:22:06,440 --> 00:22:08,440
+Attention, il s'agit d'une
+
+309
+00:22:08,440 --> 00:22:10,440
+souris USB, comme celle-ci.
+
+310
+00:22:10,440 --> 00:22:12,440
+Sauf que tout l'arrière est constituée de...
+
+311
+00:22:12,440 --> 00:22:14,440
+Tu déplaces l'aquarium.
+
+312
+00:22:14,440 --> 00:22:16,440
+C'est ta souris.
+
+313
+00:22:16,440 --> 00:22:18,440
+C'est ta souris qui est un aquarium miniature.
+
+314
+00:22:18,440 --> 00:22:20,440
+C'est des mini-poissons.
+
+315
+00:22:20,440 --> 00:22:22,440
+Gros défaut, ça reste.
+
+316
+00:22:22,440 --> 00:22:24,440
+C'est du plancton.
+
+317
+00:22:24,440 --> 00:22:26,440
+Cette fois-ci, c'est des poissons en plastique.
+
+318
+00:22:26,440 --> 00:22:28,440
+Ça m'a un peu déçu.
+
+319
+00:22:28,440 --> 00:22:30,440
+Moi, j'ai un concept.
+
+320
+00:22:30,440 --> 00:22:32,440
+Vous savez les petites boules
+
+321
+00:22:32,440 --> 00:22:34,440
+qu'on retourne où la neige tombe ?
+
+322
+00:22:34,440 --> 00:22:36,440
+Le globe à neige.
+
+323
+00:22:36,440 --> 00:22:38,440
+Moi, je vais lancer le globe à neige USB.
+
+324
+00:22:38,440 --> 00:22:40,440
+Ou même la souris globe à neige.
+
+325
+00:22:40,440 --> 00:22:42,440
+Tu sais quoi ? Tu fais ça.
+
+326
+00:22:43,440 --> 00:22:45,440
+Dans chaque petit grain de plastique,
+
+327
+00:22:48,440 --> 00:22:50,440
+tu mets un tout petit bout de métal
+
+328
+00:22:50,440 --> 00:22:52,440
+et après avec un truc aimanté
+
+329
+00:22:52,440 --> 00:22:54,440
+que tu alimentes par USB.
+
+330
+00:22:54,440 --> 00:22:56,440
+Ça fait tourner.
+
+331
+00:22:56,440 --> 00:22:58,440
+Tu branches l'USB et le truc magnétique
+
+332
+00:22:58,440 --> 00:23:00,440
+qui rattire les...
+
+333
+00:23:00,440 --> 00:23:02,440
+C'est pas con.
+
+334
+00:23:02,440 --> 00:23:04,440
+S'il y a quelqu'un pour produire,
+
+335
+00:23:04,440 --> 00:23:06,440
+nous saurons.
+
+336
+00:23:06,440 --> 00:23:08,440
+Ninov.
+
+337
+00:23:08,440 --> 00:23:10,440
+On n'a plus de bière, mais on a des idées.
+
+338
+00:23:10,440 --> 00:23:12,440
+C'est notre créneau.
+
+339
+00:23:12,440 --> 00:23:14,440
+Et puis enfin, le dernier truc.
+
+340
+00:23:14,440 --> 00:23:16,440
+C'est pas tout neuf.
+
+341
+00:23:16,440 --> 00:23:18,440
+Il t'a ressorti du vieux.
+
+342
+00:23:18,440 --> 00:23:20,440
+Oui, ça c'est du très vieux,
+
+343
+00:23:20,440 --> 00:23:22,440
+mais c'est vrai que je crois qu'on a jamais parlé.
+
+344
+00:23:22,440 --> 00:23:24,440
+C'est la machine à coudre électrique, en USB.
+
+345
+00:23:24,440 --> 00:23:26,440
+À la rigueur, tu rentres tes programmes.
+
+346
+00:23:26,440 --> 00:23:28,440
+Exactement. Tu lui envoies un JPEG
+
+347
+00:23:28,440 --> 00:23:30,440
+et le truc te coule le dessin.
+
+348
+00:23:30,440 --> 00:23:32,440
+Franchement, il faudrait qu'il y ait la même machine,
+
+349
+00:23:32,440 --> 00:23:34,440
+mais en wifi, comme ça, il y a ton voisin
+
+350
+00:23:34,440 --> 00:23:36,440
+qui pirate ta connexion et qui coudent des saloperies.
+
+351
+00:23:36,440 --> 00:23:38,440
+Dans le même genre, je vais parler d'autres choses
+
+352
+00:23:38,440 --> 00:23:40,440
+mais ça, on aura l'occasion de parler plus tard.
+
+353
+00:23:40,440 --> 00:23:42,440
+Donc, si quelqu'un, pourquoi se faire chier à faire des t-shirts
+
+354
+00:23:42,440 --> 00:23:44,440
+alors qu'on peut s'acheter une machine à coudre électrique en USB,
+
+355
+00:23:44,440 --> 00:23:46,440
+qui peut nous faire les t-shirts elle-même ?
+
+356
+00:23:46,440 --> 00:23:48,440
+C'est une machine à coudre,
+
+357
+00:23:48,440 --> 00:23:50,440
+elle ne fait pas les t-shirts.
+
+358
+00:23:50,440 --> 00:23:52,440
+Tu peux faire broder dessus sur tes t-shirts.
+
+359
+00:23:52,440 --> 00:23:54,440
+Le fer à repasser USB, on en a déjà parlé ou pas ?
+
+360
+00:23:54,440 --> 00:23:56,440
+Ça existe ? Je ne sais pas, ça demande quand même beaucoup de puissance.
+
+361
+00:23:56,440 --> 00:23:58,440
+En même temps, j'ai vu un micro-ondes USB.
+
+362
+00:23:58,440 --> 00:24:00,440
+En USB, tout est possible,
+
+363
+00:24:00,440 --> 00:24:02,440
+surtout que l'USB 3 va bientôt se démocratiser.
+
+364
+00:24:02,440 --> 00:24:04,440
+Là, il va y en avoir de la saloperie.
+
+365
+00:24:04,440 --> 00:24:06,440
+Là, il va y avoir un gros besoin d'alimentation
+
+366
+00:24:06,440 --> 00:24:08,440
+parce qu'elles vont toutes claquer les vignes après les autres.
+
+367
+00:24:08,440 --> 00:24:10,440
+Ok, donc un grand merci à Romaric17
+
+368
+00:24:10,440 --> 00:24:12,440
+mec, merci pour tes bons liens USB.
+
+369
+00:24:12,440 --> 00:24:14,440
+Et on va passer au
+
+370
+00:24:14,440 --> 00:24:16,440
+Quick & Dirty spéciale
+
+371
+00:24:16,440 --> 00:24:18,440
+auditeur.
+
+372
+00:24:18,440 --> 00:24:20,440
+Alors, vous avez été quelques-uns, on m'a envoyé des liens,
+
+373
+00:24:20,440 --> 00:24:22,440
+je vous ai tous pris, pas de ségrégation,
+
+374
+00:24:22,440 --> 00:24:24,440
+tout le monde y est passé. Alors attention,
+
+375
+00:24:24,440 --> 00:24:26,440
+il y a le meilleur comme le pire et leur ton père et quoi que ce
+
+376
+00:24:26,440 --> 00:24:28,440
+vont noter les Quick & Dirty.
+
+377
+00:24:28,440 --> 00:24:30,440
+Alors, on commence par
+
+378
+00:24:30,440 --> 00:24:32,440
+NBORD sur Twitter,
+
+379
+00:24:32,440 --> 00:24:34,440
+N-B-O-R-D-E, Nicolas Borde,
+
+380
+00:24:34,440 --> 00:24:36,440
+qui m'a envoyé une news à propos de Xavier
+
+381
+00:24:36,440 --> 00:24:38,440
+Niel, qui ne serait pas très très copain
+
+382
+00:24:38,440 --> 00:24:40,440
+avec Sarkozy. C'est pas nouveau.
+
+383
+00:24:40,440 --> 00:24:42,440
+Ce n'est pas nouveau.
+
+384
+00:24:42,440 --> 00:24:44,440
+Selon le point, attention, c'est selon le point
+
+385
+00:24:44,440 --> 00:24:46,440
+qui aurait eu des sources de jeunes
+
+386
+00:24:46,440 --> 00:24:48,440
+Cézous, notre
+
+387
+00:24:48,440 --> 00:24:50,440
+ami, notre bien-aimé président
+
+388
+00:24:50,440 --> 00:24:52,440
+et dictateur à vie,
+
+389
+00:24:52,440 --> 00:24:54,440
+non, pas de politique,
+
+390
+00:24:54,440 --> 00:24:56,440
+tu connais l'interdiction. Oui d'accord.
+
+391
+00:24:56,440 --> 00:24:58,440
+On aurait appelé donc Éric Fautorino, qui est
+
+392
+00:24:58,440 --> 00:25:00,440
+le directeur actuel du Monde, pour
+
+393
+00:25:00,440 --> 00:25:02,440
+lui dire que c'était peut-être une mauvaise idée
+
+394
+00:25:02,440 --> 00:25:04,440
+que Niel mette des sous-sous là-dedans.
+
+395
+00:25:04,440 --> 00:25:06,440
+Voilà, exactement, puisqu'il serait sur le point
+
+396
+00:25:06,440 --> 00:25:08,440
+en tout cas, il aurait proposé la meilleure offre
+
+397
+00:25:08,440 --> 00:25:10,440
+avec Mathieu Pigasse
+
+398
+00:25:10,440 --> 00:25:12,440
+et Pierre Berger
+
+399
+00:25:12,440 --> 00:25:14,440
+pour racheter le monde et donc il deviendrait
+
+400
+00:25:14,440 --> 00:25:16,440
+peut-être pas racheter tout le monde,
+
+401
+00:25:16,440 --> 00:25:18,440
+en tout cas, injecter des sous-sous.
+
+402
+00:25:18,440 --> 00:25:20,440
+Et la société des rédacteurs, qui jusqu'à maintenant
+
+403
+00:25:20,440 --> 00:25:22,440
+avait toujours eu la majorité pendant 60 ans, ne l'aura plus.
+
+404
+00:25:22,440 --> 00:25:24,440
+Alors, Sarkozy aurait appelé Éric Fautorino,
+
+405
+00:25:24,440 --> 00:25:26,440
+lui aurait dit que ce serait une folie,
+
+406
+00:25:26,440 --> 00:25:28,440
+plus que ça, il aurait qualifié Xavier
+
+407
+00:25:28,440 --> 00:25:30,440
+Niel, attention, préparez-vous, d'homme du
+
+408
+00:25:30,440 --> 00:25:32,440
+pipe chaud !
+
+409
+00:25:32,440 --> 00:25:34,440
+Parce que rappelons que Xavier Niel, effectivement, a fait sa fortune
+
+410
+00:25:34,440 --> 00:25:36,440
+sur le Minitel Rose,
+
+411
+00:25:36,440 --> 00:25:38,440
+c'est comme ça qu'il y a à démarrer, d'ailleurs je pense
+
+412
+00:25:38,440 --> 00:25:40,440
+qu'ils doivent toujours continuer, truc de cul, frère, que je regarde
+
+413
+00:25:40,440 --> 00:25:42,440
+en ce cas, leur bilan, ça doit être marrant.
+
+414
+00:25:42,440 --> 00:25:44,440
+Enfin bref, c'était la petite news de Nicolas Borde,
+
+415
+00:25:44,440 --> 00:25:46,440
+alors, qu'est-ce que vous en pensez ?
+
+416
+00:25:46,440 --> 00:25:48,440
+Pas mal, intéressant. Il faut donner une note sur 10.
+
+417
+00:25:48,440 --> 00:25:50,440
+J'attends de voir la
+
+418
+00:25:50,440 --> 00:25:52,440
+suite, parce que c'est pas évident.
+
+419
+00:25:52,440 --> 00:25:54,440
+Bon allez, 7 sur 10.
+
+420
+00:25:54,440 --> 00:25:56,440
+Ok, cette fois-ci,
+
+421
+00:25:56,440 --> 00:25:58,440
+c'est au tour de Morgoth,
+
+422
+00:25:58,440 --> 00:26:00,440
+je crois même que Morgoth est sur le chat,
+
+423
+00:26:00,440 --> 00:26:02,440
+je l'ai vu.
+
+424
+00:26:02,440 --> 00:26:04,440
+Morgoth, seigneur des ténèbres et des news.
+
+425
+00:26:04,440 --> 00:26:06,440
+Alors, Morgoth
+
+426
+00:26:06,440 --> 00:26:08,440
+M-O-R-G-O-T-T-H,
+
+427
+00:26:08,440 --> 00:26:10,440
+c'est bien ça, il y a deux T, il y a deux T,
+
+428
+00:26:10,440 --> 00:26:12,440
+qui m'a envoyé une news à propos de la nouvelle
+
+429
+00:26:12,440 --> 00:26:14,440
+DS, celle qui serait en 3D,
+
+430
+00:26:14,440 --> 00:26:16,440
+donc la console portable de Nintendo.
+
+431
+00:26:16,440 --> 00:26:18,440
+Il y aurait des rumeurs,
+
+432
+00:26:18,440 --> 00:26:20,440
+et ça vient de Gameblog, puisque j'aurais demandé à chaque fois
+
+433
+00:26:20,440 --> 00:26:22,440
+de m'envoyer de la source. Il a trouvé le bon podcast
+
+434
+00:26:22,440 --> 00:26:24,440
+si c'est pour envoyer une rumeur, alors.
+
+435
+00:26:24,440 --> 00:26:26,440
+Voilà, exactement. Mais là, entre autres, j'aurais demandé à chaque fois
+
+436
+00:26:26,440 --> 00:26:28,440
+de m'envoyer le lien, qui sont tous disponibles sur des issues,
+
+437
+00:26:28,440 --> 00:26:30,440
+donc voilà, il y a une sorte de
+
+438
+00:26:30,440 --> 00:26:32,440
+socle à tout cela, vous pouvez vous plaindre
+
+439
+00:26:32,440 --> 00:26:34,440
+à ces personnes-là si c'est faux. Comme quoi,
+
+440
+00:26:34,440 --> 00:26:36,440
+bref, la nouvelle DS serait
+
+441
+00:26:36,440 --> 00:26:38,440
+aussi puissante qu'une Xbox 360
+
+442
+00:26:38,440 --> 00:26:40,440
+sur une PS3.
+
+443
+00:26:40,440 --> 00:26:42,440
+Attention, j'ai bien dit rumeur, je vois
+
+444
+00:26:42,440 --> 00:26:44,440
+le regard sombre de l'ordre de ton père.
+
+445
+00:26:44,440 --> 00:26:46,440
+Donc, voilà,
+
+446
+00:26:46,440 --> 00:26:48,440
+vous en pensez quoi ?
+
+447
+00:26:48,440 --> 00:26:50,440
+Écoute, moi je ne joue pas aux jeux vidéo, donc ça m'intéresse pas du tout.
+
+448
+00:26:50,440 --> 00:26:52,440
+Alors, Morgoth
+
+449
+00:26:52,440 --> 00:26:54,440
+m'avait dit que l'intérêt, peut-être, si jamais
+
+450
+00:26:54,440 --> 00:26:56,440
+ils arrivaient à faire une machine aussi puissante,
+
+451
+00:26:56,440 --> 00:26:58,440
+ça serait tout simplement de faire tourner dessus,
+
+452
+00:26:58,440 --> 00:27:00,440
+donc d'acquier la machine, et de faire tourner dessus
+
+453
+00:27:00,440 --> 00:27:02,440
+des émulateurs, PS2, PS5, etc.
+
+454
+00:27:02,440 --> 00:27:04,440
+Ce qui permettrait d'avoir
+
+455
+00:27:04,440 --> 00:27:06,440
+des putains de jeux sur des consoles portables.
+
+456
+00:27:06,440 --> 00:27:08,440
+Bah, écoute, oui, oui, c'est très affriolant.
+
+457
+00:27:08,440 --> 00:27:10,440
+Moi, ce que je propose, c'est qu'on en achète
+
+458
+00:27:10,440 --> 00:27:12,440
+100 000, on les fout tous en réseau, on fait un supercalculateur.
+
+459
+00:27:12,440 --> 00:27:14,440
+Bah, l'Iran a déjà fait ça, non ?
+
+460
+00:27:14,440 --> 00:27:16,440
+Ah bon ? Je sais pas. Bon, bref.
+
+461
+00:27:16,440 --> 00:27:18,440
+C'est pas la Chine, là ? Oui.
+
+462
+00:27:18,440 --> 00:27:20,440
+Écoute, je sais pas, est-ce qu'il y aurait donc
+
+463
+00:27:20,440 --> 00:27:22,440
+un nouveau cap graphique franchi
+
+464
+00:27:22,440 --> 00:27:24,440
+par Nintendo, qui choisirait donc
+
+465
+00:27:24,440 --> 00:27:26,440
+de se relancer dans la course à la puissance ?
+
+466
+00:27:26,440 --> 00:27:28,440
+À votre avis ?
+
+467
+00:27:28,440 --> 00:27:30,440
+J'y crois pas trop, mais j'ai pas d'infos, alors...
+
+468
+00:27:30,440 --> 00:27:32,440
+Quacoss, ton avis, probable ?
+
+469
+00:27:32,440 --> 00:27:34,440
+Mon avis, il m'intéresse personne, je pense.
+
+470
+00:27:34,440 --> 00:27:36,440
+Ok, bon, bah écoutez.
+
+471
+00:27:36,440 --> 00:27:38,440
+Non, non, mais bon, petite info, mais ça reste une rumeur,
+
+472
+00:27:38,440 --> 00:27:40,440
+on peut pas super bien noter une info comme ça.
+
+473
+00:27:40,440 --> 00:27:42,440
+Allez, 6 sur 10.
+
+474
+00:27:42,440 --> 00:27:44,440
+On tombe bien ? Pareil. Voilà.
+
+475
+00:27:44,440 --> 00:27:46,440
+Ok.
+
+476
+00:27:46,440 --> 00:27:48,440
+Maintenant, c'est tout de suite de...
+
+477
+00:27:48,440 --> 00:27:50,440
+Alges, qui se prononce
+
+478
+00:27:50,440 --> 00:27:52,440
+J-A-S, alors vous pouvez le suivre sur Twitter,
+
+479
+00:27:52,440 --> 00:27:54,440
+A-L-J-E-S,
+
+480
+00:27:54,440 --> 00:27:56,440
+qui me parle du Parlement Australien,
+
+481
+00:27:56,440 --> 00:27:58,440
+qui vient de passer son site sous licence
+
+482
+00:27:58,440 --> 00:28:00,440
+Creative Commons.
+
+483
+00:28:00,440 --> 00:28:02,440
+Donc, pour pouvoir mieux accéder
+
+484
+00:28:02,440 --> 00:28:04,440
+plus facilement à tous les tests, les redistribuer, etc.
+
+485
+00:28:04,440 --> 00:28:06,440
+Et donc,
+
+486
+00:28:06,440 --> 00:28:08,440
+la personne qui m'a envoyé le lien
+
+487
+00:28:08,440 --> 00:28:10,440
+de l'article, et la personne qui a écrit l'article
+
+488
+00:28:10,440 --> 00:28:12,440
+l'a vérifié, et l'Assemblée Nationale
+
+489
+00:28:12,440 --> 00:28:14,440
+aurait aussi, notre Assemblée Nationale
+
+490
+00:28:14,440 --> 00:28:16,440
+française, serait aussi sous un type
+
+491
+00:28:16,440 --> 00:28:18,440
+de Creative Commons, mais
+
+492
+00:28:18,440 --> 00:28:20,440
+un truc sur mesure qu'ils auraient fait eux-mêmes.
+
+493
+00:28:20,440 --> 00:28:22,440
+Donc, voilà, voilà, ils m'avaient envoyé
+
+494
+00:28:22,440 --> 00:28:24,440
+cette info ! Qu'est-ce que vous en pensez ?
+
+495
+00:28:24,440 --> 00:28:26,440
+Alors, anti-stress, 10 sur 10.
+
+496
+00:28:26,440 --> 00:28:28,440
+Et leur ton père ?
+
+497
+00:28:28,440 --> 00:28:30,440
+Non, c'est Quacos. Ah oui,
+
+498
+00:28:30,440 --> 00:28:32,440
+il faut que je donne mon avis aussi. Ah bah oui, c'est intéressant.
+
+499
+00:28:32,440 --> 00:28:34,440
+J'aime bien cette info, 7 sur 10.
+
+500
+00:28:34,440 --> 00:28:36,440
+Pareil. Oh putain, vous mouillez pas.
+
+501
+00:28:38,440 --> 00:28:40,440
+Et c'est au tour de Greg Fjolt.
+
+502
+00:28:40,440 --> 00:28:42,440
+Mec, faut que
+
+503
+00:28:42,440 --> 00:28:44,440
+vous vous changiez de nom pour que ce soit plus simple.
+
+504
+00:28:44,440 --> 00:28:46,440
+Donc, G-R-E-G-F-I-A-U-L-T
+
+505
+00:28:46,440 --> 00:28:48,440
+F-I-A-U-L-T sur Twitter.
+
+506
+00:28:48,440 --> 00:28:50,440
+Suivez-le tous ! Google qui se lance
+
+507
+00:28:50,440 --> 00:28:52,440
+dans la musique et qui pourrait même espérer
+
+508
+00:28:52,440 --> 00:28:54,440
+concurrencer iTunes.
+
+509
+00:28:54,440 --> 00:28:56,440
+TechCrunch qui nous parle de ça, donc
+
+510
+00:28:56,440 --> 00:28:58,440
+Google Music. Il me semble
+
+511
+00:28:58,440 --> 00:29:00,440
+qu'on avait parlé d'un truc équivalent il y a quelques temps.
+
+512
+00:29:00,440 --> 00:29:02,440
+Ils avaient un service en Chine qui était à peu près
+
+513
+00:29:02,440 --> 00:29:04,440
+comme ça, bref. Donc, un nouveau service de Google
+
+514
+00:29:04,440 --> 00:29:06,440
+qui permettrait de trouver une chanson apprenant
+
+515
+00:29:06,440 --> 00:29:08,440
+sur le web et de le télécharger directement
+
+516
+00:29:08,440 --> 00:29:10,440
+sur Android, par exemple, avec simplement un bouton
+
+517
+00:29:10,440 --> 00:29:12,440
+télécharger cette musique.
+
+518
+00:29:12,440 --> 00:29:14,440
+Ça semble logique, dans la logique
+
+519
+00:29:14,440 --> 00:29:16,440
+de Google, de tout indexer et trop proposer.
+
+520
+00:29:16,440 --> 00:29:18,440
+Oui. Je ne sais pas si...
+
+521
+00:29:18,440 --> 00:29:20,440
+En même temps, iTunes est tellement à chier que je me dis que
+
+522
+00:29:20,440 --> 00:29:22,440
+c'est un compréhensible qu'il n'y ait jamais eu quelque chose de solide face à ça.
+
+523
+00:29:22,440 --> 00:29:24,440
+Mais... Parce que tout
+
+524
+00:29:24,440 --> 00:29:26,440
+est relié, quoi. C'est une plateforme à iTunes.
+
+525
+00:29:26,440 --> 00:29:28,440
+C'est même plus un logiciel,
+
+526
+00:29:28,440 --> 00:29:30,440
+c'est une plateforme. Oui, mais
+
+527
+00:29:30,440 --> 00:29:32,440
+c'est une plateforme à chier. D'accord,
+
+528
+00:29:32,440 --> 00:29:34,440
+mais si tu as un... C'est-à-dire l'interface,
+
+529
+00:29:34,440 --> 00:29:36,440
+la plateforme. Un Ipod ou un Ipad
+
+530
+00:29:36,440 --> 00:29:38,440
+ou un Iphone ou tout ce que tu veux, t'as un jeu d'avoir iTunes.
+
+531
+00:29:38,440 --> 00:29:40,440
+Alors, je lance jamais iTunes sur Mac,
+
+532
+00:29:40,440 --> 00:29:42,440
+donc je ne sais pas. Sur PC, c'est un enfer, quoi.
+
+533
+00:29:42,440 --> 00:29:44,440
+En même temps... J'ai jamais vu un logiciel
+
+534
+00:29:44,440 --> 00:29:46,440
+aussi long que ça et aussi peu
+
+535
+00:29:46,440 --> 00:29:48,440
+bien foutu. Je ne parle même pas des notes
+
+536
+00:29:48,440 --> 00:29:50,440
+des podcasts et autres parce que là, c'est carrément l'enfer, quoi.
+
+537
+00:29:50,440 --> 00:29:52,440
+Personne n'a jamais compris leur putain d'algorithme.
+
+538
+00:29:52,440 --> 00:29:54,440
+Antistress ralat te dirait
+
+539
+00:29:54,440 --> 00:29:56,440
+que Windows est une plateforme à chier par rapport
+
+540
+00:29:56,440 --> 00:29:58,440
+à Linux et tout ça.
+
+541
+00:29:58,440 --> 00:30:00,440
+Et pourtant, 95% des gens
+
+542
+00:30:00,440 --> 00:30:02,440
+ont Windows. C'est juste
+
+543
+00:30:02,440 --> 00:30:04,440
+comme ça. C'est le problème de l'alternative.
+
+544
+00:30:04,440 --> 00:30:06,440
+C'est le problème. Voilà, exactement. D'ailleurs, il y a une
+
+545
+00:30:06,440 --> 00:30:08,440
+soirée à la cantine
+
+546
+00:30:08,440 --> 00:30:10,440
+où sera Babesor qui nous a invités à passer
+
+547
+00:30:10,440 --> 00:30:12,440
+en juillet, je crois, sur le...
+
+548
+00:30:12,440 --> 00:30:14,440
+sur un monde open source
+
+549
+00:30:14,440 --> 00:30:16,440
+ou je ne sais plus quoi. Je serais assez tenté
+
+550
+00:30:16,440 --> 00:30:18,440
+de peut-hasser, mais je ne sais pas si je pourrais.
+
+551
+00:30:18,440 --> 00:30:20,440
+OK, la note, qu'est-ce que vous en pensez ?
+
+552
+00:30:20,440 --> 00:30:22,440
+Super. Pas mal, pas mal. 7 aussi, c'est bien.
+
+553
+00:30:22,440 --> 00:30:24,440
+Bon, d'accord. On va donner 7 à tout le monde,
+
+554
+00:30:24,440 --> 00:30:26,440
+comme ça, c'est magistrat d'avoir à vous demander à chaque fois.
+
+555
+00:30:26,440 --> 00:30:28,440
+Et c'est au tour
+
+556
+00:30:28,440 --> 00:30:30,440
+de la salle
+
+557
+00:30:30,440 --> 00:30:32,440
+ELA2SALLE
+
+558
+00:30:32,440 --> 00:30:34,440
+qui
+
+559
+00:30:34,440 --> 00:30:36,440
+nous parle de la Chine qui aurait publié
+
+560
+00:30:36,440 --> 00:30:38,440
+un livre blanc
+
+561
+00:30:38,440 --> 00:30:40,440
+qui expliquerait les raisons de la censure
+
+562
+00:30:40,440 --> 00:30:42,440
+en Chine de l'internet. Ah, j'aimerais bien dire ça.
+
+563
+00:30:42,440 --> 00:30:44,440
+Ils l'ont traduit ou pas ? Alors, je ne sais pas.
+
+564
+00:30:44,440 --> 00:30:46,440
+Par contre, j'ai lu l'article du Monde qui disait pas grand-chose,
+
+565
+00:30:46,440 --> 00:30:48,440
+selon moi, à voir, mais donc
+
+566
+00:30:48,440 --> 00:30:50,440
+il se justifie
+
+567
+00:30:50,440 --> 00:30:52,440
+sur le sujet en disant qu'ils sont un état
+
+568
+00:30:52,440 --> 00:30:54,440
+souverain et qu'en conséquence, ils font ce qu'ils veulent.
+
+569
+00:30:54,440 --> 00:30:56,440
+Si Internet est sur leur territoire,
+
+570
+00:30:56,440 --> 00:30:58,440
+ils font ce qu'ils veulent avec Internet, en gros.
+
+571
+00:30:58,440 --> 00:31:00,440
+Non, mais ce qui est intéressant, c'est qu'ils essaient de se justifier,
+
+572
+00:31:00,440 --> 00:31:02,440
+qu'ils avancent des arguments, qu'ils soient bons ou mauvais.
+
+573
+00:31:02,440 --> 00:31:04,440
+Jusqu'à maintenant, je crois qu'ils avaient un peu envahi chier
+
+574
+00:31:05,440 --> 00:31:07,440
+Donc, à partir du moment où ils acceptent de donner des arguments,
+
+575
+00:31:07,440 --> 00:31:09,440
+c'est qu'ils acceptent de discuter.
+
+576
+00:31:09,440 --> 00:31:11,440
+À long terme, en tout cas.
+
+577
+00:31:11,440 --> 00:31:13,440
+La Chine discute, il n'y a aucun souci.
+
+578
+00:31:13,440 --> 00:31:15,440
+Bien sûr, c'est reconnu pour ça.
+
+579
+00:31:15,440 --> 00:31:17,440
+En tout cas, ce n'est quand même pas demain qu'on verra
+
+580
+00:31:17,440 --> 00:31:19,440
+des sites de boules autorisés en Chine.
+
+581
+00:31:19,440 --> 00:31:21,440
+Bien qu'il semblerait qu'une partie des sites de cul
+
+582
+00:31:21,440 --> 00:31:23,440
+ait fonctionné parfaitement en Chine,
+
+583
+00:31:23,440 --> 00:31:25,440
+je crois que c'était la semaine dernière.
+
+584
+00:31:25,440 --> 00:31:27,440
+Pendant quelques heures. Pendant quelques heures, oui.
+
+585
+00:31:27,440 --> 00:31:29,440
+Ça n'a pas dû durer longtemps, même si je ne suis pas allé vérifier.
+
+586
+00:31:29,440 --> 00:31:31,440
+Écoute, quand même, je crois que sur le level Jasmine,
+
+587
+00:31:31,440 --> 00:31:33,440
+il y a quand même pas mal de Chinoises.
+
+588
+00:31:33,440 --> 00:31:35,440
+Bah oui, c'est encore pire.
+
+589
+00:31:35,440 --> 00:31:37,440
+C'est encore pire.
+
+590
+00:31:37,440 --> 00:31:39,440
+Moi, je pense qu'on devrait leur donner une médaille à ces jeunes filles.
+
+591
+00:31:39,440 --> 00:31:41,440
+Le Great Firewall,
+
+592
+00:31:41,440 --> 00:31:43,440
+si tu veux, ça peut sortir, mais ça ne rentre pas.
+
+593
+00:31:43,440 --> 00:31:45,440
+Le Great Firewall ?
+
+594
+00:31:45,440 --> 00:31:47,440
+Oui, bref.
+
+595
+00:31:47,440 --> 00:31:49,440
+C'est quand même le départ de leur cerveau.
+
+596
+00:31:51,440 --> 00:31:53,440
+Allez, c'est tout ?
+
+597
+00:31:53,440 --> 00:31:55,440
+Il y a quelqu'un sur le chat qui me dit
+
+598
+00:31:55,440 --> 00:31:57,440
+qu'il n'a jamais vu iTunes ramé.
+
+599
+00:31:57,440 --> 00:31:59,440
+T'as de la chance.
+
+600
+00:31:59,440 --> 00:32:01,440
+Il a un supercalculateur.
+
+601
+00:32:01,440 --> 00:32:03,440
+J'ai vu quand même un ramé.
+
+602
+00:32:03,440 --> 00:32:05,440
+Des fois, je ne l'ai même vu plus du tout tellement il y a un ramé.
+
+603
+00:32:05,440 --> 00:32:07,440
+OK, news suivante.
+
+604
+00:32:07,440 --> 00:32:09,440
+Et c'est encore
+
+605
+00:32:09,440 --> 00:32:11,440
+Greg Fjolt
+
+606
+00:32:11,440 --> 00:32:13,440
+qui nous parle de l'iPad.
+
+607
+00:32:13,440 --> 00:32:15,440
+Qui nous parle d'un concurrent de l'iPad
+
+608
+00:32:15,440 --> 00:32:17,440
+que Asus serait sur le point de lancer.
+
+609
+00:32:17,440 --> 00:32:19,440
+Sous Windows 7.
+
+610
+00:32:19,440 --> 00:32:21,440
+Alors, évidemment, il a tout ce qu'il n'a pas.
+
+611
+00:32:21,440 --> 00:32:23,440
+L'iPad, à savoir un port USB.
+
+612
+00:32:23,440 --> 00:32:25,440
+Il n'a rien aussi de ce qu'a l'iPad.
+
+613
+00:32:25,440 --> 00:32:27,440
+C'est ça ?
+
+614
+00:32:27,440 --> 00:32:29,440
+Oui, c'est sous Windows 7.
+
+615
+00:32:29,440 --> 00:32:31,440
+Il me fait un peu peur parce que je ne vois même
+
+616
+00:32:31,440 --> 00:32:33,440
+une tablette sous Windows 7.
+
+617
+00:32:33,440 --> 00:32:35,440
+À moins que ce soit une version allégée.
+
+618
+00:32:35,440 --> 00:32:37,440
+Oui, mais même si tu veux
+
+619
+00:32:37,440 --> 00:32:39,440
+cette façon de faire, de vouloir reprendre
+
+620
+00:32:39,440 --> 00:32:41,440
+un système qui est fait avec un système de bureau
+
+621
+00:32:41,440 --> 00:32:43,440
+pour le foutre sur une tablette, je ne sais plus
+
+622
+00:32:43,440 --> 00:32:45,440
+avec qui on en parlait l'autre jour.
+
+623
+00:32:45,440 --> 00:32:47,440
+Je ne vois pas l'intérêt.
+
+624
+00:32:47,440 --> 00:32:49,440
+Mais en tout cas, l'info est bonne.
+
+625
+00:32:49,440 --> 00:32:51,440
+Mais ce n'est pas les seuls.
+
+626
+00:32:51,440 --> 00:32:53,440
+J'ai hâte qu'il y ait une grosse concurrence
+
+627
+00:32:53,440 --> 00:32:55,440
+sur les tablettes.
+
+628
+00:32:55,440 --> 00:32:57,440
+À mon avis, ce n'est pas gagné.
+
+629
+00:32:57,440 --> 00:32:59,440
+Ils viennent juste d'arriver.
+
+630
+00:32:59,440 --> 00:33:01,440
+Les autres sont en train de renifler le marché.
+
+631
+00:33:01,440 --> 00:33:03,440
+Je n'ai rien vu en face qui a l'air d'être sérieux.
+
+632
+00:33:03,440 --> 00:33:05,440
+Par contre, j'étais à Mobli tout à l'heure.
+
+633
+00:33:05,440 --> 00:33:07,440
+Côté téléphone portable, il y a
+
+634
+00:33:07,440 --> 00:33:09,440
+un truc intéressant qui arrive. Il y a un Samsung
+
+635
+00:33:09,440 --> 00:33:11,440
+que j'ai vu.
+
+636
+00:33:11,440 --> 00:33:13,440
+Est-ce que tu peux dire à nos auditeurs ce qu'est la Mobli ?
+
+637
+00:33:13,440 --> 00:33:15,440
+La Mobli, c'est des soirées qui sont organisées
+
+638
+00:33:15,440 --> 00:33:17,440
+par Zofanaus tous les trois ou quatre mois.
+
+639
+00:33:17,440 --> 00:33:19,440
+On peut tester les nouveaux modèles.
+
+640
+00:33:19,440 --> 00:33:21,440
+Tu m'as dit qu'il y avait
+
+641
+00:33:21,440 --> 00:33:23,440
+pas de buffet.
+
+642
+00:33:23,440 --> 00:33:25,440
+Il faut payer sa bière.
+
+643
+00:33:25,440 --> 00:33:27,440
+Franchement,
+
+644
+00:33:27,440 --> 00:33:29,440
+Zofanaus, c'est la cata.
+
+645
+00:33:29,440 --> 00:33:31,440
+Tu vas vraiment dans des soirées merdiques.
+
+646
+00:33:31,440 --> 00:33:33,440
+C'est des soirées pour le Bapeuple.
+
+647
+00:33:33,440 --> 00:33:35,440
+Si tu veux, tout le monde peut y aller.
+
+648
+00:33:35,440 --> 00:33:37,440
+Ce ne sont pas des soirées où nous sommes invités d'habitude.
+
+649
+00:33:37,440 --> 00:33:39,440
+D'ailleurs, lors que ton père n'a pas voulu venir,
+
+650
+00:33:39,440 --> 00:33:41,440
+tu as énormément déçu. Tout le monde t'attendait.
+
+651
+00:33:41,440 --> 00:33:43,440
+C'est bien contre ma volonté, mais j'avais beaucoup de boulot.
+
+652
+00:33:43,440 --> 00:33:45,440
+C'est marrant, ce n'est pas ce que tu m'as dit.
+
+653
+00:33:45,440 --> 00:33:47,440
+Tu m'as dit quelque chose comme
+
+654
+00:33:47,440 --> 00:33:49,440
+voir ses crevards, non merci.
+
+655
+00:33:49,440 --> 00:33:51,440
+Ensuite, tu as commencé à les insulter
+
+656
+00:33:51,440 --> 00:33:53,440
+dans un langage que je ne comprends pas.
+
+657
+00:33:53,440 --> 00:33:55,440
+Bon bref,
+
+658
+00:33:55,440 --> 00:33:57,440
+ça, c'était la news sur l'iPad.
+
+659
+00:33:57,440 --> 00:33:59,440
+Est-ce que ça intéresse, enfin, sur l'iPad
+
+660
+00:33:59,440 --> 00:34:01,440
+like d'Asus ?
+
+661
+00:34:01,440 --> 00:34:03,440
+Oui, j'ai tant de voir.
+
+662
+00:34:03,440 --> 00:34:05,440
+C'est intéressant.
+
+663
+00:34:05,440 --> 00:34:07,440
+Elle est 7 et demi.
+
+664
+00:34:07,440 --> 00:34:09,440
+Pas mal.
+
+665
+00:34:09,440 --> 00:34:11,440
+Alors, cette fois-ci, c'est Calvin
+
+666
+00:34:11,440 --> 00:34:13,440
+Hatt, Calvin,
+
+667
+00:34:13,440 --> 00:34:15,440
+qui me parle du Chogo.
+
+668
+00:34:15,440 --> 00:34:17,440
+C'est encore une tablette.
+
+669
+00:34:17,440 --> 00:34:19,440
+Sauf que c'est une tablette, apparemment,
+
+670
+00:34:19,440 --> 00:34:21,440
+d'après ce que j'ai lu, qui permettrait de couper
+
+671
+00:34:21,440 --> 00:34:23,440
+la tablette.
+
+672
+00:34:23,440 --> 00:34:25,440
+Tu pourrais la construire toi-même, choisir les composants
+
+673
+00:34:25,440 --> 00:34:27,440
+qui sont à l'intérieur, sur mesure,
+
+674
+00:34:27,440 --> 00:34:29,440
+en fonction de tes besoins, si tu veux.
+
+675
+00:34:29,440 --> 00:34:31,440
+Et le système s'adapterait au contenu de la tablette.
+
+676
+00:34:31,440 --> 00:34:33,440
+C'est typiquement le genre de truc qui ne marchera pas.
+
+677
+00:34:33,440 --> 00:34:35,440
+Je ne sais pas.
+
+678
+00:34:35,440 --> 00:34:37,440
+En tout cas, de base, le truc que proposerait un écran
+
+679
+00:34:37,440 --> 00:34:39,440
+tactile de 10 pouces,
+
+680
+00:34:39,440 --> 00:34:41,440
+tu pourrais embarquer soit un processeur free-scale,
+
+681
+00:34:41,440 --> 00:34:43,440
+MX37
+
+682
+00:34:43,440 --> 00:34:45,440
+ou MX51, j'imagine qu'il y a une différence
+
+683
+00:34:45,440 --> 00:34:47,440
+entre les deux.
+
+684
+00:34:47,440 --> 00:34:49,440
+Du Wi-Fi, du Bluetooth, appareil photo numérique,
+
+685
+00:34:49,440 --> 00:34:51,440
+Webcam, etc.
+
+686
+00:34:51,440 --> 00:34:53,440
+Tout ça en option.
+
+687
+00:34:53,440 --> 00:34:55,440
+Si tu ne prends aucune option, je pense que ça ne va pas coûter cher.
+
+688
+00:34:55,440 --> 00:34:57,440
+Tu ne dois pas pouvoir faire grand-chose avec non plus, mais
+
+689
+00:34:57,440 --> 00:34:59,440
+ça reste une tablette et c'est la place pour filmer.
+
+690
+00:34:59,440 --> 00:35:01,440
+Pour emballer des gonzesses.
+
+691
+00:35:01,440 --> 00:35:03,440
+Ça va emballer sec.
+
+692
+00:35:03,440 --> 00:35:05,440
+Je trouve ça intéressant.
+
+693
+00:35:05,440 --> 00:35:07,440
+Le truc, c'est que la Shogo de base,
+
+694
+00:35:07,440 --> 00:35:09,440
+sûrement avec le moins d'options,
+
+695
+00:35:09,440 --> 00:35:11,440
+coûtera quand même 500 dollars.
+
+696
+00:35:11,440 --> 00:35:13,440
+Je pense qu'il y a un gros fail.
+
+697
+00:35:13,440 --> 00:35:15,440
+Mais je mets quand même 9 sur 10
+
+698
+00:35:15,440 --> 00:35:17,440
+à quel 20, parce que c'est lui qui a ramené
+
+699
+00:35:17,440 --> 00:35:19,440
+la tablette.
+
+700
+00:35:19,440 --> 00:35:21,440
+Calvin, merci à toi.
+
+701
+00:35:21,440 --> 00:35:23,440
+Rien que pour ça, suivez le tout.
+
+702
+00:35:23,440 --> 00:35:25,440
+Sur Twitter, pour qu'il nous rapporte plus de bouteilles de whisky.
+
+703
+00:35:25,440 --> 00:35:27,440
+Et après, il y a
+
+704
+00:35:27,440 --> 00:35:29,440
+BBOXOS, que tout le monde connaît bien
+
+705
+00:35:29,440 --> 00:35:31,440
+sur Twitter, BBOXOS, B-O-X-O-S
+
+706
+00:35:31,440 --> 00:35:33,440
+avec plein de majuscules partout.
+
+707
+00:35:33,440 --> 00:35:35,440
+Avec un X en majuscule d'ailleurs.
+
+708
+00:35:35,440 --> 00:35:37,440
+Et un B, deux B en majuscule.
+
+709
+00:35:37,440 --> 00:35:39,440
+Et un S aussi en majuscule.
+
+710
+00:35:39,440 --> 00:35:41,440
+Pendant qu'on est en train de se faire spammer à mort notre
+
+711
+00:35:41,440 --> 00:35:43,440
+chaîne.
+
+712
+00:35:43,440 --> 00:35:45,440
+Il m'a envoyé un petit
+
+713
+00:35:45,440 --> 00:35:47,440
+article qui parlait du processeur Apple A4.
+
+714
+00:35:47,440 --> 00:35:49,440
+I4.
+
+715
+00:35:49,440 --> 00:35:51,440
+A4.
+
+716
+00:35:51,440 --> 00:35:53,440
+A4.
+
+717
+00:35:53,440 --> 00:35:55,440
+Pour une fois, ils n'ont pas foutu de I2, ils sont passés au A.
+
+718
+00:35:55,440 --> 00:35:57,440
+Ce qui est intéressant, c'est qu'il y a eu une analyse
+
+719
+00:35:57,440 --> 00:35:59,440
+qui a été faite par une boîte
+
+720
+00:35:59,440 --> 00:36:01,440
+indépendante.
+
+721
+00:36:01,440 --> 00:36:03,440
+Pour savoir sur quel design de base a été construit le processeur.
+
+722
+00:36:03,440 --> 00:36:05,440
+Oui, voilà, exactement. En fait, ils se sont rendu compte
+
+723
+00:36:05,440 --> 00:36:07,440
+qu'il n'y avait pratiquement aucune différence avec un Proce de Samsung
+
+724
+00:36:07,440 --> 00:36:09,440
+qui est le...
+
+725
+00:36:09,440 --> 00:36:11,440
+Tu parles du Core A8 ?
+
+726
+00:36:11,440 --> 00:36:13,440
+Du Samsung Wave S8500.
+
+727
+00:36:13,440 --> 00:36:15,440
+Qui équipe des téléphones portables.
+
+728
+00:36:15,440 --> 00:36:17,440
+Samsung construit le...
+
+729
+00:36:17,440 --> 00:36:19,440
+Il y a eu des grosses discussions
+
+730
+00:36:19,440 --> 00:36:21,440
+justement sur le sujet.
+
+731
+00:36:21,440 --> 00:36:23,440
+À chaque fois, les personnes
+
+732
+00:36:23,440 --> 00:36:25,440
+qui ont fait les analyses ont vu, à chaque fois, on dit
+
+733
+00:36:25,440 --> 00:36:27,440
+c'est ce processeur là. Et il y a eu deux, trois processeurs
+
+734
+00:36:27,440 --> 00:36:29,440
+qui sont passés, on ne sait toujours pas c'est lequel réellement.
+
+735
+00:36:29,440 --> 00:36:31,440
+Je ne sais pas, en tout cas, il y avait une photo qui avait été prise
+
+736
+00:36:31,440 --> 00:36:33,440
+au microscope des deux Pros l'un côté de l'autre.
+
+737
+00:36:33,440 --> 00:36:35,440
+Quel analyse !
+
+738
+00:36:35,440 --> 00:36:37,440
+Et ça, c'est une putain...
+
+739
+00:36:37,440 --> 00:36:39,440
+Ils ont disséqué.
+
+740
+00:36:39,440 --> 00:36:41,440
+Ça, c'est de la news solide, si tu veux.
+
+741
+00:36:41,440 --> 00:36:43,440
+Pour moi, ça a l'air de se ressembler, en même temps, comme je n'y connais rien
+
+742
+00:36:43,440 --> 00:36:45,440
+au microprocesseur, c'est peut-être normal.
+
+743
+00:36:45,440 --> 00:36:47,440
+Moi non plus, je n'y connais rien.
+
+744
+00:36:47,440 --> 00:36:49,440
+On note la news !
+
+745
+00:36:49,440 --> 00:36:51,440
+Moi, je ne connais pas grand-chose non plus.
+
+746
+00:36:51,440 --> 00:36:53,440
+C'est bien.
+
+747
+00:36:53,440 --> 00:36:55,440
+On en est trois. Ça, c'est du podcast.
+
+748
+00:36:55,440 --> 00:36:57,440
+Ça, c'est de l'info, c'est sérieux.
+
+749
+00:36:57,440 --> 00:36:59,440
+C'est intéressant.
+
+750
+00:36:59,440 --> 00:37:01,440
+Oui, c'est intéressant.
+
+751
+00:37:01,440 --> 00:37:03,440
+Pas de whisky, donc 6,5.
+
+752
+00:37:03,440 --> 00:37:05,440
+D'accord.
+
+753
+00:37:05,440 --> 00:37:07,440
+Je suis David.
+
+754
+00:37:07,440 --> 00:37:09,440
+N'oublie pas,
+
+755
+00:37:09,440 --> 00:37:11,440
+2 points en plus pour une thé de whisky, 2 points plus pour un don paypal
+
+756
+00:37:11,440 --> 00:37:13,440
+de plus de 30 euros.
+
+757
+00:37:13,440 --> 00:37:15,440
+C'est ainsi que ça fonctionne chez le Capten.
+
+758
+00:37:15,440 --> 00:37:17,440
+Ça, ça m'a fait bien marrer.
+
+759
+00:37:17,440 --> 00:37:19,440
+C'est Dave59.
+
+760
+00:37:19,440 --> 00:37:21,440
+Il n'y a pas de E, comme le chanteur.
+
+761
+00:37:21,440 --> 00:37:23,440
+Mort, vivant ?
+
+762
+00:37:23,440 --> 00:37:25,440
+Il est encore vivant.
+
+763
+00:37:25,440 --> 00:37:27,440
+David59,
+
+764
+00:37:27,440 --> 00:37:29,440
+qui m'a filé un article de New York Times,
+
+765
+00:37:29,440 --> 00:37:31,440
+qui nous parle d'HP,
+
+766
+00:37:31,440 --> 00:37:33,440
+qui est une nouvelle stratégie, qui sort de nouvelles imprimantes, etc.
+
+767
+00:37:33,440 --> 00:37:35,440
+HP, c'est le fameux scanner.
+
+768
+00:37:35,440 --> 00:37:37,440
+Capten.
+
+769
+00:37:37,440 --> 00:37:39,440
+Les laser ne fonctionnent pas trop mal, les imprimantes HP sont incroables,
+
+770
+00:37:39,440 --> 00:37:41,440
+et j'adore les petites imprimantes HP.
+
+771
+00:37:41,440 --> 00:37:43,440
+Les laser HP, c'est ce qu'il y a de mieux.
+
+772
+00:37:43,440 --> 00:37:45,440
+Je n'ai pas trouvé mieux.
+
+773
+00:37:45,440 --> 00:37:47,440
+Franchement, moi qui suis un gros consommateur
+
+774
+00:37:47,440 --> 00:37:49,440
+d'imprimantes laser pour le bureau,
+
+775
+00:37:49,440 --> 00:37:51,440
+je...
+
+776
+00:37:51,440 --> 00:37:53,440
+Attends, tu donnes des informations.
+
+777
+00:37:53,440 --> 00:37:55,440
+Il y a toujours une imprimante laser.
+
+778
+00:37:55,440 --> 00:37:57,440
+Tout le monde va savoir que tu bosses pour Dorsal.
+
+779
+00:37:57,440 --> 00:37:59,440
+Toi qui fait les photocopies de jaquette.
+
+780
+00:37:59,440 --> 00:38:01,440
+Franchement,
+
+781
+00:38:01,440 --> 00:38:03,440
+celles qui ont réellement tenu
+
+782
+00:38:03,440 --> 00:38:05,440
+sans claquer au bout de 6 mois, c'est les HP.
+
+783
+00:38:05,440 --> 00:38:07,440
+Oui, non, c'est vrai, je te le confirme.
+
+784
+00:38:07,440 --> 00:38:09,440
+Le reste, c'est de la merde.
+
+785
+00:38:09,440 --> 00:38:11,440
+Moi aussi, et pourtant, j'ai une utilisation hardcore des imprimantes.
+
+786
+00:38:11,440 --> 00:38:13,440
+Enfin, en bref, HP va sortir de nouveaux modèles,
+
+787
+00:38:13,440 --> 00:38:15,440
+et là, par contre, c'est...
+
+788
+00:38:15,440 --> 00:38:17,440
+Ah, c'est pour iPhone ? Non !
+
+789
+00:38:17,440 --> 00:38:19,440
+Oui, exactement.
+
+790
+00:38:19,440 --> 00:38:21,440
+En fait, c'est des modèles qui ont une option qui...
+
+791
+00:38:21,440 --> 00:38:23,440
+Je ne suis pas sûr que ce soit.
+
+792
+00:38:23,440 --> 00:38:25,440
+Tu sais comment ils font pour imprimer ces abrutis ?
+
+793
+00:38:25,440 --> 00:38:27,440
+Il faut que l'iPhone envoie un mail.
+
+794
+00:38:27,440 --> 00:38:29,440
+Franchement, c'est ridicule.
+
+795
+00:38:29,440 --> 00:38:31,440
+Chaque imprimante va avoir sa propre adresse email unique
+
+796
+00:38:31,440 --> 00:38:33,440
+sur laquelle tu envieras un mail
+
+797
+00:38:33,440 --> 00:38:35,440
+et qui essaie d'imprimer un directeur.
+
+798
+00:38:35,440 --> 00:38:37,440
+Au début, quand tu ne réfléchis pas pendant 5 secondes,
+
+799
+00:38:37,440 --> 00:38:39,440
+tu te dis que ce n'est pas con.
+
+800
+00:38:39,440 --> 00:38:41,440
+Et quand tu réfléchis pendant 30 secondes,
+
+801
+00:38:41,440 --> 00:38:43,440
+tu te dis que si quelqu'un connait l'email,
+
+802
+00:38:43,440 --> 00:38:45,440
+il va pouvoir imprimer n'importe quoi dessus.
+
+803
+00:38:45,440 --> 00:38:47,440
+Et même, franchement, je m'envoie un email à mon ordi
+
+804
+00:38:47,440 --> 00:38:49,440
+et puis j'imprime.
+
+805
+00:38:49,440 --> 00:38:51,440
+Oui, c'est vrai, mais ça fait une étape en plus.
+
+806
+00:38:51,440 --> 00:38:53,440
+Il ferait mieux de passer un deal avec Apple
+
+807
+00:38:53,440 --> 00:38:55,440
+pour intégrer...
+
+808
+00:38:55,440 --> 00:38:57,440
+L'idée n'est pas bête, seulement il y a deux trucs.
+
+809
+00:38:57,440 --> 00:38:59,440
+Tu vas imprimer quoi ? L'idée n'est pas bête.
+
+810
+00:38:59,440 --> 00:39:01,440
+Tu as un problème avec ta phrase.
+
+811
+00:39:01,440 --> 00:39:03,440
+L'idée de pouvoir imprimer directement par l'iPhone,
+
+812
+00:39:03,440 --> 00:39:05,440
+tu envoies un email, ça s'imprime, ok.
+
+813
+00:39:05,440 --> 00:39:07,440
+Mais il y a deux choses. Soit il protège le truc par mot de passe
+
+814
+00:39:07,440 --> 00:39:09,440
+et ça perd tout l'intérêt parce qu'il faut taper le mot de passe
+
+815
+00:39:09,440 --> 00:39:11,440
+dans le mail ou un truc comme ça.
+
+816
+00:39:11,440 --> 00:39:13,440
+Sauf si tu le rends par défaut dans l'iPhone.
+
+817
+00:39:13,440 --> 00:39:15,440
+S'il le retient.
+
+818
+00:39:15,440 --> 00:39:17,440
+Dans ce cas, chaque fois que tu envoies un mail...
+
+819
+00:39:17,440 --> 00:39:19,440
+Il ne faut pas te planter d'emails par contre.
+
+820
+00:39:19,440 --> 00:39:21,440
+Ça, c'est la première position.
+
+821
+00:39:21,440 --> 00:39:23,440
+Deuxième possibilité,
+
+822
+00:39:23,440 --> 00:39:25,440
+simplement l'email est secret entre guillemets,
+
+823
+00:39:25,440 --> 00:39:27,440
+comme peut-être une adresse Mac.
+
+824
+00:39:27,440 --> 00:39:29,440
+Ce qui est sympa, c'est surtout que c'est l'email
+
+825
+00:39:29,440 --> 00:39:31,440
+par exemple pour prendre une marque OASA,
+
+826
+00:39:31,440 --> 00:39:33,440
+c'est qu'ils ont tous les documents que tu vas imprimer
+
+827
+00:39:33,440 --> 00:39:35,440
+vont passer par un serveur externe.
+
+828
+00:39:35,440 --> 00:39:37,440
+Que quelqu'un... Oh bah tiens, regardez, il imprime des trucs.
+
+829
+00:39:37,440 --> 00:39:39,440
+Et surtout, si quelqu'un chope ton email,
+
+830
+00:39:39,440 --> 00:39:41,440
+tu n'es pas dans la merde quand t'arrives au bureau le matin
+
+831
+00:39:41,440 --> 00:39:43,440
+et que t'as 150 000 trucs qui ont été imprimés dessus.
+
+832
+00:39:43,440 --> 00:39:45,440
+Des pubs à la compte, des spams...
+
+833
+00:39:45,440 --> 00:39:47,440
+Putain, tu t'inscrives à la menu vis de cdiscount,
+
+834
+00:39:47,440 --> 00:39:49,440
+c'est fini.
+
+835
+00:39:49,440 --> 00:39:51,440
+Ta cartouche laser, elle est morte en deux heures.
+
+836
+00:39:51,440 --> 00:39:53,440
+Cdiscount, pour envoyer du spam, ils y vont.
+
+837
+00:39:53,440 --> 00:39:55,440
+C'est waouh, la vache.
+
+838
+00:39:55,440 --> 00:39:57,440
+Je ne sais pas si c'est les pires.
+
+839
+00:39:57,440 --> 00:39:59,440
+Ils sont forts aussi dans le principe.
+
+840
+00:39:59,440 --> 00:40:01,440
+Cdiscount, c'est genre trois par jour.
+
+841
+00:40:01,440 --> 00:40:03,440
+Biboxos nous fait remarquer que finalement ils ont réinventé le fax.
+
+842
+00:40:03,440 --> 00:40:05,440
+Ouais, c'est pas con.
+
+843
+00:40:05,440 --> 00:40:07,440
+C'est un peu ça.
+
+844
+00:40:07,440 --> 00:40:09,440
+Sauf qu'à mon avis, c'est pire parce qu'un fax, au moins,
+
+845
+00:40:09,440 --> 00:40:11,440
+ça coûte un petit peu d'argent quand on envoie un fax.
+
+846
+00:40:11,440 --> 00:40:13,440
+L'email, à mon avis...
+
+847
+00:40:13,440 --> 00:40:15,440
+Je sais pas, je sens...
+
+848
+00:40:15,440 --> 00:40:17,440
+Franchement, ça sent le bricolage, c'est n'importe quoi.
+
+849
+00:40:17,440 --> 00:40:19,440
+Ça sent la mauvaise idée à mon avis.
+
+850
+00:40:19,440 --> 00:40:21,440
+En tout cas, ça coûtera 199 à 400 dollars.
+
+851
+00:40:21,440 --> 00:40:23,440
+En tout cas, la news est excellente.
+
+852
+00:40:23,440 --> 00:40:25,440
+La news, je la trouvais aussi intéressante.
+
+853
+00:40:25,440 --> 00:40:27,440
+9 en 10.
+
+854
+00:40:27,440 --> 00:40:29,440
+Moi, je dis 8.
+
+855
+00:40:29,440 --> 00:40:31,440
+Mais il manque du label.
+
+856
+00:40:31,440 --> 00:40:33,440
+Alors, toujours Greg Fjord
+
+857
+00:40:33,440 --> 00:40:35,440
+qui continue de...
+
+858
+00:40:35,440 --> 00:40:37,440
+Oui, il m'en a envoyé 3.
+
+859
+00:40:37,440 --> 00:40:39,440
+Il me parlait d'HTC ce coup-ci.
+
+860
+00:40:39,440 --> 00:40:41,440
+Téléphone portable.
+
+861
+00:40:41,440 --> 00:40:43,440
+Fabriquant.
+
+862
+00:40:43,440 --> 00:40:45,440
+Donc voilà, même chose.
+
+863
+00:40:45,440 --> 00:40:47,440
+Comme quoi, HTC commencerait à devenir un peu encombrant.
+
+864
+00:40:47,440 --> 00:40:49,440
+Puisqu'autant d'autres marques,
+
+865
+00:40:49,440 --> 00:40:51,440
+STAG,
+
+866
+00:40:51,440 --> 00:40:53,440
+nous se font clairement bouffer par Apple,
+
+867
+00:40:53,440 --> 00:40:55,440
+et HTC, si tu veux, a quand même le vent en poupe.
+
+868
+00:40:55,440 --> 00:40:57,440
+C'est des Taïwanais, faut le savoir.
+
+869
+00:40:57,440 --> 00:40:59,440
+Entre autres, c'est eux qui fabriquent le Nexus One.
+
+870
+00:40:59,440 --> 00:41:01,440
+Ils sont pas coréens ?
+
+871
+00:41:01,440 --> 00:41:03,440
+Non, ils sont Taïwanais, je crois.
+
+872
+00:41:05,440 --> 00:41:07,440
+Dans l'article,
+
+873
+00:41:07,440 --> 00:41:09,440
+ils expliquent que tout marche très très bien pour HTC.
+
+874
+00:41:09,440 --> 00:41:11,440
+Entre autres,
+
+875
+00:41:11,440 --> 00:41:13,440
+ils ont sorti l'EVO 4G
+
+876
+00:41:13,440 --> 00:41:15,440
+et le HTC
+
+877
+00:41:15,440 --> 00:41:17,440
+Incredible, que je ne connais pas,
+
+878
+00:41:17,440 --> 00:41:19,440
+mais qui sont sûrement très bien,
+
+879
+00:41:19,440 --> 00:41:21,440
+et qui sont vendus par palette,
+
+880
+00:41:21,440 --> 00:41:23,440
+surtout chez les deux des opérateurs
+
+881
+00:41:23,440 --> 00:41:25,440
+qui le vendent aux Etats-Unis.
+
+882
+00:41:25,440 --> 00:41:27,440
+Et donc, Apple
+
+883
+00:41:27,440 --> 00:41:29,440
+commencerait à regarder ça d'un mauvais œil
+
+884
+00:41:29,440 --> 00:41:31,440
+et les surveillerait de près.
+
+885
+00:41:31,440 --> 00:41:33,440
+Parce que pour eux, ça pourrait représenter un concurrent.
+
+886
+00:41:33,440 --> 00:41:35,440
+C'était la news
+
+887
+00:41:35,440 --> 00:41:37,440
+qui a été envoyée par Greg Field.
+
+888
+00:41:37,440 --> 00:41:39,440
+Encore, cet ennemi.
+
+889
+00:41:39,440 --> 00:41:41,440
+Vous voulez en parler ?
+
+890
+00:41:41,440 --> 00:41:43,440
+Non ?
+
+891
+00:41:45,440 --> 00:41:47,440
+Et ça, c'était
+
+892
+00:41:47,440 --> 00:41:49,440
+pratiquement la dernière news.
+
+893
+00:41:49,440 --> 00:41:51,440
+Je l'avais vu passer,
+
+894
+00:41:51,440 --> 00:41:53,440
+mais effectivement, je m'en serais voulu de ne pas en parler.
+
+895
+00:41:53,440 --> 00:41:55,440
+C'est le retour d'une sorte de
+
+896
+00:41:55,440 --> 00:41:57,440
+légende du jeu vidéo.
+
+897
+00:41:57,440 --> 00:41:59,440
+Un indice ?
+
+898
+00:41:59,440 --> 00:42:01,440
+Oui, c'était une émission sur Game One avec deux...
+
+899
+00:42:01,440 --> 00:42:03,440
+Non ! Avec l'excellent...
+
+900
+00:42:03,440 --> 00:42:05,440
+Gérard Bast !
+
+901
+00:42:05,440 --> 00:42:07,440
+Et Johan !
+
+902
+00:42:07,440 --> 00:42:09,440
+Rappelons au début, c'était Level One.
+
+903
+00:42:09,440 --> 00:42:11,440
+Au début, c'était...
+
+904
+00:42:11,440 --> 00:42:13,440
+Je devrais pas le dire, mais c'est pas grave.
+
+905
+00:42:13,440 --> 00:42:15,440
+On retrouve les meilleurs moments sur Dailymotion.
+
+906
+00:42:15,440 --> 00:42:17,440
+Et franchement, il y a des trucs énormes
+
+907
+00:42:17,440 --> 00:42:19,440
+comme le rap de Mario.
+
+908
+00:42:19,440 --> 00:42:21,440
+Oui, aussi.
+
+909
+00:42:21,440 --> 00:42:23,440
+En tout cas, Level One, au début,
+
+910
+00:42:23,440 --> 00:42:25,440
+c'était une émission qui était faite par Marcus,
+
+911
+00:42:25,440 --> 00:42:27,440
+le fameux Marcus.
+
+912
+00:42:27,440 --> 00:42:29,440
+Il s'était fait virer plus ou moins sur le monde Game One.
+
+913
+00:42:29,440 --> 00:42:31,440
+Et l'émission a été reprise par Johan,
+
+914
+00:42:31,440 --> 00:42:33,440
+qui est
+
+915
+00:42:33,440 --> 00:42:35,440
+un présentateur,
+
+916
+00:42:35,440 --> 00:42:37,440
+un petit bouffon de sa taille environ.
+
+917
+00:42:37,440 --> 00:42:39,440
+Je plaisante.
+
+918
+00:42:39,440 --> 00:42:41,440
+Honnêtement, j'ai jamais trouvé l'émission Level One
+
+919
+00:42:41,440 --> 00:42:43,440
+super super.
+
+920
+00:42:43,440 --> 00:42:45,440
+Mais après, il y a Gérard Bast qui est arrivé.
+
+921
+00:42:45,440 --> 00:42:47,440
+Et là, c'est Gérard Bast,
+
+922
+00:42:47,440 --> 00:42:49,440
+chanteur des Winkles,
+
+923
+00:42:49,440 --> 00:42:51,440
+alcoolonatoire,
+
+924
+00:42:51,440 --> 00:42:53,440
+consommateur de substances manifestement
+
+925
+00:42:53,440 --> 00:42:55,440
+peu recommandés par l'OMS.
+
+926
+00:42:55,440 --> 00:42:57,440
+Il faut qu'on l'invite.
+
+927
+00:42:57,440 --> 00:42:59,440
+Si quelqu'un connait Gérard Bast,
+
+928
+00:42:59,440 --> 00:43:01,440
+vous pouvez lui passer les messages de notre part.
+
+929
+00:43:01,440 --> 00:43:03,440
+Nous l'invitons et nous fournissons toute la bière nécessaire
+
+930
+00:43:03,440 --> 00:43:05,440
+à son bien-être.
+
+931
+00:43:05,440 --> 00:43:07,440
+Donc voilà, l'émission, ça revient sur What.TV.
+
+932
+00:43:07,440 --> 00:43:09,440
+C'est une télé internet ?
+
+933
+00:43:09,440 --> 00:43:11,440
+Non, pas vraiment. C'est le truc de TF1
+
+934
+00:43:11,440 --> 00:43:13,440
+façon Dailymotion ou YouTube.
+
+935
+00:43:13,440 --> 00:43:15,440
+La chaîne là-dessus s'appelle
+
+936
+00:43:15,440 --> 00:43:17,440
+Gong Games. Je ne sais pas trop ce que c'est.
+
+937
+00:43:17,440 --> 00:43:19,440
+Je ne suis pas allé fouiller non plus.
+
+938
+00:43:19,440 --> 00:43:21,440
+Et ça s'appelle Gameology.
+
+939
+00:43:21,440 --> 00:43:23,440
+Je n'ai pas regardé, mais j'ai vu
+
+940
+00:43:23,440 --> 00:43:25,440
+2-3 images qui avaient été tirées du bordel.
+
+941
+00:43:25,440 --> 00:43:27,440
+Effectivement, ça a l'air d'être comme au bon vieux temps.
+
+942
+00:43:27,440 --> 00:43:29,440
+Je vous l'ai bien vu, je me suis bien marré
+
+943
+00:43:29,440 --> 00:43:31,440
+devant 2-3 émissions.
+
+944
+00:43:31,440 --> 00:43:33,440
+Je parle des anciennes.
+
+945
+00:43:33,440 --> 00:43:35,440
+A priori, c'est la même équipe.
+
+946
+00:43:35,440 --> 00:43:37,440
+Ils n'ont pas l'air d'être trop brillés dans ce qu'ils font.
+
+947
+00:43:37,440 --> 00:43:39,440
+Je m'attends au pire.
+
+948
+00:43:39,440 --> 00:43:41,440
+Ou au meilleur.
+
+949
+00:43:41,440 --> 00:43:43,440
+Exactement.
+
+950
+00:43:43,440 --> 00:43:45,440
+FFF. Dans la place.
+
+951
+00:43:45,440 --> 00:43:47,440
+Yo yo.
+
+952
+00:43:47,440 --> 00:43:49,440
+Gameology me dit, Pébarbe,
+
+953
+00:43:49,440 --> 00:43:51,440
+merci Pébarbe. Suivez-le tous.
+
+954
+00:43:51,440 --> 00:43:53,440
+C'était une bonne news, moi je donne 8.
+
+955
+00:43:53,440 --> 00:43:55,440
+Moi je donne 9 parce que
+
+956
+00:43:55,440 --> 00:43:57,440
+c'est une super news.
+
+957
+00:43:57,440 --> 00:43:59,440
+Je donne 9 aussi, je donne même le Pébarbe
+
+958
+00:43:59,440 --> 00:44:01,440
+vainqueur. Pourquoi ?
+
+959
+00:44:01,440 --> 00:44:03,440
+Parce qu'il nous a apporté cette superbe news.
+
+960
+00:44:03,440 --> 00:44:05,440
+Et il nous avait apporté une bouteille d'absinthe, une bouteille de Jack Daniels.
+
+961
+00:44:05,440 --> 00:44:07,440
+Même le 10. 10 pour lui.
+
+962
+00:44:07,440 --> 00:44:09,440
+Je monte à 9 moi.
+
+963
+00:44:09,440 --> 00:44:11,440
+Il fait pas un copain, un copain.
+
+964
+00:44:11,440 --> 00:44:13,440
+You're the winner.
+
+965
+00:44:13,440 --> 00:44:15,440
+Ok.
+
+966
+00:44:15,440 --> 00:44:17,440
+C'était ce quick and dirty fait par les auditeurs.
+
+967
+00:44:17,440 --> 00:44:19,440
+Qu'est-ce que ça donne par rapport
+
+968
+00:44:19,440 --> 00:44:21,440
+à des recherches faites par le captain ?
+
+969
+00:44:21,440 --> 00:44:23,440
+Je crois que les auditeurs
+
+970
+00:44:23,440 --> 00:44:25,440
+te battent à plate couture.
+
+971
+00:44:25,440 --> 00:44:27,440
+Je vais donc rendre mon tablier
+
+972
+00:44:27,440 --> 00:44:29,440
+et abandonner ce podcast définitivement.
+
+973
+00:44:29,440 --> 00:44:31,440
+J'avais reçu
+
+974
+00:44:31,440 --> 00:44:33,440
+un truc de blog
+
+975
+00:44:33,440 --> 00:44:35,440
+VOTW qui est un copain
+
+976
+00:44:35,440 --> 00:44:37,440
+sur Twitter. Merci mec.
+
+977
+00:44:37,440 --> 00:44:39,440
+Peut-être que ça aurait plutôt dû être
+
+978
+00:44:39,440 --> 00:44:41,440
+dans le was off
+
+979
+00:44:41,440 --> 00:44:43,440
+de Quacos.
+
+980
+00:44:43,440 --> 00:44:45,440
+Est-ce que tu as cette histoire sur le mec
+
+981
+00:44:45,440 --> 00:44:47,440
+qui a pris un peu trop de l'anabolisant ?
+
+982
+00:44:47,440 --> 00:44:49,440
+Non.
+
+983
+00:44:49,440 --> 00:44:51,440
+Tu lui as de la chance, il m'a envoyé la vidéo.
+
+984
+00:44:51,440 --> 00:44:53,440
+Donc un gars qui aurait un peu trop abusé
+
+985
+00:44:53,440 --> 00:44:55,440
+sur la musclette à coups de médicaments.
+
+986
+00:44:55,440 --> 00:44:57,440
+Je me souviens à ça, le mec qui se
+
+987
+00:44:57,440 --> 00:44:59,440
+ringue les bras.
+
+988
+00:44:59,440 --> 00:45:01,440
+Non, en fait, il s'est tellement musclé
+
+989
+00:45:01,440 --> 00:45:03,440
+que son muscle a carrément
+
+990
+00:45:03,440 --> 00:45:05,440
+explosé.
+
+991
+00:45:05,440 --> 00:45:07,440
+Tu l'avais vu ?
+
+992
+00:45:07,440 --> 00:45:09,440
+Il y a une histoire dans le même style
+
+993
+00:45:09,440 --> 00:45:11,440
+qui était encore pire.
+
+994
+00:45:11,440 --> 00:45:13,440
+Un mec qui avait tellement bouffé de trucs
+
+995
+00:45:13,440 --> 00:45:15,440
+qu'il était obligé de se faire des piqûres
+
+996
+00:45:15,440 --> 00:45:17,440
+et de se retirer du sang des biceps
+
+997
+00:45:17,440 --> 00:45:19,440
+tous les jours.
+
+998
+00:45:19,440 --> 00:45:21,440
+En tout cas,
+
+999
+00:45:21,440 --> 00:45:23,440
+merci de m'avoir envoyé ça.
+
+1000
+00:45:23,440 --> 00:45:25,440
+Une image aurait suffi.
+
+1001
+00:45:25,440 --> 00:45:27,440
+C'était trop.
+
+1002
+00:45:27,440 --> 00:45:29,440
+C'était trop pour moi.
+
+1003
+00:45:29,440 --> 00:45:31,440
+Mon cœur a souffert en voyant cette vidéo.
+
+1004
+00:45:31,440 --> 00:45:33,440
+Mais comme je suis un mec sympa,
+
+1005
+00:45:33,440 --> 00:45:35,440
+n'hésitez pas,
+
+1006
+00:45:35,440 --> 00:45:37,440
+si vraiment vous n'avez rien à faire après le petit déjeuner,
+
+1007
+00:45:37,440 --> 00:45:39,440
+allez voir ça. Je suis sûr que ça vous plaira
+
+1008
+00:45:39,440 --> 00:45:41,440
+à mort. Et sur ce, on passe à la dernière
+
+1009
+00:45:41,440 --> 00:45:43,440
+news. C'est la fameuse news Mark Dorcel.
+
+1010
+00:45:57,440 --> 00:45:59,440
+Ça serait bien d'emplacer le chien par un poney à la fin.
+
+1011
+00:45:59,440 --> 00:46:01,440
+On peut pour la saison 2, on verra.
+
+1012
+00:46:01,440 --> 00:46:03,440
+Écoutez, ça a été tweeté
+
+1013
+00:46:03,440 --> 00:46:05,440
+directement par Gislain. C'est sur le blog
+
+1014
+00:46:05,440 --> 00:46:07,440
+de Mark Dorcel, bien sûr.
+
+1015
+00:46:07,440 --> 00:46:09,440
+C'est le début de l'aventure
+
+1016
+00:46:09,440 --> 00:46:11,440
+très courte de
+
+1017
+00:46:11,440 --> 00:46:13,440
+Mademoiselle de Paris.
+
+1018
+00:46:13,440 --> 00:46:15,440
+C'est le fameux film produit par les
+
+1019
+00:46:15,440 --> 00:46:17,440
+branleurs. Le premier film de Q-Participatie
+
+1020
+00:46:17,440 --> 00:46:19,440
+et Participatifa.
+
+1021
+00:46:21,440 --> 00:46:23,440
+Le tournage a commencé hier.
+
+1022
+00:46:23,440 --> 00:46:25,440
+Ça va être rapide. Il se terminera vendredi.
+
+1023
+00:46:25,440 --> 00:46:27,440
+C'est bien de tourner
+
+1024
+00:46:27,440 --> 00:46:29,440
+un film, mais il faut que ça aille vite.
+
+1025
+00:46:29,440 --> 00:46:31,440
+Ça coûte quand même 200 000 euros
+
+1026
+00:46:31,440 --> 00:46:33,440
+pour 5 jours de tournage. C'est impressionnant.
+
+1027
+00:46:33,440 --> 00:46:35,440
+Mais attention, ce n'est pas 5 jours de tournage avec n'importe qui.
+
+1028
+00:46:35,440 --> 00:46:37,440
+Puisque je vais citer les noms des jeunes demoiselles
+
+1029
+00:46:37,440 --> 00:46:39,440
+de Paris. On les connaît ?
+
+1030
+00:46:39,440 --> 00:46:41,440
+Je ne te cache pas, je ne les connaissais pas.
+
+1031
+00:46:41,440 --> 00:46:43,440
+Que tu dis.
+
+1032
+00:46:43,440 --> 00:46:45,440
+Je vais te dire les noms, tu vas me dire si tu connais.
+
+1033
+00:46:45,440 --> 00:46:47,440
+Le nom, je connais.
+
+1034
+00:46:47,440 --> 00:46:49,440
+Jessica Fiolantino.
+
+1035
+00:46:49,440 --> 00:46:51,440
+Susie Carina.
+
+1036
+00:46:51,440 --> 00:46:53,440
+Nina Roberts.
+
+1037
+00:46:53,440 --> 00:46:55,440
+Nina Roberts,
+
+1038
+00:46:55,440 --> 00:46:57,440
+c'est pas...
+
+1039
+00:46:57,440 --> 00:46:59,440
+C'est pas la chanteuse ?
+
+1040
+00:46:59,440 --> 00:47:01,440
+Non, je ne pense pas.
+
+1041
+00:47:01,440 --> 00:47:03,440
+Anna Paulina.
+
+1042
+00:47:03,440 --> 00:47:05,440
+Vu son nom, je pense
+
+1043
+00:47:05,440 --> 00:47:07,440
+qu'elle est à mon goût celle-là.
+
+1044
+00:47:07,440 --> 00:47:09,440
+Dès que ça finit en A.
+
+1045
+00:47:09,440 --> 00:47:11,440
+Et le prénom et le nom finissent en A.
+
+1046
+00:47:11,440 --> 00:47:13,440
+Et Claire Castel.
+
+1047
+00:47:13,440 --> 00:47:15,440
+Ce nom dit quelque chose quand même.
+
+1048
+00:47:15,440 --> 00:47:17,440
+Franchement, je ne connais aucune.
+
+1049
+00:47:17,440 --> 00:47:19,440
+La prochaine fois, j'imprimerai
+
+1050
+00:47:19,440 --> 00:47:21,440
+en gros plan des photos de Lorfès.
+
+1051
+00:47:21,440 --> 00:47:23,440
+Et là, il t'a dit Ah oui !
+
+1052
+00:47:23,440 --> 00:47:25,440
+Je préférerais plutôt avoir un bandeau noir
+
+1053
+00:47:25,440 --> 00:47:27,440
+et reconnaître en Tatan.
+
+1054
+00:47:27,440 --> 00:47:29,440
+Écoute, elles sont invitées à venir si elles veulent participer
+
+1055
+00:47:29,440 --> 00:47:31,440
+à un grand test de ce type.
+
+1056
+00:47:31,440 --> 00:47:33,440
+D'ailleurs, Katsuni,
+
+1057
+00:47:33,440 --> 00:47:35,440
+nous travaillons sur l'affaire. Un jour, elle viendra
+
+1058
+00:47:35,440 --> 00:47:37,440
+probablement...
+
+1059
+00:47:37,440 --> 00:47:39,440
+Peut-être le siècle prochain.
+
+1060
+00:47:39,440 --> 00:47:41,440
+Ou alors la version virtuelle.
+
+1061
+00:47:41,440 --> 00:47:43,440
+Doublée par Manox.
+
+1062
+00:47:43,440 --> 00:47:45,440
+Ça va être tendu.
+
+1063
+00:47:45,440 --> 00:47:47,440
+Ok, bon, écoutez, c'était la fin de cette rubrique
+
+1064
+00:47:47,440 --> 00:47:49,440
+un peu spéciale faite par les auditeurs.
+
+1065
+00:47:49,440 --> 00:47:51,440
+Mais sympathique.
+
+1066
+00:47:51,440 --> 00:47:53,440
+Et ça change un peu. Autant tester avant la fin de la saison.
+
+1067
+00:47:53,440 --> 00:47:55,440
+Je teste un maximum de choses.
+
+1068
+00:47:55,440 --> 00:47:57,440
+Comme ça, j'aurai tout fait et je pourrai dormir tranquille en juillet et en août.
+
+1069
+00:47:57,440 --> 00:47:59,440
+Ha ha !
+
+1070
+00:47:59,440 --> 00:48:01,440
+Ok, sur ce, je passe la parole à l'Orton Père.
+
+1071
+00:48:01,440 --> 00:48:03,440
+A qui ?
+
+1072
+00:48:03,440 --> 00:48:05,440
+Bienvenue sur la rubrique de l'Orton Père.
+
+1073
+00:48:05,440 --> 00:48:07,440
+L.T.P.
+
+1074
+00:48:07,440 --> 00:48:09,440
+L.T.P.
+
+1075
+00:48:09,440 --> 00:48:11,440
+L.T.P.
+
+1076
+00:48:11,440 --> 00:48:13,440
+L.T.P.
+
+1077
+00:48:13,440 --> 00:48:15,440
+Kikou,
+
+1078
+00:48:15,440 --> 00:48:17,440
+lol.
+
+1079
+00:48:17,440 --> 00:48:19,440
+Salut L.T.P.
+
+1080
+00:48:19,440 --> 00:48:21,440
+Comment ça roule ?
+
+1081
+00:48:21,440 --> 00:48:23,440
+Comment ça surfe ?
+
+1082
+00:48:23,440 --> 00:48:25,440
+Ce soir, petite rubrique, toute légère,
+
+1083
+00:48:25,440 --> 00:48:27,440
+toute en finesse et en délicatesse.
+
+1084
+00:48:27,440 --> 00:48:29,440
+Je vais vous faire moi aussi un petit courrier
+
+1085
+00:48:29,440 --> 00:48:31,440
+des lecteurs. Mais en réalité, ça va pas faire
+
+1086
+00:48:31,440 --> 00:48:33,440
+vraiment courrier des lecteurs. Alors,
+
+1087
+00:48:33,440 --> 00:48:35,440
+j'ai sélectionné deux emails parce que j'ai pas eu le temps
+
+1088
+00:48:35,440 --> 00:48:37,440
+d'y répondre et je me suis dit que j'allais répondre
+
+1089
+00:48:37,440 --> 00:48:39,440
+en direct.
+
+1090
+00:48:39,440 --> 00:48:41,440
+Donc, ah oui, une première chose avant, faut quand même
+
+1091
+00:48:41,440 --> 00:48:43,440
+que je remercie tous les gens
+
+1092
+00:48:43,440 --> 00:48:45,440
+qui ont eu la sympathie
+
+1093
+00:48:45,440 --> 00:48:47,440
+de s'inscrire sur mon Twitter.
+
+1094
+00:48:47,440 --> 00:48:49,440
+Ha ha ha !
+
+1095
+00:48:49,440 --> 00:48:51,440
+Alors, la dernière fois
+
+1096
+00:48:51,440 --> 00:48:53,440
+que j'ai relevé le nombre, ils étaient
+
+1097
+00:48:53,440 --> 00:48:55,440
+461 abonnés.
+
+1098
+00:48:55,440 --> 00:48:57,440
+Et franchement, je crois que sur toute la
+
+1099
+00:48:57,440 --> 00:48:59,440
+plateforme Twitter, je dois avoir le meilleur ratio
+
+1100
+00:48:59,440 --> 00:49:01,440
+nombre de tweets
+
+1101
+00:49:01,440 --> 00:49:03,440
+par rapport au nombre d'auditeurs.
+
+1102
+00:49:03,440 --> 00:49:05,440
+Enfin, par contre, d'abonnés.
+
+1103
+00:49:05,440 --> 00:49:07,440
+Je vais te dire tout de suite à combien tu en es.
+
+1104
+00:49:07,440 --> 00:49:09,440
+Ah, en temps réel. 471.
+
+1105
+00:49:09,440 --> 00:49:11,440
+Ah, mais écoute, 10 de plus !
+
+1106
+00:49:11,440 --> 00:49:13,440
+C'est génial. Donc, vraiment, merci.
+
+1107
+00:49:13,440 --> 00:49:15,440
+Ça fait chaud au coeur.
+
+1108
+00:49:15,440 --> 00:49:17,440
+Tu peux peut-être leur dire de te suivre à l'ordre de ton père sur Twitter.
+
+1109
+00:49:17,440 --> 00:49:19,440
+Voilà, exactement. L'ordre de ton père sur Twitter.
+
+1110
+00:49:19,440 --> 00:49:21,440
+Je me demande si je vais pas être obligé de tweeter.
+
+1111
+00:49:21,440 --> 00:49:23,440
+Ah !
+
+1112
+00:49:23,440 --> 00:49:25,440
+Je vais réfléchir au truc pour essayer de faire un truc sympathique
+
+1113
+00:49:25,440 --> 00:49:27,440
+parce que si c'est pour décevoir tout le monde, ça ne sert à rien.
+
+1114
+00:49:27,440 --> 00:49:29,440
+On va passer maintenant
+
+1115
+00:49:29,440 --> 00:49:31,440
+aux deux derniers emails que j'ai reçus.
+
+1116
+00:49:31,440 --> 00:49:33,440
+Je tiens à noter comme habituel, le bon goût de suivre
+
+1117
+00:49:33,440 --> 00:49:35,440
+une personne qui est bien sûr
+
+1118
+00:49:35,440 --> 00:49:37,440
+coacosse. Ah oui, oui, oui.
+
+1119
+00:49:37,440 --> 00:49:39,440
+Ça casse un peu la légende, quoi. Si moi,
+
+1120
+00:49:39,440 --> 00:49:41,440
+j'ai une proposition pour ton premier tweet,
+
+1121
+00:49:41,440 --> 00:49:43,440
+c'est, je suis en train de faire
+
+1122
+00:49:43,440 --> 00:49:45,440
+caca. Super.
+
+1123
+00:49:45,440 --> 00:49:47,440
+Avec mon iPhone.
+
+1124
+00:49:47,440 --> 00:49:49,440
+Non, non, non. Et tu posts avec ton iPhone, comme ça, il y aura
+
+1125
+00:49:49,440 --> 00:49:51,440
+à marquer depuis...
+
+1126
+00:49:51,440 --> 00:49:53,440
+Tweeted by iPhone. Voilà, tweet.
+
+1127
+00:49:53,440 --> 00:49:55,440
+Bah écoute, non. Je rejette cette
+
+1128
+00:49:55,440 --> 00:49:57,440
+proposition. Si vous avez des propositions,
+
+1129
+00:49:57,440 --> 00:49:59,440
+envoyez-les sur le mail
+
+1130
+00:49:59,440 --> 00:50:01,440
+de LTP. Tu devrais faire ça
+
+1131
+00:50:01,440 --> 00:50:03,440
+à une proposition, un concours,
+
+1132
+00:50:03,440 --> 00:50:05,440
+le premier tweet de leur ton père.
+
+1133
+00:50:05,440 --> 00:50:07,440
+C'est le tweet VC, quoi. Il y a quelqu'un qui propose
+
+1134
+00:50:07,440 --> 00:50:09,440
+un tweet pic de TVC, effectivement.
+
+1135
+00:50:09,440 --> 00:50:11,440
+Ça peut être sympa. Il n'y a plus de lumière
+
+1136
+00:50:11,440 --> 00:50:13,440
+en même temps, ça ne va pas être pratique. Il faudra qu'il attende l'iPhone 4
+
+1137
+00:50:13,440 --> 00:50:15,440
+pour avoir un flash parce que, pour l'instant,
+
+1138
+00:50:15,440 --> 00:50:17,440
+ça ne va pas le faire. Et oui, c'est pour ça que j'achèterai
+
+1139
+00:50:17,440 --> 00:50:19,440
+l'iPhone 4, c'est pour mieux voir dans mes toilettes.
+
+1140
+00:50:19,440 --> 00:50:21,440
+Grâce aux flashs. Je t'offrirai des bougies
+
+1141
+00:50:21,440 --> 00:50:23,440
+sinon pour ton anniversaire. C'est gentil.
+
+1142
+00:50:23,440 --> 00:50:25,440
+C'est gentil.
+
+1143
+00:50:25,440 --> 00:50:27,440
+Premier mail. Alors, je ne donnerai
+
+1144
+00:50:27,440 --> 00:50:29,440
+pas les noms de famille parce que je ne sais pas s'ils veulent
+
+1145
+00:50:29,440 --> 00:50:31,440
+être reconnus. Oh, mais balance.
+
+1146
+00:50:31,440 --> 00:50:33,440
+Ah non, non, non. Donc, j'ai Kevin L
+
+1147
+00:50:33,440 --> 00:50:35,440
+qui m'a envoyé...
+
+1148
+00:50:35,440 --> 00:50:37,440
+Kevin L. C'est encore...
+
+1149
+00:50:37,440 --> 00:50:39,440
+Oui, tu aurais mieux fait de dire le nom de famille
+
+1150
+00:50:39,440 --> 00:50:41,440
+et pas le prénom. Mais Kevin L, quoi.
+
+1151
+00:50:41,440 --> 00:50:43,440
+Kevin L, qui m'a envoyé,
+
+1152
+00:50:43,440 --> 00:50:45,440
+donc m'a rappelé cette histoire dont on avait légèrement
+
+1153
+00:50:45,440 --> 00:50:47,440
+parlé lors d'un des
+
+1154
+00:50:47,440 --> 00:50:49,440
+derniers apéros du capitaine,
+
+1155
+00:50:49,440 --> 00:50:51,440
+l'histoire de Loren Rosenberg
+
+1156
+00:50:51,440 --> 00:50:53,440
+qui a été victime d'un accident alors
+
+1157
+00:50:53,440 --> 00:50:55,440
+qu'elle s'orientait avec son Blackberry
+
+1158
+00:50:55,440 --> 00:50:57,440
+sur Google Maps. Et elle
+
+1159
+00:50:57,440 --> 00:50:59,440
+s'est retrouvée, je crois, sur l'autoroute
+
+1160
+00:50:59,440 --> 00:51:01,440
+alors que son Blackberry
+
+1161
+00:51:01,440 --> 00:51:03,440
+ne l'avait pas prévenue qu'il n'y avait pas de trottoir.
+
+1162
+00:51:03,440 --> 00:51:05,440
+Alors que la version, paraît-il,
+
+1163
+00:51:05,440 --> 00:51:07,440
+sur le web, elle prévient
+
+1164
+00:51:07,440 --> 00:51:09,440
+qu'il n'y a pas de trottoir et qu'il vaut mieux ne pas y aller.
+
+1165
+00:51:09,440 --> 00:51:11,440
+Donc le fait qu'il n'y ait pas d'avertissement,
+
+1166
+00:51:11,440 --> 00:51:13,440
+alors évidemment elle s'est fait renverser par une bagnole,
+
+1167
+00:51:13,440 --> 00:51:15,440
+of course, elle a eu un gros bobo
+
+1168
+00:51:15,440 --> 00:51:17,440
+et elle a donc à signer Google
+
+1169
+00:51:17,440 --> 00:51:19,440
+en lui demandant 100 000 dollars.
+
+1170
+00:51:19,440 --> 00:51:21,440
+Mais est-ce que cette jeune fille était aveugle ou...
+
+1171
+00:51:21,440 --> 00:51:23,440
+Non, parce qu'elle avait un Blackberry.
+
+1172
+00:51:23,440 --> 00:51:25,440
+Alors je vais pas revenir...
+
+1173
+00:51:25,440 --> 00:51:27,440
+Ses yeux sont le Blackberry. Je vais pas revenir
+
+1174
+00:51:27,440 --> 00:51:29,440
+sur cette news mais je vais rebondir dessus
+
+1175
+00:51:29,440 --> 00:51:31,440
+parce que Kevin me dit
+
+1176
+00:51:31,440 --> 00:51:33,440
+tu en penses quoi, toi ?
+
+1177
+00:51:33,440 --> 00:51:35,440
+Tel est sa question. Alors
+
+1178
+00:51:35,440 --> 00:51:37,440
+j'ai tourné la question, je me suis dit
+
+1179
+00:51:37,440 --> 00:51:39,440
+est-ce que j'ai bien pouvoir lui répondre ?
+
+1180
+00:51:39,440 --> 00:51:41,440
+Et bien, je me suis dit que finalement
+
+1181
+00:51:41,440 --> 00:51:43,440
+c'était bien les Etats-Unis puisque ça s'est évidemment passé
+
+1182
+00:51:43,440 --> 00:51:45,440
+aux Etats-Unis et les Etats-Unis
+
+1183
+00:51:45,440 --> 00:51:47,440
+sont bien connus pour tous ces fabuleux
+
+1184
+00:51:47,440 --> 00:51:49,440
+procès qui ont lieu.
+
+1185
+00:51:49,440 --> 00:51:51,440
+C'est un petit peu la mode judiciaire là-bas.
+
+1186
+00:51:51,440 --> 00:51:53,440
+Alors elle s'explique de deux manières cette mode judiciaire.
+
+1187
+00:51:53,440 --> 00:51:55,440
+Pourquoi ? Et surtout, il y a des montants de
+
+1188
+00:51:55,440 --> 00:51:57,440
+dommages d'intérêt très élevés qui sont octroyés.
+
+1189
+00:51:57,440 --> 00:51:59,440
+C'est qu'un, il y a des jurys populaires
+
+1190
+00:51:59,440 --> 00:52:01,440
+et deuxièmement surtout, c'est que les avocats sont
+
+1191
+00:52:01,440 --> 00:52:03,440
+rémunérés par un pourcentage et s'ils
+
+1192
+00:52:03,440 --> 00:52:05,440
+n'obtiennent pas de dommages d'intérêt, ils ne sont pas rémunérés.
+
+1193
+00:52:05,440 --> 00:52:07,440
+Alors un journaliste
+
+1194
+00:52:07,440 --> 00:52:09,440
+Randy Casingham
+
+1195
+00:52:09,440 --> 00:52:11,440
+a créé en 2002 un prix,
+
+1196
+00:52:11,440 --> 00:52:13,440
+peut-être que Quacos le connaît déjà,
+
+1197
+00:52:13,440 --> 00:52:15,440
+c'est le Stella Awards.
+
+1198
+00:52:15,440 --> 00:52:17,440
+C'est un peu à la manière des Darwin Awards ?
+
+1199
+00:52:17,440 --> 00:52:19,440
+Exactement. C'est à dire que chaque année,
+
+1200
+00:52:19,440 --> 00:52:21,440
+il a créé ça en 2002, chaque année
+
+1201
+00:52:21,440 --> 00:52:23,440
+il récompense la personne qui a fait le
+
+1202
+00:52:23,440 --> 00:52:25,440
+procès le plus ridicule ou le plus abusif pour
+
+1203
+00:52:25,440 --> 00:52:27,440
+obtenir du pognon. Donc il a un site
+
+1204
+00:52:27,440 --> 00:52:29,440
+web où vous pouvez aller découvrir des
+
+1205
+00:52:29,440 --> 00:52:31,440
+merveilleux procès.
+
+1206
+00:52:31,440 --> 00:52:33,440
+Donne l'adresse !
+
+1207
+00:52:33,440 --> 00:52:35,440
+c'est www.StellaAwards.com
+
+1208
+00:52:35,440 --> 00:52:37,440
+Comment s'écrit ?
+
+1209
+00:52:37,440 --> 00:52:39,440
+www.StellaAwards.com
+
+1210
+00:52:39,440 --> 00:52:41,440
+www.StellaAwards.com
+
+1211
+00:52:41,440 --> 00:52:43,440
+C'est comme Stellar Toi.
+
+1212
+00:52:43,440 --> 00:52:45,440
+Alors pourquoi est ce qu'il a appelé son
+
+1213
+00:52:45,440 --> 00:52:47,440
+prix le prix Stella ?
+
+1214
+00:52:47,440 --> 00:52:49,440
+C'est en référence à une affaire
+
+1215
+00:52:49,440 --> 00:52:51,440
+qui a eu lieu en 92,
+
+1216
+00:52:51,440 --> 00:52:53,440
+Stella Liedebeck versus Mc Donalds,
+
+1217
+00:52:53,440 --> 00:52:55,440
+j'ai évidemment pensé à toi, capitaine !
+
+1218
+00:52:55,440 --> 00:52:57,440
+La fameuse affaire du café !
+
+1219
+00:52:57,440 --> 00:52:59,440
+Puisqu'elle s'était garée pour ajouter
+
+1220
+00:52:59,440 --> 00:53:01,440
+du lait et du sucre dans son café, elle se les renversait
+
+1221
+00:53:01,440 --> 00:53:06,180
+les jambes, elle s'est brûlée au troisième degré, elle a assigné McDo pour obtenir du
+
+1222
+00:53:06,180 --> 00:53:09,840
+pognon, enfin elle avait déjà essayé l'amiable et McDo lui a dit oh bah écoute je te fais 800
+
+1223
+00:53:09,840 --> 00:53:13,760
+dollars ça suffira. Ils avaient déjà été bien sympa. Et finalement ils sont allés devant le tribunal,
+
+1224
+00:53:13,760 --> 00:53:19,680
+ils ont fait un deal, un protocole d'accords pour éviter d'aller jusqu'au bout de la procédure. Donc
+
+1225
+00:53:19,680 --> 00:53:26,160
+voilà pourquoi les prix Stella. Alors j'étais sur le site Stella Awards.com et j'ai relevé les
+
+1226
+00:53:26,160 --> 00:53:31,040
+deux prix qui m'ont semblé les plus amusants, c'est à dire le prix 2005 et le prix 2006. Les autres
+
+1227
+00:53:31,040 --> 00:53:37,440
+n'étaient pas très rigolos. Le prix 2005 c'est l'affaire Christopher Roller de Burnsville Minnesota.
+
+1228
+00:53:37,440 --> 00:53:43,360
+Et tu sais qui est-ce qu'il a poursuivi ? Il a poursuivi David Copperfield et David Blaine et je vais
+
+1229
+00:53:43,360 --> 00:53:48,480
+redire un mot de David Blaine pour que ces deux personnages révèlent leurs secrets. Et pourquoi
+
+1230
+00:53:48,480 --> 00:53:55,280
+révéler leurs secrets ? Parce que Christopher prétendait être dieu et que ces deux magiciens
+
+1231
+00:53:55,280 --> 00:54:00,320
+défient les lois de la physique et que normalement il faut avoir des pouvoirs divins pour le faire.
+
+1232
+00:54:00,400 --> 00:54:07,640
+Et donc voilà il a demandé au tribunal ça. Alors en parlant de David Blaine, pour ceux qui ne le
+
+1233
+00:54:07,640 --> 00:54:12,400
+sauraient pas, il faut savoir qu'il y a deux parodies sur YouTube. David Blaine Street Magique
+
+1234
+00:54:12,400 --> 00:54:16,280
+YouTube édition. Je les avais vus, on les avait regardé ensemble il y a longtemps. Et David Blaine Street
+
+1235
+00:54:16,280 --> 00:54:22,320
+Magique part 2, c'était la suite. C'est assez rigolo, allez voir ça c'est bon. C'est un mec style
+
+1236
+00:54:22,320 --> 00:54:28,480
+Chris Angel non ? C'est un vieux gars qui fait des, il faut le voir c'est difficile à décrire. Oui
+
+1237
+00:54:29,000 --> 00:54:32,800
+c'est le moins qu'on puisse dire. Allez le voir et vous me direz ce que vous en pensez. Et en 2006,
+
+1238
+00:54:32,800 --> 00:54:38,640
+deuxième affaire qui a obtenu le Stella Howard, c'est un type qui prétendait ressembler à Michael
+
+1239
+00:54:38,640 --> 00:54:45,120
+Jordan et comme il était souvent confondu avec lui, il a poursuivi l'athlète pour diffamation,
+
+1240
+00:54:45,120 --> 00:54:52,120
+blessures physiques et émotionnelles et souffrance pour un total de 832 millions de dollars. 832 millions
+
+1241
+00:54:52,120 --> 00:54:57,320
+de dollars quoi ? Rassure moi ils l'ont envoyé chier direct. Bah écoute je sais pas mais je
+
+1242
+00:54:57,360 --> 00:55:02,240
+présume enfin en tout cas j'espère. Voilà donc ça je remercie donc Kevin de m'avoir posé cette
+
+1243
+00:55:02,240 --> 00:55:08,520
+excellente question sur Google. Ensuite un email de Arnaud C, je ne donnerai toujours pas de nom,
+
+1244
+00:55:08,520 --> 00:55:16,600
+et qui m'a filé un lien, puisqu'on avait parlé en deux minutes du pixel art ensemble, qui m'a filé
+
+1245
+00:55:16,600 --> 00:55:24,200
+un lien, il m'a filé, pardon deux liens, un premier vers le site de Paul Robertson, donc le site vous
+
+1246
+00:55:24,200 --> 00:55:34,240
+aimez que je donne des adresses alors c'est parti, http://probertson.livejournal.com, donc c'est des
+
+1247
+00:55:34,240 --> 00:55:39,800
+dessins animés, c'est pardon du pixel art style japonais, un peu trash mais c'est pas mal, vous
+
+1248
+00:55:39,800 --> 00:55:42,920
+pouvez aussi taper, le plus simple à mon avis puisque son site est vraiment pourri, au gars
+
+1249
+00:55:42,920 --> 00:55:48,360
+vaut mieux taper Paul Robertson dans Google Images, c'est beaucoup mieux. Et enfin deuxième site de
+
+1250
+00:55:48,360 --> 00:55:55,880
+Arjan Wester Dieppe, alors son site web par contre est plus facile, c'est du drububu.com, et alors il
+
+1251
+00:55:55,880 --> 00:56:06,440
+fait du pixel art qui est assez joli en trois couleurs. Comment t'écris ça ? drububu.com et il
+
+1252
+00:56:06,440 --> 00:56:12,120
+fait du pixel art en trois couleurs, en noir, enfin black, dark grey et light grey et c'est assez
+
+1253
+00:56:12,840 --> 00:56:21,240
+sympa. Une dernière précision, pourquoi j'ai tous les liens ? Pourquoi j'avais parlé la semaine
+
+1254
+00:56:21,240 --> 00:56:24,960
+dernière du pixel art ? Parce que j'avais préparé un petit article pour la foire aux liens, donc pour
+
+1255
+00:56:24,960 --> 00:56:30,800
+les lire sur la foire aux liens, c'est très sympa. J'avais pas beaucoup de temps, pardon pardon pour
+
+1256
+00:56:30,800 --> 00:56:36,040
+la foire aux liens, et comme on avait fait un podcast improvisé, j'ai repompé ce que j'avais dit
+
+1257
+00:56:36,040 --> 00:56:40,680
+dans la foire aux liens et oui il faut savoir se pomper soi-même. Donc merci Arnaud, et maintenant
+
+1258
+00:56:40,760 --> 00:56:46,760
+on va passer à deux petites news. Captain web, je sais que tu es au courant parce que tu suis
+
+1259
+00:56:46,760 --> 00:56:51,880
+l'actualité McDonald de près. Tout à fait. Tu es un professionnel. Oui, je fais une veille intense et
+
+1260
+00:56:51,880 --> 00:56:59,000
+voilà. Est-ce que tu es au courant de ce qu'a demandé la CLCV ? Ça doit être laquelle je fournis
+
+1261
+00:56:59,000 --> 00:57:03,040
+de trucs, non ? Non, pas du tout. Ah bah écoute, je ne sais pas. C'est la confédération de la
+
+1262
+00:57:03,040 --> 00:57:08,440
+consommation du logement et du cadre de vie. L'espoir de vie, à mon avis, elle a dû demander un truc à
+
+1263
+00:57:08,440 --> 00:57:13,200
+McDonald. Elle a dû leur demander, genre qu'ils ne foutent pas leurs usines à Grèce en face d'école.
+
+1264
+00:57:13,200 --> 00:57:18,040
+C'est un petit peu ça, tu n'es pas loin. Alors ce qu'il faut savoir c'est que la CLCV, au début je
+
+1265
+00:57:18,040 --> 00:57:21,600
+croyais que c'était une association bidon, donc j'ai fait ma petite recherche, elle existe depuis 52.
+
+1266
+00:57:21,600 --> 00:57:24,720
+Ah ouais, quand même. Donc non, c'est pas une association bidon, c'est tout ce qu'il y a de plus
+
+1267
+00:57:24,720 --> 00:57:32,280
+sérieux. Et la CLCV, bah ils ont déclaré la guerre à la Grèce. Et oui, pas les pauvres qui sont à
+
+1268
+00:57:32,280 --> 00:57:37,560
+côté de la Turquie. Je parle la Grèce du McDonald. J'avais compris. Tu avais compris. Et oui parce
+
+1269
+00:57:37,600 --> 00:57:41,840
+qu'au terme d'un communiqué du 3 juin 2010, cette association demande aux chaînes de fast food à
+
+1270
+00:57:41,840 --> 00:57:47,120
+retirer de leurs cartes les bombes calories qui y figurent. Et oui, ça suffit les menus XXL de
+
+1271
+00:57:47,120 --> 00:57:54,240
+Quick, les maxi test off de McDonald ou les buckets de KFC. Parce que avec ça, tu te fais péter le
+
+1272
+00:57:54,240 --> 00:57:57,600
+foie, trois quarts des besoins journaliers couverts par cette saloperie. Et en même temps,
+
+1273
+00:57:57,600 --> 00:58:03,680
+ça t'as pas bouffé depuis 48 heures. Eh oui. Il y a un vrai drame et effectivement il y a Grenagluman,
+
+1274
+00:58:03,680 --> 00:58:08,920
+merci mec pour ton pseudo, qui l'évoque sur le chat en ce moment même. On va faire une pause et je
+
+1275
+00:58:08,920 --> 00:58:12,880
+crois qu'on va parler de ce sujet quelques minutes. C'est un sujet grave quoi. Effectivement. Il y a deux
+
+1276
+00:58:12,880 --> 00:58:17,720
+choses qui ont bouleversé l'univers de la Grèce. Et de l'apéro des capitaines. Ces vingt dernières
+
+1277
+00:58:17,720 --> 00:58:23,920
+années. Le manque de la disparition du Burger King en France et la disparition du Royal Cheese
+
+1278
+00:58:23,920 --> 00:58:29,440
+chez McDo depuis trois semaines. Alors je sais que c'est une opération temporaire qui va durer
+
+1279
+00:58:29,440 --> 00:58:33,600
+mais putain vous nous cassez les couilles. J'aime le Double Cheese mais j'aime le Royal Cheese aussi.
+
+1280
+00:58:33,600 --> 00:58:38,800
+J'aimerais pouvoir varier mes menus entre les deux. Voir acheter les deux en même temps pour pouvoir
+
+1281
+00:58:38,800 --> 00:58:45,400
+goûter la subtile différence entre ces deux mets de choix qui honorent mon estomac et mes toilettes.
+
+1282
+00:58:45,400 --> 00:58:50,080
+C'est surtout le buns. Non c'est la tranche de viande. Dans le Double Cheese, il y a deux tranches de
+
+1283
+00:58:50,080 --> 00:58:54,160
+viande. Dans le Royal Cheese, il y a une grosse tranche de viande à la place des deux petites.
+
+1284
+00:58:54,160 --> 00:58:58,800
+Est-ce que capitaine peut-être tu en as déjà parlé dans un précédent podcast mais puisqu'on
+
+1285
+00:58:58,800 --> 00:59:04,040
+parle hamburger, est-ce que tu peux nous redonner l'url du site qui teste les hamburgers ? MyBurger.fr,
+
+1286
+00:59:04,040 --> 00:59:08,640
+site de référence qui teste non seulement nos usines à Grèce auprès de chez vous,
+
+1287
+00:59:08,640 --> 00:59:12,560
+toutes celles qui sont en la rue, mais aussi l'intégralité des hamburgers que vous retrouvez
+
+1288
+00:59:12,560 --> 00:59:20,880
+aux oreillons surgelés. Les mecs sont courageux. Voir pour les adeptes de mission hardcore les
+
+1289
+00:59:20,880 --> 00:59:25,120
+hamburgers fait maison que vous pouvez faire vous même. Et il y a des choses assez dangereuses. Et
+
+1290
+00:59:25,120 --> 00:59:29,120
+il y a des choses dangereuses. Et là je crois que les bombes caloriques si tu veux de la CLCV c'est
+
+1291
+00:59:29,120 --> 00:59:33,760
+rien à côté. Ah oui non non non. C'est Hiroshima Caloric. D'ailleurs alors ton père je crois que
+
+1292
+00:59:33,760 --> 00:59:38,000
+mon premier wasov de tout à l'heure va te plaire beaucoup. Est-ce qu'il est totalement dans cette
+
+1293
+00:59:38,000 --> 00:59:42,440
+lignée ? Est-ce que c'est le record qui a été battu ? C'est le nouveau record qui a été battu. J'ai vu
+
+1294
+00:59:42,440 --> 00:59:46,440
+des images et ça m'a fait mal. Je t'en parlerai tout à l'heure. Oh là là j'ai hâte d'y être. En
+
+1295
+00:59:46,440 --> 00:59:52,720
+tout cas myburger.fr. Excellent site. Pour toutes les petites fins. Voilà. Surtout pour les grosses
+
+1296
+00:59:52,720 --> 01:00:02,160
+fins. Est-ce que Quacos tu connais le site Cupid Tino ? Ben oui c'est le mythique spécial Apple.
+
+1297
+01:00:02,160 --> 01:00:10,040
+Est-ce que tu t'es inscrit ? Écoute quand j'aurai un Macbook payé par nos auditeurs je m'inscrirai
+
+1298
+01:00:10,040 --> 01:00:14,360
+tout de suite pour faire un Quacom test. Il m'a semblé indispensable de tester ce site. Tu l'as fait.
+
+1299
+01:00:14,360 --> 01:00:21,560
+Alors tu as trouvé l'Amser ? Non. C'est ce que tu as dû faire l'erreur de marquer que tu avais un
+
+1300
+01:00:21,560 --> 01:00:26,760
+G3 ou un truc comme ça. Les mecs ils ont dû faire qu'est-ce que c'est que ce mec. Alors c'est quand
+
+1301
+01:00:26,760 --> 01:00:31,480
+même le site qui fait le buzz ou alors je suis vraiment à la bourre. Ça fait un petit peu deux
+
+1302
+01:00:31,480 --> 01:00:36,760
+mois. J'en avais parlé dans les news high tech il y a un bon mois je pense. Écoute je suis allé sur le
+
+1303
+01:00:36,760 --> 01:00:42,640
+site et franchement c'est enfin moi j'ai pas aimé du tout. Vraiment mais pas du tout. Alors on t'explique
+
+1304
+01:00:43,400 --> 01:00:48,160
+d'abord on commence par t'expliquer sur ce site que les propriétaires de Mac et d'Apple sont des gens
+
+1305
+01:00:48,160 --> 01:00:52,640
+vraiment extraordinaires qui ont une personnalité, une créativité qui n'est pas celle des autres.
+
+1306
+01:00:52,640 --> 01:00:58,000
+Et oui. Et donc ils pensent que ces gens là doivent se reproduire entre eux. Ils ne le disent pas comme
+
+1307
+01:00:58,000 --> 01:01:04,160
+ça mais c'est un petit peu le fond de leur pensée. Pour s'inscrire il faut être propriétaire d'une
+
+1308
+01:01:04,160 --> 01:01:07,920
+machine Apple. Est-ce que tu le prouve ? Est-ce que tu as besoin de le prouver ? Alors j'ai essayé d'abord
+
+1309
+01:01:07,920 --> 01:01:13,080
+de m'inscrire avec mon PC. Le test est vraiment merdique. J'ai essayé de m'inscrire donc avec
+
+1310
+01:01:13,080 --> 01:01:18,080
+mon PC et là le truc m'a effectivement viandé en me disant écoute tu as un PC. Alors il m'a pas dit
+
+1311
+01:01:18,080 --> 01:01:23,480
+ça. Il m'a pas insulté à ce point là mais il m'a dit c'est réservé aux mecs d'Apple et tu peux pas
+
+1312
+01:01:23,480 --> 01:01:31,520
+venir. Tu as installé Safari ? Non franchement non je suis pas pervers à ce point là. T'as changé
+
+1313
+01:01:31,520 --> 01:01:38,200
+sous Firefox le user agent ? Non j'ai fait beaucoup plus simple. Et le site d'ailleurs précise qu'il
+
+1314
+01:01:38,200 --> 01:01:42,400
+n'utilise pas de technologie flash. Bah oui faut pas déconner. D'ailleurs on se demande bien quelle
+
+1315
+01:01:42,400 --> 01:01:48,000
+technologie il utilise entre nous. Alors je me suis donc inscrit avec mon iPhone et là franchement le
+
+1316
+01:01:48,000 --> 01:01:52,760
+mec c'est peut-être le champion du site de rencontre pour les possesseurs de machines d'Apple mais il
+
+1317
+01:01:52,760 --> 01:01:56,840
+n'a pas pensé à faire une version iPhone. Et là franchement pour s'inscrire avec un iPhone il faut être
+
+1318
+01:01:56,840 --> 01:02:00,560
+champion quoi. Franchement j'ai galéré comme un cochon. T'as passé combien de temps sur la cuvette ?
+
+1319
+01:02:00,560 --> 01:02:06,760
+Je t'en prie c'est le top live. Alors pour s'inscrire il faut un email tu peux mettre un email bidon moi
+
+1320
+01:02:06,760 --> 01:02:12,200
+j'ai mis mon véritable email ltp at captainweb.net donc un login que j'ai déjà oublié et un mot de
+
+1321
+01:02:12,200 --> 01:02:16,880
+passe que j'ai déjà paumé. Alors j'ai cherché une femme bien sûr parce que c'était l'objectif.
+
+1322
+01:02:16,880 --> 01:02:22,640
+J'ai cherché une femme sur ce site. C'est sûr que les gens cherchent des femmes dessus parce qu'ils
+
+1323
+01:02:22,640 --> 01:02:27,640
+cherchent pas plutôt des nouveaux ordinateurs quoi. Ah non mais tu peux pas. Elle elle a un Mac
+
+1324
+01:02:27,640 --> 01:02:31,640
+Booker et tout. Viens chérie je te donne rendez-vous au parking de chez Mammouth. Alors là donc j'ai
+
+1325
+01:02:31,640 --> 01:02:39,920
+sélectionné France et donc j'en ai trouvé 6. Donc 5 qui manifestement n'ont pas rentré leur
+
+1326
+01:02:39,920 --> 01:02:46,640
+profil il n'y avait rien. Et il y en avait même une qui s'appelait Alf. Pourquoi pas ? J'ai pas
+
+1327
+01:02:46,640 --> 01:02:52,160
+cliqué et je suis tombé sur l'affiche de Sophia. Ça a fini par un A vous l'avez noté. Et alors
+
+1328
+01:02:52,160 --> 01:02:56,400
+elle précise dans son profil les quelques mots qu'elle a précisé. Moi gros iPhone, moi aimer
+
+1329
+01:02:56,400 --> 01:03:01,840
+beaucoup Apple. Non beaucoup mieux. Elle met. Moi deux grosses pommes. Je cite ouvrez les guillemets
+
+1330
+01:03:01,840 --> 01:03:05,920
+donc en anglais donc elle est française mais elle explique qu'elle est étudiante. Elle cherche de
+
+1331
+01:03:05,920 --> 01:03:10,280
+l'international. Voilà c'est ça elle cherche les cours de langue. Elle précise alors elle était
+
+1332
+01:03:10,280 --> 01:03:17,960
+facile. Elle précise you're my type if you're a geek, geek art hot. Ça c'est de la croche. Ça c'est pour
+
+1333
+01:03:17,960 --> 01:03:22,120
+toi alors. Là tu t'es senti tout ce qui s'est concerné. Ça sent pas du tout le gros spam. Donc franchement
+
+1334
+01:03:22,120 --> 01:03:27,040
+site de merde qui va crever dans deux mois ou s'il est déjà mort. Bah t'as même pas essayé de la
+
+1335
+01:03:27,040 --> 01:03:32,200
+contacter. C'était la partie qui devenait payante. Attends c'est une grande nouvelle les filles
+
+1336
+01:03:32,200 --> 01:03:37,160
+lors de ton père est inscrit sur cupid tino. Foncez les filles allez y envoyez lui des demandes de
+
+1337
+01:03:37,160 --> 01:03:42,240
+contact. J'y suis plus les filles. J'ai paumé le mot de passe. Donc j'en tire deux conclusions et ce
+
+1338
+01:03:42,240 --> 01:03:49,760
+sera la conclusion d'ailleurs de ma fabuleuse rubrique. Premièrement c'est donc moi je préfère
+
+1339
+01:03:49,760 --> 01:03:54,960
+les filles qui ont un pc et qui bouge chez macdo des menus xl. Voilà c'est dit. J'ai cru que tu allais
+
+1340
+01:03:54,960 --> 01:04:07,920
+dire qu'ils ont un pénis. Non pas du tout. Dernier sujet. C'est une blague. Après c'est bien beau on
+
+1341
+01:04:07,920 --> 01:04:12,000
+dit. Oh ouais tu prépares rien. Tu demandes aux auditeurs de faire le boulot à ta place et tout.
+
+1342
+01:04:12,000 --> 01:04:19,200
+Mais bon c'est une blague lors de ton père. Et le simulateur de branlette espagnole et le simulateur
+
+1343
+01:04:19,200 --> 01:04:25,640
+non rien. Bah non. T'avais pas paru une application si vous voulez nous parler. Bah laquelle. C'est
+
+1344
+01:04:25,640 --> 01:04:30,360
+pas une gratuite. Je vous ai dit que ce soir on allait faire dans la légèreté. Au niveau
+
+1345
+01:04:30,360 --> 01:04:36,080
+time c'est très léger. C'est bon on est tranquille. J'ai deux heures pour moi. Maintenant oui voilà
+
+1346
+01:04:36,080 --> 01:04:40,680
+chers auditeurs vous vouliez quelque chose qui a de la graisse qui est sale qui sent mauvais. C'est
+
+1347
+01:04:40,680 --> 01:05:00,840
+l'heure du what's up. Après ce mémorable cet homme à brûlure d'alors ton père. T'as même pas
+
+1348
+01:05:00,840 --> 01:05:06,840
+laissé le temps en jouant de s'endormir. T'as dû faire 20 minutes de rubriques. Pleins toi pour
+
+1349
+01:05:06,840 --> 01:05:10,400
+une fois tu as plein d'auditeurs réveillés pour le what's up. Il y a des gens qui me demandent le
+
+1350
+01:05:10,400 --> 01:05:14,680
+simulateur du boulangerie. Franchement je vais essayer de faire un sujet là dessus mais il y a
+
+1351
+01:05:14,680 --> 01:05:19,680
+du boulot. Qu'est ce qu'il faut pour entendre comme ça. C'est une blague du boulot comme cette
+
+1352
+01:05:19,680 --> 01:05:24,520
+semaine. Bon bah alors c'est parti pour le what's up. T'as combien de pages ce soir. Non pas beaucoup
+
+1353
+01:05:24,520 --> 01:05:27,400
+mais moi j'ai fait léger parce qu'on m'a dit on fait léger mais je pensais pas que c'était à ce
+
+1354
+01:05:27,400 --> 01:05:31,320
+point là. J'en ai un peu plus que l'heure de ton père. Bah écoute ça sera dur d'avoir moi. Ouais c'est
+
+1355
+01:05:31,320 --> 01:05:40,280
+clair. Allez c'est parti. De quoi nourrir le captain au moins deux ou trois jours. Et oui on en
+
+1356
+01:05:40,280 --> 01:05:45,560
+parlait tout à l'heure. Grâce à l'heure de ton père on parlait de hamburgers. Laisse moi deviner.
+
+1357
+01:05:45,560 --> 01:05:53,920
+500 gregs d'une tonne. Mais non mais non attends. C'est le nouveau record du hamburger le plus
+
+1358
+01:05:53,920 --> 01:05:59,000
+lourd. Alors tu as lu l'info c'est ça captain ? Attends mieux que ça je l'ai vu sur lci je crois
+
+1359
+01:05:59,000 --> 01:06:02,960
+l'on news. Alors tu vas pouvoir nous dire quel est son poids bien sûr. Je crois que la tranche de
+
+1360
+01:06:02,960 --> 01:06:09,160
+viande faisait 85 livres. Alors bah ouais enfin l'humburger complet fait 90 kilos lors de ton
+
+1361
+01:06:09,160 --> 01:06:14,480
+père tiens toi. Il vient de battre le précédent record qui était à 84 kilos. C'est déjà pas
+
+1362
+01:06:14,480 --> 01:06:21,880
+mal. Et donc c'est un bar australien qui a dépassé ce chiffre. Cette barre de 90 kilos. J'ai été pour
+
+1363
+01:06:21,920 --> 01:06:26,240
+vous quand même moi récolter non pas la vidéo mais la liste des ingrédients et c'est assez
+
+1364
+01:06:26,240 --> 01:06:31,320
+sympathique. Alors il faut savoir quand même que ça a mis 12 heures à cuire ce hamburger. Il y a dedans
+
+1365
+01:06:31,320 --> 01:06:39,000
+lors de ton père tiens toi bien 120 œufs. Oh la vache. Un steak haché de 81 kilos. Ils ont
+
+1366
+01:06:39,000 --> 01:06:46,240
+croyé la vache. 150 tranches de fromage. Ils ont laissé les sabots. 150 tranches de fromage,
+
+1367
+01:06:46,240 --> 01:06:52,760
+2 kilos de laitue, 2 kilos et demi de tomates. Faute de goût faute de goût. La lait et les
+
+1368
+01:06:52,760 --> 01:06:58,040
+tomates et les concombres dégueulasses. Faut tout virer. La viande, du fromage et les buns ça suffit.
+
+1369
+01:06:58,040 --> 01:07:04,920
+En même temps 2 kilos de laitue dans un hamburger de 90 kilos tu dois même pas aller sentir. C'est
+
+1370
+01:07:04,920 --> 01:07:12,800
+toujours trop. Donc c'est un chef de fast food qui s'appelle Joe Adjouz qui a dû concevoir
+
+1371
+01:07:12,800 --> 01:07:19,280
+exprès pour ce record une plaque chauffante spéciale à la taille de la bête. Sa femme,
+
+1372
+01:07:19,280 --> 01:07:26,960
+Imane, nous raconte ceci. Retourner le steak était la principale difficulté de ce record.
+
+1373
+01:07:26,960 --> 01:07:31,640
+Ils l'ont fait avec un phéloïque. Mais tout s'est bien passé. Mon mari a conçu un support
+
+1374
+01:07:31,640 --> 01:07:37,840
+spécial pour la viande. Deux plaques de métal verrouillées ensemble, une à côté de l'autre. Et
+
+1375
+01:07:37,840 --> 01:07:42,480
+ce sont bien sûr les employés du restaurant qui ont eu la chance et le plaisir de pouvoir
+
+1376
+01:07:42,640 --> 01:07:47,200
+déguster cette oeuvre d'art. Il devait être trop content. Je pense que le mec qui était trop
+
+1377
+01:07:47,200 --> 01:07:52,080
+content c'est celui qui nettoyait les chiottes derrière. T'imagines la viande a cuit pendant
+
+1378
+01:07:52,080 --> 01:08:00,960
+12 heures. Ça doit être immonde. Ça devait sortir le crayon quand même. Il faut savoir que pour
+
+1379
+01:08:00,960 --> 01:08:09,920
+homologuer ce record, le restaurant va devoir proposer ce maxi burger à son menu. Quel prix ?
+
+1380
+01:08:10,720 --> 01:08:15,920
+J'ai trouvé le prix. 1500 dollars australiens, ce qui fait environ 1000 euros. Mais est-ce qu'il
+
+1381
+01:08:15,920 --> 01:08:19,840
+faut commander à l'avance ? Au moins 12 heures à l'avance. Et est-ce que tu peux faire remarquer
+
+1382
+01:08:19,840 --> 01:08:24,240
+que l'avion n'est pas assez cuit ? Si il faut le refaire, tu reviens le lendemain, c'est bon.
+
+1383
+01:08:24,240 --> 01:08:33,200
+Ils ont dû jeter 90% de ce bordel. Je ne sais pas combien il y avait d'employés. Et les buns.
+
+1384
+01:08:33,200 --> 01:08:38,480
+En tout cas, ils se sont fait un bon coup de pub. Et les mecs ils ont bouffé à l'oeil. Ils ont
+
+1385
+01:08:39,120 --> 01:08:45,600
+fait des doggie bags. Tu rentreras un peu avec toi. Est-ce que tu imagines des buns de cette taille
+
+1386
+01:08:45,600 --> 01:08:50,080
+là ? Mais ils pesaient combien tu as dit déjà ? 90 kilos. Ah oui quand même. Les buns ils ont dû
+
+1387
+01:08:50,080 --> 01:08:56,880
+les faire cuire dans l'incinérateur à poubelle du coin pour avoir un truc assez grand. Je n'en sais
+
+1388
+01:08:56,880 --> 01:09:04,080
+rien. Ou dans le four rébatoire le plus près. 90 kilos le hamburger. Ça revient, ça croise les
+
+1389
+01:09:04,080 --> 01:09:08,640
+news sur le boit de cercueil. Attends, j'ai des news sur les cercueils. C'est pas pour tout de suite.
+
+1390
+01:09:08,640 --> 01:09:21,120
+Ah ok. J'arrête de t'emmerder. Libérez Zidane. Et VP8 ? Il est déjà libéré ? Non mais c'est
+
+1391
+01:09:21,120 --> 01:09:26,560
+vrai, il faut l'adopter maintenant. Adopter VP8. Adopter VP8, le dorsal adopte VP8. Et j'arrive pas
+
+1392
+01:09:26,560 --> 01:09:31,600
+à les convaincre. Est-ce que vous connaissez Zidane ? Oui. C'est qui ? Ah celui qui baie des
+
+1393
+01:09:31,600 --> 01:09:40,120
+coups de boules ? Non, c'est un âne de 8 ans au sabot déformé dont on avait entendu parler il y a
+
+1394
+01:09:40,120 --> 01:09:45,560
+quelques temps sur internet justement parce qu'il était mal traité par ses propriétaires. Un
+
+1395
+01:09:45,560 --> 01:09:52,000
+pitoteux animal donc pitoteux état et suite à de nombreux soutiens l'animal a été transféré sur
+
+1396
+01:09:52,000 --> 01:09:58,280
+un nouveau terrain dans le Puy de Dôme. Refuge l'association Hadada. Hadada, l'association nationale
+
+1397
+01:09:58,280 --> 01:10:08,680
+des amis des ânes. Aujourd'hui il va bien confier l'association donc. On a soigné ses pieds,
+
+1398
+01:10:08,680 --> 01:10:15,840
+on l'a castré. C'est important ça. Il est content. Il va te couper les couilles. Il se remet et se
+
+1399
+01:10:15,840 --> 01:10:20,720
+repose actuellement dans un abri. Il est encore, enfin voilà je le passe la suite. Attends laisse
+
+1400
+01:10:20,720 --> 01:10:23,920
+moi comprendre pourquoi est-ce qu'il avait récupéré cet âne parce qu'il s'appelait Zidane c'est ça ?
+
+1401
+01:10:23,920 --> 01:10:29,320
+Non du tout parce qu'il était mal traité en fait. Donc tu es un âne, tu es mal traité. Il avait des
+
+1402
+01:10:29,320 --> 01:10:33,320
+sabots de travers, il avait tout ça, il y avait une photo qui avait été postée sur internet, ça avait fait
+
+1403
+01:10:33,320 --> 01:10:37,960
+un peu un mini buzz entre guillemets comme le fameux chien. Vous n'avez peut-être pas entendu parler de
+
+1404
+01:10:37,960 --> 01:10:42,600
+cette histoire. C'est en Russie je crois où il y a deux jeunes qui ont balancé un clé bar au-dessus
+
+1405
+01:10:42,600 --> 01:10:47,600
+d'un pont. Non, y compris la vidéo, ça vous dit rien. C'est pas grave. On n'a pas les mêmes sites,
+
+1406
+01:10:47,600 --> 01:10:53,840
+c'est pour ça. Alors il nous rassure quand même sur ce pauvre Zidane parce qu'après
+
+1407
+01:10:54,240 --> 01:11:00,840
+il a trouvé une compagne qui s'appelle Suzanne, une autre hannesse qui a été récupérée. Mais voilà
+
+1408
+01:11:00,840 --> 01:11:07,120
+aujourd'hui il y a une désaventure, une nouvelle désaventure pour ce petit âne. Quelle est-elle ?
+
+1409
+01:11:07,120 --> 01:11:15,600
+Victime de son succès, ça remontait aux oreilles de haute autorité on va dire. Et on ne peut plus
+
+1410
+01:11:15,600 --> 01:11:21,040
+l'immatriculer sous le nom de Zidane. Et oui parce qu'il y a des lois, alors ton père tu ne le
+
+1411
+01:11:21,040 --> 01:11:26,240
+sais peut-être pas, mais il y a des lois sur le nommage des ânes. Exactement. Alors je vais
+
+1412
+01:11:26,240 --> 01:11:29,840
+t'en reciter quelques-unes. C'est une blague. C'est en France ? C'est pas une blague, c'est en France,
+
+1413
+01:11:29,840 --> 01:11:36,240
+en Puy de Dôme je te dis. Ne peut pas être accepté, tout nom qui se compose de plus de 21
+
+1414
+01:11:36,240 --> 01:11:42,400
+lettres signe ou espace de plus de 18 lettres pour un cheval pur sang ou un trotteur français.
+
+1415
+01:11:42,400 --> 01:11:47,960
+Mais ça c'est pas un âne. Un trotteur français c'est un âne. Je suis pas d'accord. Un trotteur
+
+1416
+01:11:47,960 --> 01:11:51,880
+c'est pas... Alors attends parce que c'est pas celui-là dont on est concerné. Qu'est-ce que c'est que ce
+
+1417
+01:11:51,880 --> 01:11:57,720
+truc ? Franchement tu fais du droits comme moi je fais de la boulangerie. Tout nom comportant des
+
+1418
+01:11:57,720 --> 01:12:02,400
+initiales chiffre, trait d'union, tréma et CDI bien sûr. Donc tu peux pas appeler ton âne Jean-Pierre.
+
+1419
+01:12:02,400 --> 01:12:08,240
+Exactement. C'est vraiment dégueulasse. Les noms pouvant prêter à confusion c'est tout. Alors peut-être que tu
+
+1420
+01:12:08,240 --> 01:12:13,960
+peux pas appeler je sais pas Carla, Sodomie. Ah bah tout de suite un truc qui prête à confusion toi,
+
+1421
+01:12:13,960 --> 01:12:19,960
+oh bah tiens Sodomie. Et là bien sûr tout nom de personnalité sauf autorisation écrite de la
+
+1422
+01:12:19,960 --> 01:12:24,820
+personne intéressée. Et donc là j'en appelle à faire une pétition et à demander à Zinedine de
+
+1423
+01:12:24,820 --> 01:12:29,880
+bien vouloir rédiger une lettre autorisant l'âne à Quentin de s'appeler Zidane. Surtout qu'il y a
+
+1424
+01:12:29,880 --> 01:12:35,720
+l'accent circonflexe sur le R. Ah ça change tout. Ce qui change tout. Et bien sûr le nom dans les
+
+1425
+01:12:35,720 --> 01:12:39,440
+sens, la prononciation, la consonance ou l'orthographe sont considérés comme grossiers ou injurieux.
+
+1426
+01:12:39,440 --> 01:12:46,080
+Voilà donc c'était à dire Zidane nous sommes tout cœur avec toi pour que tu te remettes bien de
+
+1427
+01:12:46,080 --> 01:12:51,320
+tes émotions et que ce fameux Zinedine puisse t'envoyer une lettre. Surtout qu'il y a aussi une grosse
+
+1428
+01:12:51,320 --> 01:12:56,400
+différence entre l'accent circonflexe et celui qui n'en a pas, c'est qu'il y a de l'un à des coups
+
+1429
+01:12:56,400 --> 01:13:06,380
+il n'y a pas l'autre. Ok bon allez c'est parti. Je parle du calme. Donner des calmants à Jeanne. La
+
+1430
+01:13:06,380 --> 01:13:12,920
+quelle ? Elle est morte hein déjà. Et oui notre défunte douaïenne on aurait eu besoin car son
+
+1431
+01:13:12,920 --> 01:13:20,800
+record de longévité vient d'être littéralement explosé. C'est où ? En Uruguay non ? En Indonésie.
+
+1432
+01:13:20,800 --> 01:13:34,440
+Elle s'appelle Turina avec un H et qui prétend avoir, tu as le chiffre alors ? 148 ans. 157 ans.
+
+1433
+01:13:34,440 --> 01:13:42,160
+Alors ce sont des agents recenseurs qui l'auraient découvert lundi. Vous avez quel âge ? 157 ans.
+
+1434
+01:13:42,160 --> 01:13:47,240
+Dans un petit village. Ok pas de problème on le note. Merci. Ça veut dire qu'elle est née quand ?
+
+1435
+01:13:47,240 --> 01:14:00,960
+1853. C'est ça. 157 ans quoi. Ça fait 2010 quoi. C'est genre c'est une tortue quoi. C'est pas
+
+1436
+01:14:00,960 --> 01:14:05,080
+possible. Voilà tu as effectivement la première chose logique qui te vient à l'esprit. Oui mais
+
+1437
+01:14:05,080 --> 01:14:08,880
+attends c'est un peu plus compliqué que ça. T'as le mec qui a fait un viager là-dessus. Oh la vache !
+
+1438
+01:14:08,880 --> 01:14:14,320
+C'est son petit fils qui est en train de mourir en attendant. Les agents recenseurs l'ont découvert
+
+1439
+01:14:14,320 --> 01:14:20,800
+dans le petit village de l'île de Sumatra. C'est découvert et le terme. Exactement. Alors je cite
+
+1440
+01:14:20,800 --> 01:14:26,720
+il n'y a pas de document authentique pour prouver son âge mais sur la base de ses déclarations. Ils
+
+1441
+01:14:26,720 --> 01:14:31,840
+l'ont fait passer dans la machine à carbone 14. C'est pas con ça. Non mais sur ses déclarations
+
+1442
+01:14:31,840 --> 01:14:37,800
+et en prenant compte, en compte par exemple l'âge de sa fille adoptive qui a elle-même 108 ans,
+
+1443
+01:14:37,800 --> 01:14:43,640
+qui d'ailleurs la même avait déclaré j'ai 108 ans. Non elle a priori il y a des papiers quoi. Donc
+
+1444
+01:14:43,640 --> 01:14:48,640
+sa fille adoptive a vraiment 108 ans. Il est difficile d'en douter. Elle raconte je sais plus
+
+1445
+01:14:48,640 --> 01:14:57,480
+comment il s'appelle le mec Johnny Sardjono. C'est une news item ça ? En plus elle parle couramment
+
+1446
+01:14:57,480 --> 01:15:03,400
+le... Ah bah la langue qu'on parlait en 1850. Mais irlandais parce qu'en effet c'était une ancienne
+
+1447
+01:15:03,400 --> 01:15:10,960
+qu'on a dit. Exactement et qui était libérée en 1845 je pense. Donc elle serait née en 1853.
+
+1448
+01:15:10,960 --> 01:15:17,320
+Elle affirme, donc ça c'est à ne pas écouter pour le message pour la santé n'est-ce pas, avoir
+
+1449
+01:15:17,320 --> 01:15:21,400
+toujours fumé les cigarettes au coup de Girov et fait un petit peu de marche à pied quand même de
+
+1450
+01:15:21,400 --> 01:15:26,400
+temps en temps. Elle conserve une excellente mémoire nous dit-on et une bonne vue et n'a pas
+
+1451
+01:15:26,400 --> 01:15:31,640
+de problème d'audition. Une autre indénésienne a été trouvée par les mêmes recenseurs qui aurait
+
+1452
+01:15:31,640 --> 01:15:39,080
+elle 145 ans. Donc deux fois explosé jeune allemand. Un allemand qui était mort à 122 ans je crois.
+
+1453
+01:15:39,080 --> 01:15:43,720
+Mais je pense que Marc Darcel doit immédiatement leur proposer de tourner un film super hyper
+
+1454
+01:15:43,720 --> 01:15:48,840
+milf et pour un film bien hardcore. Qu'est-ce que t'en penses lors de ton père ? Ah bah oui
+
+1455
+01:15:48,840 --> 01:15:55,120
+c'est ce qui s'appellerait Granny Century quoi. Tu n'es jamais vu. Suivant.
+
+1456
+01:15:55,120 --> 01:16:04,480
+E.T. devient mon ami sur Space Face. Space Face ? Ouais Space Face. Je sais pas c'est un nom que j'ai
+
+1457
+01:16:04,480 --> 01:16:09,760
+inventé. Mais à mon avis ça va être celui-là. Parce que vous n'avez pas entendu la news. Ça c'est
+
+1458
+01:16:09,760 --> 01:16:16,320
+la NASA qui propose ça. Depuis quelques jours je crois. Qui vous propose donc d'envoyer une
+
+1459
+01:16:16,320 --> 01:16:23,240
+photo de vous dans l'espace. Super. Mais précisément où dans l'espace ? Écoute après
+
+1460
+01:16:23,240 --> 01:16:27,440
+le téléchargement, lors de ton père, ta photo numérique sera embarquée au choix sur l'une des
+
+1461
+01:16:27,440 --> 01:16:32,920
+deux dernières missions de la navette Discovery. Et ça va me coûter combien cette connerie ? Départ
+
+1462
+01:16:32,920 --> 01:16:38,160
+prévu septembre et octobre 2010 quand même. Si Discovery explose ça me ferait chier quand même.
+
+1463
+01:16:38,160 --> 01:16:42,320
+Je vais me faire exploser la face. Oui mais virtuellement ça te fera moins mal que... Exactement.
+
+1464
+01:16:42,320 --> 01:16:49,560
+Déjà beaucoup moins. Surtout que de retour de mission tu recevras un certificat qui atteste que
+
+1465
+01:16:49,560 --> 01:16:55,560
+ton visage a été bien là au cours du vol. Génial, j'ai hâte. Parce qu'en plus il la laisse même pas
+
+1466
+01:16:55,560 --> 01:17:01,920
+dans l'espace quoi. Mais non. Mais ça coûte combien cette connerie ? Alors je n'ai pas le tarif. Trop
+
+1467
+01:17:01,920 --> 01:17:07,320
+cher. Je pense que tu peux aller voir sur le site de la NASA, tu auras sûrement le tarif de ce truc là.
+
+1468
+01:17:07,320 --> 01:17:13,680
+Mais ça t'intéresse pas alors ton père ? Non. Pourquoi ? Parce que. Ça va pas vraiment l'intérêt quoi.
+
+1469
+01:17:13,680 --> 01:17:19,920
+Si quand même. Ta photo quoi. E.T. peut te voir quoi. Enfin bref. You don't know quoi. E.T.
+
+1470
+01:17:19,920 --> 01:17:27,880
+Mais j'aime pas E.T. Bah pourquoi ? Bah il a un gros doigt. Toi qui as dans la SCF tout ça, tu veux dire que tu n'aimes pas E.T.
+
+1471
+01:17:27,880 --> 01:17:33,040
+Franchement, mettre sa tête sur... Mais il la mette où ? Il la met dans un CD c'est ça ? Gros, ils
+
+1472
+01:17:33,040 --> 01:17:38,160
+envoient ton bout de plastique dans l'espace avec les 3, avec les 140k de ta photo et ils te prennent à voir.
+
+1473
+01:17:38,160 --> 01:17:41,600
+Je suis d'accord avec toi, je pense que ça aurait été beaucoup plus sympa qu'il largue en fait ta photo papier.
+
+1474
+01:17:41,600 --> 01:17:47,280
+Mais franchement, t'imagines le truc. Je fais ça, je raque. Ma face va dans l'espace et un jour les
+
+1475
+01:17:47,280 --> 01:17:52,640
+extraterrestres découvrent le bordel. Et ils connaîtront la tête de leur ton père avant tous les auditeurs ?
+
+1476
+01:17:52,640 --> 01:17:56,160
+Ah bah dis donc. Ça donne envie. Bon allez, what's up suivant.
+
+1477
+01:17:58,160 --> 01:18:04,560
+Sainte Croizade à 4 euros. Pour tenter d'effacer la mauvaise image qu'elle a depuis quelque temps,
+
+1478
+01:18:04,560 --> 01:18:10,240
+dû notamment à des affaires de pédophilie, l'église part en Croizade à grand coup de com'
+
+1479
+01:18:10,720 --> 01:18:14,320
+pour se faire une image plus cool auprès les jeunes. Je sais pas si vous avez entendu.
+
+1480
+01:18:14,320 --> 01:18:17,920
+Non laisse-moi deviner, ils ont fait une association avec TF1 et Skyrock ?
+
+1481
+01:18:17,920 --> 01:18:21,440
+Non pas du tout. Pourquoi ? Bah c'est sur Wawa machin.
+
+1482
+01:18:21,440 --> 01:18:26,320
+Non du tout. Wawa mania ça a rien à voir du tout. C'est pour parler aux jeunes.
+
+1483
+01:18:26,320 --> 01:18:28,240
+Ouais là où ils se sont fait piquer leurs somnions de notre passe.
+
+1484
+01:18:29,120 --> 01:18:36,160
+Non lundi donc hier, quelques 70 prêtres se sont ainsi retrouvés pour participer à une course de
+
+1485
+01:18:36,240 --> 01:18:43,680
+karting et non seulement ils font ça mais en plus ils vont adhérer à une compétition
+
+1486
+01:18:43,680 --> 01:18:48,960
+qui s'appelle la Padre Cup et vous pouvez trouver le site internet padrecup.fr
+
+1487
+01:18:48,960 --> 01:18:54,960
+c'est assez exceptionnel. Je veux même vous mettre la petite bande son du site internet qui est assez bonne.
+
+1488
+01:18:58,560 --> 01:19:01,600
+Vas-y Padre. À puissance impignon.
+
+1489
+01:19:01,600 --> 01:19:13,680
+Oh mon père, exceptionnel. Je te jure tu peux aller sur padrecup.fr et tu tomberas directement là-dessus.
+
+1490
+01:19:13,680 --> 01:19:20,560
+Je suis pas sûr d'avoir vraiment envie. Oh oui ce qui est trop fort c'est qu'il y a un petit logo en haut à gauche
+
+1491
+01:19:20,560 --> 01:19:25,440
+tu ne l'avais pas vu Quacos à la forme sous un petit peu une allégorie à untel mais c'est Jésus Inside.
+
+1492
+01:19:25,440 --> 01:19:30,800
+Exactement. Et c'est pas une plaisanterie. J'allais y venir justement. C'est la première chose que
+
+1493
+01:19:31,040 --> 01:19:34,480
+j'ai vu. J'allais parler de leur autre tentative de com, ils ont créé un compte twitter, ils ont créé aussi
+
+1494
+01:19:34,480 --> 01:19:40,480
+un compte facebook bien sûr et ils ont aussi un site qui s'appelle et pourquoi pas moi.org
+
+1495
+01:19:40,480 --> 01:19:45,680
+tu peux tout de suite y aller si tu veux leur t'en faire. Bah il y va immédiatement. C'est une tentative de recrutement
+
+1496
+01:19:45,680 --> 01:19:55,040
+si tu veux devenir padré toi aussi. C'est un site assez bien fait d'ailleurs. Je m'arrête. Moi aussi, c'est horrible.
+
+1497
+01:19:55,040 --> 01:20:04,000
+Pour nos auditeurs qui n'ont pas la chance d'être en live, sachez que le captain web a mis environ 5 minutes
+
+1498
+01:20:04,000 --> 01:20:12,320
+à découper son paquet de licorne, donc son carton de bière pour s'en faire un masque mexicain de catcheur
+
+1499
+01:20:12,320 --> 01:20:20,640
+et il vient de se le mettre sur la tête. Je me prépare pour le prochain carnaval de la matinale de ma fille
+
+1500
+01:20:21,600 --> 01:20:25,440
+Parce qu'il paraît que la casquette de Marc D'Arcel n'était pas de bon goût, donc je pense que mon pack de bière
+
+1501
+01:20:25,440 --> 01:20:36,960
+en forme de cagoule sera sûrement un grand succès. Pardon Quacos. J'en ai à peu près fini, et pourquoi pas moi.org
+
+1502
+01:20:36,960 --> 01:20:44,160
+donc pour recruter des nouveaux padrés, tu as des tas de questions leur ton père à poser sur la chasse de thé
+
+1503
+01:20:44,800 --> 01:20:48,800
+C'est pour répondre aux athées qui ne comprennent rien ?
+
+1504
+01:20:48,800 --> 01:20:51,280
+Pas aux athées, mais aux jeunes qui se posent des questions.
+
+1505
+01:20:51,280 --> 01:20:55,280
+Je pense que le Vatican devrait faire une sorte de Vatican roulette.
+
+1506
+01:20:57,280 --> 01:20:59,280
+Un peu risqué quand même.
+
+1507
+01:20:59,280 --> 01:21:02,320
+Non mais tu tombes sur un pack qui te confesse. Pourquoi pas ?
+
+1508
+01:21:02,320 --> 01:21:04,800
+Il y aura peut-être autant de bites que ça.
+
+1509
+01:21:04,800 --> 01:21:06,800
+Oh s'il te plait, un peu de respect !
+
+1510
+01:21:07,440 --> 01:21:09,440
+Fini, what's up suivant.
+
+1511
+01:21:11,440 --> 01:21:13,440
+Ils ont un Facebook ?
+
+1512
+01:21:13,440 --> 01:21:15,440
+Oui, je te l'ai dit, ils ont un Facebook et un Twitter même.
+
+1513
+01:21:17,440 --> 01:21:19,440
+Ils ont un MySpace ?
+
+1514
+01:21:19,440 --> 01:21:21,440
+Oui, ils ont un MySpace.
+
+1515
+01:21:21,440 --> 01:21:23,440
+Et un SkyBloy ?
+
+1516
+01:21:23,440 --> 01:21:25,440
+Oui, en effet.
+
+1517
+01:21:25,440 --> 01:21:27,440
+Ils ont un Orkut ?
+
+1518
+01:21:27,440 --> 01:21:29,440
+Oui, c'est vrai, tout à fait.
+
+1519
+01:21:29,440 --> 01:21:31,440
+Et un i5 ?
+
+1520
+01:21:31,440 --> 01:21:33,440
+Un compte via déo.
+
+1521
+01:21:33,440 --> 01:21:35,440
+Et je me permets juste un petit mot supplémentaire, et je ne t'embête plus.
+
+1522
+01:21:36,080 --> 01:21:38,080
+Il y avait une image qui avait traîné sur le net
+
+1523
+01:21:38,080 --> 01:21:40,080
+qui représentait sur un Mac
+
+1524
+01:21:40,080 --> 01:21:42,080
+la boîte mail de Dieu.
+
+1525
+01:21:42,080 --> 01:21:44,080
+Et on voyait les mails qu'ils recevaient, c'était marrant.
+
+1526
+01:21:44,080 --> 01:21:46,080
+Oui, c'est vrai.
+
+1527
+01:21:46,080 --> 01:21:48,080
+C'est vrai, l'entomper.
+
+1528
+01:21:50,080 --> 01:21:52,080
+Je ne veux pas gêner.
+
+1529
+01:21:52,080 --> 01:21:54,080
+Je l'ai tweeté il n'y a pas très longtemps.
+
+1530
+01:21:54,080 --> 01:21:56,080
+J'ai vu un reportage, c'était dimanche,
+
+1531
+01:21:56,080 --> 01:21:58,080
+sur la franc-maçonnerie.
+
+1532
+01:21:58,080 --> 01:22:00,080
+Je ne sais pas si vous avez regardé,
+
+1533
+01:22:00,080 --> 01:22:02,080
+si vous avez déjà vu des photos des habits des franc-maçons.
+
+1534
+01:22:02,720 --> 01:22:04,720
+Et ils ont une espèce de midi-tablier
+
+1535
+01:22:04,720 --> 01:22:06,720
+qui est très pour très
+
+1536
+01:22:06,720 --> 01:22:08,720
+le logo de Gemelle.
+
+1537
+01:22:08,720 --> 01:22:10,720
+C'est assez impressionnant à voir comme ça.
+
+1538
+01:22:10,720 --> 01:22:12,720
+Je te le passerai tout à l'heure, ne t'inquiète pas.
+
+1539
+01:22:12,720 --> 01:22:14,720
+Et what's up suivant.
+
+1540
+01:22:14,720 --> 01:22:16,720
+TV Paradis.
+
+1541
+01:22:16,720 --> 01:22:18,720
+On reste un petit peu dans le religieux.
+
+1542
+01:22:18,720 --> 01:22:20,720
+J'ouvre les guillemets tout de suite.
+
+1543
+01:22:20,720 --> 01:22:22,720
+Étant donné que des événements tragiques
+
+1544
+01:22:22,720 --> 01:22:24,720
+peuvent se produire de façon inattendue,
+
+1545
+01:22:24,720 --> 01:22:26,720
+alors que les proches parents
+
+1546
+01:22:26,720 --> 01:22:28,720
+peuvent être à des milliers de kilomètres,
+
+1547
+01:22:28,720 --> 01:22:30,720
+funérares TV,
+
+1548
+01:22:31,360 --> 01:22:33,360
+vous offrent la possibilité d'accompagner
+
+1549
+01:22:33,360 --> 01:22:35,360
+vos proches lors de leurs derniers voyages
+
+1550
+01:22:35,360 --> 01:22:37,360
+sur Internet.
+
+1551
+01:22:37,360 --> 01:22:39,360
+Ouais !
+
+1552
+01:22:39,360 --> 01:22:41,360
+Et bien sûr, c'est un site roumain
+
+1553
+01:22:41,360 --> 01:22:43,360
+qui s'appelle
+
+1554
+01:22:43,360 --> 01:22:45,360
+funerartv.com
+
+1555
+01:22:45,360 --> 01:22:47,360
+ou point ro, je ne sais plus d'ailleurs.
+
+1556
+01:22:49,360 --> 01:22:51,360
+Qui déclare ça avec
+
+1557
+01:22:51,360 --> 01:22:53,360
+une charmante musique qui vous accompagne
+
+1558
+01:22:53,360 --> 01:22:55,360
+tout au long de l'exploration du site internet
+
+1559
+01:22:55,360 --> 01:22:57,360
+qui est celle-ci.
+
+1560
+01:23:01,360 --> 01:23:03,360
+Ton proche est mort.
+
+1561
+01:23:03,360 --> 01:23:05,360
+Tu es à des milliers de kilomètres.
+
+1562
+01:23:07,360 --> 01:23:09,360
+Ce n'est pas un souci.
+
+1563
+01:23:09,360 --> 01:23:11,360
+Nous pouvons envoyer une équipe télé
+
+1564
+01:23:11,360 --> 01:23:13,360
+à ta place.
+
+1565
+01:23:13,360 --> 01:23:15,360
+Avec un lien Internet.
+
+1566
+01:23:15,360 --> 01:23:17,360
+Et tu pourras suivre
+
+1567
+01:23:17,360 --> 01:23:19,360
+Papy
+
+1568
+01:23:19,360 --> 01:23:21,360
+dans les flammes de l'enfer.
+
+1569
+01:23:21,360 --> 01:23:23,360
+Avant que ses cendres
+
+1570
+01:23:23,360 --> 01:23:25,360
+soient jetées dans la mer noire.
+
+1571
+01:23:25,360 --> 01:23:27,360
+Merci Papy.
+
+1572
+01:23:28,000 --> 01:23:30,000
+Donc tout ça pour dire
+
+1573
+01:23:30,000 --> 01:23:32,000
+que pour la maudite somme de...
+
+1574
+01:23:32,000 --> 01:23:34,000
+C'est pratique pour les gens
+
+1575
+01:23:34,000 --> 01:23:36,000
+qui ne veulent pas aller à l'enterrement.
+
+1576
+01:23:36,000 --> 01:23:38,000
+Oui, oui, c'est pratique.
+
+1577
+01:23:38,000 --> 01:23:40,000
+Ça donne une excuse.
+
+1578
+01:23:40,000 --> 01:23:42,000
+Ça coûte quand même entre 170 et 840 euros
+
+1579
+01:23:42,000 --> 01:23:44,000
+selon le nombre de caméras
+
+1580
+01:23:44,000 --> 01:23:46,000
+utilisées.
+
+1581
+01:23:46,000 --> 01:23:48,000
+Et tu peux faire les trucs en 3D avec des lunettes ?
+
+1582
+01:23:48,000 --> 01:23:50,000
+Est-ce qu'il peut éventuellement y avoir
+
+1583
+01:23:50,000 --> 01:23:52,000
+une caméra à l'intérieur du cercueil ?
+
+1584
+01:23:52,000 --> 01:23:54,000
+Pour les 840 euros, c'est possible.
+
+1585
+01:23:54,640 --> 01:23:56,640
+Attention, on retransmette
+
+1586
+01:23:56,640 --> 01:23:58,640
+en direct l'ensemble des services funéraires
+
+1587
+01:23:58,640 --> 01:24:00,640
+à partir des preuves artistiques
+
+1588
+01:24:00,640 --> 01:24:02,640
+jusqu'au final quand même.
+
+1589
+01:24:02,640 --> 01:24:04,640
+Par contre, au risque de se voir
+
+1590
+01:24:04,640 --> 01:24:06,640
+les plus pervers d'entre vous,
+
+1591
+01:24:06,640 --> 01:24:08,640
+fans de Waze of Glow qui est morbide au possible,
+
+1592
+01:24:08,640 --> 01:24:10,640
+la diffusion peut être cryptée
+
+1593
+01:24:10,640 --> 01:24:12,640
+à la demande du bénéficiaire.
+
+1594
+01:24:12,640 --> 01:24:14,640
+Parce que sinon, tu peux aller sur le site.
+
+1595
+01:24:14,640 --> 01:24:16,640
+C'est du live streaming.
+
+1596
+01:24:16,640 --> 01:24:18,640
+Oh, donne-moi l'adresse.
+
+1597
+01:24:18,640 --> 01:24:20,640
+Tape sur Google Funéraire TV.
+
+1598
+01:24:20,640 --> 01:24:22,640
+Et tu vas voir,
+
+1599
+01:24:23,280 --> 01:24:25,280
+on va passer de bonne soirée.
+
+1600
+01:24:25,280 --> 01:24:27,280
+Ils auront jamais eu le temps de visiter.
+
+1601
+01:24:27,280 --> 01:24:29,280
+À ce temps-là, je pense qu'il n'y a plus personne.
+
+1602
+01:24:29,280 --> 01:24:31,280
+Avec le décalage horaire, c'est pas sûr.
+
+1603
+01:24:31,280 --> 01:24:33,280
+Il y a une heure de décalage.
+
+1604
+01:24:33,280 --> 01:24:35,280
+Redonne-nous pour que nos auditeurs aient moins mal.
+
+1605
+01:24:35,280 --> 01:24:37,280
+Funéraire TV.ro.
+
+1606
+01:24:37,280 --> 01:24:39,280
+Il y a peut-être un différé comme l'apéro.
+
+1607
+01:24:39,280 --> 01:24:41,280
+C'est possible.
+
+1608
+01:24:41,280 --> 01:24:43,280
+Tu cliques sur un petit bouton live tout en bas.
+
+1609
+01:24:43,280 --> 01:24:45,280
+Tu cliques sur live.
+
+1610
+01:24:45,280 --> 01:24:47,280
+Et tu as une fenêtre streaming qui apparaît.
+
+1611
+01:24:47,280 --> 01:24:49,280
+Peut-être pas à ce temps-là.
+
+1612
+01:24:49,280 --> 01:24:51,280
+Mais elle est cryptée ou non selon
+
+1613
+01:24:51,920 --> 01:24:53,920
+Je peux dire que je sais où ils ont fait le site.
+
+1614
+01:24:53,920 --> 01:24:55,920
+Ils l'ont acheté sur Template Monster.
+
+1615
+01:24:55,920 --> 01:24:57,920
+C'est possible.
+
+1616
+01:24:57,920 --> 01:24:59,920
+J'ai fait un site de Crêperie avec cette template.
+
+1617
+01:24:59,920 --> 01:25:01,920
+C'est dire.
+
+1618
+01:25:01,920 --> 01:25:03,920
+Alors, qu'est-ce que vous en pensez?
+
+1619
+01:25:03,920 --> 01:25:05,920
+C'est innovateur.
+
+1620
+01:25:05,920 --> 01:25:07,920
+Il y a de la thune à se faire.
+
+1621
+01:25:07,920 --> 01:25:09,920
+On filme beaucoup les mariages, mais plus rarement les enterrements.
+
+1622
+01:25:09,920 --> 01:25:11,920
+Alors qu'on peut se les repasser lors des soirées en famille.
+
+1623
+01:25:11,920 --> 01:25:13,920
+C'est toujours sympa.
+
+1624
+01:25:13,920 --> 01:25:15,920
+En plus, tu n'es pas obligé de taper un billet à je ne sais pas combien d'euros
+
+1625
+01:25:15,920 --> 01:25:17,920
+pour aller voir papy
+
+1626
+01:25:17,920 --> 01:25:19,920
+qui t'a fait chier à clamser et qui ne t'amène pas à léguer.
+
+1627
+01:25:20,560 --> 01:25:22,560
+Donc moi je trouve ça plutôt sympa.
+
+1628
+01:25:22,560 --> 01:25:24,560
+J'aurais quand même mis du MC circulaire en fond sonore.
+
+1629
+01:25:26,560 --> 01:25:28,560
+Allez, on passe un peu plus.
+
+1630
+01:25:28,560 --> 01:25:30,560
+Alors ton père?
+
+1631
+01:25:30,560 --> 01:25:32,560
+Tu passes ta cinquième?
+
+1632
+01:25:32,560 --> 01:25:34,560
+La deuxième.
+
+1633
+01:25:34,560 --> 01:25:36,560
+C'est le moment où je dois m'en aller.
+
+1634
+01:25:36,560 --> 01:25:38,560
+Une libertine qui a le feu au cul.
+
+1635
+01:25:38,560 --> 01:25:40,560
+Et quand on a le feu au cul, qu'est-ce qu'on appelle?
+
+1636
+01:25:40,560 --> 01:25:42,560
+Ghostbusters?
+
+1637
+01:25:42,560 --> 01:25:44,560
+Non, les pompiers.
+
+1638
+01:25:44,560 --> 01:25:46,560
+Vous n'avez pas entendu parler de cette histoire?
+
+1639
+01:25:46,560 --> 01:25:48,560
+Non.
+
+1640
+01:25:49,200 --> 01:25:51,200
+Je préférais ne pas en parler.
+
+1641
+01:25:51,200 --> 01:25:53,200
+Ça s'est passé en Belgique à Charleroi.
+
+1642
+01:25:55,200 --> 01:25:57,200
+Ça c'est ton site belge.
+
+1643
+01:25:57,200 --> 01:25:59,200
+J'ai plusieurs sites belges.
+
+1644
+01:25:59,200 --> 01:26:01,200
+J'en ai plusieurs.
+
+1645
+01:26:01,200 --> 01:26:03,200
+Des photos ont circulé sur un site libertin.
+
+1646
+01:26:03,200 --> 01:26:05,200
+D'une charmante jeune femme et son mari.
+
+1647
+01:26:05,200 --> 01:26:07,200
+Fans d'échanges
+
+1648
+01:26:07,200 --> 01:26:09,200
+de tous genres.
+
+1649
+01:26:09,200 --> 01:26:11,200
+Qui sont débarqués dans une caserne.
+
+1650
+01:26:11,200 --> 01:26:13,200
+La jeune femme est passée par tous les pompiers.
+
+1651
+01:26:13,200 --> 01:26:15,200
+Elle s'est brûlé des tuyaux dans le cul.
+
+1652
+01:26:15,200 --> 01:26:17,200
+Exactement.
+
+1653
+01:26:17,840 --> 01:26:19,840
+Et après quelques recherches
+
+1654
+01:26:19,840 --> 01:26:21,840
+ils se sont aperçus
+
+1655
+01:26:21,840 --> 01:26:23,840
+que les pompiers étaient
+
+1656
+01:26:23,840 --> 01:26:25,840
+plutôt...
+
+1657
+01:26:25,840 --> 01:26:27,840
+C'était pas leur première fois.
+
+1658
+01:26:27,840 --> 01:26:29,840
+C'est une caserne assez spécialisée.
+
+1659
+01:26:29,840 --> 01:26:31,840
+Où les libertins
+
+1660
+01:26:31,840 --> 01:26:33,840
+avident de fantasmes de pompiers
+
+1661
+01:26:33,840 --> 01:26:35,840
+débarqués comme ça.
+
+1662
+01:26:35,840 --> 01:26:37,840
+Pour faire des films ou des photos.
+
+1663
+01:26:37,840 --> 01:26:39,840
+Ou même pas de photos.
+
+1664
+01:26:39,840 --> 01:26:41,840
+Et le feu c'est quand ils veulent.
+
+1665
+01:26:41,840 --> 01:26:43,840
+Alors attention.
+
+1666
+01:26:43,840 --> 01:26:45,840
+Parce que ce n'est pas pompiers qui veulent.
+
+1667
+01:26:46,480 --> 01:26:48,480
+Et ils sont quand même professionnels.
+
+1668
+01:26:48,480 --> 01:26:50,480
+Sur toutes les photos
+
+1669
+01:26:50,480 --> 01:26:52,480
+tu pourras voir qu'ils ont gardé leur botte.
+
+1670
+01:26:52,480 --> 01:26:54,480
+Et leur casque.
+
+1671
+01:26:54,480 --> 01:26:56,480
+Et la hache.
+
+1672
+01:26:56,480 --> 01:26:58,480
+Ils ont juste baissé le frac
+
+1673
+01:26:58,480 --> 01:27:00,480
+si tu veux.
+
+1674
+01:27:00,480 --> 01:27:02,480
+Pour sauter jeunette.
+
+1675
+01:27:02,480 --> 01:27:04,480
+Ils ont précisé lors de l'enquête
+
+1676
+01:27:04,480 --> 01:27:06,480
+qu'ils pouvaient en 30 secondes
+
+1677
+01:27:06,480 --> 01:27:08,480
+partir sur une urgence.
+
+1678
+01:27:08,480 --> 01:27:10,480
+Si ils partent vite à l'air
+
+1679
+01:27:10,480 --> 01:27:12,480
+pour éteindre l'incendie.
+
+1680
+01:27:12,480 --> 01:27:14,480
+Tu remontes vite ton pantalon.
+
+1681
+01:27:15,120 --> 01:27:17,120
+Oui parce que ça date la semaine dernière
+
+1682
+01:27:17,120 --> 01:27:19,120
+cette info.
+
+1683
+01:27:19,120 --> 01:27:21,120
+Je pensais que les auditeurs en auraient parlé.
+
+1684
+01:27:21,120 --> 01:27:23,120
+Mais à l'époque
+
+1685
+01:27:23,120 --> 01:27:25,120
+tu pouvais taper sur Google
+
+1686
+01:27:25,120 --> 01:27:27,120
+et tu tombais sur la série de photos
+
+1687
+01:27:27,120 --> 01:27:29,120
+de cette maman de jeune femme.
+
+1688
+01:27:29,120 --> 01:27:31,120
+J'y vais immédiatement.
+
+1689
+01:27:31,120 --> 01:27:33,120
+Moi aussi.
+
+1690
+01:27:33,120 --> 01:27:35,120
+Je savais que vous alliez suivre.
+
+1691
+01:27:35,120 --> 01:27:37,120
+Zidane, tout le monde s'en fout.
+
+1692
+01:27:37,120 --> 01:27:39,120
+Ce pauvre Han.
+
+1693
+01:27:39,120 --> 01:27:41,120
+Les pompiers qui sautent la jeunette
+
+1694
+01:27:41,120 --> 01:27:43,120
+tout le monde y va.
+
+1695
+01:27:43,760 --> 01:27:45,760
+Je suis en train de charger.
+
+1696
+01:27:45,760 --> 01:27:47,760
+Je suis adulte.
+
+1697
+01:27:47,760 --> 01:27:49,760
+Par contre j'ai une grosse image bien moche.
+
+1698
+01:27:49,760 --> 01:27:51,760
+Une espèce de gonzesse.
+
+1699
+01:27:51,760 --> 01:27:53,760
+J'avais vu les nanas.
+
+1700
+01:27:53,760 --> 01:27:55,760
+Elle était pas terrible.
+
+1701
+01:27:55,760 --> 01:27:57,760
+On voyait bien les pompiers.
+
+1702
+01:27:57,760 --> 01:27:59,760
+Je suis tombé sur autre chose.
+
+1703
+01:27:59,760 --> 01:28:01,760
+Je suis tombé dessus.
+
+1704
+01:28:01,760 --> 01:28:03,760
+Elle est toute seule.
+
+1705
+01:28:03,760 --> 01:28:05,760
+C'est son mari qui prend les photos
+
+1706
+01:28:05,760 --> 01:28:07,760
+et je crois qu'il y a 4 pompiers
+
+1707
+01:28:07,760 --> 01:28:09,760
+qui sont passés en même temps.
+
+1708
+01:28:09,760 --> 01:28:11,760
+Je ne sais plus très bien.
+
+1709
+01:28:12,400 --> 01:28:14,400
+Je suis tombé sur le poste.
+
+1710
+01:28:14,400 --> 01:28:16,400
+C'est logique.
+
+1711
+01:28:16,400 --> 01:28:18,400
+Tu vois sur les photos
+
+1712
+01:28:18,400 --> 01:28:20,400
+qu'ils ont gardé leur bottin.
+
+1713
+01:28:20,400 --> 01:28:22,400
+C'est pas ça.
+
+1714
+01:28:22,400 --> 01:28:24,400
+Elle est toute seule sur les photos.
+
+1715
+01:28:24,400 --> 01:28:26,400
+Elle est pas passée par les pompiers.
+
+1716
+01:28:26,400 --> 01:28:28,400
+On va enchaîner.
+
+1717
+01:28:28,400 --> 01:28:30,400
+C'est une info sympa.
+
+1718
+01:28:30,400 --> 01:28:32,400
+Comme d'habitude.
+
+1719
+01:28:34,400 --> 01:28:36,400
+Mais c'est de la merde.
+
+1720
+01:28:36,400 --> 01:28:38,400
+Encore en Belgique.
+
+1721
+01:28:38,400 --> 01:28:40,400
+Les Belges vont t'en vouloir.
+
+1722
+01:28:41,040 --> 01:28:43,040
+Les amateurs d'excréments
+
+1723
+01:28:43,040 --> 01:28:45,040
+sont attendus
+
+1724
+01:28:45,040 --> 01:28:47,040
+aujourd'hui à Amsterdam
+
+1725
+01:28:47,040 --> 01:28:49,040
+où une oeuvre
+
+1726
+01:28:49,040 --> 01:28:51,040
+après la fête de la bière
+
+1727
+01:28:51,040 --> 01:28:53,040
+c'est la fête de la merde.
+
+1728
+01:28:53,040 --> 01:28:55,040
+Je parle bien d'une oeuvre de l'artiste belge
+
+1729
+01:28:55,040 --> 01:28:57,040
+Wim Delvoye
+
+1730
+01:28:57,040 --> 01:28:59,040
+W-I-M plus loin D-E-L-V-O-Y-E
+
+1731
+01:28:59,040 --> 01:29:01,040
+sera mise aux enchères
+
+1732
+01:29:01,040 --> 01:29:03,040
+lors d'une vente
+
+1733
+01:29:03,040 --> 01:29:05,040
+consacrée à l'art contemporain.
+
+1734
+01:29:05,040 --> 01:29:07,040
+L'oeuvre emballée sous vide
+
+1735
+01:29:07,040 --> 01:29:09,040
+est estimée entre 5000 et 7000 euros.
+
+1736
+01:29:09,680 --> 01:29:11,680
+Elle a été produite le 27 août 2001
+
+1737
+01:29:11,680 --> 01:29:13,680
+par Cloaca.
+
+1738
+01:29:13,680 --> 01:29:15,680
+Qu'est-ce que Cloaca ?
+
+1739
+01:29:15,680 --> 01:29:17,680
+C'est une installation de cet artiste
+
+1740
+01:29:17,680 --> 01:29:19,680
+qui reproduit le processus
+
+1741
+01:29:19,680 --> 01:29:21,680
+digestif humain.
+
+1742
+01:29:21,680 --> 01:29:23,680
+Et donc il produit du caca.
+
+1743
+01:29:23,680 --> 01:29:25,680
+J'avais vu ce truc là.
+
+1744
+01:29:25,680 --> 01:29:27,680
+Il met plein de merde dedans et il y a la vraie merde qui ressort au bout.
+
+1745
+01:29:27,680 --> 01:29:29,680
+Exactement.
+
+1746
+01:29:29,680 --> 01:29:31,680
+C'est une poubelle.
+
+1747
+01:29:31,680 --> 01:29:33,680
+Et à la fin
+
+1748
+01:29:33,680 --> 01:29:35,680
+ça sent un gros caca.
+
+1749
+01:29:35,680 --> 01:29:37,680
+L'artiste vend ses créations
+
+1750
+01:29:38,320 --> 01:29:40,320
+à des collectionneurs du monde entier.
+
+1751
+01:29:40,320 --> 01:29:42,320
+Chers auditeurs, vous l'aurez appris chez Captain Man.
+
+1752
+01:29:42,320 --> 01:29:44,320
+Il a déjà vendu
+
+1753
+01:29:44,320 --> 01:29:46,320
+des gros caca.
+
+1754
+01:29:46,320 --> 01:29:48,320
+Je comprends pourquoi
+
+1755
+01:29:48,320 --> 01:29:50,320
+tous les autres podcasts high-tech
+
+1756
+01:29:50,320 --> 01:29:52,320
+ils ont des kilomètres d'auditeurs.
+
+1757
+01:29:52,320 --> 01:29:54,320
+Parce qu'eux ils ne parlent pas
+
+1758
+01:29:54,320 --> 01:29:56,320
+de caca, d'Anne Castret.
+
+1759
+01:29:56,320 --> 01:29:58,320
+C'est plus intéressant que l'iPhone.
+
+1760
+01:29:58,320 --> 01:30:00,320
+L'an dernier à Londres
+
+1761
+01:30:00,320 --> 01:30:02,320
+un de ces gros caca s'était vendu
+
+1762
+01:30:02,320 --> 01:30:04,320
+quand même 14 500 euros.
+
+1763
+01:30:04,320 --> 01:30:06,320
+Amateurs de collection
+
+1764
+01:30:06,960 --> 01:30:08,960
+de scatophilie
+
+1765
+01:30:08,960 --> 01:30:10,960
+et de rubrique de leur tom-père.
+
+1766
+01:30:10,960 --> 01:30:12,960
+Vous savez où elle est ?
+
+1767
+01:30:12,960 --> 01:30:14,960
+Le ardeur du trépas.
+
+1768
+01:30:14,960 --> 01:30:16,960
+C'est fait ce soir.
+
+1769
+01:30:16,960 --> 01:30:18,960
+Attends.
+
+1770
+01:30:18,960 --> 01:30:20,960
+Nous aurons du cul
+
+1771
+01:30:20,960 --> 01:30:22,960
+et de la mort.
+
+1772
+01:30:22,960 --> 01:30:24,960
+Vous êtes bien fort.
+
+1773
+01:30:24,960 --> 01:30:26,960
+Des mecs en train de baiser des personnes mortes.
+
+1774
+01:30:26,960 --> 01:30:28,960
+Ça s'appelle de la nécrophilie.
+
+1775
+01:30:28,960 --> 01:30:30,960
+Il n'y a pas de nécrophilie.
+
+1776
+01:30:30,960 --> 01:30:32,960
+D'ailleurs
+
+1777
+01:30:32,960 --> 01:30:34,960
+cette petite rubrique
+
+1778
+01:30:35,600 --> 01:30:37,600
+me fait plonger sur quelque chose
+
+1779
+01:30:37,600 --> 01:30:39,600
+dont j'ai parlé vite fait hier avec David.
+
+1780
+01:30:39,600 --> 01:30:41,600
+C'est un film dans la lignée
+
+1781
+01:30:41,600 --> 01:30:43,600
+de The Human Centipede
+
+1782
+01:30:43,600 --> 01:30:45,600
+qui s'appelle Serbian Film.
+
+1783
+01:30:45,600 --> 01:30:47,600
+Tu m'en as parlé mais j'ai pas eu le temps d'aller voir.
+
+1784
+01:30:47,600 --> 01:30:49,600
+Il faut aller voir la bande annonce.
+
+1785
+01:30:49,600 --> 01:30:51,600
+C'est assez exceptionnel.
+
+1786
+01:30:51,600 --> 01:30:53,600
+L'histoire, je le résume vite fait.
+
+1787
+01:30:53,600 --> 01:30:55,600
+C'est un ancien acteur de porno
+
+1788
+01:30:55,600 --> 01:30:57,600
+qui s'est reconverti dans une life
+
+1789
+01:30:57,600 --> 01:30:59,600
+tout à fait saine et propre
+
+1790
+01:30:59,600 --> 01:31:01,600
+avec femme et enfant.
+
+1791
+01:31:01,600 --> 01:31:03,600
+Et qui arrive à
+
+1792
+01:31:04,240 --> 01:31:06,240
+des petits soucis d'argent
+
+1793
+01:31:06,240 --> 01:31:08,240
+et qui recontacte le milieu
+
+1794
+01:31:08,240 --> 01:31:10,240
+du porno
+
+1795
+01:31:10,240 --> 01:31:12,240
+pour essayer de faire des sous.
+
+1796
+01:31:12,240 --> 01:31:14,240
+Le problème c'est qu'il tombe sur un nouveau réalisateur
+
+1797
+01:31:14,240 --> 01:31:16,240
+qui a un petit pot spécial
+
+1798
+01:31:16,240 --> 01:31:18,240
+et son créneau c'est le snuff porno.
+
+1799
+01:31:18,240 --> 01:31:20,240
+Mais personne n'est au courant au début.
+
+1800
+01:31:24,240 --> 01:31:26,240
+Il faut savoir que le pauvre réalisateur
+
+1801
+01:31:26,240 --> 01:31:28,240
+a du mal à trouver un distributeur.
+
+1802
+01:31:28,240 --> 01:31:30,240
+La dernière fois qu'il a présenté
+
+1803
+01:31:30,240 --> 01:31:32,240
+aux acheteurs son film
+
+1804
+01:31:32,880 --> 01:31:34,880
+il y a eu plusieurs vomissements dans la salle
+
+1805
+01:31:34,880 --> 01:31:36,880
+il y a même eu un rumeur
+
+1806
+01:31:36,880 --> 01:31:38,880
+qu'il y en a un qui s'est évanoui
+
+1807
+01:31:38,880 --> 01:31:40,880
+qui s'est pris une porte dans la tête
+
+1808
+01:31:40,880 --> 01:31:42,880
+et s'est pété le nez.
+
+1809
+01:31:42,880 --> 01:31:44,880
+Donc j'aimerais avoir la possibilité de voir ce film là
+
+1810
+01:31:44,880 --> 01:31:46,880
+je ne sais pas si c'est encore possible.
+
+1811
+01:31:46,880 --> 01:31:48,880
+J'en viens tout de suite à mon was-off
+
+1812
+01:31:48,880 --> 01:31:50,880
+Ardeur du trépas.
+
+1813
+01:31:50,880 --> 01:31:52,880
+C'est l'histoire de ce ardeur américain
+
+1814
+01:31:52,880 --> 01:31:54,880
+que tu connais peut-être
+
+1815
+01:31:54,880 --> 01:31:56,880
+toi le grand spécialiste
+
+1816
+01:31:56,880 --> 01:31:58,880
+Ron Jeremy
+
+1817
+01:31:58,880 --> 01:32:00,880
+est-ce que j'ai son nom ?
+
+1818
+01:32:01,520 --> 01:32:03,520
+Stephen Hill
+
+1819
+01:32:03,520 --> 01:32:05,520
+ça ne me dit rien écoute
+
+1820
+01:32:05,520 --> 01:32:07,520
+C'est un acteur porno
+
+1821
+01:32:07,520 --> 01:32:09,520
+qui a fait parler de lui il y a quelques jours
+
+1822
+01:32:09,520 --> 01:32:11,520
+parce que
+
+1823
+01:32:11,520 --> 01:32:13,520
+il avait attaqué
+
+1824
+01:32:13,520 --> 01:32:15,520
+je crois que c'était la semaine dernière
+
+1825
+01:32:15,520 --> 01:32:17,520
+3 de ses collaborateurs
+
+1826
+01:32:17,520 --> 01:32:19,520
+à l'aide d'une machette
+
+1827
+01:32:19,520 --> 01:32:21,520
+je crois qu'il en a tué 1 d'ailleurs
+
+1828
+01:32:21,520 --> 01:32:23,520
+j'ai lu la news oui effectivement
+
+1829
+01:32:23,520 --> 01:32:25,520
+t'as lu ce truc là
+
+1830
+01:32:25,520 --> 01:32:27,520
+l'histoire a priori c'est qu'il a été viré je ne sais pas pourquoi
+
+1831
+01:32:27,520 --> 01:32:29,520
+il n'était pas content il a pris une machette
+
+1832
+01:32:30,160 --> 01:32:32,160
+que les autres étaient en train de faire leur besogne
+
+1833
+01:32:32,160 --> 01:32:34,160
+ses compagnies ou acteurs
+
+1834
+01:32:34,160 --> 01:32:36,160
+il les a massacrés
+
+1835
+01:32:36,160 --> 01:32:38,160
+et donc il était activement recherché par la police
+
+1836
+01:32:38,160 --> 01:32:40,160
+et après
+
+1837
+01:32:40,160 --> 01:32:42,160
+une course poursuite assez énorme
+
+1838
+01:32:42,160 --> 01:32:44,160
+un petit coup de tasseur
+
+1839
+01:32:44,160 --> 01:32:46,160
+et hop il a fait une chute
+
+1840
+01:32:46,160 --> 01:32:48,160
+de 15 mètres d'une falaise
+
+1841
+01:32:48,160 --> 01:32:50,160
+et il est mort bien sûr
+
+1842
+01:32:50,160 --> 01:32:52,160
+alors les policiers disent que ce n'est pas eux c'est pas leur faute c'est pas le tasseur
+
+1843
+01:32:52,160 --> 01:32:54,160
+ils disent qu'il s'est jeté tout seul
+
+1844
+01:32:56,160 --> 01:32:58,160
+avec des petits éclairs partout
+
+1845
+01:32:58,800 --> 01:33:00,800
+bien sûr monsieur le policier
+
+1846
+01:33:00,800 --> 01:33:02,800
+c'est lui il s'est tasé avant de se jeter de la falaise
+
+1847
+01:33:02,800 --> 01:33:04,800
+l'ordure
+
+1848
+01:33:04,800 --> 01:33:06,800
+je cite le policier
+
+1849
+01:33:06,800 --> 01:33:08,800
+il a sauté de la falaise
+
+1850
+01:33:08,800 --> 01:33:10,800
+après avoir reçu une décharge
+
+1851
+01:33:10,800 --> 01:33:12,800
+de tasseur mais il a quand même sauté
+
+1852
+01:33:12,800 --> 01:33:14,800
+donc voilà
+
+1853
+01:33:14,800 --> 01:33:16,800
+c'était deux oiseaux fondants
+
+1854
+01:33:16,800 --> 01:33:18,800
+le mec est mort après une charge de tasseur
+
+1855
+01:33:18,800 --> 01:33:20,800
+après avoir massacré 3 de ses acteurs de porno
+
+1856
+01:33:20,800 --> 01:33:22,800
+c'est quand même sympa vous l'aurez appris
+
+1857
+01:33:22,800 --> 01:33:24,800
+ou c'est que vous l'aurez appris
+
+1858
+01:33:24,800 --> 01:33:26,800
+je crois que leur ton père n'est pas d'accord
+
+1859
+01:33:27,440 --> 01:33:29,440
+et toi concernant le côté sympa de la formation
+
+1860
+01:33:29,440 --> 01:33:31,440
+j'aimais le réservé
+
+1861
+01:33:31,440 --> 01:33:33,440
+plus de place dans le frigo
+
+1862
+01:33:33,440 --> 01:33:35,440
+alors de quoi ça va parler ?
+
+1863
+01:33:35,440 --> 01:33:37,440
+alors laisse-moi te dîner
+
+1864
+01:33:37,440 --> 01:33:39,440
+c'est dans une morgue
+
+1865
+01:33:39,440 --> 01:33:41,440
+avec un mec qui fait du vélo qui pine des gens
+
+1866
+01:33:41,440 --> 01:33:43,440
+qui s'est pris un coup de tasseur
+
+1867
+01:33:43,440 --> 01:33:45,440
+moi je pense que c'est une histoire avec des bébés congelés
+
+1868
+01:33:45,440 --> 01:33:47,440
+c'est une histoire à la courgeau
+
+1869
+01:33:47,440 --> 01:33:49,440
+non c'est pas une histoire française
+
+1870
+01:33:49,440 --> 01:33:51,440
+non ça se passe dans l'île noire
+
+1871
+01:33:51,440 --> 01:33:53,440
+une maison funéraire
+
+1872
+01:33:53,440 --> 01:33:55,440
+a perdu sa licence
+
+1873
+01:33:56,080 --> 01:33:58,080
+après qu'un inspecteur de l'état
+
+1874
+01:33:58,080 --> 01:34:00,080
+ait découvert que l'endroit empilait des cadavres
+
+1875
+01:34:00,080 --> 01:34:02,080
+dans son garage
+
+1876
+01:34:02,080 --> 01:34:04,080
+dû à un manque d'espace dans ses frigos
+
+1877
+01:34:04,080 --> 01:34:06,080
+il y avait au moins
+
+1878
+01:34:06,080 --> 01:34:08,080
+une quarantaine de défends
+
+1879
+01:34:08,080 --> 01:34:10,080
+cachés dans les sacs mortuaires
+
+1880
+01:34:10,080 --> 01:34:12,080
+en attendant leur crémation
+
+1881
+01:34:12,080 --> 01:34:14,080
+non ?
+
+1882
+01:34:14,080 --> 01:34:16,080
+on peut passer à autre chose ?
+
+1883
+01:34:16,080 --> 01:34:18,080
+non ça me va tout à fait
+
+1884
+01:34:18,080 --> 01:34:20,080
+non c'est sympa comme info
+
+1885
+01:34:20,080 --> 01:34:22,080
+c'est sympa oui
+
+1886
+01:34:22,080 --> 01:34:24,080
+c'est drôlement sympa oui
+
+1887
+01:34:24,080 --> 01:34:26,080
+je suis ravi de l'avoir appris ce soir
+
+1888
+01:34:26,080 --> 01:34:28,080
+j'ai bien fait de venir
+
+1889
+01:34:28,080 --> 01:34:30,080
+c'est vraiment le meilleur pas de cas que j'ai jamais participé
+
+1890
+01:34:30,080 --> 01:34:32,080
+voir ce qu'il aimait
+
+1891
+01:34:32,080 --> 01:34:34,080
+c'est quand même une information
+
+1892
+01:34:34,080 --> 01:34:36,080
+d'important c'est le garage de l'enfer
+
+1893
+01:34:36,080 --> 01:34:38,080
+t'habites à côté t'imagine
+
+1894
+01:34:38,080 --> 01:34:40,080
+tu te plains parce que t'as des voisins
+
+1895
+01:34:40,080 --> 01:34:42,080
+qui sentent éventuellement la mort
+
+1896
+01:34:42,080 --> 01:34:44,080
+là t'as de quoi te plaindre
+
+1897
+01:34:44,080 --> 01:34:46,080
+oui allô
+
+1898
+01:34:46,080 --> 01:34:48,080
+c'est pour me plaindre de mes rapports de voisinage
+
+1899
+01:34:48,080 --> 01:34:50,080
+mon voisin a pris des cadavres
+
+1900
+01:34:50,080 --> 01:34:52,080
+dans son garage
+
+1901
+01:34:52,080 --> 01:34:54,080
+la question c'est où se situait la crise ?
+
+1902
+01:34:54,080 --> 01:34:56,080
+est-ce qu'il y a trop de mort ?
+
+1903
+01:34:56,080 --> 01:34:58,080
+ou ce qui a passé de pompe funéraire ?
+
+1904
+01:34:58,080 --> 01:35:00,080
+ou de congélo en tout cas
+
+1905
+01:35:00,080 --> 01:35:02,080
+ils étaient stockés comme ça ?
+
+1906
+01:35:02,080 --> 01:35:04,080
+ils étaient stockés comme ça en tas
+
+1907
+01:35:04,080 --> 01:35:06,080
+dans leurs sacs mortuaires mais empilés dans le garage
+
+1908
+01:35:06,080 --> 01:35:08,080
+il faut savoir quand même que
+
+1909
+01:35:08,080 --> 01:35:10,080
+le propriétaire de la maison funéraire
+
+1910
+01:35:10,080 --> 01:35:12,080
+qui s'appelle William Chambers
+
+1911
+01:35:12,080 --> 01:35:14,080
+compte appeler
+
+1912
+01:35:14,080 --> 01:35:16,080
+la décision qui compte l'inculper
+
+1913
+01:35:16,080 --> 01:35:18,080
+et se défend ainsi
+
+1914
+01:35:18,080 --> 01:35:20,080
+moi et mes employés
+
+1915
+01:35:20,080 --> 01:35:22,080
+sans tôt avoir pris en charge la situation
+
+1916
+01:35:22,080 --> 01:35:24,080
+comme il se doit
+
+1917
+01:35:24,080 --> 01:35:26,080
+mais le conseil
+
+1918
+01:35:26,080 --> 01:35:28,080
+en pense autrement
+
+1919
+01:35:28,080 --> 01:35:30,080
+nous avons un espace limité
+
+1920
+01:35:30,080 --> 01:35:32,080
+les choses étaient un petit peu en désordre
+
+1921
+01:35:32,080 --> 01:35:34,080
+c'est pas vraiment acceptable
+
+1922
+01:35:34,080 --> 01:35:36,080
+mais nous n'avions pas le choix
+
+1923
+01:35:36,080 --> 01:35:38,080
+nous aussi on avait pas le choix
+
+1924
+01:35:38,080 --> 01:35:40,080
+c'est les CLM quand les cercueils à loyer moderne
+
+1925
+01:35:40,080 --> 01:35:42,080
+et ton truc
+
+1926
+01:35:42,080 --> 01:35:44,080
+mais moi je pense qu'il faut faire
+
+1927
+01:35:44,080 --> 01:35:46,080
+il y a très longtemps
+
+1928
+01:35:46,080 --> 01:35:48,080
+dans un oiseau vous avez parlé de ça
+
+1929
+01:35:48,080 --> 01:35:50,080
+ce cimetière en Australie
+
+1930
+01:35:50,080 --> 01:35:52,080
+franchement déjà qu'on a du mal avec les oiseaux présents
+
+1931
+01:35:52,080 --> 01:35:54,080
+si tu nous sors les oiseaux passés moi je craque
+
+1932
+01:35:54,080 --> 01:35:56,080
+mais rappele toi ils empilaient les gens
+
+1933
+01:35:56,080 --> 01:35:58,080
+ils les entèvraient
+
+1934
+01:35:58,080 --> 01:36:00,080
+de manière verticale
+
+1935
+01:36:00,080 --> 01:36:02,080
+et donc ça prenait beaucoup moins de place
+
+1936
+01:36:02,080 --> 01:36:04,080
+le cercueil était en forme de vis
+
+1937
+01:36:04,080 --> 01:36:06,080
+si tu veux, tu glissais une barre en haut
+
+1938
+01:36:06,080 --> 01:36:08,080
+et tu tournais comme ça, les gens tournaient pour en foncer dans la terre
+
+1939
+01:36:08,080 --> 01:36:10,080
+non c'est écologique
+
+1940
+01:36:10,080 --> 01:36:12,080
+super écologique et tout
+
+1941
+01:36:12,080 --> 01:36:14,080
+par contre c'est vrai que le petit défaut de ce système
+
+1942
+01:36:14,080 --> 01:36:16,080
+c'est que là où dans un enterrement normal
+
+1943
+01:36:16,080 --> 01:36:18,080
+tu peux faire des superpositions
+
+1944
+01:36:18,080 --> 01:36:20,080
+avec le système de la vis, tu es obligé de les mettre
+
+1945
+01:36:20,080 --> 01:36:22,080
+les uns à côté des autres
+
+1946
+01:36:22,080 --> 01:36:24,080
+tu peux pas les superposer
+
+1947
+01:36:24,080 --> 01:36:26,080
+tu peux peut-être creuser aussi
+
+1948
+01:36:26,080 --> 01:36:28,080
+par exemple si tu es dans tous les cimetières
+
+1949
+01:36:28,080 --> 01:36:30,080
+français, il me semble que ton père va me confirmer
+
+1950
+01:36:30,080 --> 01:36:32,080
+puisque c'est son domaine
+
+1951
+01:36:36,080 --> 01:36:38,080
+si tu as ton petit espace personnel
+
+1952
+01:36:38,080 --> 01:36:40,080
+ta tombe avec 4 espaces dedans
+
+1953
+01:36:40,080 --> 01:36:42,080
+tu n'as le droit de mettre que 3 cercueils
+
+1954
+01:36:42,080 --> 01:36:44,080
+oui, oui, exact
+
+1955
+01:36:44,080 --> 01:36:46,080
+mais je me souviens plus pourquoi
+
+1956
+01:36:46,080 --> 01:36:48,080
+en cas d'épidémie
+
+1957
+01:36:48,080 --> 01:36:50,080
+pour pouvoir enterrer les gens en trop
+
+1958
+01:36:50,080 --> 01:36:52,080
+ça me ferait chier de partager ma tombe avec un mec
+
+1959
+01:36:52,080 --> 01:36:54,080
+que je connais
+
+1960
+01:36:54,080 --> 01:36:56,080
+peut-être que tu peux lui faire payer sa part
+
+1961
+01:36:56,080 --> 01:36:58,080
+à sa famille
+
+1962
+01:36:58,080 --> 01:37:00,080
+il te ramène une fucking grippa
+
+1963
+01:37:00,080 --> 01:37:02,080
+si on partage les coups, c'est différent
+
+1964
+01:37:02,080 --> 01:37:04,080
+est-ce que tu penses qu'il est possible d'acheter
+
+1965
+01:37:04,080 --> 01:37:06,080
+en viager une concession funéraire
+
+1966
+01:37:06,080 --> 01:37:08,080
+je ne pense pas
+
+1967
+01:37:08,080 --> 01:37:10,080
+c'est tordu comme question
+
+1968
+01:37:10,080 --> 01:37:12,080
+c'est pas mal
+
+1969
+01:37:12,080 --> 01:37:14,080
+c'est complètement débile
+
+1970
+01:37:14,080 --> 01:37:16,080
+j'aurais dû réagir beaucoup plus tôt
+
+1971
+01:37:16,080 --> 01:37:18,080
+ce type se fout de ma gueule
+
+1972
+01:37:20,080 --> 01:37:22,080
+c'est une question technique
+
+1973
+01:37:22,080 --> 01:37:24,080
+j'aurais plutôt dit
+
+1974
+01:37:24,080 --> 01:37:26,080
+si tu veux faire un parallèle amusant
+
+1975
+01:37:26,080 --> 01:37:28,080
+est-ce que tu peux acheter une concession funéraire
+
+1976
+01:37:28,080 --> 01:37:30,080
+jusqu'au moment où tu ressuscites
+
+1977
+01:37:30,080 --> 01:37:32,080
+ah ouais
+
+1978
+01:37:32,080 --> 01:37:34,080
+bon bref
+
+1979
+01:37:36,080 --> 01:37:38,080
+don't fuck with roulette bruce
+
+1980
+01:37:40,080 --> 01:37:42,080
+je te rassure
+
+1981
+01:37:42,080 --> 01:37:44,080
+lors de ton père, c'est mon avant dernier was off
+
+1982
+01:37:44,080 --> 01:37:46,080
+un ingénieur russe
+
+1983
+01:37:46,080 --> 01:37:48,080
+s'est suicidé
+
+1984
+01:37:48,080 --> 01:37:50,080
+en mettant en marche lui-même la guillotine
+
+1985
+01:37:50,080 --> 01:37:52,080
+qu'il avait construite chez lui
+
+1986
+01:37:52,080 --> 01:37:54,080
+dans son logement près de Moscou
+
+1987
+01:37:54,080 --> 01:37:56,080
+ça le fait rire
+
+1988
+01:37:56,080 --> 01:37:58,080
+il s'appelle
+
+1989
+01:37:58,080 --> 01:38:00,080
+Dvoi
+
+1990
+01:38:00,080 --> 01:38:02,080
+Dvoi
+
+1991
+01:38:02,080 --> 01:38:04,080
+Dvoi Dan
+
+1992
+01:38:04,080 --> 01:38:06,080
+ça c'est le nom
+
+1993
+01:38:06,080 --> 01:38:08,080
+du magazine qui a publié
+
+1994
+01:38:08,080 --> 01:38:10,080
+de la machine
+
+1995
+01:38:10,080 --> 01:38:12,080
+la victime s'appelle
+
+1996
+01:38:12,080 --> 01:38:14,080
+juste un message pour ton père
+
+1997
+01:38:14,080 --> 01:38:16,080
+évite de cliquer sur le lien
+
+1998
+01:38:16,080 --> 01:38:18,080
+trop tard
+
+1999
+01:38:18,080 --> 01:38:20,080
+nous remercions toutes les personnes du chat
+
+2000
+01:38:20,080 --> 01:38:22,080
+qui nous aident
+
+2001
+01:38:22,080 --> 01:38:24,080
+à supporter cette dure soirée
+
+2002
+01:38:24,080 --> 01:38:26,080
+la mère de la victime
+
+2003
+01:38:26,080 --> 01:38:28,080
+disait que son fils
+
+2004
+01:38:28,080 --> 01:38:30,080
+s'était enfermé quelques jours auparavant
+
+2005
+01:38:30,080 --> 01:38:32,080
+dans sa chambre
+
+2006
+01:38:32,080 --> 01:38:34,080
+affirmant qu'il voulait construire
+
+2007
+01:38:34,080 --> 01:38:36,080
+un placard
+
+2008
+01:38:36,080 --> 01:38:38,080
+c'était une vraie guillotine
+
+2009
+01:38:38,080 --> 01:38:40,080
+son corps a été retrouvé
+
+2010
+01:38:40,080 --> 01:38:42,080
+coincé
+
+2011
+01:38:42,080 --> 01:38:44,080
+dans une construction étrange
+
+2012
+01:38:44,080 --> 01:38:46,080
+dans laquelle une plaque métallique
+
+2013
+01:38:46,080 --> 01:38:48,080
+attachée à hauteur d'une planche alourdie
+
+2014
+01:38:48,080 --> 01:38:50,080
+par plusieurs grosses bouteilles d'eau
+
+2015
+01:38:50,080 --> 01:38:52,080
+c'est assez babosorien
+
+2016
+01:38:52,080 --> 01:38:54,080
+faisait au fils de l'âme
+
+2017
+01:38:54,080 --> 01:38:56,080
+on pourrait demander à Babosa
+
+2018
+01:38:56,080 --> 01:38:58,080
+comment on fabrique une guillotine
+
+2019
+01:38:58,080 --> 01:39:00,080
+bref
+
+2020
+01:39:00,080 --> 01:39:02,080
+il s'est allongé sur le sol
+
+2021
+01:39:02,080 --> 01:39:04,080
+il a lui même actionné le mécanisme
+
+2022
+01:39:04,080 --> 01:39:06,080
+c'est un fil qu'il a coupé à l'aide de ciseaux
+
+2023
+01:39:06,080 --> 01:39:08,080
+et flac plus de tête
+
+2024
+01:39:08,080 --> 01:39:10,080
+est-ce que ça a vraiment coupé net
+
+2025
+01:39:10,080 --> 01:39:12,080
+ou est-ce que ça a fonctionné jusqu'au bout
+
+2026
+01:39:12,080 --> 01:39:14,080
+écoute j'ai les photos je vais te les montrer
+
+2027
+01:39:14,080 --> 01:39:16,080
+oui oui
+
+2028
+01:39:16,080 --> 01:39:18,080
+alors ton père veut les voir
+
+2029
+01:39:18,080 --> 01:39:20,080
+alors ton père je suis sympa avec toi
+
+2030
+01:39:20,080 --> 01:39:22,080
+dernier was off
+
+2031
+01:39:22,080 --> 01:39:24,080
+c'est le pire
+
+2032
+01:39:26,080 --> 01:39:28,080
+insertion d'un corps étranger
+
+2033
+01:39:28,080 --> 01:39:30,080
+oh nooo
+
+2034
+01:39:30,080 --> 01:39:32,080
+écoute là tu vas te plaindre à monsieur David
+
+2035
+01:39:32,080 --> 01:39:34,080
+de Ogier himself
+
+2036
+01:39:34,080 --> 01:39:36,080
+à David Brages
+
+2037
+01:39:36,080 --> 01:39:38,080
+pour ceux qui ne connaissent pas encore
+
+2038
+01:39:38,080 --> 01:39:40,080
+non c'est pas le genre de David ça
+
+2039
+01:39:40,080 --> 01:39:42,080
+du tout à peine
+
+2040
+01:39:42,080 --> 01:39:44,080
+il m'a tweeté en direct message
+
+2041
+01:39:44,080 --> 01:39:46,080
+un lien assez exceptionnel
+
+2042
+01:39:46,080 --> 01:39:48,080
+tu peux peut-être pouvoir donner
+
+2043
+01:39:48,080 --> 01:39:50,080
+l'adresse
+
+2044
+01:39:50,080 --> 01:39:52,080
+HTTP s'il te plait lors de ton père
+
+2045
+01:39:52,080 --> 01:39:54,080
+tu le fais bien mieux que moi
+
+2046
+01:39:54,080 --> 01:39:56,080
+l'adresse c'est un site d'une jeune fille spécialisée
+
+2047
+01:39:56,080 --> 01:39:58,080
+dans l'insertion
+
+2048
+01:39:58,080 --> 01:40:00,080
+vas-y donne nous le
+
+2049
+01:40:00,080 --> 01:40:02,080
+lelahextrême.com
+
+2050
+01:40:02,080 --> 01:40:04,080
+lelahextrême.com
+
+2051
+01:40:04,080 --> 01:40:06,080
+mais vraiment
+
+2052
+01:40:06,080 --> 01:40:08,080
+tout de suite en page d'accueil
+
+2053
+01:40:08,080 --> 01:40:10,080
+vous verrez tout de suite l'étendue de son talent
+
+2054
+01:40:10,080 --> 01:40:12,080
+car vous pourrez constater
+
+2055
+01:40:12,080 --> 01:40:14,080
+c'est le trou noir c'est ça
+
+2056
+01:40:14,080 --> 01:40:16,080
+c'est presque ça
+
+2057
+01:40:16,080 --> 01:40:18,080
+elle a mis un instincteur
+
+2058
+01:40:18,080 --> 01:40:20,080
+dans son arrière train en première page
+
+2059
+01:40:20,080 --> 01:40:22,080
+et vous pouvez
+
+2060
+01:40:22,080 --> 01:40:24,080
+surfer tout au long du site
+
+2061
+01:40:24,080 --> 01:40:26,080
+merci David vraiment c'est sympa d'avoir pensé à nous
+
+2062
+01:40:26,080 --> 01:40:28,080
+je vais être obligé d'en revue
+
+2063
+01:40:28,080 --> 01:40:30,080
+alors comment c'est écrit
+
+2064
+01:40:30,080 --> 01:40:32,080
+l-a-y-l-a
+
+2065
+01:40:32,080 --> 01:40:34,080
+extrême.com
+
+2066
+01:40:34,080 --> 01:40:36,080
+tout attaché
+
+2067
+01:40:36,080 --> 01:40:38,080
+enchaîne
+
+2068
+01:40:38,080 --> 01:40:40,080
+j'enchaîne surtout
+
+2069
+01:40:40,080 --> 01:40:42,080
+parce qu'après l'extincteur
+
+2070
+01:40:42,080 --> 01:40:44,080
+il y a nombre d'objets
+
+2071
+01:40:44,080 --> 01:40:46,080
+de diamètre assez
+
+2072
+01:40:46,080 --> 01:40:48,080
+imposant
+
+2073
+01:40:48,080 --> 01:40:50,080
+vous pouvez voir ces vidéos
+
+2074
+01:40:50,080 --> 01:40:52,080
+bon les plus marrant
+
+2075
+01:40:52,080 --> 01:40:54,080
+il y avait une pomme
+
+2076
+01:40:54,080 --> 01:40:56,080
+une belle grosse pomme
+
+2077
+01:40:56,080 --> 01:40:58,080
+elle est assez exceptionnelle
+
+2078
+01:40:58,080 --> 01:41:00,080
+tu n'as pas payé
+
+2079
+01:41:00,080 --> 01:41:02,080
+non non
+
+2080
+01:41:02,080 --> 01:41:04,080
+je n'ai pas payé
+
+2081
+01:41:04,080 --> 01:41:06,080
+David l'a fait à notre place
+
+2082
+01:41:06,080 --> 01:41:08,080
+David l'a fait à notre place
+
+2083
+01:41:08,080 --> 01:41:10,080
+je ne savais pas
+
+2084
+01:41:10,080 --> 01:41:12,080
+qu'on pouvait trouver
+
+2085
+01:41:12,080 --> 01:41:14,080
+cette jeune femme
+
+2086
+01:41:14,080 --> 01:41:16,080
+une telle dimension
+
+2087
+01:41:16,080 --> 01:41:18,080
+elle les a trouvé
+
+2088
+01:41:18,080 --> 01:41:20,080
+vous pouvez aller dans galerie
+
+2089
+01:41:20,080 --> 01:41:22,080
+je ne sais plus dans vidéo
+
+2090
+01:41:22,080 --> 01:41:24,080
+vous verrez des screenshots
+
+2091
+01:41:24,080 --> 01:41:26,080
+allez-y
+
+2092
+01:41:26,080 --> 01:41:28,080
+avant de manger
+
+2093
+01:41:28,080 --> 01:41:30,080
+il y a des trucs assez lourds
+
+2094
+01:41:30,080 --> 01:41:32,080
+il y a des extraits vidéo
+
+2095
+01:41:32,080 --> 01:41:34,080
+voilà ton père
+
+2096
+01:41:34,080 --> 01:41:36,080
+ça t'a plu ?
+
+2097
+01:41:36,080 --> 01:41:38,080
+comme d'hab
+
+2098
+01:41:38,080 --> 01:41:40,080
+je survis
+
+2099
+01:41:40,080 --> 01:41:42,080
+cette charmante
+
+2100
+01:41:42,080 --> 01:41:44,080
+jeune fille
+
+2101
+01:41:44,080 --> 01:41:46,080
+capable d'élargir
+
+2102
+01:41:46,080 --> 01:41:48,080
+ses orifices
+
+2103
+01:41:48,080 --> 01:41:50,080
+me fait revenir sur
+
+2104
+01:41:50,080 --> 01:41:52,080
+le thème du headfucking
+
+2105
+01:41:52,080 --> 01:41:54,080
+et de la fameuse vidéo
+
+2106
+01:41:54,080 --> 01:41:56,080
+du fake
+
+2107
+01:41:56,080 --> 01:41:58,080
+qui est encore le seul
+
+2108
+01:41:58,080 --> 01:42:00,080
+à rêver
+
+2109
+01:42:00,080 --> 01:42:02,080
+et à t'entraîner le soir
+
+2110
+01:42:02,080 --> 01:42:04,080
+est-ce physiquement possible ?
+
+2111
+01:42:04,080 --> 01:42:06,080
+non
+
+2112
+01:42:06,080 --> 01:42:08,080
+ça dépend de la tête
+
+2113
+01:42:08,080 --> 01:42:10,080
+une petite test
+
+2114
+01:42:10,080 --> 01:42:12,080
+tu nous feras une rubrique la semaine prochaine
+
+2115
+01:42:12,080 --> 01:42:14,080
+comme ça l'ordre de ton père
+
+2116
+01:42:14,080 --> 01:42:16,080
+doit bien pouvoir s'infiltrer
+
+2117
+01:42:16,080 --> 01:42:18,080
+peut-être qu'il passe partout
+
+2118
+01:42:18,080 --> 01:42:20,080
+il faudrait lui demander
+
+2119
+01:42:20,080 --> 01:42:22,080
+Leila
+
+2120
+01:42:22,080 --> 01:42:24,080
+tu es une experte
+
+2121
+01:42:24,080 --> 01:42:26,080
+en insertion
+
+2122
+01:42:26,080 --> 01:42:28,080
+merci David
+
+2123
+01:42:28,080 --> 01:42:30,080
+si vous avez moins de 18 ans
+
+2124
+01:42:30,080 --> 01:42:32,080
+ça vous est rigoureusement interdit
+
+2125
+01:42:32,080 --> 01:42:34,080
+si vous avez moins de 18 ans vous n'avez rien à faire
+
+2126
+01:42:34,080 --> 01:42:36,080
+donc éteignez immédiatement votre ordinateur
+
+2127
+01:42:36,080 --> 01:42:38,080
+et appelez vos parents
+
+2128
+01:42:38,080 --> 01:42:40,080
+et laissez vos parents écouter
+
+2129
+01:42:40,080 --> 01:42:42,080
+on va perdre la moitié de nos auditeurs
+
+2130
+01:42:42,080 --> 01:42:44,080
+c'est la fin de what's up
+
+2131
+01:42:44,080 --> 01:42:46,080
+il n'y a pas de répondeur ?
+
+2132
+01:42:46,080 --> 01:42:48,080
+non
+
+2133
+01:42:48,080 --> 01:42:50,080
+je n'ai pas trié les messages
+
+2134
+01:42:50,080 --> 01:42:52,080
+en même temps je ne sais pas ce qu'il nous reste
+
+2135
+01:42:52,080 --> 01:42:54,080
+parce qu'on a écouté quelques-uns la dernière fois
+
+2136
+01:42:54,080 --> 01:42:56,080
+c'était pas brillant
+
+2137
+01:42:56,080 --> 01:42:58,080
+et entre autres je crois que j'ai perdu les autres
+
+2138
+01:42:58,080 --> 01:43:00,080
+ils sont dans mon grand répartoir
+
+2139
+01:43:00,080 --> 01:43:02,080
+c'est le tour de ta vue finale ?
+
+2140
+01:43:02,080 --> 01:43:04,080
+déjà c'est 2 heures presque
+
+2141
+01:43:04,080 --> 01:43:06,080
+non beaucoup moins
+
+2142
+01:43:06,080 --> 01:43:08,080
+on a fait un podcast de 1h40
+
+2143
+01:43:08,080 --> 01:43:10,080
+ça coûte rapide
+
+2144
+01:43:10,080 --> 01:43:12,080
+ton père a bien batté sa rubrique
+
+2145
+01:43:12,080 --> 01:43:14,080
+tu as appelé l'aide des auditeurs
+
+2146
+01:43:14,080 --> 01:43:16,080
+mais j'ai tenu 40 minutes
+
+2147
+01:43:16,080 --> 01:43:18,080
+c'est fort
+
+2148
+01:43:18,080 --> 01:43:20,080
+je t'ai aidé un peu aussi
+
+2149
+01:43:20,080 --> 01:43:22,080
+il balèze le captain
+
+2150
+01:43:22,080 --> 01:43:24,080
+si il peut
+
+2151
+01:43:24,080 --> 01:43:26,080
+je trouve qu'on a fait un podcast sympathique
+
+2152
+01:43:26,080 --> 01:43:28,080
+bien rythmé
+
+2153
+01:43:28,080 --> 01:43:30,080
+et qu'on va pouvoir dormir tôt
+
+2154
+01:43:30,080 --> 01:43:32,080
+pourquoi ? parce que la semaine prochaine
+
+2155
+01:43:32,080 --> 01:43:34,080
+vendredi soir
+
+2156
+01:43:34,080 --> 01:43:36,080
+ça va être du lourd
+
+2157
+01:43:36,080 --> 01:43:38,080
+ça va durer longtemps
+
+2158
+01:43:38,080 --> 01:43:40,080
+ça va durer longtemps
+
+2159
+01:43:40,080 --> 01:43:42,080
+c'est vrai que les gars
+
+2160
+01:43:42,080 --> 01:43:44,080
+les fraises sont par terre
+
+2161
+01:43:44,080 --> 01:43:46,080
+c'est vrai qu'il risque
+
+2162
+01:43:46,080 --> 01:43:48,080
+on va finir longtemps
+
+2163
+01:43:48,080 --> 01:43:50,080
+mais à 4
+
+2164
+01:43:50,080 --> 01:43:52,080
+comme d'hab
+
+2165
+01:43:52,080 --> 01:43:54,080
+il risque de rentrer chez eux
+
+2166
+01:43:54,080 --> 01:43:56,080
+en marchant en diagonale
+
+2167
+01:43:56,080 --> 01:43:58,080
+si on peut parler
+
+2168
+01:43:58,080 --> 01:44:00,080
+de marcher
+
+2169
+01:44:00,080 --> 01:44:02,080
+quand on est à 4 pattes
+
+2170
+01:44:02,080 --> 01:44:04,080
+c'est vrai que c'est pas évident
+
+2171
+01:44:04,080 --> 01:44:06,080
+je suis sûr que nos amis
+
+2172
+01:44:06,080 --> 01:44:08,080
+nos watchers pourront rentrer chez eux
+
+2173
+01:44:08,080 --> 01:44:10,080
+troll troll troll
+
+2174
+01:44:10,080 --> 01:44:12,080
+sortez les fraises pour dans 10 jours
+
+2175
+01:44:12,080 --> 01:44:14,080
+il a grenadine
+
+2176
+01:44:14,080 --> 01:44:16,080
+c'est important
+
+2177
+01:44:16,080 --> 01:44:18,080
+alors ton père le mot d'affin
+
+2178
+01:44:18,080 --> 01:44:20,080
+c'est la fin
+
+2179
+01:44:20,080 --> 01:44:22,080
+c'est pas mal
+
+2180
+01:44:22,080 --> 01:44:24,080
+à mon tour
+
+2181
+01:44:24,080 --> 01:44:26,080
+c'est la fin
+
+2182
+01:44:26,080 --> 01:44:28,080
+c'est à mon tour
+
+2183
+01:44:28,080 --> 01:44:30,080
+c'est effectivement la fin
+
+2184
+01:44:30,080 --> 01:44:32,080
+juste un truc
+
+2185
+01:44:32,080 --> 01:44:34,080
+comme d'habitude
+
+2186
+01:44:34,080 --> 01:44:36,080
+allez voter un peu sur nous pour iTunes
+
+2187
+01:44:36,080 --> 01:44:38,080
+5 étoiles
+
+2188
+01:44:38,080 --> 01:44:40,080
+c'est un problème avec cette phrase
+
+2189
+01:44:40,080 --> 01:44:42,080
+si tu dis à chaque fois
+
+2190
+01:44:42,080 --> 01:44:44,080
+allez voter sur nous pour iTunes
+
+2191
+01:44:44,080 --> 01:44:46,080
+si à chaque fois
+
+2192
+01:44:46,080 --> 01:44:48,080
+j'ai dit pour nous sur iTunes
+
+2193
+01:44:48,080 --> 01:44:50,080
+toutes les semaines tout nous la faque
+
+2194
+01:44:50,080 --> 01:44:52,080
+je m'excuse mais dans le genre LDCO
+
+2195
+01:44:52,080 --> 01:44:54,080
+tous les deux vous êtes des champions
+
+2196
+01:44:54,080 --> 01:44:56,080
+peut-être c'est possible
+
+2197
+01:44:56,080 --> 01:44:58,080
+allez voter
+
+2198
+01:44:58,080 --> 01:45:00,080
+pour nous sur iTunes
+
+2199
+01:45:00,080 --> 01:45:02,080
+5 étoiles
+
+2200
+01:45:02,080 --> 01:45:04,080
+que vous nous oubliez un peu ces derniers temps
+
+2201
+01:45:04,080 --> 01:45:06,080
+c'est tellement bien dit
+
+2202
+01:45:06,080 --> 01:45:08,080
+quelle belle diction
+
+2203
+01:45:08,080 --> 01:45:10,080
+puisqu'il me semble
+
+2204
+01:45:10,080 --> 01:45:12,080
+qu'il y a moins de votes
+
+2205
+01:45:12,080 --> 01:45:14,080
+des votes
+
+2206
+01:45:14,080 --> 01:45:16,080
+alors si vous avez pas le temps de voter
+
+2207
+01:45:16,080 --> 01:45:18,080
+ça se comprend aussi par contre allez nous filer de l'argent
+
+2208
+01:45:18,080 --> 01:45:20,080
+sur Paypal parce que ça c'est rapide
+
+2209
+01:45:20,080 --> 01:45:22,080
+rappelons que cela nous sert
+
+2210
+01:45:22,080 --> 01:45:24,080
+uniquement à nous acheter des putes
+
+2211
+01:45:24,080 --> 01:45:26,080
+voilà c'est important
+
+2212
+01:45:26,080 --> 01:45:28,080
+et éventuellement peut-être une nouvelle
+
+2213
+01:45:28,080 --> 01:45:30,080
+machine pour diffuser
+
+2214
+01:45:30,080 --> 01:45:32,080
+encore que ce soit c'est pas sûr
+
+2215
+01:45:32,080 --> 01:45:34,080
+sinon deux semaines on n'a pas nos 5000 euros
+
+2216
+01:45:34,080 --> 01:45:36,080
+on sera obligé d'aller dans un FKK
+
+2217
+01:45:36,080 --> 01:45:38,080
+en Belgique
+
+2218
+01:45:38,080 --> 01:45:40,080
+en tout cas merci à tous nos auditeurs
+
+2219
+01:45:40,080 --> 01:45:42,080
+qui nous suivent toujours aussi fidèlement
+
+2220
+01:45:42,080 --> 01:45:44,080
+et puis surtout aux 88 qui sont encore
+
+2221
+01:45:44,080 --> 01:45:46,080
+en ligne à ce soir là
+
+2222
+01:45:46,080 --> 01:45:48,080
+il y a beaucoup de monde qui nous écoute en différé
+
+2223
+01:45:48,080 --> 01:45:50,080
+il y a aussi le live
+
+2224
+01:45:50,080 --> 01:45:52,080
+tous les mardi soir
+
+2225
+01:45:52,080 --> 01:45:54,080
+23h30 vous pouvez nous retrouver en direct
+
+2226
+01:45:54,080 --> 01:45:56,080
+et c'est une expérience
+
+2227
+01:45:56,080 --> 01:45:58,080
+toujours unique puisque de nombreuses filles
+
+2228
+01:45:58,080 --> 01:46:00,080
+montent leurs seins en direct et ça c'est quand même quelque chose à voir
+
+2229
+01:46:00,080 --> 01:46:02,080
+si avec ça on ne pète pas le score à la semaine prochaine
+
+2230
+01:46:02,080 --> 01:46:04,080
+je ne comprends pas
+
+2231
+01:46:04,080 --> 01:46:06,080
+bon allez
+
+2232
+01:46:06,080 --> 01:46:08,080
+ciao tout le monde rendez-vous donc
+
+2233
+01:46:08,080 --> 01:46:10,080
+mardi prochain mais vendredi
+
+2234
+01:46:10,080 --> 01:46:12,080
+18 juin pour une spéciale
+
+2235
+01:46:12,080 --> 01:46:14,080
+le fameux appel du 18 juin soyez là
+
+2236
+01:46:14,080 --> 01:46:16,080
+les enfants ce sera un
+
+2237
+01:46:16,080 --> 01:46:18,080
+rendez-vous que je pense
+
+2238
+01:46:18,080 --> 01:46:20,080
+appeler mythique
+
+2239
+01:46:20,080 --> 01:46:22,080
+disons-le après faire des mots
+
+2240
+01:46:22,080 --> 01:46:24,080
+ciao ciao à la semaine prochaine
+
+2241
+01:46:24,080 --> 01:46:26,080
+bande de beaux
+
+2242
+01:46:34,080 --> 01:46:36,080
+beaux
+
+2243
+01:46:36,080 --> 01:46:38,080
+beaux
+

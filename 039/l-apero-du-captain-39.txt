@@ -1,0 +1,3992 @@
+Et bienvenue à l'apéro du Captain Well, le seul podcast qui sera diffusé avant le
+numéro précédent puisque le 38 à mon avis vous n'êtes pas prêts de le voir les amis !
+Mais on va revenir sur le numéro 38 un peu plus tard ! Nous sommes donc le 22 juin, dirais-je
+même le 23 et il est trop tard ! Donc voilà numéro 39 c'est à peu près tout ce que j'ai marqué,
+ce soir ça va être un podcast à l'alcool, de mon côté je n'ai pratiquement rien préparé,
+je vous préviens tout de suite, donc ça vous ne serez pas surpris quand j'aurai terminé mes
+rubriques au bout d'exactement dix minutes. D'ailleurs je vais directement passer au tour de
+table avec l'heure ton père, let's go ! Coucou les amis ! Et bien oui la semaine dernière c'était
+quand même un numéro assez, enfin vendredi dernier plutôt, oui c'était il n'y a pas longtemps quand
+même la semaine dernière, un numéro exceptionnel, alors il y avait une première partie qui était très
+écoutable et puis une seconde partie qui a un peu tourné café du commerce, beuverie, discussion de
+comptoir, ce genre de choses. Mais écoute je ne sais pas, par vois-tu je ne me souviens plus trop de
+ce qui s'est passé, passé la rubrique de l'invité j'étais pas très très frais. Moi j'étais au café
+des sports personnellement, mais c'était quand même un bon podcast avec des invités tous hyper
+sympas. Comment il suce des bites lui ? Non non pas du tout je le pense vraiment, on avait déjà Jérôme
+qui avait déjà traîné ses guêtres dans cette cave donc on connaissait déjà, mais on a eu tous les
+autres, on a eu John, Damouk et bien sûr Patrick qui devait rester une demi heure qui est fini par rester
+six heures complètes. J'ai beaucoup aimé quand il m'a dit juste avant le début du podcast, moi je
+prendrais le premier métro et là je me suis dit ouais, le dernier oui je me suis dit ouais ouais bah
+ce sera le premier. Mais en tout cas super podcast. Non mais c'est bien sympa. Ils reviennent quand
+ils veulent. Oui tout à fait, on va faire ça bientôt, on fera une sorte de revanche puisque
+Zapcast ils n'étaient pas très très très frais. Non mais ils ne tiennent rien. Voilà il faut le dire.
+Puis alors là Jérôme, Jérôme et Jérôme il ne tient pas. Quoique hausse la fumée quoi. Je le vois
+assez excité là sur son clavier à mon avis il n'est pas d'accord avec nous. Alors cette semaine dans
+ma chère rubrique que vous aimez tous je ne vous parlerai pas de football. Ah bon ? Ah mais attends
+on m'avait dit que c'était un numéro spéciale foot aujourd'hui. Non non non donc la France est
+aujourd'hui officiellement la risée du monde entier donc je n'en parlerai pas. Écoute moi je pense que
+je vais faire un numéro spéciale foot. Alors il paraît que l'équipe de France compte tenu de
+leur piètre résultat doit rentrer en charter. Ouais en bateau. Ils étaient partis en A380 spécialement
+affrétés là c'est charter. Tu fous de ma gueule on a rien affrété à un A380 pour eux quoi. On m'a dit
+qu'ils étaient partis à d'autres poney. De toute façon le foot juste que ça m'intéresse. Alors ce
+soir en réalité je vais vous parler d'iOS 4 ça me semble bon moment. Retour d'expérience d'une
+journée sur l'iOS 4. Je vais vous parler également d'une découverte scientifique majeure on va en
+parler tout à l'heure. Oui. Et je vais vous parler un petit peu aussi de VLC la version 1.1 vient de
+sortir aujourd'hui. Je l'ai vu passer tu l'as testé. Je l'ai installé il y a cinq minutes. Oh d'accord
+ça fait du test complet alors. Et toi mon coacose qu'est ce que tu nous prévois ce soir ? Moi je voudrais
+tout de suite rassurer tous les auditeurs qui sont beaucoup inquiétés pour mon tas de santé. Le taux
+liquidifié de poire qui se trouvait malencontrecement dans les veines l'autre soir c'est
+totalement dissipé. Ça se voit. Complètement alors ça va beaucoup mieux. Ce soir j'ai imprimé la
+page Wikipédia sur l'alcool de poire et il faut faire un quoi qu'on teste. Spécial poire. J'ai
+planté un poirier je veux voir si ça pousse vite et tout. Et on m'a dit que tu avais un
+Jérôme pour t'aider. Oui. Oui exactement. Celui qui a planté les tigres de graines. Oui on m'a dit
+que tu avais un robinet à la base de ton poirier. Exactement. Enfin trêve de plaisanterie de revenir
+qu'on a quitté il n'y a pas si longtemps. Moi ce soir ça va être très calme un léger oiseuf tout
+en finesse bien sûr. Bien sûr on compte sur toi. Exactement et puis et puis c'est tout. Voilà
+exactement. Il y a un mec qui monte ses couilles sur la caméra là. Encore ? Notre nard qu'il faut
+que tu saches que les caleçons ça laisse passer des choses. Ce n'est pas aussi efficace qu'un
+slip pour... Ah bah voilà c'est déconnecté du coup. On lui a fait peur. Manox alors. Alors moi ce
+soir un habitant un peu particulier puisque ce sera dans la France des chansons n'est-ce pas ? Mais
+il ne s'agit pas d'un artiste à proprement parler il s'agit plutôt d'un businessman qui va créer sa
+nouvelle chaîne télévisuelle et il aimerait nous demander notre avis il aimerait un peu nous
+faire découvrir en avant première ses programmes il s'appelle Jean-Paul Flouze il a 49 ans et
+eh bien ce sera en fin d'émission voilà comme c'est chouette voilà un super programme ça va être
+fantastique on hâte que ça se finisse j'ai hâte d'aller dormir parce que franchement ça fait
+ça fait beaucoup d'heures de podcasts en seulement en moins de 5 jours vendredi soir 5 heures du mat
+hier soir 5 heures du mat vous saurez pourquoi franchement j'en peux plus quoi et cette nuit
+encore quatre heures du mat oui non trois heures ça m'irait très bien on va pas faire un numéro
+trop long non plus non mais juste il y a beaucoup de gens qui nous ont demandé ouais sur twitter
+ouais quand sera mis en ligne le numéro 38 on a plusieurs réponses voilà exactement et je
+vais laisser quoi cause notre spécialiste technique non on s'est posé la question un podcast de 5
+heures d'un blog d'un seul en ligne ou pas parce que ne serait-ce qu'à télécharger ça va être un
+peu long en fait a priori écouter aussi a priori on en est venu au fait de diviser ce podcast en
+deux parties voilà la partie écoutable et la partie alcoolisée la deuxième partie consistant
+uniquement à ne pas toper en train de mec en train de gueuler et de vomir ça va être fantastique
+pas ma connaissance en tout cas pas sur mes genoux ce qui est toujours une bonne chose donc toujours
+est-il qu'une sera bien sûr disponible alors la première partie va être disponible je sais pas
+peut-être demain soir avec un peu de chance à prépare un billet un truc je n'ai pas prévu
+par contre je suis en train de modifier d'ailleurs je vous le dis tout de suite ne vous étonnez pas
+si sur itunes vous ne voyez plus que deux épisodes car je suis en train de refaire ce putain de flux à
+la main ce qui veut dire qu'on aura l'intégralité des épisodes sur itunes enfin alors les deux
+disponibles sont les deux derniers bien sûr les deux derniers je vais remettre peu à peu tous les
+anciens mais déjà j'essaye de coller ce que beaucoup de monde m'a demandé savoir ces putains de vignettes
+de 300 pixels de large pour que quand les gens écoutent sur la ripel ils aient une belle image
+celle du podcast avec le numéro donc tu n'as pas du tout répondu à la question on dirait un mois
+vendredi dernier oui donc je disais demain soir peut-être écoute ça me dépend ça dépend quand
+on prend le truc il ya jérôme il ya jérôme qui me parle de censure et qui me demande s'il y aura des
+coupes de fait lors de la deuxième partie puisque je pense que c'est surtout celle là qui sera
+non non ce sera l'intégral non comme ça direct non non à part quelques blancs il y a eu des blancs
+voilà je sais pas il y a eu des blancs ou en tant que des bouteilles qui parlent derrière d'accord je
+sais pas ce que moi j'ai eu un gros blanc mais il m'a duré environ une heure donc honnêtement je
+suis entièrement confiant donc si j'ai bien compris pour nos auditeurs on aura peut-être demain ou
+après demain la première partie du numéro 38 désolidarisation numéro 1 après on aura voilà
+oui comme le dit patrick après on aura le 39 celui d'aujourd'hui après la deuxième partie
+du 38 ça va sûrement se passer comme ça je pense ok bon écoute la deuxième partie du 38 ne
+sera disponible que au moment où notre compte paypal bien sûr aura atteint la limite captain de
+15000 euros ça dépend donc zaya j'ai été éphoné elle m'a donné ses tarifs voilà donc pour l'ordre
+ton père ce sera un peu plus cher parce qu'il ya des demandes assez particulières surtout
+le doberman n'est pas facile à trouver elle n'était pas tout à fait d'accord d'accord donc
+dès qu'on sera à 10-20 mille euros on commencera à discuter effectivement à mettre la deuxième
+partie du podcast en ligne d'ailleurs puisque tu parles de ça je vais rebondir dessus et je
+vais remercier certaines personnes donc déjà un grand merci à toi fabien pour la bouteille de
+hache chartreuse on avait reçu aussi une bouteille de rhum il n'y a pas longtemps merci mec pour
+cette bouteille qui a laissé de fameux souvenirs dans la cave et dans nos toilettes pour merci
+encore une nouvelle fois celui qui est laissé ces cinq bouteilles voilà c'était le suivant
+édouard mec merci pour ces bouteilles alors on n'a pas encore vraiment identifié ce qu'il
+avait dans un personnellement je porte pour du gasoil mais certaines autres personnes m'ont
+parlé de d'autres types d'alcool peut-être de l'alcool à 90 bandues en pharmacie nous hésitons
+encore et manox a promis de goûter ce soir pour nous dire ce qu'il en pensait lui-même ma femme
+samedi matin a sursauté du lit il s'est posté à cinq mètres de moi merci donc voilà donc
+merci à vous et puis aussi un petit merci à pop gauze ouaza mec tu as vraiment un truc
+imprononçable qui nous avait filé un petit pourboire en liquide et donc on va mettre une
+petite urne ici au milieu de la table dans lequel on mettra les pourboires en liquide
+puisqu'il ya des gens qui peuvent pas payer par paypal voilà et là je crois que j'ai tout dit
+je suis en train de regarder on a fait le tour donc filer nous de la thune surtout sur paypal vous
+avez sur le site un petit bouton sur le côté avec plein de billets dessus et marqué pour nous acheter
+de la bière et des putes vous cliquez dessus vous nous envoyez de l'argent voilà sur ce je crois
+qu'il n'y a pas de message aujourd'hui répondeur bon il y en a un mais vu qu'il n'y a qu'un j'entends
+d'accord on va attendre que ça se remplisse si vous voulez appeler le numéro toujours 0972 11 00 22
+et c'est gratuit et oui si vous appelez d'un téléphone fixe évidemment si non vous pouvez
+toujours vous faire pomper par weekday com ou d'autres qui se feront un plaisir de vous faire
+passer appel et puis on passe aux acteurs allez let's go des putes des poney et internet c'est
+l'actualité du web voilà et donc l'actualité du web qu'est ce qu'il s'est passé depuis vendredi
+de la mer voilà et ben pas grand chose du monde oui voilà à partir on va parler de ça parce que
+comme j'ai rien à dire un podcast foot si je pense qu'il faut faire un podcast foot si carrément
+on pourrait faire un podcast baby foot une actualité quoi un podcast pute et football ouais pute et
+football et n'empêche on peut dire on peut dire ce qu'on veut mais zaya c'est la seule de l'équipe
+de france à être capable de faire trois passes d'affilée elle est facile elle avait déjà été
+faite avant juste un truc concernant le foot je déteste le foot mais je dois bien vous dire que
+j'ai hurlé de rire à la vue de cette une de l'équipe qui était probablement la meilleure une de
+journaux qui a été fait dans le monde entier quoi nulle part ailleurs on aura aussi un truc
+franchement va te faire enculer fils de pute en caractère 40 en une journal qui est absolument
+dans tous les cas j'adore franchement fait ça plus souvent les mecs mais oui rien que pour ça
+l'équipe de france amusez-nous big up quoi parce que franchement faites nous rêver j'aurais
+presque acheté le journal quoi je me suis posé parce que je n'ai pas vu justement cette journal
+est-ce qu'il y avait des guillemets pour citer notre ami en lk ou est-ce qu'ils avaient enlevé
+les guillemets il y avait des guillemets mais je pense que les mecs qui lisaient faisaient pas
+forcément attention aux guillemets que c'est pas un truc dans un poids vas-y enculé comment tu me
+traites des marchands de journaux qui sont fait casser la gueule c'est toujours possible franchement
+le mec a osé foutre en une chapeau chapeau c'est un peu ça ressemble un peu à notre bon vieux
+ppi quoi pourquoi le numéro 4 là on attend toujours oh il est pour bientôt il ya des annonceurs qui
+m'en repart et qu'ils me demandent souvent quand on viendra le suivant ou alors le roi de la capote
+non je parlais de l'autre le seul en fait mais bon bref enfin bref ok donc les actes putain il ya
+trop d'actes week-end en fait il n'y a rien eu du tout donc je vais reprendre les vieilles que j'avais
+pas eu l'occasion de donner peut-être c'est comme je me souviens pas tout lors du dernier podcast si
+J'en ai déjà parlé mais c'est pas grave. On va commencer par… Allez, je joue mon jingle.
+Ah bon ? Et on va passer par le…
+On va passer par quoi ? Par Zaya. Non, non, non, excusez-moi.
+Donc on va parler un peu du rachat du journal Le Monde.
+Ah ! Parce que c'est quand même un sujet intéressant.
+On n'avait pas eu le temps d'aborder le sujet vu comment c'était en train de s'embarquer.
+Une heure et demie de podcast alors qu'on avait à peine commencé mes news,
+je me suis dit on va zapper certains sujets. Donc en gros, le journal Le Monde est quasiment
+c'est les stations de paiement, c'est pas une surprise, ça fait un truc qui paume de l'argent.
+Ils ont changé quatre fois siège social pour les fortunes.
+Oui, exactement. Qu'ils louent en plus, c'est ça qui est fort.
+Ils avaient à l'époque, quand ils étaient ruis des italiens, ça leur appartenait quand même.
+Ils ont revendu pour aller louer ailleurs. Oui, c'était rue Broca.
+Non, non, non, avant, c'était… Oui, non, je sais, mais avant de partir rue Broca.
+Avant de partir rue Broca… Non, non, avant ils ont été à Fallgeir,
+et après ils ont été à Broca et maintenant ils sont en boulevard Blanqui.
+En bref, tout ça pour dire que ça leur a coûté des thunes et qu'il leur faut de l'argent
+parce que ça commence à être chaud.
+Alors, pour résumer la situation, avant nous avions la société des journalistes…
+Qui avait la majorité. Qui avait la majorité.
+Et donc, les journalistes étaient indépendants puisqu'ils avaient la majorité des journalistes
+et ils pouvaient décider de ce qui se passait dedans, encore que, bon, bref.
+Donc voilà, donc aujourd'hui, clairement, ils vont perdre cette majorité,
+alors la question c'est qui va gagner le gros lot ?
+Qui va gagner ?
+D'un côté, nous avons… France Télécom, de l'autre, Xavier Niel…
+Et Google. Voilà, c'est des associations. Et des journaux étrangers.
+Voilà, exact… Non, Lpaïs qui est déjà actionnaire du Monde.
+Ils sont avec Orange ou ils sont avec Xavier Niel ?
+Ni l'un ni l'autre, je crois.
+Ah si, si, si. Ils font partie d'une des autres, je crois.
+Avec Orange, oui, il me semble.
+Non ? Orange, oui, il me semble.
+Peut-être Orange.
+Bon, résumons vulgairement, d'un côté, nous avons les communistes menés par Niel
+et de l'autre, nous avons la fierté capitaliste de notre pays, Orange,
+mené par Christine Albanel, mais c'est peut-être des raccourcis que vous me permettrez de faire rapidement.
+Oui, voilà.
+Donc, rappelons que notre ami, notre cher ami Président de la République a appelé…
+Comment il s'appelle ?
+Torini… Merde.
+Qui donc ?
+L'actuel directeur du Monde.
+Oui, et il lui a dit quoi ?
+Il lui a dit, clairement, on ne l'avait pas en passant au podcast,
+Xavier Niel, l'homme du pipe chaud, rappelons-le, ne doit surtout pas passer là, ce serait un massacre, ce serait une horreur.
+Surtout que Xavier Niel n'est pas, il est plutôt, entre guillemets, un opposant de notre Président.
+Il est clairement un opposant, n'oublions pas qu'il a déjà fait des trucs dans la presse,
+puisque je crois qu'il est associé, en tout cas, il a filé de la thune pour financer rue 89.
+Oui, il a fait des trucs de cul, quoi.
+Ah d'accord.
+Non, ça, des trucs de cul, c'était avant.
+C'était de Minitel ?
+Minitel, il avait des pipes chauds à Pigalle aussi.
+Oui, oui, c'est vrai.
+Oui.
+Très bon, très bon.
+Ah d'accord.
+Je te fais entièrement confiance là-dessus, mais je pense qu'il a dû leur vendre de plus.
+C'est un sacré coquin.
+Donc, Xavier Niel allié à Pierre Berger et à Mathieu Pigasse,
+donc je crois que rue 89, Nouvelle Ops aussi, je ne sais pas eux,
+et de l'autre côté, donc Orange, avec tout ce qu'on connaît.
+Donc, ce qui est intéressant, c'est qu'on a des fournisseurs de tuyaux qui s'intéressent au contenu.
+Est-ce qu'il y a quelque chose à dire là-dessus ?
+Oui, Katsuni aussi.
+Je ne suis pas sûr que là, effectivement, c'est les fournisseurs de contenu qui s'y intéressent,
+mais je crois qu'il faut le plus le voir sous un angle légèrement politique,
+même si ce n'est pas l'usage dans ce podcast d'en parler,
+c'est plus détenir un média de communication extrêmement important.
+Pas nécessairement pour le faire passer dans les tuyaux, mais pour faire entendre sa voix.
+Le monde s'est dépassé.
+Parce qu'à mon avis, Orange agit en télécommandant à la demande de l'Élysée.
+C'est ça qui est assez étonnant, c'est que je ne vois pas comment la société des journalistes peut garder la face, s'ils choisissent.
+Ils n'ont plus un rond. C'est quand on n'a pas de rond.
+Oui, mais là aussi, c'est ça qui est amusant, c'est qu'apparemment,
+l'offre de Xavier Niel serait beaucoup plus intéressante pour eux que celle d'Orange.
+Tu aurais beaucoup moins de tuna à se leur filer.
+C'est comme qui dirait, quand tu n'as pas de rond, tu perds la face et tu montes tes fesses.
+Le pire qui roule, la masse pas mousse.
+Et puis qui va se perdre sa place.
+Aujourd'hui, c'était la remise des dossiers et la décision finale sera prise le 28 juin, si je me souviens bien.
+C'est très bientôt.
+C'est très bientôt.
+Bête la merde !
+À votre avis, vous prenez un stick ?
+Orange.
+Moi, je dirais, je voulais dire vert, mais je vais dire orange.
+Malheureusement, orange, je pense.
+Écoute, moi, je prends le pari contraire.
+Moi, je préférerais pour la pluralité des médias que ce soit l'équipe de Niel.
+Moi, je pense que s'ils choisissent Orange, ils vont clairement perdre la face.
+Ils n'auront plus aucune garantie, enfin s'ils le peuvent.
+Ils n'ont plus aucune garantie.
+Le monde a quand même eu cette image de journal, pas d'investigation, mais en tout cas de cette caution sérieuse.
+Tout à fait.
+Oui, voilà.
+S'ils choisissent Orange, je ne vois pas...
+Je veux dire qu'ils vont perdre leur image.
+Ils auront plus d'indépendance avec Niel parce que Niel lui-même est un petit peu opposé au pouvoir actuel.
+Oui, et puis même Niel n'a pas eu, d'après ce que j'ai lu, mais une fois de plus, ce n'est pas en ma spécialité,
+il n'a jamais émissé comme ça dans les affaires de journaux où il était actionnaire.
+Enfin, on verra bien.
+Moi, je parie pour Niel, soyons fous, et on verra qui aura raison la semaine prochaine.
+On en reparlera bientôt.
+Les perdants boiront la fameuse bouteille de poire.
+To be continued.
+Et là, la suite.
+On a quand même 122 personnes en ligne.
+C'est pas mal pour un after trois jours après.
+Je vais savoir sembler à ça.
+Et puis ça, je vous en parlais aussi la semaine dernière, mais on n'a pas eu l'occasion.
+C'est la revente de Price Minister.
+Ah bon ?
+Au Japonais.
+La fierté du e-commerce français.
+La boite qui concurrençait eBay, première sur le marché français.
+C'est triste.
+Alors que son patron avait toujours dit, je ne vendrai pas.
+Oui, et son patron, qui rappelons-le, est le frère de...
+Bob Donnard.
+Que NKM, notre cher...
+C'est lui ?
+Ah oui, Kuzco Morisset.
+Je croyais que c'était Dailymotion.
+C'était le président de Dailymotion.
+Non, non, non, non, non, tu te trompes.
+Pierre Kuzco Morisset et le frère de Nathalie Kuzco Morisset.
+Et c'est le patron de Price Minister.
+Je croyais que c'était le patron de Dailymotion.
+Non, Dailymotion, il y a peut-être des thunes dedans.
+Elle a toute sa famille là-dedans.
+C'est son cousin.
+Au moins, c'est une bonne excuse pour dire qu'elle y connaît quelque chose,
+contrairement à ses prédécesseurs.
+Elle a eu des prédécesseurs.
+Si elle en avait eu un, c'était qui l'autocard qui l'avait remplacé ?
+Euh...
+Ça va parler politique ce soir, je sens.
+Frédéric François, non ?
+C'était peut-être ça.
+Il y avait Lefèvre aussi, mais lui non, il était juste en Ida
+jusqu'à ce qu'il passe sur BFM et qu'il se fasse salement lâcher.
+Alors, rappelons quand même, leader du secteur en France,
+Price Minister, 11,4 millions de visiteurs uniques par mois.
+Et alors, il leur a revendu ça ?
+Devant eBay.
+Devant eBay ?
+Devant eBay, oui.
+Et alors, ça passe quand chez les Japonais ?
+C'est fait là.
+En gros...
+200 millions d'euros, je crois, si je me souviens mieux.
+Ce qui semble beaucoup d'après ce que j'ai lu.
+Sur le tchat, il nous rappelle quand même qu'il reste au président.
+Il a vendu, mais il reste au président.
+Oui, il reste président.
+Alors, lui, ce qu'il a dit, c'est que cette vente allait permettre
+de dégager de la trésorerie et de se lancer sur le marché européen.
+On m'a dit qu'il restait président, mais qu'il n'y avait pas de traducteur.
+Alors, je sais pas comment il va faire.
+Je pense que tu devrais retourner là où tu étais vendredi dernier.
+Je crois que tu es ni pont, ni mauvais.
+Oh !
+Très joli !
+Arrêtez vos japonaiseries, s'il vous plaît.
+Bon, donc voilà.
+Disons adieu à cette dernière boîte française
+qui, avec Caramel, avait fait les belles heures de l'internet français.
+Qu'est-ce qu'il y a eu comme grosse boîte française ?
+Qu'il y a vraiment des boîtes purement françaises.
+Il y avait eBazaar qui est devenu...
+eBazaar, qui a été racheté par eBay.
+On l'a déjà dit plusieurs fois.
+Il y avait aussi...
+Lycos.
+Oui, Lycos.
+Si, Lycos, c'était français.
+Il avait été racheté par Tiscali, qui était italien.
+Ça n'avait pas duré très longtemps.
+Si, je crois qu'il y a Eaufeminine.com, qui est une grosse pointure de l'internet français.
+Doctissimo.
+Doctissimo, c'était vendu à l'étranger ?
+Non, non, c'est pas vendu.
+C'est toujours français, je pense.
+Ça le restera longtemps, à mon avis.
+C'est des boîtes françaises qui sont françaises.
+Ah oui, les Skyblog.
+Skyblog ?
+Oui, c'est vrai.
+Enfin, Skyblog, j'aurais du mal à dire que c'est une réussite.
+Il y a beaucoup de gens qui utilisent le Skyblog.
+J'ai la chair de poule tout d'un coup, Skyblog.
+Je me sens mal.
+Mythique, mythique.
+Mythique.
+Oui, très juste.
+Merci, Goose.
+Mythique, ça n'a pas été vendu.
+J'ai des souvenirs horrible qui me reviennent à l'esprit tout d'un coup.
+Vous êtes sûr que ça n'a pas été vendu, Mythique ?
+Non, non, Mythique, ça reste français, je pense.
+Ils se lancent à l'international.
+Je crois qu'ils ne sont pas une boeuf, mais ils ont essayé de se lancer à l'international.
+Dorsel.com ?
+Oui.
+Ça reste français.
+Ça reste moins...
+Moi, mon bon monsieur, je me branle français.
+Oui.
+Et c'est important.
+Ils se branlent en chantant la Marseillaise.
+Ils se branlent français, mais sur un appareil américain avec une pomme dessus.
+Oui.
+Et une prise japonaise.
+C'est pas le bazar.
+Il y a un peu...
+Il y a un peu international.
+C'est un branleur international.
+Attends, attends, attends.
+Je vois quelqu'un.
+Je vois Katana, Kanata, qui nous met une affiche de Katsuni, special fucker.
+Qu'est-ce donc, Kanata ?
+Qu'est-ce que c'est que ce film ?
+Est-ce que tu pourrais nous l'envoyer ?
+L'échange contre un calendrier, même Dorsel ?
+Et au fait, les calendriers, tu les as envoyés ?
+Non, mais j'ai noté l'adresse dessus.
+Et ils sont au fond.
+Si quelqu'un veut les mettre éteints, je les envoie.
+Si quelqu'un veut venir les chercher, surtout.
+Non, non, non.
+On va les envoyer.
+Ça, on trouve de l'argent pour son iPad.
+J'ai dit début d'année, nous ne sommes pas encore en J.A.
+Nous sommes donc toujours au début de l'année.
+Vous pourrez profiter des six dernières mois en vous branlant devant vos calendriers.
+Allez, hop, on passe à la suite.
+Et la suite, c'est directement les gadgets USB à la con.
+Je vous avais dit que ça allait être super rapide.
+Rapidos.
+Alors, on m'a envoyé pas mal de choses sur Twitter, Parmel.
+Voilà, donc je vais vous citer cela.
+Et plus ou moins influent d'ailleurs.
+Oui, exactement.
+Alors, on commence par la clé USB de la mort.
+Alors, je vous ai déjà parlé de ce gadget USB qui se foutait sur le port et bougeait la souris en permanence.
+Ils ont un peu évolué le concept.
+Maintenant, c'est une clé USB qui se branche aussi sur un port USB.
+Sauf que tu as trois trucs dessus.
+Tu as des positions.
+Donc, tu as évidemment le mouvement de souris inopiné.
+Le passage aléatoire en caps ou pas en caps.
+Qui déjà te casse bien les couilles quand même.
+Et la saisie de caractères spéciaux au hasard.
+Et tu as même une petite molette pour définir la fréquence des événements.
+Ce qui pourrait être fourbe aussi, c'est d'activer ou pas la touche insert.
+Parce que quand tu tapes et que ça efface la suite du texte, c'est extrêmement pénible.
+Ah, c'est pas mal ça.
+Mais ils n'y ont pas pensé apparemment.
+Et un petit contrôle là-dessus pour plein milieu.
+Non, moi je pense que le plus fort ce serait, et ça je pense qu'il y a un business model.
+Si vous nous entendez, vous penserez à nous citer, voir nous envoyer de l'argent.
+Faites une clé USB comme ça, qui aléatoirement colle des images de cul et envoie le mail quand les gens sont en train de le taper.
+Et l'envoie sur la fenêtre.
+Ustream de Captain Web.
+Clac, collage d'images de cul, envoyer, clac.
+Et ça je pense que c'est vraiment le pire truc qui puisse exister.
+C'est peut-être pas mal.
+J'ai du mal à imaginer ce qui pourrait se faire de pire.
+Voir des mails d'insultes peut-être.
+Enfin, mon maif.
+En tout cas, vous voyez, on a toujours des bonnes idées à l'apéro du Captain.
+Merde !
+Alors, qu'est-ce qu'on m'a trouvé aussi ?
+Je trouve que le jingle vivant est un peu lent à démarrer.
+Depuis quand tu as des petits jingles entre tes USB ?
+Oui, c'est nouveau.
+Mais moi je veux des jingles partout.
+Limite à chaque fin de phrase, j'aimerais bien...
+Pas trop quand même.
+Non, non.
+À ceci.
+Voilà, c'est bien.
+Un cerf-volant espion USB.
+Avec une caméra.
+Ça y est, je suis déconcentré.
+C'est Romaric qui m'a envoyé ça.
+Et le précédent, c'était Calvin.
+Merci Calvin, merci Romaric.
+Alors, c'est quoi ce cerf-volant USB en gadget ?
+Bah écoute, c'est un peu un gros gadget à la con
+puisque tu as une caméra qui doit prendre avec une résolution de merde des images.
+Tu fais voler ton cerf-volant et elle va t'enregistrer une quarantaine d'images
+et après tu pourras brancher ça sur ton PC pour récupérer les images.
+Donc, ça peut toujours être utile si tu as une voisine qui a tendance à prendre des bains de soleil à poil
+et que tu veux avoir des photos souvenirs pour chez toi.
+C'est la seule utilité que je vais trouver.
+Des bains de soleil à poil, c'est pas mal ça.
+On vient de nous envoyer sur la chatroom un autre gadget USB.
+Peut-être que tu en as déjà parlé Capitaine ou pas.
+C'est Satanahel qui nous l'envoie.
+Attends, attends, essaie.
+C'est...
+Crache le morceau, vas-y.
+Ah, pardon.
+Crache le jalop.
+On recommence.
+C'est le Pepper Mouf USB Desktop Companion.
+J'ai cru voir passer le truc mais je n'ai pas cliqué sur le lien.
+Alors, une fois connecté à votre ordinateur, ce petit gadget vous empêche de taper des insultes.
+Ah, c'est pas mal.
+Très intéressant.
+Pour les...
+Le texte nous dit premier avertissement, le périphérique clignote.
+Second avertissement, il vous emballe d'une giclée de poivre.
+Quoi ?
+Ah oui, effectivement, vu la tête du truc, c'est possible.
+C'est agressif.
+C'est un truc d'enculé.
+Ça s'appelle le Anelka Filter en France.
+Et à troisième, il te coupe l'internet.
+C'est le Anelka Anophysie.
+Ça, c'est moi qui l'ai vu.
+Est-ce que la maladie de la tourette touche aussi quand tu tapes au clavier ?
+Ça peut être un truc important.
+Exact.
+You fucking cunt, you fucking cunt, you fucking cunt.
+Ah, je suis sa veugle.
+Ça peut toujours être intéressant, effectivement.
+C'est pratique aussi, si t'es en train de manger et il te manque du poivre.
+Enculé.
+Tu penses l'assiette et ça y est, c'est fait.
+Giclée de poivre.
+Effectivement, c'est aussi une solution.
+Merci pour ce gage à USB, leur ton père.
+Non, ce n'est pas moi qu'il faut remercier.
+C'est notre auditeur.
+Oui, c'est Satanel.
+Satanel, merci.
+Satanel.
+Et maintenant, l'imprimante à toast USB.
+Alors, on avait déjà vu des toasters qui faisaient appareils des images d'Invaders.
+Je ne sais plus quoi.
+Oui, non, c'est bon.
+Je ne demanderai plus jamais de gilets.
+Et alors, ce toaster ?
+Là, tu peux le brancher en USB et tu imprimes ce que tu veux sur ton petit toast.
+C'est pas mal, c'est marrant.
+Ouais, ça peut être fun.
+Sympathique.
+Alors, je demande d'avoir le truc fonctionné parce qu'il n'y avait pas trop de détails dans l'article que j'ai lu.
+Merci encore Romaric pour cette info non vérifiée.
+Et ensuite, il m'a aussi trouvé, je crois que c'est encore toujours Romaric parce qu'il m'a envoyé plein de liens.
+Il m'a trouvé la caméra intra-auriculaire.
+Voilà, c'est compliqué là.
+Et bien écoute, c'est une petite caméra qui se glisse dans l'oreille pour voir si tu es victime de tites ou si simplement une bête est en train de te bouffer le système nerveux.
+C'est vrai que c'est utile.
+C'est vrai que c'est utile.
+Voilà, exactement.
+Il faut être capable de comprendre aussi les images qui te sont renvoyées par la caméra.
+À mon avis, c'est tout rouge et plein de pluie, c'est probablement qu'il y a un problème.
+C'est sûr.
+Bon, d'avoir.
+Donc, ça s'appelle Leberscope.
+Et donc, c'est un microscope auriculaire qui se glisse dans l'oreille.
+Je m'explique, je m'excuse, mais quand tu as une otite, franchement, tu n'as pas besoin de trucs auriculaires pour le savoir.
+Moi, ça m'arrive d'en avoir de temps en temps, cette saloperie.
+Et je peux te dire que tu le sens très rapidement, pas besoin d'un truc vidéo.
+T'as mal à l'oreille, c'est sûr.
+Oui, mais on ne sait jamais.
+Peut-être que tu pourrais ne pas avoir mal et avoir quelque chose.
+Prend quelqu'un, prend Katsuni, par exemple.
+Imagine que lors d'une scène, un de tes camarades ait raté le visage et qu'il est dans l'oreille.
+Peut-être qu'elle a besoin de vérifier.
+Peut-être qu'il y a un petit bouchon de sperme qui colle et qui l'empêche d'égoutter.
+Vraiment, vraiment, t'es immonde.
+C'est incroyable.
+Vous devriez voir ce visage dépité de l'ordre de ton père en train de se dire, mais où va-t-on ?
+Comme il le disait dans l'article, c'est un petit outil qui peut être probablement adapté à tout sort d'orifice.
+Donc à vous de trouver peut-être des variantes pour trouver d'autres maladies.
+Surtout que ça doit pouvoir sûrement s'utiliser comme caméra.
+Il y a plein de choses fantastiques.
+Ah oui, il y a un éclairage LED qui est intégré bien sûr pour pouvoir voir à l'intérieur.
+Heureusement.
+Voilà, et donc c'était la fin des gadgets USB.
+Vous avez aimé, Joel, ton père, tu l'as apprécié ?
+On a adoré.
+On a kiffé.
+C'est cool.
+Je t'offrirai une caméra intra-auriculaire pour ton anniversaire.
+Et maintenant, on passe au super hyper quick and dirty.
+Il y a quatre news.
+Fantastique.
+On va commencer par ce qu'on pensait être une action de l'adopi.
+Je parle de ce dessin animé.
+Ah, magnifique.
+Oh oui, avec Captain.
+Il y en a deux.
+Il y avait Captain Adopi versus Super Krapule.
+Super Krapule.
+Ce qui m'a rappelé, alors quand je l'ai vu la première fois, je me suis rappelé cette fantastique vidéo.
+Est-ce que vous vous souvenez du mystère de l'intérieur ?
+Oui, l'arnaque, l'escroquerie.
+D'ailleurs, il me semble qu'on peut trouver la vraie version sur YouTube.
+Oui, tout à fait, puisque nous avions fait une autre version à nous qui, je pense, est meilleure que l'originale.
+Elle est évidemment meilleure.
+Vous pouvez probablement la retrouver dans le tout début du blog, début 2009.
+Mais elle est disponible d'ailleurs sur le YouTube du Captain Web.
+Oui, tout à fait.
+Oui, avec deux, trois autres choses que je ne citerai pas.
+Alors, sachez que l'idiot du village était doublé par moi-même et l'escroc par Manox.
+C'est vrai.
+Une sorte de préquelle du podcast.
+Comme quoi, on s'est rendu compte qu'on pouvait faire plein de choses avec les micros.
+Là, on l'avait fait vraiment avec du matos de merde.
+Oui, c'est clair.
+Aujourd'hui, on pourrait faire des super trucs.
+Je crois qu'il y a des mecs qui ont déjà commencé à détourner la vidéo.
+Alors, ce qui est intéressant, c'est que suite à cette vidéo, que vous avez jugé comment ?
+Franchement, j'étais mort.
+Ridicule, réponse B sordide.
+Au début, je me suis demandé si c'était pas une parodie.
+Oui.
+Et après, j'ai compris que ça n'était pas une parodie et je me suis dit, oh my fucking god.
+Oh MFG.
+Alors, autant vous le dire tout de suite.
+L'adopie a dit, non, ce n'est pas nous qui avons fait ça.
+Et ça a été confirmé puisqu'il s'agirait du site Curiosfaire,
+qui est un site d'éducation de la chaîne France 5,
+qui a pris l'initiative de faire ce petit film.
+Alors, je ne vous cache pas, personnellement, j'ai réfléchi, je ne comprends pas
+pourquoi ils sont cassés le cul à faire un truc pareil.
+C'est pour parler aux jeunes, mec.
+Je pense qu'ils lancent des ballons d'essai.
+Moi, je ne vois pas comment, je vois le gros sabot de l'adopie derrière.
+J'ai du mal à m'en empêcher.
+Je ne sais pas, il y a peut-être eu un appel.
+Il y a eu une sorte d'appel d'offre et puis les mecs se sont dit,
+allez, on fait notre truc et puis ils vont être contents
+et après ils vont nous embaucher chez Adopie.
+De toute façon, ils travaillent déjà pour France 5.
+Ils sont un peu concernés.
+Le service public.
+Donc, Curiosphere a reconnu le temps de la vidéo
+et à la fin, il y avait marqué, il y avait la mention production adopie
+et ils l'ont retiré.
+Ils ont remis en ligne une nouvelle version, ils avaient retiré cette petite mention
+en disant que c'était une erreur, etc.
+Moi, j'ai regardé la vidéo en entier
+et c'est assez extraordinaire quand même.
+Notamment quand Captain Adopie envoie les armes ultimes dans la gueule de...
+Super Crapule.
+Et surtout quand il fait, et si tu ne fais pas bien,
+tu auras la lettre recommandée.
+La lettre recommandée !
+Et là, tu as une sorte de lettre recommandée
+avec des petites étoiles tout autour
+qui fondent sur...
+La pointe de vue technique, c'est très bien fait.
+Est-ce que c'est bien réalisé, est-ce que c'est bien fait ?
+Oh non, c'est rigolo.
+C'est pas possible que ce soit Adopie,
+c'est que c'était quand même relativement bien fait.
+Moi, je trouvais ça pas mal.
+Je parle de la forme.
+Techniquement, c'était...
+Sur la forme, c'est marrant.
+C'était un joli petit dessin.
+Et Captain Adopie, d'ailleurs,
+en partant à la fin, précise qu'il aime pas les mecs
+qui tirent son slip.
+C'était la petite touche d'humour.
+Parce que Captain Adopie est quand même un mec rigolo.
+Qui a pas à mon slip-art.
+Y a une bonne raison pour laquelle c'est sorti hier,
+c'était le 21 juin où ils étaient censés commencer
+à envoyer les premières lettres recommandées, vous vous souvenez ?
+Et puis la fête de la musique, bien sûr !
+C'est la fête de la musique, hop, lettre recommandée !
+C'est la fête de la poste aussi.
+Est-ce que tu as reçu la lettre recommandée
+lors de ton père ?
+C'est vrai, j'ai oublié, pardon.
+Personne ne pirate, nous sommes des gens censés
+nous acheter tout.
+Nous avons tout en triple.
+Tous les films que j'ai,
+tous les CD, toutes les musiques que j'ai,
+ont été achetés.
+Par quelqu'un d'autre.
+Et si on regarde en streaming, est-ce que c'est des piratoches ?
+On a jamais su répondre à cette question.
+Mais si ! On l'a déjà dit !
+Tu es coupable !
+On ne saura pas quel film je regarde !
+Donc voilà, les petits enfants
+seront désormais que tu peux même attirer en prison
+avec en plus la peine de 300 000 euros d'amende, je crois.
+Moi je crois que la
+vraie peine complémentaire,
+c'est quand tu es en prison de te taper tous
+ces putains de films au moins deux fois par jour !
+Alors clairement, la vraie peine
+est...
+La vraie punition,
+c'est ce qui ont infligé à l'équipe de football
+après le « va te faire enculer, sale fils de pute »,
+c'est la présence de Roselyne Bachelot
+pendant une journée entière.
+Je pense sérieusement, je sais qu'ils ont été méchants,
+une journée entière avec Roselyne Bachelot dans le cul.
+Dans le même avion !
+Tu penses qu'il leur a envoyé un charter avec Roselyne Bachelot ?
+Et dire que cinq jours avant,
+ils ont refusé Ramayad.
+Attention, nous dérivons !
+Qui passe de Zaya à...
+Quacos, oui, pas de politique.
+On parle football !
+C'est pareil !
+On parle de sport !
+On est des sportifs, nous !
+On évoque l'action vigoureuse de notre gouvernement !
+On va passer à autre chose.
+Et on va passer à ce que les
+députés européens
+ont voté,
+ont adopté ce jeudi 17 juin,
+soit la déclaration écrite
+numéro 29 sur la création
+d'un système d'alerte rapide européen,
+qui s'appellera le SAR
+contre les pédophiles
+et les auteurs de harcèlement sexuel.
+Quand je vous dis, attention,
+système d'alerte rapide européen contre les pédophiles
+et les auteurs sexuels,
+qu'est-ce que ça concerne, évidemment ?
+Les Belges.
+Oh non !
+Les...
+Les Flamands ou les Wallons ?
+Non, les Flavlons.
+C'est pas selon la carte de TF1
+ou selon la carte...
+Est-ce que Dutroux était Flamand
+ou était-il Wallon ?
+Non, c'est un vrai...
+Alors, ton père, c'est pas politique.
+On peut poser la question.
+C'est limite.
+Evidemment, ça concerne internet.
+Ah oui, les internautes.
+C'est tout un ensemble de mesures
+d'après ce que j'ai cru comprendre.
+En tout cas, tout ce qu'il faut savoir,
+c'est qu'en clair, les fournisseurs d'accès
+conservent pendant...
+Alors, je crois que c'est un an...
+Bref, en tout cas, vous savez que jusqu'à maintenant
+ils devaient conserver l'adresse IP, etc.
+Maintenant, ils vont devoir conserver
+l'intégralité des recherches.
+Sur 10 ans, c'est pas ça ?
+Non, non, c'était l'Australie sur 10 ans
+Il y a toutes les requêtes faites dans les moteurs de recherche.
+Donc, attention,
+si tu commences à taper enfant
+sur Google, peut-être qu'un jour on viendra te voir.
+Oui, attention, leur ton père.
+Pourquoi vous parlez tous de leur ton père ?
+Mais arrêtez, ça se prend ta défense, alors.
+Moi aussi, je prends ta défense.
+Surtout que je ne tape pas ce mot-là.
+Tu tapes que chien et poney.
+Si vous tapez, j'ai pas dit leur ton père.
+Si tu l'as regardé, tu l'as pointé du doigt.
+Parce que je parle souvent de leur ton père
+parce qu'il est en face de moi et que sur les sujets internet,
+tu vas le foutre dans la merde.
+Revenons, soyons sérieux. Pourquoi rapide ?
+Oui.
+Pourquoi c'est rapide ?
+Parce que je pense qu'une fois que tu as tapé
+enfant
+enfant-beat
+dans Google,
+j'imagine que le GIGN arrive chez toi pour te coller une balle dans la nuque
+dans les 10 heures qui suivent.
+Je n'en sais strictement rien.
+Je ne suis pas fouillé plus que ça.
+Ou il t'envoie en prison pour que tu ailles te faire planter le dent le dos là-bas.
+C'est là toutes les limites du copier-coller.
+Mais c'est une news intéressante.
+Je pensais que tu allais développer le sujet.
+Je ne l'avais pas vu.
+Tu ne lis pas toutes les directives européennes qui sortent ?
+Non. Bientôt j'en lis beaucoup.
+Je crois qu'on nous met Zaya
+sur une caméra du chat.
+Elle est majeure maintenant.
+Elle peut venir sur YouStream.
+Elle peut venir dans l'apéro.
+Peut-être qu'on pourrait faire un doublé
+Zaya plus qu'Alceline.
+Et en plus, il se la pète parce qu'il nous montre
+le dernier numéro de Paris match sur iPad
+Je ne me trompe pas.
+Nous aussi, nous avons des iPads malheureux.
+Non, il n'y a que toi qui en a un.
+C'était un iPhone. Pardon.
+C'est pas un iPhone. Qu'est-ce que c'est que donc ?
+C'est un Narcos. C'est un iPad.
+Ou alors c'est peut-être un HTC Desire.
+Tu vas loin.
+Kaneta, il faut que tu nous dises.
+Milstone.
+Oui, j'ai craqué.
+On m'a fait la remarque.
+Je me suis fait niquer par Apple.
+J'ai acheté un iPad.
+Et tu as acheté exactement
+la même sacoche que Patrick.
+Oui, c'est vrai. Parce que j'ai trouvé que la sacoche de Patrick
+était super bien. Et j'ai même demandé
+sur Twitter. Il m'a dit où il l'avait acheté.
+Patrick est ton idole.
+C'est simplement la sacoche officielle d'Apple.
+Et donc je suis allé donner Magabel
+à Apple.
+Comme une bonne victime
+de la société de consommation.
+Donc vous le savez.
+C'est une belle machine.
+J'avais dit que c'était de la merde. Je confirme que c'est de la merde.
+C'est une merde que j'ai à côté de moi.
+Il faudrait ressortir le podcast
+de sept numéros en arrière
+où tu étais là.
+Je n'ai vraiment pas l'utilité
+d'acheter un truc comme ça.
+N'importe quoi, ils vont se planter.
+Quel est le bleuro qui va acheter un truc comme ça ?
+Le pauvre crétin qui va acheter un truc comme ça.
+En gros, je pense avoir résumé en une minute ce que tu as dit
+pendant vingt minutes.
+C'était avant que PornHub passe au HTML5.
+J'ai désormais toutes les raisons.
+Enfin d'avoir un iPad. Et là tout est dit.
+Je me suis fait niquer. Je suis un gros mouton.
+Je l'admets. Voilà.
+Je me suis fait avoir par Apple.
+Par contre, je me suis dit qu'en échange,
+je n'achèterais pas d'iPhone. Et voilà.
+Parce qu'au moins, l'avantage de l'iPad...
+C'est marrant. Tu ne m'as pas dit la même chose récemment.
+On en reparlera dans un mois.
+Si c'est un cadeau, c'est différent.
+Ce n'est pas la même chose.
+Quel cadeau ? Je donne de l'argent à quelqu'un
+qui me l'achète. C'est plus la même chose.
+Tout de suite.
+L'avantage que j'ai acheté à version Wi-Fi,
+c'est que je ne paye pas ces 40 euros par mois.
+À Orange, comme l'avait souligné si bien leur ton père,
+il y a quelques numéros. Et voilà.
+Et ça c'est priceless.
+Et donc, je vais reciter juste...
+Peut-être que quatre podcasts maintenant en arrière
+où vous disiez, franchement, la première version,
+je vois vraiment encore moins l'intérêt.
+Il faut forcément... C'est leur ton père
+qui avait fait ça d'ailleurs dans sa rubrique.
+Forcément, le premier, on s'en branle.
+Ça ne sert à rien.
+Il faut au moins le truc tranché
+parce qu'il n'y a pas d'abonnement.
+J'ai cité l'ordre de ton père.
+Donc, Captain Webb, tu...
+Oui, mais attention, pour la défense...
+Je n'ai aucune excuse, je me rends moins compte.
+Je me fouette avec des ortyfrès toutes les nuits.
+Pour leur défense, ils pourraient sortir
+un proverbe bien connu par rapport à ça.
+Il n'y a que les imbéciles qui ne changent pas la vie.
+Ils ne changent pas d'alli, exact.
+Je reste sur ma devise de vie.
+On n'est jamais aussi bien servi par les autres
+que par les autres,
+que j'ai essayé tous les jours de mettre en pratique.
+Et tu arrives assez bien, d'ailleurs.
+Pas tout le temps, ça me désole.
+Ça ne te vaut pas le problème, le proverbe
+de notre ami...
+C'était Benko qui avait sorti ça.
+Un trou est un trou et...
+Ah oui !
+Je ne parlais pas de celui-là, c'était plutôt l'autre.
+Je préfère me branler de la main gauche,
+bien qu'il est en droitier, comme ça, j'ai l'impression
+que c'est quelqu'un d'autre qui le fait.
+Franchement, les gars, merci.
+Si on parle de proverbe, attention...
+On va attaquer le lourd.
+Est-ce que vous vous rappelez ?
+Non, non, non !
+Qui se rappelle du menu de la taverne de Nell
+où nous avons passé des nuits et des nuits
+des jours entiers ?
+Il y avait une série de proverbes
+concernant l'alcool.
+Qui est capable de m'en citer un ?
+Moi, j'en cite un. On peut boire trop.
+On ne boit jamais assez.
+C'était le premier de la liste, les autres je ne me souviens plus.
+Et attention, n'oubliez pas que lorsque
+l'idiot montre la lune du doigt,
+et bien...
+Je montre la lune du doigt,
+l'idiot regarde le doigt.
+On attend le fond des proverbes,
+on va passer à la suite.
+Elle est classique, celle-là.
+C'est bien de se remémorer les classiques.
+Toi, tu l'as appris dans un mellipou.
+C'est notre ami Yeti qui me l'avait appris.
+Parce que j'avais regardé son doigt.
+Je crois qu'il t'avait appris autre chose.
+Il ne t'avise pas son doigt là-haut.
+Il a montré la lune du doigt.
+C'est ta merde !
+La suite ?
+Voilà.
+Et là, j'ai trouvé ça, je ne sais plus où.
+Assise, je crois que c'était sur la Fredzone.
+Fred, si tu nous écoutes, t'es castor.
+C'est des winners.
+C'était Games.
+G-A-E-M-S. Attention, ne pas confondre les lettres.
+Qui a présenté à l'E3 2010, attention, préparez-vous,
+une valise pour transporter
+sa Xbox 360.
+C'est vrai que c'est pratique.
+Elle contient quand même une alimentation
+et un écran de 15 pouces.
+On pourrait penser que c'est un truc facilement transportable.
+C'est un truc avec des petites roulettes
+façon cadre supérieur.
+Je ne comprends pas qui peut transporter un truc pareil.
+Je me demandais que peut-être parmi vous...
+Tu nous dis ça, dans deux mois, tu l'achèteras.
+Là, franchement, t'es plus crédible, mec.
+Merci.
+On fera le test avec toi de cette petite valise.
+Je suis...
+Tu vas rentrer dans Hong Kong.
+Je suis un adepte du Do It Yourself.
+J'irai acheter des roulettes, si je veux vraiment faire rouler,
+mais avec 360, j'irai au BHG acheter
+des grosses roulettes et je les collerai dessous.
+Je mettrai une selle de vélo dessus.
+Et je vous montrerai mes grosses roulettes.
+Ensuite, qu'est-ce que j'ai vu ?
+Ça, j'avais vu passer sur Numérama, je crois.
+Et ça concerne la pornographie.
+Il y aurait eu une étude d'une entreprise
+spécialisée dans le blocage de contenu.
+Et là, tout de suite, tu peux commencer à te méfier.
+Qui affirmerait que la pornographie représenterait
+un tiers du contenu du web, les enfants ?
+Je crois que c'était 90 %.
+Non, n'exagère pas.
+Dans 90 %, c'est ce que toi, tu visites.
+On parle de contenu, on ne parle pas de site.
+On ne parle pas du contenu de tes marque-pages.
+Je ne réponds plus.
+Soit Assemblée Nationale,
+Numilogue, et puis...
+Ok, ok.
+Oui, donc, ça intéresse quelqu'un ?
+Non.
+Si, leur ton père, il ose plus...
+Ça ne m'intéresse pas.
+Voilà.
+Ok.
+Je voulais parler de la mise à jour IOS 4,
+mais je crois que leur ton père va nous en parler tout à l'heure.
+Est-ce que tu vas parler du changement
+dans les conditions générales ?
+Non, vas-y.
+Juste pour dire qu'ils ont changé...
+C'est régulier, quand Apple fait des modifications,
+ils changent les conditions générales.
+Souvent, à leur avantage, c'est un peu comme Facebook,
+c'est rare qu'ils reviennent en arrière sur un truc
+qu'ils ont réussi à avoir.
+Donc là, cette fois-ci, simplement,
+ils sont donné l'autorisation
+de localiser l'utilisateur
+à n'importe quel moment grâce à son Iphone
+en temps réel.
+Donc en gros, quand tu acceptes les conditions générales,
+tu acceptes qu'Apple sache à n'importe quel moment
+où tu es grâce aux trucs de localisation.
+Alors, l'objectif, évidemment, c'est pour t'afficher des pubs,
+les fameuses IHAD.
+Oui, mais il me semble que tu nous en avais parlé
+très brièvement une fois.
+Ça date d'aujourd'hui.
+C'est avec ces fameuses conditions générales
+qui fait 27 pages.
+Il me semblait qu'il y avait eu une news
+où ils avaient lancé un système pour localiser les gens
+et ils voulaient vendre les fichiers de localisation
+C'est ce qu'ils vont faire, sauf que là,
+ça fait partie des conditions générales.
+Quand tu l'acceptes, tu...
+C'est quand même assez étrange dans cette période
+où ils se prennent plein de procès au cul,
+j'ai bien compris, parce que justement,
+avec leur Google voiture,
+c'est le même principe.
+Alors qu'ils pompent trop d'informations
+et là, ils se lancent dans ce truc-là
+alors que les autres se tapent des procès.
+Ce qui me surprend, c'est que moi,
+cette nuit, j'ai fait la mise à jour IOS 4
+et effectivement, j'ai accepté
+les conditions générales et généralement,
+il te faut un tout petit résumé en haut
+où ils te disent qu'est-ce qu'il y a de nouveau.
+C'est un détail.
+Tu t'es fait...
+Tu t'es fait...
+Quelqu'un a dû le trouver.
+Moi, j'ai accepté pour avoir le nouvel e-book store
+et il y avait quand même 27 pages
+de conditions générales.
+Et tu te les ai tapées ?
+Non, j'ai fait suivant comme tout le monde.
+27 pages...
+Tu es de la merde !
+Il y a des pages qui revient en disant
+non, ça me plaît pas les conditions générales,
+merci de me rembourser.
+Il y a un assurement qu'ils font, mais je pense
+qu'ils vont se faire enculer.
+Tu restes à la mise à jour précédente,
+mec, il pisse et tout.
+J'avais vu un mec sur internet qui faisait
+accepter les conditions générales par son chat
+avec la patte.
+Remarque, ce n'est pas lui qu'ils acceptent.
+Légalement, ça, l'entend-père ?
+Non, comme ils commandent le chat,
+ça revient en même.
+Il faut demander l'avis.
+Dans ce cas là,
+le gars, il rend l'iPhone
+et il ne touche pas.
+Parce que c'est à son chat.
+Le mec avait filmé,
+et ça doit être sur YouTube.
+Le chat qui est responsable.
+Je suis sûr qu'il y a un winner qui va nous trouver le lien
+dans moins de 10 secondes.
+C'est pas très intéressant d'avoir la vidéo
+où on te croit sur parole, Captain Web.
+J'aime prouver ce que je dis, c'est quand même important.
+D'ailleurs, le prochain invité dans ma rubrique
+c'est les conditions d'utilisation.
+Il me parlera uniquement félin,
+ça va être sympa pendant un quart d'heure.
+Ce n'est pas pire qu'il va me donner un tweet.
+Ça fait longtemps qu'on n'a pas fait
+un tweet et un cote-cote.
+Ça fait du bien.
+C'est génial.
+En revenant sur le sujet des conditions générales,
+j'ai vu qu'il y avait un site à une époque
+qui avait foutu tout en bas de ces conditions générales
+un truc où ils avaient marqué
+le premier qui lit ça, envoyez un email là
+et vous gagnez 5000 dollars.
+Ils avaient attendu un mois et demi
+avant qu'il y ait un mec qui lisse tout
+et qui envoie le mail.
+Comme quoi, des fois, ça peut être utile
+de lire les conditions générales.
+Personne ne l'a jamais fait.
+Sur ce, on passe à autre chose.
+On est presque à la fin de ma rubrique
+qui, pour une fois, ne sera pas trop longue.
+Je vais vous parler de l'Américain David Perez,
+ce winner.
+Quoi qu'à cause, tu avais lu cette news
+et tu es sur le point d'en parler.
+David a décidé de se donner
+littéralement à Twitter
+en obéissant à tout ce que les gens lui demandaient
+sur Twitter.
+J'ai proposé justement qu'on fasse
+tous des tweets
+à ce jeune homme ce soir.
+Au final, j'ai été voir son compte,
+il n'a pas tant de followers que ça.
+C'est un super coup de com,
+le mec qui va avoir 50 000 followers.
+En deux jours, il en a 3800.
+C'est bon, Captain.
+Alors, Captain Web, ça signifie
+que je peux aller lui demander...
+David, est-ce que tu pourrais aller à ta banque
+retirer tout ce que tu as sur ton compte en banque
+et me le donner ?
+Je doute fort qu'il le fasse.
+Achète-nous un MacBook.
+Tu m'as dit qu'il allait le faire.
+On va lui demander quelque chose.
+Vous êtes combien ?
+Il y a bien un winner qui va me le trouver.
+Vous le mettez dans le tchat et vous allez lui dire...
+C'est David demande.
+Vous trouvez son Twitter et vous allez lui demander
+d'envoyer un petit don
+à l'apéro du Captain sur notre compte Paypal.
+Vous lui expliquez le bordel.
+Il a même le droit de venir sur le tchat.
+Il faut aussi expliquer que le mec...
+Tu ne t'es pas allé dans la profondeur du sujet.
+Le mec a acheté
+une paire de lunettes
+et une caméra au centre.
+Il a un site qui s'appelle David demande.com.
+On demande.com.
+C'est ça.com.
+Tu peux voir le mec
+ce qu'il fait toute la journée.
+Répondre aux demandes des twittos.
+Apparemment ce n'est pas passionnant.
+Il y a des mecs qui lui demandent de se couper la barbe.
+C'est un peu nul.
+C'est pire que la télé.
+Ça a demandé lui tous d'acheter un MacBook Pro
+pour l'apéro du Captain.
+Demandez-lui de nous envoyer 50 euros.
+Ce sera déjà bien s'il le fait.
+Tu es malade toi.
+C'est trop ridicule.
+Mieux vaut 50 euros qu'il le fasse
+que 100 euros qu'il ne le fasse pas.
+Par contre, s'il pouvait se trimballer à poil
+avec marqué I love apéro du Captain
+sur les fesses dans les rues de New York.
+Je ne sais plus où il est d'ailleurs.
+Il est à Cannes.
+S'il pouvait venir sucer Manox,
+je sens que...
+Franchement...
+Il faut intégrer du gras,
+du bon gros gras.
+Je ne suis pas pour.
+D'ailleurs, ça rubrique en témoigne.
+Il y a quand même un mec
+toi nouille.
+Il a une application iPhone
+avec des petits enfants
+coincés derrière des barreaux.
+Tu vas subir le SRAS, le SRRS,
+ce truc à réaction rapide.
+L'Union Européenne te suit.
+Allez, le temps qu'il tweet à David on te demande.
+On va peut-être passer à autre chose.
+C'est ma dernière news.
+Comme quoi vous voyez.
+La taxe pour la copie privée qui est contestée
+par les opérateurs mobiles.
+Est-ce qu'ils en ont marre de taxer leur race ?
+Ils en ont marre.
+Ça fait quand même 7 ans.
+Ça fait un bout de temps. Je ne sais pas combien ils auront récupéré.
+Chaque fois que j'achète un CD
+que je paye un euro, je ne sais plus combien,
+je me dis que je ne sais pas combien.
+Ça me rend dingue.
+Tu ne vas pas sur CDFolies.be ?
+CDFolies.
+Qui achète encore des CD pour graver de la musique dessus ?
+Je ne sais pas.
+Tu achètes des clés USB ?
+Surtout les clés USB sont aussi taxées.
+Bien que les clés USB normales,
+je ne sais plus ce qui est super complexe.
+En tout cas, c'est les opérateurs mobiles
+qui en ont plein le cul.
+En même temps, on n'achète plus beaucoup de CD non plus.
+Le CD est un peu en voie de disparition.
+Tu achètes un CD pour graver, je ne sais pas, tes photos.
+Crois-moi que tu as mal au cul.
+Tu achètes encore des CD pour graver.
+C'est une question de temps.
+Tu achètes minimum un DVD ?
+Un DVD, c'est le même principe.
+Ce n'est pas le même principe.
+Mais non, ils ont ça sur des clés USB,
+sur un disque dur à movib.
+Un disque dur à media maintenant.
+Toi-même qui as un AS
+qui n'est pas du tout connecté en torrent
+directement sur Internet.
+Tu achètes un fucking Blu-ray.
+Tu achètes un Blu-ray, combien ça coûte cette connerie ?
+Qui achète encore des Blu-ray aujourd'hui ?
+Il y a des mecs, ils achètent des Blu-ray.
+C'est fini le Blu-ray.
+Alors ton père me fait si bien qu'on est en train de les graver.
+Les opérateurs mobiles ne sont pas contents.
+Ils disent ok pour taxer des trucs d'enregistrement.
+Qui sait qu'on enregistre encore ?
+Qui sait qu'on achète encore des saucisses aujourd'hui ?
+Mais n'importe quoi, qui achète des patates ?
+Moi j'achète des saucisses au supermarché.
+Mais des saucisses sur gelée.
+Toi t'es du genre à acheter des CD.
+Qui achète des poires au marché ?
+Ça dépend si c'est dans un bocalou.
+Les CD, c'est sur taxé.
+C'est de la merde !
+On ne parlait pas de ça mais c'est pas grave.
+Et c'est l'heure de la news Mark Dursel !
+Alors bougez pas, je vais sur le blog de Mark Dursel.
+Blog.mark.
+Non c'est dorsel.com putain.
+Et en plus, le tecar il le fait sur son ipad.
+Bien sûr.
+C'est Mr.Ipad.
+Blog.Dursel.com.
+Voilà, parce que Captain Web a actuellement son ordinateur portable.
+Ainsi que son ipad.
+Tout à fait. Alors, foutu porno.
+La croupe du monde.
+La croupe du monde.
+La croupe du monde.
+La croupe du monde.
+Alors, foutu porno.
+La croupe du monde sur Dursel Vision.
+Ah oui, exact. Il faut savoir que notre ami Dursel
+fait pour chaque match un petit combat
+entre deux pin-ups en train de monter
+l'orclito en gros plan.
+Et donc c'était trop intéressant.
+Sinon, une vraie news qui n'est pas tant que
+c'est une news Mark Dursel, c'est que peut-être
+qu'on va finir par arriver à convaincre Katsuni
+de venir à l'apéro.
+Alors, manifestement, Katsuni n'a pas envie
+de venir dans une cave avec 4 mecs la nuit.
+Bizarre. Je ne peux pas comprendre.
+Elle a l'air assez ouverte.
+Parce que c'est une jeune fille très ouverte.
+Pour venir un après-midi.
+On pourrait peut-être changer nos oeuvres.
+C'est ce que je disais sur Twitter.
+Pour les dames, nous n'hésitons pas à changer les oeuvres du podcast
+comme nous l'avons fait pour Esq de la semaine dernière.
+Donc...
+Non, non, non.
+Nous sommes des personnes galantes.
+Donc, écoute Katsuni, si tu nous écoutes,
+je pense qu'on va essayer de trouver un petit arrangement.
+Oui, Katsu, t'inquiètes.
+Je l'ai dit, je regardais toute ta filmographie, elle m'a précisé qu'il y avait 400 films
+et que ça risquait de me faire mal au poignet.
+Tu m'étonnes.
+Elle t'a vraiment dit, ça va te faire mal au poignet.
+Elle m'a dit, tu vas te faire mal, il y a plus de 400 films.
+C'est vrai que mal aux yeux, mal aux poignets, on ne sait pas.
+Je vais peut-être même te retrouver le tweet si...
+C'est inutile.
+Si, si, je tiens à te retrouver le tweet.
+On tient à dire à tout le monde que ceci est un message
+officiel de la part de la célèbre Katsuni.
+Katsuni, oui, avec qui nous discutons
+régulièrement quoiqu'où c'est moi-même.
+Voilà.
+C'est charmant.
+Ça me fait mal au fond de mon petit cœur que tu ne me suives pas.
+Au fond de son foie, ça lui fait mal.
+Je croyais qu'il n'en avait plus.
+J'ai perdu le message de Katsuni.
+En tout cas, Katsuni disait, oui, je veux venir
+mais pas le soir, bande de dégénérés.
+J'ai d'autres choses à faire le soir.
+Remarquez, c'est peut-être une vie nocturne.
+Oui, je préfère pas savoir ce que c'est.
+Ok, donc allons savoir.
+Peut-être que Katsuni viendra
+et ce serait quand même un certain événement.
+Mais je dirais le livre sur vos tombes,
+cette émission tenue par Monsieur Poulpe.
+Tu fais de la pub pour ces faux frères !
+Voilà, nous ont piqué Katsuni avant,
+donc ce ne sera pas une première en tant que
+tailleur d'émission geek, mais dans un podcast
+assez super underground
+comme le nôtre peut-être.
+Et sur ce, j'ai fini ma rubrique.
+J'ai terminé en combien ? En 40 minutes ?
+Non, 59 !
+Il y avait l'intro qui a duré très longtemps !
+Ok, bon, je laisse
+sur ceci, à l'ordre ton père,
+la joie de continuer ce podcast.
+Bienvenue sur la rubrique de l'ordre ton père.
+L, T, P
+L'ordre ton père, ton corps de bête.
+Ton corps de bête remis sur la piste.
+Je craignais d'avoir ce nouveau jingle.
+Il est excellent.
+Johanna est encore en stage chez nous
+pendant 15 jours, je pense qu'on pourrait
+en profiter pour la bloquer dans la cave
+pour qu'elle nous fasse des petits jingles
+pour la saison prochaine.
+Alors Lorde,
+de quoi tu vas nous causer ce soir ?
+D'abord, une nouvelle scientifique
+de premier plan.
+Il me semblait indispensable
+de vous en faire part, ainsi qu'à nos
+chers auditeurs, parce que oui,
+le pouls vient d'être
+séquencé.
+Quoi ?
+L'ADN du pouls
+vient d'être séquencé, c'est une grande
+nouvelle. C'est incroyable. Le pouls
+humain, 2 à 3 millimètres
+de longueur, belles bêtes.
+Trois types de pouls,
+le pouls de la tête, celui qui
+grattent, celui qu'on connaît tous,
+le pouls du corps, quand on est
+très très sale,
+celui qu'on connaît bien le Captain Web,
+et le pouls qui est dans les poils
+pubiens.
+Est-ce que ce pouls qui est dans les poils pubiens
+est-il celui qu'on appelle communément
+le morpion ?
+Exactement.
+Est-ce que le pouls du sous-ordre
+des anoplours
+au sein de l'ordre des...
+Excuse-moi, je dérange, c'est une blague ou quoi ?
+C'est juste que
+Panthume marchait bien sur iPad, effectivement, c'est le cas.
+D'accord, on est en train de parler du pouls et pas du
+pourne.
+Si tu as des pouls,
+je pense que c'est ton problème.
+Donc le pouls humain appartenant
+au sous-ordre des anop...
+anopleurs...
+Des anoplours
+des anoplours au sein de l'ordre des...
+C'est quoi ce mot, la con ?
+Vas-y, leur ton père, merde.
+Des petits raptères.
+Des petits raptères, oui. Alors je recommence.
+Le pouls appartenant
+aux ordres des anoplours
+au sein de l'ordre des petits raptères, vous avez vu,
+je l'ai fait d'un coup. Bravo.
+Eh bien, le poupou.
+Tu l'as lu au moins tant t'as vu, je suis wikipédia
+avant de venir.
+C'est lui, c'est ce mec-là
+qui me dit que je fais du copier-coller.
+Je l'ai tapé de mes petits doigts.
+Alors son cousin, bien sûr,
+c'est le Morpion.
+Le Morpion, bien sûr,
+que connaît bien Capitaine Webb,
+puisque Capitaine Webb est
+la maison des Morbac.
+Alors là,
+je m'insurge.
+Ce qu'il faut savoir, c'est qu'on parle aussi parfois du pouls
+en disant que c'est le pouls suceur.
+Tu parles donc du Morpion là.
+Est-ce que le pouls de la tête
+doit être reproduit avec le Morpion ?
+Totalement.
+Écoute, je ne sais pas.
+Lors d'une félation, c'est possible.
+D'une auto-félation ?
+Ou d'une auto-félation.
+Le cheval et le poney
+donnent bien un baudet, c'est ça ?
+J'imagine que ces trois types de pouls
+doivent être un petit peu différents,
+puisqu'ils sont situés à différents endroits d'accord.
+Ils ont pas les mêmes pouls.
+C'est une petite bête qui vit en vous pompant le sang,
+il ne faut pas l'oublier.
+J'ai connu des femmes comme ça.
+Zayas, tu nous écoutes.
+Il faut savoir que le poube peut transmettre des maladies.
+Par exemple,
+je l'ai lu, je ne sais plus sur quel site,
+la maladie qui s'appelle le Roketsia pro-wazeki,
+responsable
+du typhus
+et de Borrelia.
+Une belle saloperie.
+Capitaine,
+le génome de ton meilleur ami
+a fait l'objet
+d'un séquençage ADN.
+Le séquençage ADN,
+qu'est-ce qu'on sait ?
+L'idée, c'est d'aller au plus petit,
+d'aller dans le fameux ADN
+pour faire un relevé
+des fameuses nucléotides.
+Vous vous souvenez tous de vos cours
+de sciences naturelles ?
+Exactement.
+C'est donc
+d'essayer de découvrir quel gène
+compose cette merveilleuse bestiole
+pour essayer de tirer des enseignements scientifiques.
+Est-ce que la séquence du pouls
+est beaucoup éloignée de celle du capitaine ?
+Eh bien, écoute,
+peut-être pas tant que ça,
+parce qu'il semblerait que le pouls
+et le chimposé aient divergé
+il y a quelques millions d'années,
+et comme le capitaine est resté très proche
+du chimpanzé...
+Il y en a un qui a beaucoup grossi quand même.
+Il a sucé très fort lui aussi.
+Il a sucé beaucoup de gorille.
+Je sens qu'il y en a un qui va pas sortir vivant de cette cave.
+Alors, qu'a-t-on découvert grâce à ce séquençage ?
+On a découvert que le pouls contient peu de gènes
+et qu'il a très peu de récepteurs
+pour le goût et les odeurs.
+Entre nous, c'est peut-être pas plus mal,
+vu l'endroit où ils prolifèrent.
+Un organisme assez simple en somme.
+Un organisme, je dirais, même plus simpliste.
+Donc, un nombre de gènes réduit.
+Est-ce que le pouls est sexué ?
+Excellent question.
+Est-ce que le pouls a des couilles ?
+Le pouls a trois paires de couilles,
+c'est bien connu.
+Peut-être que oui.
+Mais j'attends qu'un auditeur nous corrige.
+Je suis pas sûr, vu que ça pompe.
+Il a très peu de gènes de détection ou de réaction à l'environnement.
+Alors, il dépendrait
+pour sa digestion d'un certain type de bactéries
+et il pense,
+en étant capable de détruire la bactérie,
+de pouvoir détruire plus facilement le pouls.
+Intéressant.
+Autre nouveauté, c'est comme il a un petit nombre
+d'enzymes de désintoxication,
+il serait peut-être un bon sujet
+pour les études pour la résistance aux insecticides
+et aux autres mécanismes de défense.
+En fait, ils ont séquencé le poux
+pour mieux le tuer.
+Pas uniquement, mais aussi pour essayer
+de découvrir les mystères
+du poux qui pourraient amener
+de grandes avancées scientifiques.
+Je crois qu'ils ont décodé le gène du porc,
+ils avaient trouvé une sorte de moyen pour faire pousser
+uniquement des morceaux d'oreilles.
+Ils sont en train de penser
+à faire des sortes de fermes de viande de porc.
+Ça me rappelle ce fameux
+poule-grin.
+Oui, c'est dans un livre de science-fiction.
+C'est une usine à viande.
+Le poule-grin, c'est une sorte de
+créature qu'on découpe régulièrement
+pour nourrir les masses.
+Je ne m'en souviens plus non plus.
+Pourtant, ça m'avait bien marqué, le poule-grin.
+C'est dans un livre
+un petit peu ironique de science-fiction.
+C'est un truc qui doit ressembler
+au meilleur des mondes.
+Exact.
+C'est un truc qui ressemble à ça.
+Le poule-grin, je ne me souviens plus,
+mais je suis sûr que quelqu'un va nous le trouver.
+Je suis tombé sur
+le docteur Paul Poulgrin.
+Il y a
+un nombre de gens qui s'appellent poule-grin.
+Le docteur Paul Poulgrin, c'est un collègue du professeur Flotus.
+Je vais rajouter science-fiction
+dans Google.
+Ça, c'est du temps réel
+dans l'apéro du capitaine.
+C'est de la viande synthétique
+dans le roman de science-fiction
+des auteurs de Fred Polm.
+Quel auteur !
+Quelle suspense !
+Et si nous avions des spécialistes ici ?
+Laissez les gens
+nous faire découvrir ce que c'est que le poule-grin.
+Il faudrait que ce soit des gens cultivés.
+Ce n'est pas le cas.
+Mais ils sont des gens qui ont accès à Internet.
+A eux, sans, ils doivent lire de plus en plus.
+Par rapport à ce poule-grin...
+C'est planète à gogo.
+Qu'est-ce que tu peux nous lire de plus sur le poule-grin ?
+Qu'est-ce que tu peux nous lire de plus sur le poule-grin ?
+C'est une grande révolution.
+Le poule-grin, c'est notre ami.
+C'est l'ami du capitaine.
+C'est l'ami de l'apéro.
+Comment est-ce que tu en es arrivé à faire un ombric là-dessus ?
+C'est vrai que c'est étrange.
+Ne me dis pas que tu t'es couché à 5h du matin pour ça.
+C'est peut-être pour ça.
+C'est parce que je vois se gratter les gouttes
+depuis 3 semaines.
+Il a dû se dire, mais qu'est-ce que c'est que cette bite ?
+J'avais bien fait un sujet sur les
+bonnets kazaks.
+Je ne sais pas pourquoi je n'aurais pas le droit de faire un antique
+sur le séquençage ADN du poule-grin.
+Il ne faut pas discriminer toutes les formes d'animaux
+dans la période du capitaine.
+Nos auditeurs ont le droit de savoir que le poule-grin
+a été séquencé.
+Sujet suivant.
+VLC, version 1.1
+est sortie
+aujourd'hui.
+Elle était en release candidate ces derniers jours
+avec une étape intermédiaire par la 1.06
+la 1.05 étant la dernière version stable.
+Cette nouvelle version s'appelle
+The Luggage, c'est son petit nom.
+Avant, je crois que c'était GoldenEye de mémoire.
+Vous connaissez tous ce célèbre
+lecteur vidéo, VLC Media Player.
+Lecteur open source
+qui embarque ses propres codecs.
+Il n'utilise pas ceux du système. Il est également
+multiplatformes sur macOS,
+sur plein d'autres logiciels.
+Oh non, mais qu'est-ce que c'est ?
+J'entends une musique de merde derrière.
+C'était pour illustrer
+ta rubrique
+juste avant.
+Ça c'est Les Inconnus ?
+Oui.
+Il faudrait que tu le tournes de l'autre côté.
+Attention, qu'est-ce qu'elle a appris ?
+Les
+sont nos amis, il faut les
+aimer aussi.
+De mes nouveaux compagnons
+vous présenter
+avec
+tout.
+Le morpion est à la fin.
+Ça c'est la mouchée à merde.
+Le morback est à la fin.
+Oui Mister Snowy,
+je te confirme, l'iPad a un son de merde.
+Surtout vu comment Quakos le met
+de l'autre côté du haut-parleur.
+En plus ça vient de des emojis.
+Je pense qu'on va
+On a gagné les 15 minutes et 50 !
+Oui, oui, ça veut, c'est le rap.
+Et donc, tu vois, l'iPad sert à quelque chose ?
+Rien du tout.
+Il y en a eu la preuve ?
+Il a soif.
+Donc VLC est sorti.
+Vous pouvez le télécharger très rapidement,
+ça faisait longtemps que j'avais pas donné une adresse
+sur http://www.videolan.org
+C'est un truc français d'ailleurs.
+C'est français, à l'origine,
+c'était un projet d'étudiant de l'école centrale.
+Les nouveautés de la version 1.
+Capitaine, est-ce que tu les connais ?
+Ça plante pas.
+Non, c'est vrai que c'est assez stable.
+Je ne sais pas, personnellement j'utilise
+sur PC, sur Mac et ça marche très bien.
+Alors il y a plein plein plein de nouveautés,
+mais je vais me contenter de vous relater les principales.
+Décodage hardware.
+Je croyais que c'était le cas avant et non.
+Donc ça utilisera les GPUs de nos cartes graphiques préférées
+pour mettre la patate.
+Ouais, enfin même toi on met DiviX tourné bien.
+Ça marche plutôt sur Windows.
+Alors sous Windows, il faut remarquer
+qu'il vaut mieux utiliser du Nvidia
+parce qu'avec Hati ou les chipsets Intel,
+ce n'est pas encore la fête.
+Et comme à chaque fois, avec mon putain de PC
+qui a des chipsets Hati, c'est la catara.
+Mais Hati, moi j'ai les drivers Hati,
+ça toujours tient, putain d'enfer.
+Les Proco aussi.
+Il y a des boîtes, je me demande comment elles font.
+Elles dépensent des milliards
+en recherche-développement et elles te sortent
+des logiciels de merde pour HP
+et leur putain de logiciel pour scanner.
+T'es un Apple user.
+T'as un iMac 27 pouces,
+t'as un iPad,
+bientôt t'as un iPhone.
+Je suis quelqu'un qui aime critiquer
+en connaissance de cause.
+Prenons l'exemple de l'iMac que j'ai...
+Captain Web, bientôt après ton iPad,
+t'auras peut-être une Goose Dive.
+Juste pour dire,
+effectivement j'ai eu l'occasion
+d'utiliser un iMac,
+alors oui c'est une belle machine,
+le clavier,
+la souris sans fil.
+Faut arrêter avec les trucs sans fil.
+Foutez-nous des fils.
+T'as de la merde d'utiliser des piles tout le temps.
+Vive le câble.
+Et puis alors, quel est le connard
+qui a foutu ses ports USB derrière ?
+Franchement, il aurait dû les foutre directement
+sur la prise électrique qui était à l'autre bout.
+C'était encore plus pratique.
+Pour brancher,
+il y a une putain de clé USB
+sur un iMac, mais vas-y,
+d'accord, merci.
+C'est pas comme si c'était un écran CRT
+ou le cul de la mécan était loin.
+C'était le coup de gueule du Captain Web.
+Voilà, il était pas content.
+Deuxième nouveauté,
+grande nouveauté de cette version 1.1 de la VLC,
+alors ça c'est plutôt dans les coulisses,
+simplification du code, réécriture
+d'énormément de modules et vitesse
+supérieure de 40%
+en haute définition,
+et meilleure utilisation
+des instructions
+SS3 et 4.
+Ça sert pour ça.
+C'est important.
+Et nouvelle, la plus importante
+dans cette nouvelle version 1.1
+de VLC, l'adoption,
+le support du codec
+VP8.
+Libérez VP8
+Libérez VP8
+Adoptez VP8
+Adoptez VP8
+Adoptez VP8
+Et VLC, donc 1.1, supporte
+le codage et le décodage
+au format WebM.
+Comme la nouveauté la plus importante
+depuis le début du développement de VLC,
+c'est quand ils ont enfin donné
+le design du bordel à quelqu'un qui n'était pas aveugle.
+Rappelons que
+les premières versions donnaient envie de s'arracher les yeux
+avec une petite cuillère.
+Tu trouves qu'il a un design exemplaire ?
+Non, mais avant c'était pas du tout.
+C'était l'enfer tout simplement.
+Je me trompe peut-être de lecteur, enfin je sais pas, j'utilise pas beaucoup ça,
+mais il me semble que VLC,
+c'est ça.
+Ah oui c'est vrai, ils ont vachement innové
+sur le bouton lecture, ils ont mis un triangle.
+Moi ce que je n'ai jamais compris avec VLC,
+c'est pourquoi est-ce que le symbole, ce logo,
+c'est tout à fait de plomb.
+Parce que c'est toujours en construction.
+On a l'impression que c'est un truc en construction.
+C'est l'open source.
+Oui, je sais, mais bon, le logo
+donne un côté, finalement c'est un très bon logiciel
+et quand on voit le truc, on se dit...
+C'est le meilleur player vidéo.
+Par exemple, pour lire les DVD, moi je préfère utiliser VLC
+pour lire un DVD, plutôt qu'utiliser Windows Metaplayer
+ou tout autre lecteur.
+Si tu prends le pire pour comparer
+un truc un peu mieux,
+c'est sûr que ça sera tellement mieux.
+Windows Metaplayer, je pense qu'on est tous d'accord ici
+pour dire que c'est le pire.
+C'est vrai, mais tu as raison.
+Il y en a d'autres des lecteurs.
+Que veux-tu ?
+Je disais que finalement le plot était...
+T'es encore sur ton logo.
+Oui, mais c'est important parce que c'est ce logo qui permet d'identifier
+très facilement ce truc de reste.
+C'est un logo qui a l'air d'être
+un message d'erreur, et non.
+Je trouve qu'ils ont bien joué sur leur logo.
+Il y a très peu de logos orange.
+Il y en a beaucoup moins maintenant.
+Firefox.
+Sur le design...
+Si tu veux des logos bleus,
+je t'en sors une dizaine.
+Un logo orange, je vais t'en trouver, bouge pas.
+On parle de trucs sérieux.
+Le logo de TweetDeck
+est jaune orange. Il n'y a plus de jaune.
+Il est jaune, mais...
+Orange, t'es vraiment daltonien.
+Devant moi, j'ai le logo...
+Audacity.
+J'ai le logo Chips Monoprix qui est orange.
+Enfin, bleu sous le fond orange.
+Attention, ne confondons pas les étanchons et les serviettes.
+Le Adobe Bridge CS4 est orange.
+Audacity, je ne suis pas sûr qu'il soit orange.
+C'est un espèce de casque sur un fond bleu.
+Le nouveau logo de Windows Media...
+Si tu as trois pixels orange, ce n'est pas ce que j'appelle un logo orange.
+La moitié de l'icône
+du lecteur Windows Media est orange
+et le petit cercle au centre est orange.
+Beaucoup d'oranges sur fond bleu.
+Finalement, je n'ai rien inventé.
+C'est juste un logo de merde VLC.
+Une petite précision sur VLC.
+Pour vous répondre sur l'aspect graphique,
+il est complètement skinnable.
+C'est génial.
+Quelle nouveauté.
+J'adore toujours ces trucs-là, skinnables.
+Un peu comme Windows à l'époque.
+Le truc, c'est que ça marche.
+VLC marche bien.
+Moi aussi, à l'époque d'ICQ,
+je m'amusais à skinner un truc.
+C'était rigolo en 1998.
+Maintenant, je ne m'emmerde plus à skinner une saloperie.
+Ça sert à quoi ?
+Moi, je continue. Je ne m'arrête pas.
+Je skinne à fond.
+Tout pour passer en mode plein écran
+en bout de deux secondes.
+Les deux secondes précédentes
+sont très importantes pour tes yeux.
+Je te rends la main, Lord.
+Je la reprends.
+C'est déjà fini.
+Le vrai sujet du jour.
+David, qui est passé tout à l'heure,
+me montrait iOS 4.
+Ça a l'air pas mal.
+C'est pas mal.
+Je vais vous raconter mon aventure iOS 4.
+Vous allez aimer.
+Tu étais où ? Sur les toilettes ?
+Vraiment. Vous faites de ces réputations.
+En même temps, il n'a pas de tafetteur.
+Je ne peux pas raconter ma fille.
+Une fois que j'ai appelé ton père,
+je te dérange.
+Il me dit que tout va bien.
+Merci, Lord ton père.
+Je soutiens mon camarade.
+J'ai essayé l'iPad aux toilettes.
+C'est bien.
+Il ne faut pas se brûler les parties.
+Il faut le mettre devant.
+Tu fais quoi ?
+Tu mets tes couilles sur l'iPad ?
+Je le coince délicatement
+entre mes couilles
+pour ne pas qu'ils se prennent de coups
+à cause du lavabo.
+Pitié, pitié.
+C'est immonde.
+Et dire que j'ai touché son iPad aujourd'hui.
+C'était dans ça les poils.
+Sérieusement.
+Les traces.
+L'iPhone, c'est un poil petit pour les toilettes.
+Par contre, il faudrait des petits supports
+pour iPad pour pouvoir le poser devant.
+Les supports à papier toilette pour iPad,
+ce serait pas mal.
+Comme les miroirs.
+Capitaine, est-ce que tu te rends compte
+que tu perds toute crédibilité auprès de tes auditeurs ?
+Toi qui critiquais notamment
+cette taille et ce poids immonde,
+tu disais, c'est horrible,
+c'est trop lourd,
+c'est trop grand, ça sert à rien,
+tu peux même pas le prendre, tu peux pas le transporter.
+C'est exactement ce que tu disais il y a quelques semaines.
+Tu viens nous prouver l'inverse.
+J'attends.
+Embrasse Steve Jobs et dis que tu sais ton maître.
+Je maintiens que Steve Jobs est mon maître.
+Ceci dit,
+peut-être que Capitaine vient d'importer quelque chose,
+il vient de proposer une nouveauté, n'est-ce pas,
+pour les utilisateurs d'informatique
+au toilette, le port iPad de toilette.
+Oui, c'est bien.
+Je vais breveter le bordel,
+je vais devenir millionnaire, je te le dis.
+Je sais pas si c'est pas con, mais ça peut peut-être se vendre.
+C'est sûr.
+On pourra peut-être acheter un MacBook derrière.
+C'était une porte saloperie,
+dans ce cas-là, autant avoir un bel écran dans tes shots,
+un truc de 32 pouces.
+Il faut inventer ça.
+Il faut pouvoir le transporter. L'avantage, tu peux le transporter de partout.
+Je maintiens ce que j'avais dit.
+Je peux le transporter, c'est exactement ce que tu disais la dernière quelques semaines.
+Je maintiens ce que j'avais dit au départ.
+Pour moi, ce n'est pas un objet de saisie.
+Je ne suis pas là pour...
+Tu viens de surfer sur Internet,
+tu as saisi 10 adresses e-mails.
+Ce n'est pas quelque chose avec lequel je travaillerais tous les jours.
+C'est très bien pour visualiser un outil,
+pour voir des trucs, pour regarder.
+C'est difficile de se trimballer avec ton iMac
+ou un portable au shot, alors que l'iPad, c'est pratique.
+La vraie question que j'ai envie de t'opposer...
+C'est vraiment l'objet de shot.
+La vraie question que j'ai envie de t'opposer,
+c'est s'il y avait eu deux ports USB là-dessus,
+est-ce que tu aurais branché un clavier et une souris ?
+C'est une question intéressante.
+Je pense qu'il aurait plutôt branché un gadget USB à la con.
+Je pense qu'il aurait plutôt branché un gadget USB à la con.
+Franchement, tu ne branches rien là-dessus.
+Ce n'est pas intéressant que ce soit là-dessus.
+J'aimerais bien voir la possibilité de le faire.
+Ne serait-ce qu'une clé USB.
+Sérieux, il y a un truc qui manque,
+c'est un putain de port pour une carte SD.
+C'est même pas ça, un lecteur DVD.
+C'est ça qui manque vraiment.
+Le vrai intérêt que j'aurais trouvé,
+c'est ma femme ou ma fille,
+je leur balance un DVD pendant que je suis en voiture,
+je suis en train de conduire,
+mais tout ce qui est mobilité,
+tu es dans une chambre d'hôtel,
+il y a 90% des hôtels qui ont pas encore d'accès wifi,
+et tu peux regarder une saloperie.
+C'est toi le mec qui achète encore des DVDs, c'est ça ?
+On t'a trouvé !
+Tu les ripes, tu les ripes pour l'IVIX,
+et là, effectivement,
+je n'ai pas envie de passer deux heures
+avant de partir vite fait en voyage,
+alors je vais riper tous mes DVDs,
+j'ai envie de partir avec 10 DVDs.
+Tu les cherches encore plus rapidement !
+Messieurs, s'il vous plaît,
+on parle d'iOS 4,
+nous parlerons un test de l'iPad plus tard.
+Deux réponses pour quoi cause quand même.
+Primo, je ne descends jamais dans un hôtel
+où il n'y a pas le wifi.
+Je ne connais personne qui descend dans des hôtels
+où il n'y a pas le wifi.
+C'est tout simplement parce que tu ne descends jamais
+dans un hôtel.
+Et quand tu vas dans un hôtel,
+il ne va que dans des hôtels.
+Monsieur Tonpère est quelqu'un d'extrêmement gracieux.
+Exactement, on m'appelle Monsieur Tonpère.
+Et deuxièmement, tu peux transférer des vidéos
+acquises légalement sur ton ipad.
+Oui, c'est ce que je dis.
+Tu vas le transférer par iTunes ou j'en sais rien,
+et tu vas mettre,
+si tu veux partir et tu ne sais pas quel film
+tu veux aller voir, tu vas passer 10 heures
+à transférer des DVDs sur ton ipad
+parce que tu ne sais pas lequel tu vas vouloir voir au bout.
+Franchement, arrêtez,
+il n'y a rien à dire là-dessus.
+Moi je te le dis, tu sais que
+rien que pour que mes gosses ne touchent pas
+à ces DVDs qui arrivent tout le temps,
+je passe mes trucs en DiviX, et rien que pour ça.
+Parce que quand tu as acheté un DVD, 15 euros,
+et Dieu sait que malheureusement j'en ai beaucoup
+de DVDs originaux de Disney.
+Déjà convertir un DVD,
+un format vidéo qui fait un film en général,
+il le compresse à 2, 3, 4 gigas,
+selon la durée du film.
+Et le compresser en DiviX,
+c'est déjà une idée super.
+Je ne le compresse pas, je le télécharge.
+J'ai envie d'acheter un truc à 15 euros,
+c'est pour le compresser comme import.
+Parce que là j'ai envie de te le dire,
+t'as télécharges, en effet.
+Redonons la main à l'ordre de ton père
+qui aimerait bien continuer ça au break.
+Moi j'aime bien vous écouter.
+Depuis qu'ils discutent, ils sont là, ils sont passés,
+j'ai envie de faire des débats.
+Ça on en parlera pour la prochaine saison.
+Voilà.
+Il faut le temps pour le temps.
+Un truc comme ça.
+Merci au grand Max.
+Donc l'iOS 4.
+Donc cette nouvelle version
+accompagne la sortie de l'iPhone 4.
+Donc le nouvel OS
+va aussi profiter au modèle 3GS.
+Donc de 3ème génération.
+Il est possible de l'installer sur
+la 2ème génération, c'est-à-dire
+l'iPhone 3G.
+Alors il paraît, je lisais d'ailleurs
+les commentaires tout à l'heure sur la chatroom.
+Beaucoup disaient que sur le 3G c'était
+pas très rapide et pas très utile.
+Ce que j'ai cru lire aussi.
+Il marche pas sur l'iPhone 2G, première génération.
+Désolé pour vous.
+Je crois qu'il y a qu'un jailbreak, c'est possible.
+Ah peut-être, mais là je parle en officiel sans jailbreak.
+On parle de trucs Lego ici.
+C'est tout à fait légal, t'achètes plus de trucs.
+Et il marche sur iPod Touch 2ème
+et 3ème génération, mais pour le 2ème
+génération c'est un petit peu limité.
+Alors je vous rappelle les deux précédentes
+versions majeures de l'iOS 4
+qui avant s'appelait iPhone OS.
+Donc à chaque fois ça sort avec un
+nouveau modèle, l'OS version 2
+qui était sorti avec le 3G, qui avait
+notamment apporté l'Apple Store
+et le push-mail.
+La version 3 qui était sorti avec le 3GS,
+avec le fameux copier coulé,
+possibilité d'enregistrer ses vidéos,
+l'autofocus, le support de HTML5
+dans Safari.
+Et donc logiquement, avec l'iPhone 4
+sort l'iOS 4
+qui apporte tout un tas de nouveaux
+changements, et notamment un changement
+de nom pour l'OS lui-même.
+Je ne vais pas vous donner la liste des nouveautés,
+un catalogue ou décalogue,
+vous pouvez trouver toutes les nouveautés
+très très très facilement sur le net,
+soit sur le site d'Apple, soit sur
+la version Wiki, en anglais,
+qui s'intitule iOS version
+History, vous pourrez voir
+les changements importants. Non, ce que
+je vous propose, c'est de m'accompagner
+pendant cette nuit fabuleuse que j'ai passée.
+C'est perfect !
+C'est pour ça que tu n'as pas dormi de la nuit.
+Eh ouais, j'aurais bien aimé me coucher plus tôt.
+Fais-nous rêver,
+fais-nous voyager. Non, vous n'allez pas rêver.
+Alors, le simulateur de train
+sur iOS 4. Eh non,
+chapitre premier que j'ai intitulé
+cette putain de nuit d'installation de merde.
+Je rêve. Est-ce que ça commence
+après le téléchargement ou avant le téléchargement ?
+Eh bien tu vas le savoir dans quelques instants.
+Donc la mise à jour
+était disponible en France
+vers à peu près 18-19 heures.
+Le téléchargement. Tu t'es connecté
+à quelle heure ? Alors, j'ai été à
+la fête de la musique,
+avec notre ami anti-stress que vous connaissez tous.
+Et avant de partir,
+j'ai lancé le téléchargement de la mise à jour.
+Je n'ai pas eu de difficulté pour me connecter
+sur le serveur de
+Apple.
+Et a priori, je pense qu'il est arrivé,
+il a été téléchargé en 1h30-2h
+sur mon PC.
+Sachant que moi j'ai...
+1h30-2h, il fait combien ?
+Il fait 400 mégas.
+Et tu mets 2 heures
+pour télécharger 400 mégas ?
+Oui, mais il ne faut pas oublier que j'ai un débit de merde.
+Ah oui, d'accord. Il est chez Orange.
+Toi t'es chez Orange. C'est clair.
+Je suis chez Orange et j'ai un abonnement.
+400 mégas, 2h, je n'ai jamais vu ça.
+Il y avait beaucoup de crevards qui essaient de la récupérer en même temps.
+En 2001, ça mettait ça, moi, chez moi à peu près.
+Oui, mais enfin, j'ai une connexion de 2001.
+Je n'ai pas augmenté de débit depuis.
+D'accord. Mais par contre, le tarif a augmenté.
+C'est possible.
+Donc, pas de difficulté, Captain Web
+pour répondre à ta question, pour récupérer
+le fichier.
+Donc, je rentre chez moi vers 1h du matin
+et là, le calvaire a commencé.
+Ce fut l'horreur.
+Précisons que quand j'avais installé
+la 3.1.3,
+la dernière mise à jour mineure,
+j'en avais déjà pas mal chié. Mais là,
+c'était quand même hyper champion. Mais pourquoi ?
+Je vais t'expliquer. Donc, j'ai fini à 5h du mat'.
+Ça a été l'horreur.
+Mais je n'avais pas vraiment le choix puisque 1,
+d'une part, il me fallait un article pour ce soir.
+Il fallait que j'ai un truc à raconter. Sinon, j'étais foutu.
+Et d'autre part, j'avais plus de téléphone.
+Puisque la bête était complètement plantée.
+Et comme pour le boulot,
+j'ai des clients qui m'appellent sur ce putain de portable,
+j'étais bien emmerdé.
+Donc, il fallait que ça marche avant 8h du mat'.
+Il fallait que celui-là marche.
+Alors, qu'est-ce qui s'est passé ?
+Alors, il semblerait que je fasse plutôt
+partie d'une sorte de minorité.
+Il a récupéré l'application LED.
+Il a récupéré l'application LED.
+Ouais, mais elle est en plus grande et là, je te nique.
+Sachez, chers auditeurs,
+qu'il y a une application pour iPhone
+qui existait, qui est l'application e-LED.
+Où vous pouvez faire
+défiler un message
+en LED.
+Évidemment, c'est petit sur un iPhone,
+mais sur un iPad, c'est la classe.
+Mais alors, pourquoi c'est compliqué lors de ton personnage ?
+Franchement, ils auraient pu prendre
+un écran LCD
+avec un angle de vision un peu plus large.
+Donc, je disais à ce prix-là.
+Pourquoi donc ? Ça, c'est la grande question.
+C'est la grande question.
+Une fois que le système a essayé
+de déclencher la mise à jour,
+eh bien, qu'est-ce qui s'est passé ?
+Il a fait péter tout le contenu de l'iPhone.
+Ah merde !
+L'iPhone est passé en mode restauration,
+c'est-à-dire qu'il n'avait plus aucune donnée à l'intérieur.
+T'as perdu tous tes trucs ? Alors, je vais en parler.
+Heureusement, j'avais fait une sauvegarde avant.
+Mais pas complète, j'ai commis une erreur.
+J'ai commis une erreur.
+Alors, je ne sais pas vraiment d'où venait le problème.
+J'ai l'impression que ça venait des ports USB
+de PC Vaillot, qui a quand même 4-5 ans aujourd'hui.
+Pourtant, c'est une bonne bête,
+une bonne machine. C'est vrai.
+J'ai fait des recherches sur iTunes,
+pardon, sur Apple,
+sur le site d'Apple pour essayer de voir
+quel pouvait être le problème. Alors, sur le site d'Apple
+pour avoir de l'aide, laisse tomber.
+Ça sert à rien. Impossible.
+En gros, ce qui t'explique, c'est qu'il faut que tu redémars
+ton PC, que tu l'éteignes, que tu le rallumes.
+Ce genre de conneries, quoi.
+Ou que tu achètes un iMac.
+Ou que tu achètes... Oui, non, mais oui, effectivement,
+il te donne également ce conseil-là, essayer un autre ordinateur.
+Mais quand on n'a pas d'autre, et puis qu'il est 4h du matin...
+Ça, je pourrais t'emparer, parce que par exemple, quand t'as un iPad,
+si tu veux, tu sauras que, bizarrement, cette machine
+refuse de se recharger à part sur un iMac.
+Ah, d'accord.
+Alors, électriquement ? Oui.
+Parce qu'il paraît qu'il faut une USB super balèze et tout.
+Alors, d'abord, ce que j'ai lu, si tu veux, un PC,
+il faut un PC qui ait au moins un an, un an et demi.
+J'ai essayé sur un truc qui n'est pas si vieux que ça
+et ça marchait pas non plus, mais bon.
+Ça pompe tout le... Ça pompe du jeu.
+Alors, au passage, iTunes, c'est quand même
+un logiciel de merde au niveau de l'ergonomie.
+Tout le monde le sait. Surtout quand tu fais des mises à jour
+et ils ne te filent aucune info. Mais alors là,
+absolument aucune... On arrête, on disait il y a quelques jours
+ici même que iTunes, c'est un programme génial.
+C'est fantastique, franchement. Non, mais au niveau
+de l'ergonomie, au niveau de l'ergonomie.
+Après, les services qu'il peut rendre, c'est autre chose.
+Alors,
+la restauration iTunes, je n'arrivais pas à la lancer
+puisque c'est de l'iPhone,
+puisque iTunes n'arrivait pas à connecter
+à l'iPhone via l'USB, avec
+l'erreur magique 1604 ou quelque chose du genre.
+Finalement, j'ai passé la nuit à
+redémarrer 15 fois l'ordinateur et j'ai trouvé
+un truc. J'ai redémarré personnellement
+tous les services de ce putain de
+saloperie d'iTunes à la main, en tant
+que service. Ensuite, j'ai fait
+des sortes de combos avec l'iPhone.
+T'appuies 15 fois sur le bouton power, t'appuies
+15 fois sur le bouton central
+et comme par magie, pour une raison que j'ignore
+totalement, il a réussi
+à se reconnecter, il a mis à jour,
+il a installé la version 4, il a
+repris toutes mes sauvegardes et là, j'ai découvert
+que j'ai appris toutes mes photos.
+Et la fabuleuse vidéo que j'avais moi-même
+fait à l'anniversaire de ton père,
+il me l'a niqué aussi.
+C'est triste.
+Quelques conseils
+quand même pour ceux qui vont lancer
+la mise à jour
+iPhone OS. Premièrement,
+faites une vraie sauvegarde.
+Sauvegarder vraiment tout.
+N'oubliez pas les photos,
+les vidéos, tout, sinon quick.
+Quick and dirty. Il faut que l'iPhone
+soit, à mon avis, avec la batterie chargée
+au maximum, sinon il risque
+de bien planter. Et surtout,
+il faut 4-5 heures devant soi.
+Ok, carrément.
+C'était quand même un peu la grosse galère.
+Ah, ça a été la putain de galère, oui.
+C'est tout ça pour faire une putain de mise à jour.
+Donc, la mise à jour fut faite et là, nous passons
+au chapitre 2 de mes passionnantes aventures
+que j'aurais intitulé à la
+ouverte d'iOS version 4.
+Alors, est-ce que c'est bien
+ou est-ce que c'est pas bien ?
+C'est bien !
+C'est plutôt pas mal. Alors, tout à l'heure,
+sur le chat, plusieurs personnes avaient l'air de dire
+qu'ils n'étaient pas très satisfaits.
+Oui, mais ils sont toujours insatisfaits.
+Moi, j'avoue que je suis plutôt satisfait.
+Donc, tu ne passes pas le point de vue. Toi, tu es plutôt content
+de cette petite mise à jour, même si elle a été
+difficile à mettre en place.
+Voilà, même si elle était difficile à mettre en place,
+que j'ai perdu plein de jolies photos
+de Captain Web.
+Ah non, c'est bon, c'est pas grave.
+Ça ne me manquera pas, je pense.
+À personne, elle va dire.
+Voilà quelques nouveautés, celles que j'ai expérimentées
+personnellement et celles qu'on découvre assez rapidement.
+La première nouveauté, dès qu'on
+allume l'iPhone,
+c'est qu'on a la possibilité
+d'avoir un écran d'accueil
+et un fond d'écran
+d'accueil et un fond d'écran
+pour le desk qui sont différents.
+Ça peut sembler ridicule,
+mais tout de suite, ça apporte une petite touch
+of style.
+Alors qu'est-ce que tu as mis en fond d'accueil et en fond d'écran ?
+Pour mon fond d'ouverture,
+j'ai laissé le même.
+C'est une image de la
+tour de police du film
+Blade Runner.
+Pour le desk, j'ai pris un truc
+prédéfini d'Apple qui n'était pas trop vilain.
+D'accord.
+C'est plutôt sympa. L'iPhone a un nouveau look,
+tout de suite, on a la classe.
+Deuxième nouveauté,
+j'ai vraiment l'impression que l'OS tourne beaucoup plus vite.
+Il y a vraiment
+un petit quelque chose, un petit
+smurf en plus.
+Le défilement, les petites animations sont
+plus rapides, notamment dans Safari,
+le swap entre
+les différentes fenêtres web qu'on a ouvertes
+est beaucoup plus rapide. Avant, on attendait
+quelques secondes et là, c'est quasiment instantané.
+Donc, j'ai l'impression d'une
+véritable accélération.
+Je ne sais pas sur la chat room
+si vous avez la même opinion
+ou si, au contraire, vous trouvez
+que c'est moins rapide. Alors, j'ai lu, tout à l'heure,
+certains disaient qu'entre la bêta d'iOS
+4, la bêta 2 et 3,
+et la version finale, c'était
+un petit peu moins rapide sur la finale, mais
+c'est souvent le cas après une bêta, c'est parce qu'ils stabilisent
+complètement le logiciel et donc, il est généralement
+un petit peu moins performant. D'accord, donc, ce serait
+momentané. Non, non, non.
+C'est que la bêta
+n'était pas complètement stabilisée
+et donc, il pouvait se permettre de laisser le logiciel tourner
+plus vite, mais ils sont obligés de faire des correctives pour bien la stabiliser.
+D'accord. Enfin, je ne suis pas non plus
+programmeur. La troisième nouveauté
+importante, les fameux
+répertoire. Alors, ça,
+David m'a montré, notre camarade, David.
+C'est très beau. Alors,
+j'ai tout de suite, alors, comme mon iPhone est un
+véritable bordel, j'ai des applications dans tous les sens
+et j'étais ravi de pouvoir faire du classement.
+Oui, Waterslide. Waterslide. Ah, c'est
+une grande application.
+E-Boogs. Eh bien,
+pardon.
+Plutôt Slide aussi. Alors, c'est assez
+facile. Pour créer un dossier,
+vous prenez une application, vous glissez
+sur une deuxième application et
+pouf ! Ça vous crée un dossier.
+Ça vous crée un dossier, il vous propose de mettre un nom,
+sachant qu'on peut, que deux dossiers
+peuvent avoir le même nom. Ça n'est pas interdit.
+Ça, c'est bien parce qu'en général, sur Max,
+c'est extrêmement pédicouille, cette histoire de deux noms. Parce qu'on ne peut
+mettre que neuf applications dans un dossier. On ne peut pas
+en mettre plus. D'accord. Quelqu'un sur
+le tchat dit qu'il a été très déçu par la
+multitache. Oui, alors, j'ai vu ça.
+Je vais venir. J'ai vu ça fonctionner.
+Je vais venir, mais je partage
+un petit peu son avis, mais je crois qu'il y a une
+explication. Ah ! Il y a une explication
+à ça. Viens, dis donc. Je reviens
+au dossier. Ouais.
+Alors, les dossiers, les répertoires,
+les dossiers, on peut les déplacer eux-mêmes comme des applications,
+d'ailleurs, pour faire du classement.
+Quand même. Et quand on clique pour
+que le dossier s'ouvre,
+c'est le fond d'écran qui, en quelque sorte,
+s'ouvre et hop, on a accès au dossier.
+C'est une animation qui est très jolie.
+Tu es ironique, non ? Non, non, du tout.
+Ah, pardon.
+Alors, est-ce que ça téléphone mieux, quoi ?
+Eh bien, écoute, j'ai passé quelques coups fil,
+tout s'est bien passé.
+Alors, par contre, petit regret sur les dossiers,
+l'icône est vraiment momoche.
+Ouais, alors ça, c'est vrai. Elle est moche.
+Ça m'a pas choqué, la prochaine que j'ai vue.
+Mais tu peux la skinner, alors, ton père.
+Est-ce que, oh, cher Manox, tu pourrais me passer le iPhone
+qui se trouve dans la petite cagette en carton.
+D'ailleurs, je vais vous montrer les dossiers. Vous allez voir,
+c'est vraiment momoche. Tu vas nous montrer tes dossiers,
+le dossier représentent, si vous voulez,
+les petites applications
+qui sont dedans en mini-miniature,
+mais miniature de 3 pixels, donc tu vois rien.
+Et en plus, c'est un fond grisé qui est tout momoche.
+Donc, je vais montrer à Manox,
+et Manox, tu vas me dire si c'est joli,
+ces dossiers.
+Ah oui, d'accord. J'imaginais pas ça comme ça.
+Alors, en fait, on voit
+une espèce de, bon, la forme, n'est-ce pas,
+rectangulaire, avec à l'intérieur
+les mini-icônes, donc,
+il y en a 9,
+mais c'est pas rangé de 3, et donc,
+cela fait un carré, et donc,
+on voit des mini-icônes, ça ressemble pas vraiment
+à un dossier, quand on voit ça comme ça. On n'a pas l'habitude de voir un dossier comme ça,
+j'imaginais plutôt des dossiers à la Windows, personnellement.
+Ouvre un des dossiers, dis-moi si tu trouves ça joli.
+Alors, je précise qu'il n'y a que des dossiers jeux.
+C'est surprenant. Gratuit.
+Une fois qu'on est dedans, je trouve ça
+ni pas
+ni beau, ni pas moche, je trouve ça
+à le mérite d'être clair, quoi.
+Il vient de lancer Chop Chop Ninja.
+Voilà. Mais c'est pas plus que ça, par contre,
+je... Ah oui, d'accord, ok, on ressort, facilement,
+on revient, oui, non, c'est pas...
+Ça va, moi, ça me choque pas, personnellement.
+Mais c'est vrai que je trouve pas l'icône super beau, quoi.
+Je suis... Qu'est-ce qu'il fait ?
+Il est en train de m'envoyer
+des insanités avec son nouveau iPad,
+vraiment scandaleux. Pas du tout. Je suis en train de prouver que ceci
+sert à quelque chose. Quatrième nouveauté,
+à part les dossiers, donc, le fameux ebook.
+Ah, je croyais que tu parlais du multitâche, oui.
+Ebook est disponible maintenant pour iPhone.
+Oui. Alors, il est pas installable,
+il est pas installé immédiatement avec la mise à jour.
+Il faut ensuite aller l'acheter,
+entre guillemets, parce que c'est gratuit,
+il faut aller la récupérer sur l'App Store.
+Bah, j'ai mis à jour sur l'iPad, moi,
+parce que c'est la même application, et c'est là que j'ai vu
+les 27 pages de conditions générales.
+Un petit mot, pour Syrahé, non, c'est bien 9
+par dossier, apparemment.
+Oui, oui, c'est... Alors, je vérifie
+tout de suite...
+Non, quoi que... Attends...
+Non, c'est 12, pardon, je corrige.
+C'est exact, c'est 12 par dossier, non pas 9.
+Ça, ça change tout. Tiens, tu veux, passe-moi ton iPhone,
+que je regarde le dossier, Justin.
+Ah, t'inquiètes, je vais pas t'installer des trucs.
+Non, tu t'installes rien.
+Je connais le mot de passe de l'ordre de ton père.
+Très difficile.
+Donc, le Ebook, l'application Ebook
+qui permet d'accéder aussi
+au magasin d'Apple,
+au magasin d'Apple pour les livres,
+donc c'est exactement la même application que sur iPad,
+même style graphique, avec le petit armoire en bois,
+la petite bibliothèque en bois,
+ça marche exactement pareil, sauf que la différence,
+c'est que l'écran est plus petit, donc c'est plus difficile à lire.
+Oui.
+Autre chose très très pratique, ça, par contre,
+pour l'iPhone grâce au Ebook, c'est qu'on peut enfin
+transférer un PDF,
+alors c'est via la synchronisation iTunes,
+mais on peut transférer un PDF qui s'inscrit,
+qui s'insère automatiquement
+dans la...
+dans la librairie.
+Passe-moi l'iPhone, je vais te montrer.
+Je suis en train d'installer KMS Ultra Hardcore.
+Tu as un PDF de texte ?
+Oui. Tu peux le transférer via iTunes,
+dans ton iPhone, et il s'intègre dans l'application Ebook.
+D'accord.
+Et il est dans la petite armoire.
+Et la...
+la pochette du livre qu'on voit
+dans la bibliothèque, c'est la première page du PDF.
+D'accord, ok.
+Donc ça c'est vraiment très bien.
+Et autre nouveauté, donc...
+J'appelle quelqu'un sur ton téléphone.
+Tu me rends ça, salopard.
+J'appelle la police.
+Donc un peu de Apple dans l'iPhone.
+Un peu de iPad dans l'iPhone.
+Autre nouveauté, le multitâche.
+Alors pour l'activer, on double-clique
+sur le bouton central.
+Ça pousse l'application qui tourne
+en cours, et qui affiche
+les applications qui tournent parallèlement.
+Alors ce qu'il faut savoir, c'est que
+normalement, il me semble que l'application
+doit être modifiée ou développée spécifiquement
+pour qu'elle supporte le multitâche, sinon
+ça n'a pas beaucoup d'intérêt.
+L'ergonomie n'est pas mauvaise, et d'ailleurs
+si on slide sur la gauche,
+on obtient le menu iPod,
+où on peut accéder
+en multitâche sur l'iPad.
+On peut utiliser la musique en multitâche.
+Et surtout, ils ont ajouté la fonctionnalité
+de l'iPad, c'est-à-dire le verrouillage
+pour pas que quand tu tournes l'iPhone,
+l'écran pivote,
+pour éviter qu'il passe en paysage.
+Et ça c'est la fête.
+Donc ils ont pris en considération pas mal de petites choses
+qu'ils devaient modifier absolument.
+Tout ce qu'avait dit l'ordre de ton père.
+Donc ça c'est sympa, mais effectivement
+le multitâche, je ne vois pas encore trop l'intérêt,
+mais je pense que c'est parce que les applications
+ne sont pas vraiment adaptées pour,
+donc à suivre.
+L'intérêt c'est pour écouter quelque chose pendant
+que tu joues,
+ou je ne sais rien quand même.
+Deux trois petites,
+encore toute dernière petite nouveauté que j'ai constatée,
+puis après je te passerai la main coacosse,
+comme ça nos auditeurs pourront se réveiller.
+La gestion du Wi-Fi a l'air plus stable.
+Moi j'avais parfois des petites difficultés avec le Wi-Fi,
+et c'est beaucoup plus stable.
+Tu as vraiment cette impression ?
+C'est juste une impression.
+On pourrait faire un test sur une semaine.
+Ça sent le billet sponsorisé à ton père.
+Mais surtout que j'ai réussi pour la première fois
+avec mon iPhone à me connecter sur le Wi-Fi
+dans la cave où on est.
+Et ça c'est bien une preuve.
+L'autre jour on avait des problèmes aussi sur les iPads
+et au final il suffisait d'éteindre et de rallumer pour que ça reparte.
+Tout simplement.
+Et là comme tu as éteint et tu as rallumé.
+Tu es plutôt content à l'heure de ton père,
+mais est-ce que tu as quand même des reproches, des défauts ?
+Non, franchement j'ai pas de...
+C'est pas celle qui est payante celle-là pour les iPod Touch ?
+En tout cas pour le 3GS elle est gratuite.
+Pour les iPod Touch,
+il me semble qu'elle est gratuite,
+mais je parle avec...
+Non, c'est gratos apparemment.
+C'est bien qu'ils avaient annoncé un truc comme ça,
+qu'exceptionnellement c'était gratuit.
+Alors quelqu'un sur le chat dit, encore Cyril n'est-ce pas,
+pas tout à fait vrai le multitag,
+certaines fonctions sont en sommeil.
+C'est pas un vrai multitag,
+multi-fret, ça c'est certain.
+Le truc c'est que, une fois que t'as lancé,
+le multitag tu le lances...
+Non mais l'idée du multitag c'est de pouvoir récupérer une application,
+je crois que c'est surtout ça l'idée, c'est de récupérer une application,
+parce que quand tu es sur iPhone,
+quand tu passes d'une application à une autre,
+l'application précédente se ferme complètement,
+c'est-à-dire qu'elle redémarre quand tu rebascules.
+Tu dois fermer l'application en cours,
+et comme sur ton iPad,
+tu recharges l'application.
+Quand je reviens sur l'application,
+prends par exemple une application comme Marvel,
+ça revient exactement où on peut...
+Parce que l'application le gère.
+Mais elles ne marchent pas,
+tu ne peux pas si tu veux swapper de l'une à l'autre sans repasser
+dans le menu principal.
+Moi ce qui me semblait très très relou dans ce que David m'a montré,
+c'est qu'il fallait que tu fermes toutes les applications à la mano.
+Oui, c'est vrai.
+Ça c'est chiant.
+C'est carrément super chiant.
+Oui mais t'es pas obligé non plus de les fermer,
+tu t'en fous, tu peux les laisser tourner,
+elles ne tournent pas réellement en multitag,
+c'est plus pour faciliter le passage
+de l'une à l'autre.
+C'est un vrai multitag.
+Elles ne sont pas en fond.
+Deux tâches en fond,
+maintenant tu ne vas pas non plus
+lancer dix saloperies en même temps.
+Tu ne penses pas...
+Le truc c'est que tu ne penses pas
+forcément à les refermer, tu lances ton truc.
+C'est ce que dit Campi sur le tchat,
+c'est que ça met plutôt l'application en pause,
+et ça permet de la récupérer dans son état,
+et de basculer de l'une à l'autre rapidement.
+À ce moment-là tu pourrais toutes les laisser
+plutôt que des multitag.
+Apparemment comme pour la musique par exemple.
+Pourquoi par exemple ils n'ont pas simplement
+foutu une petite truc en plus sur l'icône
+pour dire qu'elle a été lancée,
+plutôt que d'avoir l'espèce de fenêtre d'étage.
+Si tu as une icône qui est dans un dossier,
+ce sera peut-être pour la version ultérieure,
+allez savoir.
+Ce qui va sembler chiant,
+c'est que si quelqu'un en parlait,
+tu mates la météo, tu fermes ton truc,
+tu ne penses pas aller dans la barre d'étage
+pour aller la fermer à la main.
+C'est vrai, mais tu n'es pas obligé,
+si tu ne le fais pas pendant 3 jours,
+et au bout de 3 jours tu as 50 applications.
+Je te le dirai dans 3 jours.
+Et Stupi nous fait une bonne remarque aussi,
+ça évite de bouffer la batterie,
+que ce soit un vrai multitag.
+C'est pas un ordinateur.
+C'est un iPhone.
+Moi ça me semble un peu relou.
+Toute dernière petite nouveauté que j'ai constaté,
+c'est la boîte email qui a été refaite,
+où on peut consulter.
+Avant chaque compte avait des fenêtres séparées,
+et là ils ont fusionné un petit peu l'application,
+c'est pas mal foutu.
+Donc moi franchement,
+cette version 4.0, je suis assez content,
+et on sent vraiment qu'il est beaucoup plus réactif,
+le téléphone.
+Il était déjà très bien,
+mais là il y a un petit truc en plus,
+et c'est vraiment agréable.
+Moi j'ai testé Android il y a 2 jours,
+et je dois reconnaître que c'était quand même
+particulièrement réactif.
+Les HTC là,
+je crois que c'est une version.
+Ça allait vite,
+peut-être que cette version là
+tu t'emballes un peu là maintenant.
+Je dirais pas que c'est plus rare,
+c'est pas visible comme ça,
+mais j'ai eu cette sensation de plus de souplesse.
+Mais si je dois m'acheter un téléphone,
+je serais peut-être plus tenté de m'acheter un Android.
+Ceci dit, peut-être que la version 4.0
+a vraiment, d'après l'ordre de ton père,
+a transformé ça, a permis une maniabilité,
+une rapidité un peu plus fluide.
+Ça a pas complètement transformé,
+c'était déjà bien fluide,
+mais il y a un petit truc en plus qui est bien agréable.
+Voilà.
+C'était le test de l'ordre de ton père,
+je ne sais pas si tout le monde sera d'accord avec ça.
+Un mini test avec une journée d'utilisation.
+Merci l'ordre de ton père.
+Ça nous a régalé les oreilles.
+C'est tout ?
+Quatrième rubrique ?
+Tu veux ? Vas-y.
+Allez, un petit what's up.
+Et what the fuck, oiseuf ?
+What the fuck ?
+What the fuck, motherfucker ?
+Un oiseuf court ou léger, bien sûr.
+Un oiseuf light.
+Tout en finesse et tout en déligatesse.
+Qui va plaire à l'ordre de ton père.
+Ouais.
+Oui, j'ai cru dire, tout à l'heure, le capitaine m'a dit
+que tu verras, ça va être particulièrement dégueulasse ce soir.
+Non, non, du tout, non.
+On discutait de la pertinence de l'une des...
+Tu vas pas me filer les images sur une clé USB ?
+Si, tu l'as.
+Elle est même branchée directement sur le PC.
+Tout s'explique.
+Tout est dans le dossier what's off.
+C'est très compliqué.
+Tu me diras à quel moment je dois les lancer.
+Tu as des sous-dossiers, tu pourras lire tout de suite.
+Tu vas vite comprendre dès que je donnerai les titres, je pense.
+Et sur le chat, on nous fait remarquer
+Quackos sort la foreuse.
+Il y a un petit peu de foreuse ce soir.
+Pour commencer, tout de suite,
+je voudrais quand même juste parler
+de l'adresse Web Captain.
+C'est Calvin qui m'a tweeté
+ce site que tu connaissais,
+donc a priori,
+Clique Salope, n'est-ce pas ?
+Oui, Clique Salope.
+Qui a eu l'intelligence
+de faire un petit peu l'inverse
+de ce que fait des beats.ly
+ou je ne sais plus quoi d'autre.
+C'est-à-dire de rallonger
+une adresse Web.
+Et donc, j'ai tapé bien sûr
+dans leur barre CaptainWeb.net.
+C'était sur un bouton qui s'appelle
+Anel Calise.
+Anel Calise ?
+C'est Anel Calise, ton URL.
+Et donc CaptainWeb.net
+Ceci maintenant,
+http://
+vas-y clique fils de chienne
+ou va trouer le cul de ton frère dans ma cave.
+Sous merde, allez
+CliqueSalope.com
+Si vous tapez ceci,
+vous tomberez sur CaptainWeb.net
+Et ça, c'est la classe.
+Est-ce que tu peux nous appeler précisément ?
+Je vais te laisser le faire
+lors de ton père.
+Parce qu'il y a des petits tirés et des petits points en plein milieu.
+Je peux le lire, vas-y, je peux le lire.
+Si tu veux, écoute Manox, fais ton plaisir.
+Il faut que je livre le reste là ?
+En gros, je fais en caractère 20.
+D'accord, c'est le deuxième.
+Non, le premier.
+http://
+vas-y clique fils de chienne
+ou va
+trouer le cul de ton frère
+dans ma cave.
+Sous merde, allez
+CliqueSalope.com
+vas-y clique
+enculé.
+Ou va pisser à l'arrêt de ta soeur
+dans la cave.
+CliqueSalope.com
+Ça c'était pour le coacoscope.
+C'est pas mal, c'est sympa.
+Un petit coacomtesse, c'est bien.
+Tu devrais te remettre un peu ce genre de choses.
+Au coacomtesse ?
+Je suis en train d'en faire un, mais il va durer bien 2 semaines.
+En 2 semaines, vous aurez un super coacomtesse.
+Comme dans les blogs,
+les vrais blogs tech et tout.
+J'en ferai un aussi, je ferai un coacomtesse
+sur les sites de boules sur iPad.
+Megaporne ne fonctionne pas sur iPad.
+Je base à RedTube.
+Allez, c'est parti.
+Plus tard, je veux être comme maman.
+C'est l'histoire de Sarah Burge.
+Je sais pas si ça se prononce comme ça.
+Est-ce que quelqu'un connait ?
+Non.
+Tu l'as sûrement vu dans un de ses spectacles.
+Parce que c'est une danseuse
+de pole dance,
+a priori très connue,
+qui a une jeune fille de 7 ans.
+Et cette mère,
+qui est passée sous le bistory de chargée
+pour la somme de 500 000 dollars.
+Sur Google Images,
+vous trouvez des photos d'elle.
+Elle possède un club
+de striptease.
+Elle est pas très différente de l'escalade.
+Elle apprend à sa jeune fille
+de 7 ans à faire du pole dance.
+Merci.
+Je sais pas si tu es au courant,
+mais je pense qu'il y a des mineurs
+qui te regardent en ce moment.
+Parce que le cumshot en direct live
+sur iPad, merci.
+La qualité est bonne.
+La vidéo de ton père, ça va.
+Quelle salope !
+Ça intéresse personne.
+500 000 dollars,
+mais c'est pas possible.
+Un peu tout.
+Sur Google Images,
+tu tapes Sarah Burge.
+S-A-R-A-H-B-U-R-G-E.
+C'est un cyborg.
+C'est pas loin.
+Elle a 50 ans, il faut le savoir.
+Laisse-moi regarder.
+Tu as les photos dans mon dossier.
+C'est une bête.
+Je t'ai préparé des photos.
+D'accord.
+Tu as les photos dans le dossier.
+Ça s'appelait Paul Dance.
+Pendant que ton père continue
+mon quoi qu'on teste.
+Sur YouPorn.
+YouPorn fonctionne,
+Megaporn ne fonctionne pas.
+Je vais immédiatement faire un test iPhone.
+Vas-y, écoute.
+Quacos, laissez Quacos travailler.
+J'ai peur.
+C'est pas des images de cul.
+J'avais pas pu me faire baigner encore.
+Ça l'obsédé, c'est super.
+Tu as trouvé ou pas ?
+Je suis en train de chercher.
+C'est con comme amant.
+D'avance, désolé pour les personnes
+qui écoutent ce podcast.
+Pour ces personnes-là, je vais résumer.
+C'est Paul Dance ?
+Je vais citer Sarah, 50 ans,
+qui parle de sa jeune fille
+et qui confie ceci au son.
+Poppy est heureuse
+et en bonne santé.
+Si à l'avenir
+elle veut être danseuse de Paul Dance,
+qui suis-je pour l'arrêter ?
+C'est vrai.
+C'est une chouette expérience pour nous
+de travailler la barre ensemble.
+Il a vraiment des malades.
+C'est trop glauque.
+Libérez cette enfant.
+Laisse-moi comprendre.
+C'est elle qui a claqué 500 000 dollars
+en chargeant cette petite ?
+Oui, merci.
+C'est toujours elle qui parle.
+C'est une chouette expérience pour nous
+de travailler la barre ensemble.
+Nous avons des heures à essayer des pauses
+et à danser sur nos musiques préférées.
+Poppy veut être comme son idole.
+Miley Cyrus.
+Je ne sais pas trop.
+Ici, c'est la pute
+qui chante pour Disney.
+C'est la jeune fille qui chante pour Disney
+et qui a priori...
+Alors ton père est en train de nous faire
+un quoi qu'on teste ?
+L'écran de l'iPad est mieux
+pour les échecuations faciles.
+Elle a plein la langue.
+Elle a plein la langue.
+Ça mériterait une photo.
+Là, c'est fantastique.
+Merci à ton père.
+Je vois l'utilisation
+du iPhone et du iPad.
+Le camshot.
+Qui a dit qu'il n'y avait pas de cul
+sur les iPods ?
+Maintenant, on comprend mieux
+pourquoi sur iPad, ils ont mis une fonction
+pour bloquer le passage de paysage à bord.
+Merci pour le doubler.
+Là, il y a un vrai quoi qu'on teste à faire.
+Je préfère quelle version ?
+Tu vas nous faire quoi après le double fist ?
+Est-ce que je peux reprendre Sarah
+et sa déclaration au son ?
+Elle continue.
+Elle dit, bien sûr...
+Où est-ce que j'en étais ?
+Il n'y a pas de mal pour un enfant
+d'avoir des rêves. Je la préfère
+en bonne santé et ambitieuse
+qu'assise devant la télé
+en train de se goiffrer
+de matière grasse comme la plupart
+des enfants.
+Tu veux abuser de faire faire du pole-dance
+à un gosse de quel âge ?
+Et elle répond ceci.
+Les gens pensent que la barre est un objet sexuel
+mais ça veut dire alors
+que les enfants ne sont pas autorisés
+à glisser le long d'un poteau
+ou à grimper à un mur d'escalade.
+C'est vrai, la raison.
+Sauf que la comparaison est bienvenue.
+Il y a des gens qui voient ça
+d'un œil pervers mais je la protégerai
+toujours des hommes.
+C'est malade.
+Oui, quelqu'un dit dans le site
+mais elle est trop con.
+C'est une analyse assez efficace.
+Sarah conclut
+son interview en précisant
+qu'elle prépare sa fille pour le jour
+où elle éritera de son club échangiste
+appelé Madame Rose.
+Mais libérez cet enfant.
+Elle n'a pas de père, le père il est où ?
+Il est en prison ?
+Sûrement.
+Il y a des danseurs
+de pole dance dans mon club.
+C'est la formation de base,
+savoir ce qu'il faut rechercher chez un danseur.
+Faradel, une patronne de club
+douée. Je ferme les guillemets
+et je vais passer vite fait
+au prochain What's Up.
+C'est pas fait pour les chiens.
+Non. Alors celle-là, il y en a beaucoup
+qui me l'ont tweeté parce que c'était
+une des infos du web
+de Twitter de ces 2 derniers jours.
+Je crois que ça fait 2 jours.
+C'est l'art de cette vieille dame
+américaine de Miami
+qui avait 67 ans
+et qui est morte.
+Et son chihuahua
+a donc hérité
+de 3 millions de dollars
+de fonds de pension.
+Le chihuahua qui s'appelle Chiwa.
+Je l'ai lu aujourd'hui.
+D'accord. Chiwa.
+C'est pas la baie d'encore ?
+C'est un peu
+la baie d'encore de Miami.
+C'est quand même que
+il y a son fils.
+Elle a un fils qui a hérité lui
+de 1 million de dollars.
+C'est à dire 3 fois moins que le clébard.
+C'est une honte.
+Je tiens quand même à relater une anecdote.
+Il fut un temps
+quand j'allais manger chez ma maman,
+le chat
+mangeait du poulet
+et moi je n'avais droit qu'aux jambons.
+Et je n'aime pas les jambons.
+C'est pas une blague.
+Le chat me matait en faisant le genre
+du genre, moi j'ai du poulet.
+C'est un peu la même chose.
+La vie merveilleuse de Lord Tamper.
+J'ai une question d'ailleurs pour toi
+Lord Tamper, spécialiste de ce genre de question.
+Il faut savoir aussi
+qu'elle a légué
+son fonds de pension à sa chienne
+et elle a aussi confié
+27 millions de dollars
+au personnel de sa demeure
+de Miami
+pour qu'il prenne soin du petit animal
+à mort.
+Sachant qu'il va bientôt crever,
+ce qui va devenir
+des 26 millions de dollars qui vont rester.
+Tu veux mon avis ?
+Les employés vont le changer.
+Ils vont trouver un qui ressemble et ils vont les changer comme ça.
+Ce chien à 75 ans,
+il est en pleine forme, on s'en occupe bien, c'est pas ça.
+Au début c'était un chihuahua,
+maintenant c'est un labrador.
+Il a 4 ans ou 5 ans le clébard.
+Il va finir comme la gueulon alcoolique
+et drogué.
+Elle a tout prévu,
+cette vieille dame.
+Elle a prévu notamment
+des désirs de vengeance
+et elle a employé
+deux gardes du corps pour son chihuahua.
+Pour protéger le chihuahua
+de la moindre attaque.
+Pour protéger le chihuahua.
+Et donc le fils
+est mis à la manipulation.
+J'ai à mettre la photo pour ceux qui ont la chance
+d'être en live actuellement.
+Il a un beau chapeau et une belle petite veste bleue.
+Exactement.
+Bon allez, what's up suivant.
+Reviens à la maison Raymond.
+Et là,
+on parle d'une vieille dame encore,
+mais de 91 ans cette fois-ci.
+Elle n'est pas morte, je te rassure.
+Est-ce qu'elle fait du pole dance ?
+Non, heureusement, tu me rassures, c'est pas encore la rubrique insertion.
+Non, mais on commence de la rubrique nécrologie un petit peu.
+Ah d'accord.
+Ouais chouette.
+Et oui, l'histoire se passe
+qu'en Pennsylvanie,
+Quacos, Tupus...
+Quacos...
+Il a oublié de mettre des espaces.
+Ok merci.
+Débrancher cet Ipad.
+Ça perturbe tout le monde la range de cette merde.
+Où en étais-je ?
+Je repars, Pennsylvanie, 91 ans,
+la vieille dame qui s'appelle, je ne sais plus comment,
+mais ce n'est pas grave.
+Qu'est-ce qu'elle a de spécial ?
+Elle est morte.
+Non, pas elle.
+Exactement.
+Dans les Wazoff, il y a toujours quelque chose
+ou quelqu'un de mort.
+Son époux est mort en 2009.
+C'est une histoire triste, mais...
+Jean Chial.
+Sa soeur aussi est morte.
+Un an plus tôt, ils avaient été momifiés.
+Et qu'est-ce qu'elle a fait la vieille dame ?
+Eh bien, elle a tout simplement
+exhumé les corps pour la récupérer chez elle
+et vivre avec son mari.
+Et sa soeur à la maison.
+Et sa soeur à la maison.
+Depuis plus d'un an.
+Remarque, je ne savais qu'à son truc.
+Écoute, on aime vie.
+Mais tu sais que c'est en Belgique
+où j'avais vu...
+Comment ça s'appelait déjà ?
+Strip Deez, vous connaissiez ?
+Oui, avec les chiens empayés.
+C'était assez flippant.
+Elle a fait la même chose avec son mari
+et sa soeur.
+C'est autorisé ?
+Non, je ne crois pas.
+Qui est-ce qui a empayé sa soeur pour elle ?
+C'est autorisé.
+Elle n'a pas le droit d'empayer.
+Ils n'ont pas été empayés.
+C'est un peu le même principe.
+C'est elle qui a exhumé les corps.
+Qu'est-ce que tu fais ?
+Tu ramènes le calard et tu fais
+« J'aurais besoin que tu me momifies ça, merci. »
+« Bonjour madame, ce serait pour empayer votre chien.
+Non, c'est pour mon mari. »
+Elle aurait pu crever sans que ça se sache.
+Elle s'est autodénoncée.
+Je n'ai pas réussi à savoir pourquoi.
+C'est un truc que je ne comprends pas.
+Ce que tu m'expliques...
+Tu as quelqu'un qui a fait
+« momifier » ses proches parents.
+On va appeler ça comme ça.
+Elle ne l'a pas fait elle-même.
+Elle l'a fait faire à quelqu'un.
+Mais ce n'était pas autorisé.
+« Momifier », si, sûrement.
+Dès qu'elle a exhumé les corps,
+elle l'a ramené chez toi.
+Elle les a installés dans une chambre
+et elle continuait à vivre comme s'ils étaient encore vivants.
+Je ne comprends pas.
+En gros, tu vas chez quelqu'un et tu dis
+« Non, je vais les reprendre, je vais les enterrer moi-même. »
+C'est un truc que je ne capte pas dans cette histoire.
+Comment légalement c'est possible de faire ça ?
+Il est pas reparti avec les corps.
+Il faut bien qu'elle les ait pris un moment ou un autre.
+Elle a été les déterré.
+Attends, attends.
+A 91 ans avec sa pelle.
+Encore deux mètres.
+Attention sur le pied de lui.
+Je ne te dis pas qu'elle a déterré elle-même.
+Elle a sûrement payé des gens.
+C'est encore pire.
+Oui, il faut les déterrer de corps.
+Avec des pognons, tu trouves toujours des gens.
+Ton histoire a quand même quelques trous.
+Je demandais à ce qu'il soit illucidé.
+Il y avait une photo pour cette merveille ?
+C'était pas obligatoire pour ça.
+Je préférais ne pas la mettre.
+Elle s'est retrouvée avec des corps.
+D'accord, j'étais elle.
+L'ordre de ton père n'en peut déjà plus.
+L'ordre de ton père, on passe le petit croc au-dessus.
+Avec la rubrique animaliaire.
+Vivant ou mort.
+Très vivant et très heureux.
+Qui s'appelle Oh la vache.
+Et qui est une information
+qui m'a été tweetée
+par At Aurel Métivier
+A-U-R-E-L-M-E-T-H-I-E-V-I-E-R.
+Merci à toi Aurel
+pour cette histoire fantastique
+qui ne m'a pas échappé
+et ne vous échappera pas pardon
+m'a rappelé une autre histoire
+que je vais raconter il y a quelques mois
+et quelques bisons.
+Cette fameuse histoire de ce jeune homme
+qui a été pris la main dans le sac
+en train de forniquer avec une chèvre
+et qui a été obligé
+de se marier avec cet animal.
+Tu ne nous as pas dit la suite
+qu'ils ont eu des enfants alors ?
+Alors cette fois-ci
+l'histoire est un petit peu centrale.
+Elle est arrivé à un jeune homme
+de 19 ans, un Indonésien
+et qui était donc
+forcé de se marier
+avec une vache
+qui l'avait violé quelque temps auparavant.
+Est-ce que tu en as parlé
+lors du wasp
+où ils ont été complètement défoncés
+avec un vieux qui a été
+en train de violer un poulet
+et qui s'est suicidé après ?
+C'était pendant le podcast de vendredi ?
+Oui, c'est moi qui ai lu cette histoire.
+Tu vois ? Ah d'accord.
+J'ai des souvenirs qui arrivent comme ça.
+Tu as des trous aussi.
+Manu va pisser
+ou va violer une vache ? Je ne sais pas.
+Toujours est-il que
+l'histoire est un petit peu présemblable.
+Il s'est fait gauler la main
+enfin le truc dans le...
+Dans le cul.
+Je ne sais pas si il y a une loi
+en Indonésie.
+C'était en Afghanistan l'autre.
+Il me semble qu'en Indonésie, a priori,
+tu es obligé d'épouser un animal.
+En tout cas tu peux être forcé
+à épouser un animal
+si tu es pris en plein dépucelage
+de la vache.
+Heureusement que ça n'existe pas dans Lyon.
+J'aurais aimé assister
+à la cérémonie
+parce que j'imagine quand même la bait
+d'un an acceptez-vous de prendre ce poulet pour époux.
+Sur l'article en anglais
+que j'ai rapidement déchiffré
+le jeune homme
+expliquait quand même
+que la vache l'avait un petit peu aguichée
+d'un regard très coquin.
+La pute.
+Merci à toi Aurél Metivier
+pour ce what-up.
+J'ai mis des barésis.
+Alors je continue par celui-là ?
+Tout te sent pas obligé.
+Je vais le faire quand même.
+Gris en bocal.
+Ah ça c'est l'heure de la photo.
+Vas-y.
+J'ai cru voir une photo qui s'appelait à peu près comme ça.
+Gris en bocal ?
+C'est une Thaïlandaise
+qui vient d'être arrêtée
+lors de ton père.
+Alors qu'elle tentait
+de vendre des bocaux
+contenant
+des fœtus.
+Ça se passe à Bangkok.
+Dans un bocal qu'est-ce que tu peux mettre
+à part de la poire
+ou la fœtus ?
+Selon le Bangkok Post
+tu peux mettre les deux remarques.
+Une poire avec la fœtus.
+C'est marrant les photos refusent de se charger.
+On va peut-être pas la mettre
+si tu veux encore avoir une chaîne.
+Selon le Bangkok Post
+cette ancienne infirmière
+était en possession de 14 fœtus.
+Ceux-ci étaient issus
+d'avortements illégaux.
+Mais voulus.
+Conservés dans du formol
+ils étaient destinés à être vendus
+comme porte-bonheur.
+Mais c'est vrai que c'est important ?
+Exactement. Et a priori elle en avait un petit peu plus avant.
+Elle a réussi à en vendre 2-3
+avant de se faire rigoler.
+Donc cette histoire
+a été révélée par un homme
+affamé qui se serait introduit
+dans la maison d'un proche de l'infirmière
+dans laquelle elle stockait les
+bocos. Donc tu vois déjà elle stockait
+les bocos de fœtus
+dans la chambre d'un pote.
+Donc c'est censé porter bonheur ?
+Et c'est censé porter bonheur.
+D'accord de pendu je savais.
+Peut-être à Bangkok.
+Merci mademoiselle infirmière.
+Quand les phallus auront des dents.
+Et ça c'est une nouvelle exceptionnelle
+notamment pour vous mesdames.
+D'accord.
+Non c'est vrai.
+En Afrique du Sud il n'y a pas
+que la coupe du monde ratée
+des bleus. Il y a aussi de grands
+scientifiques que prof.
+Fiontus doit sûrement connaître.
+Notamment
+ce scientifique qui s'appelle Sonnet
+Ellers qui compte distribuer
+gratuitement
+quelques 30 000 préservatives
+féminin avec des dents
+qui agrippent.
+Ça s'appelle le Repax
+et c'est censé donc lutter contre les
+agressions sexuelles. Là tu as des photos
+que tu peux lancer. Je viens de les mettre
+écoute et d'ailleurs c'est fantastique.
+Et c'est un objet assez fantastique, vous pouvez voir les photos.
+En quoi ça consiste ?
+La charmante dame
+qui présente l'engin, c'est celle
+qui l'a créée ? Exactement. Parce que à mon avis
+elle ne devait pas en avoir besoin. Pourquoi il y a toujours un toutou ?
+Oui parce que il y a la photo
+du folie sans plastique et juste après
+il y a la photo du chien.
+La mise en relation sans l'enlever.
+Oui excusez-moi.
+Alors je vous explique un peu comment
+ça se prend, vous pouvez le voir mais pour ceux qui n'ont pas la vidéo
+je vais vous décrire l'objet
+c'est une sorte de capote féminine
+ça se met où je pense ?
+Elle se l'introduise
+comme un tampon.
+Non c'est normal.
+Alors ton père excuse-nous.
+Excuse-nous leur ton père.
+Elle se l'introduise donc comme un tampon
+dans l'orifice
+vaginal.
+Et à l'intérieur vous pouvez
+trouver des crochets similaires
+à des dents en sens inverse
+du dressage de poils.
+Ce qui fait que quand un
+monsieur nourrit de mauvaises intentions
+vers la jeune femme, tente
+de pénétrer l'antre interdite
+et bien au moment
+la première fois il ressort son objet
+il se trouve agrippé à l'impire
+Anna par cette capote à dents.
+C'est un peu idiot parce que ça empêche
+la dame est coincée avec le monsieur.
+Non du tout, les dents sont pas à l'extérieur
+les dents sont en intérieur.
+C'est nul quand le monsieur rentre avec.
+J'ai bien compris.
+Ça signifie juste que cette dame si tu veux
+elle marche dans la rue à constamment un gote dans la chatte.
+C'est à peu près ça par contre oui.
+Ce truc là c'est pas tout à fait nouveau
+parce qu'ils en avaient déjà pari il y a un petit moment.
+Il y avait un mec qui disait
+qu'il y a un gars qui travaillait pour
+des associations de défense des victimes
+qui disait que c'était un peu con parce que les gonzesses
+risquaient de s'en prendre plein la gueule si tu veux
+et de se faire massacrer.
+Je ne suis pas sûr parce que je vais citer
+notre scientifique.
+Il y a quelqu'un qui a testé. Il y a eu des volontaires pour ça.
+Qui ouvre les guillemets et qui dit ceci.
+C'est douloureux.
+L'agresseur ne peut ni uriner ni marcher
+tant qu'il a le préservatif
+sur le pénis.
+Si le violeur essaye de le retirer
+le préservatif va se resserrer
+encore plus.
+Ce que tu veux dire c'est que le préservatif
+a gripple.
+Et plus tu essayes de le retirer
+plus les dents s'enfoncent et plus
+ça se resserre.
+Je ne suis pas sûr qu'elles s'en prennent plein la gueule
+quand même. Je pense que le mec va essayer
+de se retirer ça au plus vite.
+Il y a ces 5 potes qui vont la tabasser.
+Salope.
+T'as niqué la bute à mon pote.
+Sur la chatroom on demande
+un quoi qu'on teste.
+Peut-être que le capitaine
+ne fera, je ne sais rien.
+Une fois
+le piège refermé
+seul un docteur
+pourra enlever le préservatif
+l'assistante médicale nécessaire
+permettra en outre
+d'arrêter le criminel sans
+difficulté.
+Avec une menode pour bite.
+C'est pratique se balader avec un putain de capote
+dans la chatte toute la journée.
+Elle précise aussi
+que c'est pas gentil pour nous les hommes.
+Si le méchant violeur avait lui-même
+mis une capote avant.
+Je pense que ça transperce ta capote.
+T'as vu la gueule des dents ?
+C'est les dents de la mer.
+Si il n'y a qu'aujourd'hui, en Afrique du Sud,
+il faut prévoir des capotes en amiante.
+Exactement.
+Il faut peut-être mettre un animal d'abord
+comme s'il se fait piéger.
+Ça devient infect.
+Tu mets une souris.
+Si elle ressort, c'est bon.
+C'est comme les canarides
+dans les mines.
+Tu peux mettre une patte de chat peut-être pour tester.
+J'arrête la suite alors.
+On continue.
+Une tête de serpent aussi pour tester.
+Ce qui m'a un peu plus interpellé,
+c'est que notre scientifique bien aimé.
+Vas-y mec.
+Tu n'es pas slow-pouillé.
+Tu mets un cobaye.
+On va encore se faire attaquer par les associations.
+Ça marche pour un orifice,
+mais il faut aussi protéger le deuxième.
+C'est ce que j'allais dire.
+Il faut qu'elle en achète au moins par deux.
+C'est compliqué.
+Il faut en mettre partout.
+Un piège à loup dans le cul et c'est bon.
+Là où j'ai un peu plus de réserve
+quant à notre scientifique,
+c'est qu'elle précise ceci.
+Elle serait que les femmes le portent
+lorsqu'elles ont accepté une blind date.
+Pour elle, dès que tu fais une blind date,
+tu vas te faire violer.
+Bonjour la confiance.
+Ou quand elle traverse une zone
+où elle se sent en danger.
+Imagine la fille,
+elle est là et elle se dit
+je ne connais pas encore ce mec, j'ai un risque, etc.
+Au cours de la soirée, elle a un peu arrosé
+et elle se dit il est sympathique, il est charmant.
+Je l'ai maisé avec lui tout de suite
+et elle a oublié qu'elle avait foutu ses dents.
+Excuse-moi chérie,
+j'ai oublié d'enlever mon dentier.
+Vu la gueule de la gonzesse,
+ça ne m'étonne pas qu'elle invente un truc pareil.
+Ça me fait penser à une vieille chérie.
+Tout de suite.
+C'est vrai que ce n'est pas gentil de ma part.
+C'est parce qu'elle fait partie de la scientologie.
+Je ne suis pas sûr que ce soit l'idée du siècle.
+Sérieusement, j'ai comme un doute.
+Je trouve que c'est une très bonne idée.
+C'est une idée révolutionnaire.
+Imagine s'il y a un alien
+qui tente des expériences
+et il se fait niquer une tentacule.
+L'alien va être grave méchant.
+Il ne va pas aimer.
+La rubrique spéciale ?
+On y arrive.
+L'insertion d'un corps étranger ?
+What's up ?
+Insertion d'un corps étranger.
+Grâce à un ami Twittos,
+on en a deux cette semaine.
+Merci camarade.
+Le premier,
+c'est grâce à un Twittos
+qui a trouvé un nom exceptionnel
+qui s'appelle
+What's up ?
+W-H-A-T-Z-U-F
+Tu fais des émules.
+J'ai une pensée qui me traverse
+immédiatement à l'esprit.
+Est-ce qu'il n'aurait pas prévu
+avec cette capote protection
+de vendre avec un petit panneau
+qui s'accrocherait au-dessus
+avec marqué
+et qui n'habite ?
+Ou encore vagin méchant.
+Toi aussi,
+déposes ça à l'impi.
+Pardonne-moi.
+Tu as raison.
+Notre ami What's up,
+qu'est-ce qu'il nous a trouvé ?
+Pour la première rubrique insertion,
+quelque chose de très léger, très fun
+et très, si j'allais le dire,
+c'est pour les mélomans.
+C'est une vidéo.
+Vous pouvez aller sur le site
+abruti.com, que vous connaissez sûrement tous,
+et vous vous tapez dans la barre
+de recherche POMPE A PAIS.
+Tout simplement.
+Et tu verras un jeune homme
+qui a donc une belle
+pompe à vélo, mais une grosse pompe à vélo.
+Il n'y a pas d'abruti.com.
+Je veux dire, il n'y a rien sur ton site.
+Je tape POMPE A PAIS.
+POMPE A PAIS.
+Tu tomberas sur cette vidéo, donc je l'explique quand même,
+de ce jeune homme qui s'introduit
+une pompe à vélo.
+Non, rien, vas-y.
+Je pense que tu devrais lâcher un peu ton iPad
+pour venir un peu avec nous à nouveau.
+C'est bon, je l'ai lâché, je ne le vois plus.
+Avec un S, abruti.com ?
+Il me semble qu'il y a un S.
+Parce qu'il n'y a rien sur abruti.com.
+Alors fais sans S, essaye.
+Tu as une vieille bannière bleue en haut.
+C'est avec un S.
+Tu peux cliquer, il y a un mec
+qui vient de mettre le lien.
+Merci Ender
+de nous avoir donné le lien.
+Tu vas voir ce jeune homme
+avec pantalon baissé à quatre pattes
+s'introduire. Il y a quand même 14 000 personnes
+qui ont vu l'orifice de cette pompe à vélo.
+Il va pomper plusieurs fois
+son arrière-train et son rectum.
+Et juste après, il va déboucher
+son orifice
+et il va se pencher
+en arrière plutôt
+pour nous jouer une mélodie.
+Il fallait le son, c'est pour ça.
+Il faut le son pour que ça soit marrant.
+Est-ce que tu es le grand artiste ?
+C'était la première insertion.
+Elle était soft, elle était sympa.
+Et la deuxième insertion
+qui, bien sûr, en cette période de football
+il y a quand même 14 211 personnes
+qui ont vu la vidéo de la pompe à vélo.
+C'est pas beaucoup.
+T'as des millions de gens qui ont vu d'autres trucs.
+Pour ma part, je trouve ça déjà beaucoup.
+N'importe quel lolcat
+à la con à 2 millions de vues aujourd'hui.
+C'est pas beaucoup.
+La deuxième, on reste dans la même catégorie,
+la catégorie association d'un corps étranger
+et catégorie melomane.
+Et il faut savoir que
+en Afrique du Sud, un homme
+s'est fait...
+a fait son entrée dans une clinique
+de Johannesburg, bien sûr,
+en Afrique du Sud avec un vivu de zélla
+dans le derrière.
+Et si ?
+Est-ce que, alors, ton père, tu peux nous rappeler
+la longueur du vivu de zélla ?
+Un mètre.
+Mais c'est en forme de corne.
+La raison officielle,
+et je la cite, l'homme s'est fait percuter
+par un groupe de supporters
+uruguayens, dans la côte
+U, qui a suivi le match
+Afrique du Sud-Uruguay du 16 juin
+dernier. L'Afrique du Sud
+a perdu ce match 3-0
+et en plus il s'est retrouvé avec un vivu de zélla
+dans le cul.
+Je vous le guillemets, c'est la première
+fois que j'ai dû faire face
+à un tel cas, a déclaré un médecin
+du centre médical
+de Daktari, où la victime a été
+soignée. L'homme a dû être
+opéré.
+5 points de suture, pardon.
+Un mètre. Soit il y a 2 solutions.
+Soit il pouvait le retirer à lui-même
+auquel il aurait pas eu à l'hôpital. Soit
+ça lui avait transpercé les intestins.
+Je crois qu'avec les 5 points de suture, tu as ta
+réponse.
+Donc voilà, je vais conclure là-dessus.
+Oh oui, c'est une belle conclusion.
+La semaine dernière, Captain Web
+nous parlait de cette jeune femme qui s'est pété le bras
+à cause du vivu de zélla.
+C'était les cordes vocales, la gorge.
+Oui, mais il y en a une...
+Je vais parler de ça moi. Il y en a une autre
+qui s'est pété le bras à cause du vivu de zélla aussi.
+Moi j'ai parlé de celle qui s'était massacré la gorge.
+C'est dangereux.
+Et donc voilà, j'ai la dernière nouvelle
+du vivu de zélla. Le vivu de zélla se porte toujours très bien.
+Et il maintenant, vous savez
+qu'il peut rentrer dans un orifice rectal.
+J'ai vite soufflé dedans à la place du mec
+qui l'a récupéré.
+C'est le médecin.
+Voilà, c'est fini pour l'hôpital de cette semaine.
+On va passer tout de suite à la rubrique de Manox.
+Manox, quelle rubrique as-tu préparé pour nous cette semaine ?
+Pour nous cette semaine, j'ai préparé
+une rubrique spéciale puisque c'est la France
+des chansons avec un invité
+exceptionnel, Jean-Paul Flouze,
+qui sera là, 49 ans, qui sera là
+pour présenter cette nouvelle chaîne
+télévisuelle et pour faire partager
+et peut-être même recruter certains
+talents pour venir participer
+à cette grande aventure.
+Quelle bonne nouvelle. Place à Jean-Paul.
+La France
+des chansons
+Jean-Paul !
+Jean-Paul, nous ne te connaissons pas mais nous avons
+une grande confiance dans tes capacités
+à nous étonner avec des cordes vocales.
+Bien sûr, bonsoir. Je ne suis pas là pour chanter,
+je suis là pour présenter ma nouvelle
+chaîne, n'est-ce pas ?
+Puisque je sais qu'il s'agit ici d'une émission
+jeune et dynamique, plein de vivacité,
+des rubriques exceptionnelles,
+des gens fantastiques,
+et donc Manox m'a dit, viens donc
+présenter un peu ton
+nouveau programme, voir un peu
+si les jeunes du
+21ème siècle seront
+prêts à participer
+à cette aventure.
+Quelle est-elle, cette aventure ?
+Alors déjà, je me présente,
+pour les gens, qui je suis,
+où je viens, n'est-ce pas ?
+Et où vas-tu ?
+Je m'appelle Jean-Paul Flouze, j'ai 49 ans,
+j'ai un peu de bouteilles derrière moi quand même.
+Bouteilles de quoi, whisky ?
+Entre autres, vodka, whisky, anisette,
+tout le bazar.
+Bon, de profession, je suis
+producteur, je suis PDG,
+commercial, dans l'immobilier,
+j'ai beaucoup travaillé avec les banques.
+Mais vous travaillez dans le milieu du spectacle,
+j'ai connu quelqu'un comme vous.
+J'imagine.
+Vous travaillez dans le casting ?
+J'ai fait effectivement
+beaucoup de casting,
+dans l'immobilier, humain,
+insectoïde, j'en passais des meilleurs.
+C'est un casting du Nijambiste
+qui m'a valu quelques années à fleurir.
+Je suis aussi ancien maire de Flavlon,
+ce qui m'a valu
+d'ailleurs aussi quelques années à fleurir.
+Je suis spécialisé dans l'import-export,
+le nucléaire matériel,
+le gadget USB,
+gadget tout court.
+Et un Nijambiste, entre autres.
+J'en passais des meilleurs.
+J'ai été mécanicien
+avant l'heure de la saucisse,
+qui est une grande profession.
+J'ai aussi une formation
+à fleurir, spécialisation
+dans le tournevis,
+qui m'a permis de trouver du travail
+rapidement dans les quartiers chauds.
+Vous voyez ce que je veux dire.
+Alors mes références
+sont assez connues,
+puisque j'ai travaillé avec Monsieur Tapie,
+Nasta, Monsieur Clulus,
+Madame Gilbert, Monsieur Madoff,
+un grand ami.
+Malheureusement envoyé en prison pour des raisons
+seulement...
+Il était innocent, je l'ai été.
+Il ressortira d'ici 650 ans,
+c'est bon.
+Avec une bonne remise de peine d'ici 90 ans,
+il est sorti.
+Je lui ai envoyé des petites cuillères, il devrait sortir avant.
+Je travaille notamment
+avec Monsieur Maous,
+M. Maous.
+Je travaillais chez des grands groupes
+qui ont su utiliser mon talon à merveille,
+tels que Elf, Carrefour...
+Et BP aussi.
+Oui, aussi bien sûr.
+Pour la réparation ?
+Je travaillais au Paris Fried Chicken aussi,
+c'était un peu plus difficile.
+C'était un métier un peu plus la caisse.
+Bref, des trucs.
+Alors les différents pays que j'ai,
+parce que j'ai quand même un peu de bouteilles,
+j'ai voyagé, j'ai travaillé dans des pays
+très intéressants où il y a beaucoup de travail,
+comme le Soudan,
+le Panama,
+le Kosovo, l'Irak, la Syrie,
+la Colombie,
+l'Afghanistan, le Rwanda,
+le Triomphe des Bermudes et aussi la France bien sûr.
+J'ai travaillé aussi aux Etats-Unis, en South Central,
+Los Angeles.
+Vous avez travaillé dans le Lyon aussi ?
+Oui, dans le Plomb,
+dans la Miante, dans le chauffage au sol.
+C'était moi qui...
+un des grands investisseurs du chauffage au sol,
+n'est-ce pas ?
+Oui, je m'appelle Bob.
+Donc là je crée tellement ma nouvelle chaîne,
+msus.
+Ça a l'air prometteur comme chaîne.
+Quel est le principe de msus ?
+C'est très simple.
+La chaîne est plutôt dédiée au divertissement,
+comme vous avez le deviné.
+Il y aura aussi des journaux télévisés.
+Attention, exclusivement sur le fait d'hiver,
+uniquement sur le fait d'hiver,
+quelques publicités.
+Jeune fougue, DVD de cul, bagnole,
+je ne sais pas si c'est de la meilleure.
+Oui, parce que les jeunes aujourd'hui, c'est ce qu'ils veulent voir.
+Je ne suis pas non,
+attention, rarité, tout le bazar.
+Allons à l'essentiel,
+amusons-nous, profitons de la vie,
+tant qu'on est jeune.
+Les animateurs, ce sont des sosies d'animateurs.
+Comme ça, tout le monde a sa référence,
+et tout le monde s'y retrouve, c'est très bien.
+On peut avoir des exemples de sosies d'animateurs ?
+Oh, j'en pensais,
+Julia Chanel,
+Patrick Boursov,
+Patrick Ardisson,
+M. Ketala.
+M. Ketala présente une émission chez vous ?
+Oui, il va présenter une petite émission,
+très tard la nuit,
+pour les aveugles en particulier,
+pour l'émission spéciale Cotorep pour les handicapés.
+Et suivant toutes les autres
+émissions au programme de la télé,
+ce sera de la télé-réalité,
+et c'est là où je vais intervenir, où je vais vous poser quelques questions
+pour vous dire ce que vous pensez un peu de mes nouveaux concepts,
+qui j'espère seront novateurs,
+et seront faire bouger un peu la jeunesse d'aujourd'hui.
+Alors, quand même, je serais impressionné
+que je ne suis pas tout seul sur le coup, si les gens veulent rajouter de l'argent,
+ils vont être aussi actionnaires
+avec ces certaines personnes,
+Google, les petits détectives,
+les Cybstronix,
+Cola Cola,
+le gouvernement,
+les capotes,
+ça dure,
+les cornets de bif USA,
+le meilleur des mondes,
+Greenbull, Bavaria, Barnecorporation,
+et bien sûr, les pièces jaunes.
+Parce que bon, il ne faut pas oublier que les gens,
+il y en a qui sont malheureux et qu'il faut que les aient.
+Et moi, je suis là pour ça aussi,
+attention, on n'est pas des enculés ici,
+je n'essaie pas de voler de l'argent à qui que ce soit,
+j'essaie d'amuser les gens un peu.
+On me dit que David Douillet venait récupérer les pièces jaunes ?
+Ah oui, David Douillet, j'ai travaillé avec lui
+depuis de nombreuses années, il travaille là,
+mais il connaît les affaires ce monsieur,
+très belle piscine qu'on a achetée ensemble,
+très belle maison qu'il m'a achetée aussi d'ailleurs,
+avant, bon, moi,
+c'est le joueur à fleurier, enfin bref.
+Donc, les concepts ?
+Alors, les concepts, le premier,
+je vais revenir au classico traditionnel,
+je ne m'attends pas à n'importe comment,
+le but du joueur est de faire tourner le manet
+jusqu'à 200 km heure.
+Et là, c'est ma vie le concept,
+et là, la seule fille qui reste dessus,
+c'est la bonne, quoi.
+Non, non, c'est-à-dire que le dernier qui a gagné,
+c'est le dernier qui a gerbé, voilà.
+Donc, ils sont là avec une petite ceinture de sécurité
+au cas où, on ne sait jamais, et ça tourne, ça tourne,
+et attention, deuxième, troisième relancement,
+et tout, etc.
+Voilà, bon, des cadeaux encryptionnels,
+moi, je compose des cadeaux, des voyages en Haïti,
+en Afrique du Sud, en Bosnie, en Kosovo,
+voilà, avec piscine, tout le bazar,
+vous êtes contents.
+Deuxième concept, la maison qui bouge,
+alors, ça, c'est vous, Captain Web,
+qui m'avez évoqué ça.
+Ah oui, c'était un grand concept, effectivement.
+Vous n'avez pas le signé papier, désolé, Captain Web,
+mais par contre, vous aurez l'occasion,
+effectivement, de pouvoir voter gratuitement.
+Alors, c'est simple, une maison,
+cinq aveugles.
+Tous les matins,
+les meubles changent de place.
+Les meubles assez aiguisés,
+un peu forniques à Ikea, vous voyez.
+Mon idée, surtout, c'est d'avoir des meubles
+si possible, le plus pointus possible pour...
+Voilà, c'est ça, j'ai rempli le concept
+de l'hôpital, j'apprécie beaucoup.
+Et surtout, ne pas oublier, ça, c'était très, très important
+dans le concept que j'avais établi,
+c'était, dans les tiroirs de la cuisine,
+de remplacer toutes les cuillères par des couteaux.
+Oui, j'ai aussi rajouté un peu
+des petites tapettes à souris, ça va pas être sympathique,
+notamment le matin.
+Et aussi, pensez bien à l'évier
+de mettre un broyeur,
+mais dans la salle de bain, surtout.
+Oui, c'est très bonne idée,
+je le garderai ça en tête aussi, utiliser les tronçonneuses
+sur les côtés, ça va être sympa.
+Alors, bon, le dernier qui a survécu,
+a gagné, n'est-ce pas ?
+Il a gagné une opération, plus un voyage en Malaisie.
+Donc,
+un en deux, c'est pas mal.
+L'opération se fait là-bas, au cours du voyage,
+nous avons. Exactement, je veux dire, autant gagner du temps,
+pour tout le monde, c'est mieux, quoi.
+Troisième concept d'émission,
+alors celui-là, je l'apprécie particulièrement, c'est ce que j'appelle
+le flambé royal.
+Alors, c'est simple, pendant une semaine,
+cinq personnes vivent dans un ortoire, n'est-ce pas ?
+Avec un chiotte, pas six, cinq lits,
+superposés,
+restent enfermés ensemble pour...
+Ils restent enfermés ensemble pour une semaine, n'est-ce pas ?
+Ils doivent faire un guérgité par jour,
+72 flambés et 8 lits de lait.
+Et voilà, c'est le dernier
+qui a gagné.
+Le dernier a resté
+ou est vivant ?
+Le dernier qui reste dans la maison, c'est-à-dire le dernier qui ne part pas à l'hôpital.
+Voilà.
+Je paye les frais de l'hospitalisation, attention, M.SUS,
+je paye les frais de l'hospitalisation.
+Alors,
+bon quatrième, n'est-ce pas, telle est la réalité,
+je vais vous montrer des révolutions, ce serait chaque réponse,
+je trouve que ce nom est pas mal, puisque c'est simple,
+c'est ce que j'appelle le quiz infernal avec
+10 participants, à chaque fausse réponse,
+eh bien, un bon coup de jus.
+Et on augmente au fur et à mesure,
+le niveau des watts, le niveau des volts,
+voilà, je connais bien parce que j'étais...
+j'ai travaillé beaucoup au Texas à une époque.
+Donc, je sais maîtriser un peu ce bazar.
+Voilà.
+Donc encore une fois, c'est le dernier qui a gagné.
+Alors ensuite, j'ai inventé un concept d'intéressant,
+je pense que ici vous serez d'accord, c'est qui veut perdre des millions ?
+Voilà.
+Alors bon, je me suis inspiré largement de
+Patrick Doricard, je ne sais trop qui, pour qui
+veut gagner des millions. Donc,
+eh bien, c'est simple,
+à chaque palier, soit il gagne la somme
+et c'est doublé, soit il perd
+et il doit payer la chaîne, voilà, c'est la somme.
+Par exemple, il arrive à 2500, eh bien,
+vous devez payer 2500 euros et à la fin,
+c'est pas mal. Bah oui, c'était un très bon concept quoi.
+Et si...
+Vous êtes en partenariat, pardon,
+avec des organismes de crédit pour ce...
+Bien sûr, par Doricard,
+il n'y avait pas de variabilité, tout le bazar.
+Est-ce que vous avez repris mon idée
+aussi de la tour infernale ?
+Ah non, non, je l'écoute avec attention,
+cher Captain Web. Alors, ça c'est un concept
+que j'ai déposé quand même à l'INPI, c'est un projet
+de télé-réalité assez sérieux.
+Alors évidemment, ça ne concerne que des handicapés moteurs.
+Très intéressant.
+Voilà, l'idée c'est d'avoir les toilettes en haut, la cuisine en bas,
+évidemment, pas d'ascenseur, uniquement des escaliers,
+si possible avec des marches assez abruptes.
+Et bah voilà, il faut tenir une semaine,
+donc pour manger, c'est en bas, pour aller aux toilettes, c'est en haut.
+C'est pas mal,
+c'est vachement bien.
+J'avais une idée aussi, mais je ne sais pas si je vais le faire dans une de mes émissions,
+c'était avec des fauteuils roulants,
+n'est-ce pas ? Toujours les yeux bandés,
+dans les collines, je trouvais que c'était une bonne idée.
+Voilà.
+Avec des buissons pas mortilles, ça peut être sympa.
+Bon, pour continuer,
+la prochaine émission,
+ça va chauffer.
+Attention, alors là, parcours avec
+agré, mûr, par cours du combattant,
+donc compétition entre deux individus,
+donc c'est simple, un peu comme
+les jeux japonais que vous connaissez,
+genre viking et tout, voilà, faut sauter des trucs, des machins,
+sauf qu'à une différence près, il y a quelqu'un derrière,
+avec un lance-flamme.
+Voilà, donc question de motiver les joueurs
+jusqu'à ce qu'ils arrivent.
+Et celui qui a le moins de brûlures a gagné,
+simplement.
+Ensuite, un truc un peu plus
+artistique, parce que je sais que les jeunes,
+ils aiment bien la musique, ils aiment bien les trucs artistiques,
+j'ai appelé ça la nouvelle Rosta, gros.
+Voilà, donc, sept participants,
+artistes, chanteurs, amateurs,
+et bien, le but,
+et c'est au bout d'un mois, ils vont chanter
+dans les lignes de métro
+et les lignes de RR les plus hardcore,
+et celui
+qui a gagné le plus d'argent,
+eh oui, il a gagné un séjour
+en Corée du Nord, donc j'espère
+que ça va marcher, c'est un de mes projets préférés.
+C'est pas mal marrant.
+EmSus,
+ça s'écrit comment ?
+Comme ça se prononce,
+on fait dans le simple,
+tu peux faire en l'embraviation,
+les jeunes aiment bien ça, je trouve qu'EmSus
+avec un C, deux C, deux S...
+Alors, le projet que j'avais, c'était Street
+for Life, pendant quatre mois,
+dix participants
+qui partagent un loft en Saint-Saint-Denis,
+et là, leur objectif,
+c'est qu'ils doivent faire le trottoir,
+et celui qui aura le plus de clients
+à la fin du jeu aura gagné.
+Ça a le mérite d'être simple,
+les règles sont pas mal.
+Et c'est pas très éloigné
+des trucs comme Star Academy,
+je veux pas dire que ce sont des images pour pute, mais enfin...
+Tout ceci pour rester dans les classiques
+Rolandin, même principe
+que le célèbre Rolandin,
+mais là, c'est dans une des pires Flavellas de Rio,
+donc beaucoup plus sympa,
+on est dans la Flavella de groupes d'équipes
+auprès des gangs les plus dangereux,
+avec des propres appuis et de nombreux jeux tels que
+esquiver les balles, contourner les gangs
+sans se faire repérer, dresser un pitbull,
+bouffer des rats, chasser des cafards,
+et j'en pense, c'est les meilleurs.
+Et enfin, mon dernier,
+mais mon préféré,
+après vie-ma-vie, j'ai décidé de créer
+vie-ma-vie d'animaux.
+Et oui, un homme ou une femme vont vivre deux semaines
+dans un zoo,
+à la place d'un animaux, dans une cage tirée au sort.
+Et bien en fait, j'aurai voulu que j'aie tiré au sort
+pour vous lors que ton père vous serait dans la cage
+du gorille, pendant deux semaines.
+Je suis un petit peu inquiet pour vous, chers amis, puisque
+dans le principe de vie-ma-vie,
+le gorille va prendre ma place.
+Ah oui, je sais, mais je pense que ça ne lui posera pas beaucoup de problèmes.
+Je ne crois pas qu'il y aille beaucoup de différences pour lui.
+Je pense que c'est une bonne
+chose pour partager avec l'écologie et les animaux,
+n'est-ce pas, de remplacer les gens dans les cages
+par les animaux, et voilà.
+Donc voilà, c'est un peu essentiellement
+les différentes émissions de télé-réalité
+que je compte mettre dans mon émise.
+Moi je dis que c'est prometteur.
+Alors ce sera payant, évidemment, j'imagine, comme chaîne.
+C'est du contenu ajouté quand même.
+Ce sera payant, ce sera pas cher. On accepte les donations,
+on accepte les décarrestants,
+on accepte les félations.
+Ce n'est pas un problème.
+Il faut donner vos chiens, vos
+animaux, on s'en occupe, on sait tout.
+On est les spécialistes, n'est-ce pas, de réutilisation
+de tout. Voilà.
+Donc j'espère que ça va...
+Alors d'après, le WeDeer, ce ne sera pas
+sur les chaînes collues. Bon, alors
+je me suis dit que je peux peut-être passer ici, par ici,
+par l'apéro de Captain pour pouvoir...
+Pour me voir. Voilà,
+pour me voir et même mettre en application.
+Ah bah tout à fait.
+Est-ce que vous vous acceptez de nous sponsoriser un peu ?
+Ah bah bien sûr, nous on prend tous les sponsors,
+il n'y a pas de problème. Non, non, le contraire.
+Ah oui, non, mais vous pouvez me sponsoriser.
+Sponsorising, je suis impressionné.
+On va rediscuter. J'ai une question
+quand même, donc ça c'est votre projet,
+mais il en est où concrètement ?
+Concrètement, là je suis actuellement en train de débloquer...
+Est-ce que vous êtes des locaux ? Oui, bon là,
+on est en train de débloquer avec le bélier
+un petit peu d'argent de la banque.
+La première porte est dure à ouvrir,
+mais j'espère que bientôt on va atteindre le sous-sol.
+Et
+je dirais dans la semaine à venir, si personne
+ne se fait gauler, on pourrait avoir l'argent en poche.
+C'est pas mal,
+tout ça, ça promet.
+Je meurs d'envie
+littéralement de regarder
+Emsus, la petite chaîne qui grimpe.
+Qui grimpe, qui grimpe et qui monte, et qui monte en flèche.
+Et qui creuse aussi.
+Qui creuse et ça va gicler,
+ça va voler.
+Il y aura des problèmes de cul au moins ?
+Bien entendu.
+Il y aura un peu de publicité, c'est-à-dire
+toutes les minutes des chaînes de publicité.
+Et toutes les heures,
+une petite fellation, un petit capshot,
+un petit double palétration
+pour nos amateurs, pour les gens
+qui apprécient l'érotisme.
+Et la sensualité
+avec du silicone et du plastique.
+Je pense
+qu'on vous réinvitera pour que vous puissiez discuter
+Katsuni pour lui présenter votre projet
+quand elle sera là.
+J'espère bien travailler avec elle, j'ai déjà travaillé
+avec certaines personnes bien plus âgées.
+Mais pourquoi pas taper dans le jeune.
+50 ans, ça ne me dérange pas.
+C'est une bonne nouvelle.
+Ça donne espoir pour la télévision française,
+ça promet.
+Voilà les jeunes, je vous dis bonsoir
+bientôt sur la chaîne MSU.
+Et contrairement au professeur Fiontus,
+vous êtes le bienvenu pour revenir
+et nous présenter vos nouveaux projets d'émission.
+Peut-être votre grille des programmes pour septembre.
+Des projets inédits,
+des nouvelles collaborations
+avec, je l'espère,
+bien entendu,
+des gens qui sortiront bientôt
+à l'air libre.
+Merci, on va récupérer madame.
+Merci d'être venu surtout.
+Un projet,
+ça c'est de la vraie
+création française.
+Je suis heureux de pouvoir soutenir des projets comme ça
+avec de vraies idées.
+Donc MSU, souvenez-vous de ce nom là.
+C'est bien d'avoir des gens qui ont un peu d'ambition je pense.
+Oui non, je pense aussi oui.
+Où l'as-tu trouvé Manox ?
+Toujours pareil quoi.
+Gare du Nord ?
+J'ai envie de te dire que Hortefeu
+a l'intention d'être à Gare du Nord, c'est quand même triste.
+Ça va foutre un plat de thérobrique ?
+C'est vrai que c'est dommage quoi.
+J'espère qu'ils vont la laisser encore un petit peu,
+ça serait dommage de gâcher ce patrimoine culturel.
+Je trouve aussi.
+C'était la fin ?
+Oui, c'était la fin quand même pour un podcast
+qui devait être court, 2h30.
+Ah quand même ?
+C'était un peu ce que j'avais.
+Mais cette fois-ci, je pense que nous n'aurons pas de coupure à faire.
+Et ça c'est une bonne chose.
+On exporte diarite, pas de blanc, rien.
+Bon qu'est-ce qu'on fait ? C'est notre tour de fin comme d'hab ?
+Comme d'hab oui.
+Qui c'est qui commence ?
+Bon petit podcast, moi je me suis bien marré,
+c'était bien rythmé, surtout enfin
+nous avons récupéré notre Manox
+qui nous manquait.
+Oui qui était en vacances depuis 5 mois quand même.
+Bon petit podcast.
+La semaine prochaine tu nous prévois un truc ?
+Il y aura des petites surprises la semaine prochaine,
+mais je les garde en stock au cas où je ne les ferai pas.
+Ah bon ok.
+Comme ça c'est le mérite d'éclair.
+Si j'ai un ou deux sujets en stock que je garde depuis un petit moment.
+On arrive au bout de la saison,
+on a vraiment 39 épisodes les mecs.
+Quand est-ce qu'on s'arrête au fait ?
+À l'origine on avait dit
+ou au 40 ou au 41.
+Et à l'arrivée ?
+À l'arrivée je n'en sais rien parce qu'on n'a toujours pas discuté.
+On en parle entre nous.
+On en parlera après.
+Alors moi j'étais très content aussi de retrouver Manox
+qui nous avait laissé quand même un petit cadeau surprise
+vendredi dernier.
+Avec un appel du 18 juin 2010 exceptionnel.
+Et puis le professeur Fiontus
+qui nous avait laissé un petit message pour dire bonjour.
+Un peu long le message du professeur Fiontus.
+C'est vrai, on a souffert.
+Mais l'appel était sympa.
+Voilà, à la semaine prochaine, à toi Manox.
+Eh bien merci, moi je suis content d'être
+de retour parmi vous.
+C'était fantastique, c'était une très bonne émission.
+Maintenant je sais un peu ce qui me démange.
+Voilà Captain Web.
+Bah écoute, moi j'ai été heureux
+de vous montrer mon iPad parce que
+quand on claque autant de thunes, c'est toujours bien de montrer
+que ça sert à quelque chose.
+Je crois que je vous ai bien montré que ça sert à quelque chose.
+Mais malheureusement il n'y a pas de toilettes ici donc je ne pourrais pas
+montrer son utilisation principale.
+Sinon vite fait, juste avant de clôturer,
+j'ai fait un petit coacomtesse pendant qu'on était là.
+Et figurez-vous que c'est une véritable honte parce qu'il y a des sites
+qui ne marchent pas sur iPad concernant les sites de cul.
+Mais il y en a beaucoup d'autres, j'ai remarqué,
+qui, j'ai l'impression, ne sont pas les mêmes versions
+entre la version HTML et la version mobile.
+La version mobile est payante à 100%.
+Puisque tu as montré la voix, j'ai testé
+RedTube à l'instant et également
+YouPorn, c'est ça ?
+Ouais.
+Genre, on n'y croit pas là.
+La tête, si tout le monde avait vu, personne ne t'aurait croit.
+Et YouPorn.
+Les deux fonctionnent donc grâce à la
+magie du HTML5.
+Et bah écoute, moi je pense que les versions mobiles sont bridées
+et sont pillantes contrairement à
+les autres.
+En grand spécialiste des sites de boules,
+ça mérite un quoi qu'on teste.
+Je vais faire une enquête.
+C'est tout, alors tu conclus ?
+Bah écoute, je conclus.
+Comme d'habitude,
+c'est la fin du podcast numéro 39.
+On vous donne rendez-vous comme d'habitude
+la semaine prochaine sauf
+accident nucléaire,
+attaque terroriste,
+bouteille de poire qui a mal tourné.
+D'ici là, peut-être
+que vous aurez même le numéro 38 en entier,
+mais on n'en est pas sûr. On vous dit bye bye,
+à la prochaine.
